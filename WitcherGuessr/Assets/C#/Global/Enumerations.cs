@@ -1,0 +1,13 @@
+public enum Map
+{
+    Default = -1,
+    AllMaps = 0,
+    WhiteOrchard = 1,
+    VelenNovigrad = 2,
+    SkelligeIsles = 3,
+    KaerMorhen = 4,
+    IsleOfMists = 5,
+    GauntersWorld = 6,
+    Toussaint = 7,
+    ThousandFables = 8
+}
