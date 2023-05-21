@@ -11,3 +11,9 @@ public enum Map
     Toussaint = 7,
     ThousandFables = 8
 }
+
+public enum SceneIndex
+{
+    MainMenu = 0,
+    Game = 1
+}
