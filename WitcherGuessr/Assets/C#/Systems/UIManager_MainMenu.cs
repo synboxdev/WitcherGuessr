@@ -1,6 +1,8 @@
 using System.Collections.Generic;
+using System.Linq;
 using TMPro;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class UIManager_MainMenu : MonoBehaviour
 {
@@ -39,6 +41,12 @@ public class UIManager_MainMenu : MonoBehaviour
             mapSelectionButton.GetComponentInChildren<TextMeshProUGUI>().text = $"{mapSelection.MapName.ToUpper()}";
             mapSelectionButton.AddComponent<MapSelectionEntity>().Index = (int)mapSelection.MapType;
         }
+    }
+
+    public void SwapToGameScene()
+    {
+        GlobalManager.SetMapSelection(MapSelections.FirstOrDefault(x => x.Index == currentMapSelectionIndex));
+        SceneManager.LoadScene((int)SceneIndex.Game);
     }
 
     private void DestroyAllMapSelections()
