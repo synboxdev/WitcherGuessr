@@ -17,3 +17,9 @@ public enum SceneIndex
     MainMenu = 0,
     Game = 1
 }
+
+public enum Side
+{
+    Left = 0,
+    Right = 1
+}
