@@ -759,6 +759,7 @@ GameObject:
   m_Component:
   - component: {fileID: 521599779}
   - component: {fileID: 521599780}
+  - component: {fileID: 521599781}
   m_Layer: 0
   m_Name: Global
   m_TagString: Untagged
@@ -793,6 +794,69 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1ed3feb94246f37468f95de7e5faa746, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &521599781
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 521599778}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b273018fce2e498428778129cde01abb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  MapSelections:
+  - MapType: 0
+    MapName: all maps
+    Index: 0
+    MapPrefab: {fileID: 0}
+    MapGameObject: {fileID: 0}
+  - MapType: 1
+    MapName: white orchard
+    Index: 1
+    MapPrefab: {fileID: 8324258267256398638, guid: 9b3689700a6a36b46836dddef5130172, type: 3}
+    MapGameObject: {fileID: 0}
+  - MapType: 2
+    MapName: velen & novigrad
+    Index: 2
+    MapPrefab: {fileID: 8324258267256398638, guid: 9b3689700a6a36b46836dddef5130172, type: 3}
+    MapGameObject: {fileID: 0}
+  - MapType: 3
+    MapName: skellige isles
+    Index: 3
+    MapPrefab: {fileID: 8324258267256398638, guid: 9b3689700a6a36b46836dddef5130172, type: 3}
+    MapGameObject: {fileID: 0}
+  - MapType: 4
+    MapName: kaer morhen
+    Index: 4
+    MapPrefab: {fileID: 8324258267256398638, guid: 9b3689700a6a36b46836dddef5130172, type: 3}
+    MapGameObject: {fileID: 0}
+  - MapType: 5
+    MapName: isle of mists
+    Index: 5
+    MapPrefab: {fileID: 8324258267256398638, guid: 9b3689700a6a36b46836dddef5130172, type: 3}
+    MapGameObject: {fileID: 0}
+  - MapType: 6
+    MapName: gaunter's world
+    Index: 6
+    MapPrefab: {fileID: 0}
+    MapGameObject: {fileID: 0}
+  - MapType: 7
+    MapName: toussaint
+    Index: 7
+    MapPrefab: {fileID: 0}
+    MapGameObject: {fileID: 0}
+  - MapType: 8
+    MapName: thousand fables
+    Index: 8
+    MapPrefab: {fileID: 0}
+    MapGameObject: {fileID: 0}
+  MapSelectionDefault: {fileID: 6729932700960844645, guid: 32a36622b52168946866e7afe18d737a, type: 3}
+  MapSelectionSelected: {fileID: 855970857115603094, guid: 92f81be34c68b7f44ad15e9ecc885971, type: 3}
+  MapSelectionSelectedAllMaps: {fileID: 684413611511689631, guid: bbd9e42e13a0e104cb34e0deadce8437, type: 3}
+  MapSelectionSelectedBAW: {fileID: 4657800123152585040, guid: a55ca41d3c7ed7a40be8d3e43c7b39b9, type: 3}
+  MapSelectionSelectedHOS: {fileID: 725810033443775889, guid: 490f5b4681d7952499ca95e37dc1eb2a, type: 3}
 --- !u!1 &556506242
 GameObject:
   m_ObjectHideFlags: 0
@@ -838,41 +902,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   PlaySelectionMenu: {fileID: 55264829}
-  MapSelections:
-  - MapType: 0
-    MapName: all maps
-    Index: 0
-  - MapType: 1
-    MapName: white orchard
-    Index: 1
-  - MapType: 2
-    MapName: velen & novigrad
-    Index: 2
-  - MapType: 3
-    MapName: skellige isles
-    Index: 3
-  - MapType: 4
-    MapName: kaer morhen
-    Index: 4
-  - MapType: 5
-    MapName: isle of mists
-    Index: 5
-  - MapType: 6
-    MapName: gaunter's world
-    Index: 6
-  - MapType: 7
-    MapName: toussaint
-    Index: 7
-  - MapType: 8
-    MapName: thousand fables
-    Index: 8
-  currentMapSelectionIndex: 0
   MapSelectionParentObject: {fileID: 269964430}
-  MapSelectionDefault: {fileID: 6729932700960844645, guid: 32a36622b52168946866e7afe18d737a, type: 3}
-  MapSelectionSelected: {fileID: 855970857115603094, guid: 92f81be34c68b7f44ad15e9ecc885971, type: 3}
-  MapSelectionSelectedAllMaps: {fileID: 684413611511689631, guid: bbd9e42e13a0e104cb34e0deadce8437, type: 3}
-  MapSelectionSelectedBAW: {fileID: 4657800123152585040, guid: a55ca41d3c7ed7a40be8d3e43c7b39b9, type: 3}
-  MapSelectionSelectedHOS: {fileID: 725810033443775889, guid: 490f5b4681d7952499ca95e37dc1eb2a, type: 3}
+  currentMapSelectionIndex: 0
 --- !u!1 &861434760
 GameObject:
   m_ObjectHideFlags: 0
