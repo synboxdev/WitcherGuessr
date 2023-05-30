@@ -1,4 +1,3 @@
-using System.Collections.Generic;
 using System.Linq;
 using TMPro;
 using UnityEngine;
@@ -6,20 +5,15 @@ using UnityEngine.SceneManagement;
 
 public class UIManager_MainMenu : MonoBehaviour
 {
+    private MapManager MapManager;
+
     public GameObject PlaySelectionMenu;
-
-    public List<MapSelection> MapSelections;
-    public int currentMapSelectionIndex;
     public GameObject MapSelectionParentObject;
-
-    public GameObject MapSelectionDefault;
-    public GameObject MapSelectionSelected;
-    public GameObject MapSelectionSelectedAllMaps;
-    public GameObject MapSelectionSelectedBAW;
-    public GameObject MapSelectionSelectedHOS;
+    public int currentMapSelectionIndex;
 
     void Awake()
     {
+        MapManager = FindObjectOfType<MapManager>();
         SpawnMapSelectionButtons();
         PlaySelectionMenu.SetActive(false);
     }
@@ -33,10 +27,10 @@ public class UIManager_MainMenu : MonoBehaviour
     {
         DestroyAllMapSelections();
 
-        foreach (var mapSelection in MapSelections)
+        foreach (var mapSelection in MapManager.MapSelections)
         {
             var mapSelectionButton = Instantiate(mapSelection.Index == currentMapSelectionIndex ?
-                                                 GetUIMapSelectionPrefab(mapSelection.MapType) : MapSelectionDefault,
+                                                 MapManager.GetUIMapSelectionPrefab(mapSelection.MapType) : MapManager.MapSelectionDefault,
                                                  MapSelectionParentObject.transform);
             mapSelectionButton.GetComponentInChildren<TextMeshProUGUI>().text = $"{mapSelection.MapName.ToUpper()}";
             mapSelectionButton.AddComponent<MapSelectionEntity>().Index = (int)mapSelection.MapType;
@@ -45,7 +39,7 @@ public class UIManager_MainMenu : MonoBehaviour
 
     public void SwapToGameScene()
     {
-        GlobalManager.SetMapSelection(MapSelections.FirstOrDefault(x => x.Index == currentMapSelectionIndex));
+        GlobalManager.SetMapSelection(MapManager.MapSelections.FirstOrDefault(x => x.Index == currentMapSelectionIndex));
         SceneManager.LoadScene((int)SceneIndex.Game);
     }
 
@@ -55,28 +49,6 @@ public class UIManager_MainMenu : MonoBehaviour
         {
             foreach (Transform mapSelection in MapSelectionParentObject.transform)
                 Destroy(mapSelection.gameObject);
-        }
-    }
-
-    private GameObject GetUIMapSelectionPrefab(Map map)
-    {
-        switch (map)
-        {
-            case Map.AllMaps:
-                return MapSelectionSelectedAllMaps;
-            case Map.VelenNovigrad:
-            case Map.GauntersWorld:
-                return MapSelectionSelectedHOS;
-            case Map.Toussaint:
-            case Map.ThousandFables:
-                return MapSelectionSelectedBAW;
-            case Map.Default:
-            case Map.WhiteOrchard:
-            case Map.SkelligeIsles:
-            case Map.KaerMorhen:
-            case Map.IsleOfMists:
-            default:
-                return MapSelectionSelected;
         }
     }
 }

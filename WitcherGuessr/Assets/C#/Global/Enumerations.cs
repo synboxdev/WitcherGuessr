@@ -1,4 +1,4 @@
-public enum Map
+public enum MapType
 {
     Default = -1,
     AllMaps = 0,

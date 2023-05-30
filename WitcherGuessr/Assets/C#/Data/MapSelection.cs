@@ -1,9 +1,12 @@
 using System;
+using UnityEngine;
 
 [Serializable]
 public class MapSelection
 {
-    public Map MapType;
+    public MapType MapType;
     public string MapName;
     public int Index;
+    public GameObject MapPrefab;
+    public GameObject MapGameObject;
 }
