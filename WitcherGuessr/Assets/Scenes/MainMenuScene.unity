@@ -815,27 +815,27 @@ MonoBehaviour:
   - MapType: 1
     MapName: white orchard
     Index: 1
-    MapPrefab: {fileID: 8324258267256398638, guid: 9b3689700a6a36b46836dddef5130172, type: 3}
+    MapPrefab: {fileID: 0}
     MapGameObject: {fileID: 0}
   - MapType: 2
     MapName: velen & novigrad
     Index: 2
-    MapPrefab: {fileID: 8324258267256398638, guid: 9b3689700a6a36b46836dddef5130172, type: 3}
+    MapPrefab: {fileID: 0}
     MapGameObject: {fileID: 0}
   - MapType: 3
     MapName: skellige isles
     Index: 3
-    MapPrefab: {fileID: 8324258267256398638, guid: 9b3689700a6a36b46836dddef5130172, type: 3}
+    MapPrefab: {fileID: 0}
     MapGameObject: {fileID: 0}
   - MapType: 4
     MapName: kaer morhen
     Index: 4
-    MapPrefab: {fileID: 8324258267256398638, guid: 9b3689700a6a36b46836dddef5130172, type: 3}
+    MapPrefab: {fileID: 0}
     MapGameObject: {fileID: 0}
   - MapType: 5
     MapName: isle of mists
     Index: 5
-    MapPrefab: {fileID: 8324258267256398638, guid: 9b3689700a6a36b46836dddef5130172, type: 3}
+    MapPrefab: {fileID: 0}
     MapGameObject: {fileID: 0}
   - MapType: 6
     MapName: gaunter's world
