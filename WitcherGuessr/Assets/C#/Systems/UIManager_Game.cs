@@ -7,6 +7,7 @@ using UnityEngine.UI;
 
 public class UIManager_Game : MonoBehaviour
 {
+    private MapViewCameraMovement MapViewCameraMovement;
     private MapManager MapManager;
     private MapSelection mapSelection;
 
@@ -28,6 +29,7 @@ public class UIManager_Game : MonoBehaviour
 
     void Awake()
     {
+        MapViewCameraMovement = FindObjectOfType<MapViewCameraMovement>();
         MapManager = FindObjectOfType<MapManager>();
     }
 
@@ -51,7 +53,9 @@ public class UIManager_Game : MonoBehaviour
 
     private void SwapToMap(MapType mapType)
     {
-        MapManager.MapSelections.FirstOrDefault(map => map.MapType == mapType).MapGameObject.SetActive(true);
+        var mapToView = MapManager.MapSelections.FirstOrDefault(map => map.MapType == mapType).MapGameObject;
+        mapToView.SetActive(true);
+        MapViewCameraMovement.SetMapForViewing(mapToView);
         ToggleViewingCanvas();
     }
 

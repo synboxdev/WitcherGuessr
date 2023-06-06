@@ -1202,6 +1202,7 @@ GameObject:
   - component: {fileID: 1117885420}
   - component: {fileID: 1117885419}
   - component: {fileID: 1117885418}
+  - component: {fileID: 1117885421}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -1275,6 +1276,22 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1117885421
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1117885417}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0b39bb8fe9fa4e14ba0afbe76fbce7bb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  zoomStep: 0.35
+  minCamSize: 1
+  maxCamSize: 30
+  mapRenderer: {fileID: 0}
 --- !u!1 &1133994313
 GameObject:
   m_ObjectHideFlags: 0
@@ -1608,6 +1625,7 @@ MonoBehaviour:
   LocationViewInteractiveCanvas: {fileID: 596339662}
   GuessLocationButton: {fileID: 1508943565}
   GuessLocationSelectionsRect: {fileID: 1928421496}
+  MainCamera: {fileID: 0}
   MapViewUICanvas: {fileID: 296454594}
   MapViewInteractiveCanvas: {fileID: 344151388}
   ReviewLocationButton: {fileID: 432217130}
