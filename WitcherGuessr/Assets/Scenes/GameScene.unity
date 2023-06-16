@@ -1625,7 +1625,6 @@ MonoBehaviour:
   LocationViewInteractiveCanvas: {fileID: 596339662}
   GuessLocationButton: {fileID: 1508943565}
   GuessLocationSelectionsRect: {fileID: 1928421496}
-  MainCamera: {fileID: 0}
   MapViewUICanvas: {fileID: 296454594}
   MapViewInteractiveCanvas: {fileID: 344151388}
   ReviewLocationButton: {fileID: 432217130}
@@ -1657,7 +1656,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   DefaultLayer: {fileID: 475356407}
-  ImageObject: {fileID: 586878695991659863, guid: 32c4366a2b5ef4b4a8d4640d1a3b2069, type: 3}
+  ImageObject: {fileID: 1510093307810600764, guid: b07c1a21ebad646489c14eee9c0c8dfb, type: 3}
   _imageSprite: {fileID: 21300000, guid: 06dfe88b7d734a347930d3b939d66d51, type: 3}
 --- !u!1 &1508943565
 GameObject:
