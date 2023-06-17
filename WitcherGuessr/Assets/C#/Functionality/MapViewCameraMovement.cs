@@ -3,6 +3,7 @@ using UnityEngine;
 public class MapViewCameraMovement : MonoBehaviour
 {
     private Camera cam;
+    private MapViewCamera MapViewCamera;
 
     [SerializeField]
     private float zoomStep, minCamSize, maxCamSize;
@@ -15,6 +16,7 @@ public class MapViewCameraMovement : MonoBehaviour
     void Awake()
     {
         cam = GetComponent<Camera>();
+        InitializeMapViewCamera();
     }
 
     void Update()
@@ -30,16 +32,17 @@ public class MapViewCameraMovement : MonoBehaviour
         }
     }
 
-    public void SetMapForViewing(GameObject mapObject)
+    public void SetMapForViewing(MapSelection mapSelection)
     {
-        mapRenderer = mapObject.GetComponent<SpriteRenderer>();
+        if (MapViewCamera.MapSelectionToView != null &&
+            MapViewCamera.MapSelectionToView.Index != mapSelection.Index)
+        {
+            cam.transform.position = MapViewCamera.DefaultPosition;
+            cam.orthographicSize = MapViewCamera.DefaultOrthographicSize;
+        }
 
-        mapMinX = mapRenderer.transform.position.x - mapRenderer.bounds.size.x / 2f;
-        mapMaxX = mapRenderer.transform.position.x + mapRenderer.bounds.size.x / 2f;
-        mapMinY = mapRenderer.transform.position.y - mapRenderer.bounds.size.y / 2f;
-        mapMaxY = mapRenderer.transform.position.y + mapRenderer.bounds.size.y / 2f;
-
-        cam.orthographicSize = Mathf.Clamp(cam.orthographicSize, minCamSize, Mathf.Min(maxCamSize, (mapRenderer.bounds.size.x / 2f) / cam.aspect));
+        MapViewCamera.MapSelectionToView = mapSelection;
+        ConfigureCameraForViewing();
     }
 
     public void ZoomIn()
@@ -56,6 +59,29 @@ public class MapViewCameraMovement : MonoBehaviour
 
         cam.orthographicSize = Mathf.Clamp(newSize, minCamSize, Mathf.Min(maxCamSize, (mapRenderer.bounds.size.x / 2f) / cam.aspect));
         cam.transform.position = ClampCamera(cam.transform.position);
+    }
+
+    private void InitializeMapViewCamera()
+    {
+        MapViewCamera = new MapViewCamera()
+        {
+            DefaultPosition = cam.transform.position,
+            DefaultOrthographicSize = cam.orthographicSize
+        };
+    }
+
+    private void ConfigureCameraForViewing()
+    {
+        var mapGameobjectToView = MapViewCamera.MapSelectionToView.MapGameObject;
+        mapGameobjectToView.SetActive(true);
+        mapRenderer = mapGameobjectToView.GetComponent<SpriteRenderer>();
+
+        mapMinX = mapRenderer.transform.position.x - mapRenderer.bounds.size.x / 2f;
+        mapMaxX = mapRenderer.transform.position.x + mapRenderer.bounds.size.x / 2f;
+        mapMinY = mapRenderer.transform.position.y - mapRenderer.bounds.size.y / 2f;
+        mapMaxY = mapRenderer.transform.position.y + mapRenderer.bounds.size.y / 2f;
+
+        cam.orthographicSize = Mathf.Clamp(cam.orthographicSize, minCamSize, Mathf.Min(maxCamSize, (mapRenderer.bounds.size.x / 2f) / cam.aspect));
     }
 
     private Vector3 ClampCamera(Vector3 targetPosition)

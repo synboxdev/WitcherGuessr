@@ -53,9 +53,7 @@ public class UIManager_Game : MonoBehaviour
 
     private void SwapToMap(MapType mapType)
     {
-        var mapToView = MapManager.MapSelections.FirstOrDefault(map => map.MapType == mapType).MapGameObject;
-        mapToView.SetActive(true);
-        MapViewCameraMovement.SetMapForViewing(mapToView);
+        MapViewCameraMovement.SetMapForViewing(MapManager.MapSelections.FirstOrDefault(map => map.MapType == mapType));
         ToggleViewingCanvas();
     }
 
@@ -87,9 +85,7 @@ public class UIManager_Game : MonoBehaviour
     private void ConfigureGuessLocationButton()
     {
         if (mapSelection.MapType == MapType.AllMaps)
-        {
             GuessLocationButton.GetComponent<Button>().onClick.AddListener(delegate () { ToggleMapSelectionRect(); });
-        }
         else
             GuessLocationButton.GetComponent<Button>().onClick.AddListener(delegate () { SwapToMap(mapSelection.MapType); });
     }
