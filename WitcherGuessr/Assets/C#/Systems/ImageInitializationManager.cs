@@ -10,13 +10,9 @@ public class ImageInitializationManager : MonoBehaviour
     [SerializeField]
     private Sprite _imageSprite;
 
-    void Start()
-    {
-        SetNewImage(_imageSprite);
-    }
-
     public void SetNewImage(Sprite ImageSprite)
     {
+        ClearLayers();
         InitializeImages(ImageSprite);
     }
 
@@ -50,5 +46,11 @@ public class ImageInitializationManager : MonoBehaviour
 
         firstImageObject.SetActive(true);
         secondImageObject.SetActive(true);
+    }
+
+    private void ClearLayers()
+    {
+        foreach (Transform child in DefaultLayer.transform)
+            Destroy(child.gameObject);
     }
 }

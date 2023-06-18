@@ -8,7 +8,9 @@ using UnityEngine.UI;
 public class UIManager_Game : MonoBehaviour
 {
     private MapViewCameraMovement MapViewCameraMovement;
+    private LocationManager LocationManager;
     private MapManager MapManager;
+
     private MapSelection mapSelection;
 
     [Header("Map and Markers")]
@@ -31,6 +33,7 @@ public class UIManager_Game : MonoBehaviour
     {
         MapViewCameraMovement = FindObjectOfType<MapViewCameraMovement>();
         MapManager = FindObjectOfType<MapManager>();
+        LocationManager = FindObjectOfType<LocationManager>();
     }
 
     void Start()
@@ -49,6 +52,12 @@ public class UIManager_Game : MonoBehaviour
     {
         MapManager.MapSelections.Where(x => x.MapGameObject != null).ToList().ForEach(map => map.MapGameObject.SetActive(false));
         ToggleViewingCanvas();
+    }
+
+    public void ConfirmLocationGuess()
+    {
+        Debug.Log("ConfirmLocationGuess");
+        InitializeLocation();
     }
 
     private void SwapToMap(MapType mapType)
@@ -80,6 +89,7 @@ public class UIManager_Game : MonoBehaviour
     {
         MapName.text = mapSelection.MapName.ToUpper();
         InitializeMaps();
+        InitializeLocation();
     }
 
     private void ConfigureGuessLocationButton()
@@ -103,6 +113,11 @@ public class UIManager_Game : MonoBehaviour
             var mapToInitialize = MapManager.MapSelections.FirstOrDefault(x => x.MapType == mapSelection.MapType);
             mapToInitialize.MapGameObject = InitializeMap(mapToInitialize);
         }
+    }
+
+    private void InitializeLocation()
+    {
+        LocationManager.InitializeLocationForViewing(mapSelection.MapType);
     }
 
     private GameObject InitializeMap(MapSelection mapToInitialize)
