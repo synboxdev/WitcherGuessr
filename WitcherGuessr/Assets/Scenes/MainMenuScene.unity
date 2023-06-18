@@ -760,6 +760,7 @@ GameObject:
   - component: {fileID: 521599779}
   - component: {fileID: 521599780}
   - component: {fileID: 521599781}
+  - component: {fileID: 521599782}
   m_Layer: 0
   m_Name: Global
   m_TagString: Untagged
@@ -857,6 +858,33 @@ MonoBehaviour:
   MapSelectionSelectedAllMaps: {fileID: 684413611511689631, guid: bbd9e42e13a0e104cb34e0deadce8437, type: 3}
   MapSelectionSelectedBAW: {fileID: 4657800123152585040, guid: a55ca41d3c7ed7a40be8d3e43c7b39b9, type: 3}
   MapSelectionSelectedHOS: {fileID: 725810033443775889, guid: 490f5b4681d7952499ca95e37dc1eb2a, type: 3}
+--- !u!114 &521599782
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 521599778}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec898d8f606c62a4d8fc952776f59f62, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  LocationSelections:
+  - MapType: 1
+    LocationsForViewing:
+    - Index: 0
+      Coordinates: {x: 0, y: 0}
+      Name: Test location name
+      Description: test location desciprtion
+      PanoramicImage: {fileID: 21300000, guid: 06dfe88b7d734a347930d3b939d66d51, type: 3}
+    - Index: 0
+      Coordinates: {x: 0, y: 0}
+      Name: Test location name2
+      Description: test location desciprtion2
+      PanoramicImage: {fileID: 21300000, guid: f3c54852a3d554746849aa922e33bf5c, type: 3}
+  - MapType: 2
+    LocationsForViewing: []
 --- !u!1 &556506242
 GameObject:
   m_ObjectHideFlags: 0
