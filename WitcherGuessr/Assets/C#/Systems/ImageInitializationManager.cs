@@ -7,9 +7,6 @@ public class ImageInitializationManager : MonoBehaviour
     public RectTransform DefaultLayer;
     public GameObject ImageObject;
 
-    [SerializeField]
-    private Sprite _imageSprite;
-
     public void SetNewImage(Sprite ImageSprite)
     {
         ClearLayers();
@@ -50,7 +47,10 @@ public class ImageInitializationManager : MonoBehaviour
 
     private void ClearLayers()
     {
-        foreach (Transform child in DefaultLayer.transform)
-            Destroy(child.gameObject);
+        if (DefaultLayer.childCount > 0)
+        {
+            foreach (Transform child in DefaultLayer.transform)
+                Destroy(child.gameObject);
+        }
     }
 }

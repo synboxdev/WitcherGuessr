@@ -7,14 +7,17 @@ using UnityEngine.UI;
 
 public class UIManager_Game : MonoBehaviour
 {
+    private ResultEvaluationManager ResultEvaluationManager;
     private MapViewCameraMovement MapViewCameraMovement;
     private LocationManager LocationManager;
     private MapManager MapManager;
+    private MapMarkerManager MapMarkerManager;
 
+    [SerializeField]
     private MapSelection mapSelection;
 
-    [Header("Map and Markers")]
-    public GameObject Map;
+    [Header("Map")]
+    public GameObject MapParent;
     public TextMeshProUGUI MapName;
 
     [Header("Location viewing")]
@@ -28,12 +31,11 @@ public class UIManager_Game : MonoBehaviour
     public GameObject MapViewInteractiveCanvas;
     public GameObject ReviewLocationButton;
     public GameObject ConfirmGuessButton;
+    public GameObject NextLocationButton;
 
     void Awake()
     {
-        MapViewCameraMovement = FindObjectOfType<MapViewCameraMovement>();
-        MapManager = FindObjectOfType<MapManager>();
-        LocationManager = FindObjectOfType<LocationManager>();
+        InitializeInternalSystems();
     }
 
     void Start()
@@ -56,14 +58,63 @@ public class UIManager_Game : MonoBehaviour
 
     public void ConfirmLocationGuess()
     {
-        Debug.Log("ConfirmLocationGuess");
+        if (MapMarkerManager.IsUserMarkerPlaced())
+        {
+            MapMarkerManager.EligibleForUserMarking = false;
+            var correctMap = MapManager.MapSelections.FirstOrDefault(map => map.MapType == LocationManager.GetCurrentLocation()?.Key);
+            var correctMapWasSelected = ResultEvaluationManager.IsCorrectMapSelected();
+
+            if (!correctMapWasSelected)
+                ForceSwapToCorrectMap();
+
+            MapMarkerManager.HandleCorrectLocationDisplay(correctMap.MapGameObject, correctMapWasSelected);
+
+            if (ResultEvaluationManager.EvaluateUserGuess(MapMarkerManager.GetUserMarkerResults()))
+                EnableNextLocationUI();
+            else
+                EndGame();
+        }
+    }
+
+    public void InitializeNextLocation()
+    {
         InitializeLocation();
+    }
+
+    public void GoToNextLocation()
+    {
+        InitializeLocation();
+        ReviewLocation();
+        MapMarkerManager.ResetAllMapMarkers();
+        ResetDefaultUI();
+    }
+
+    private void ForceSwapToCorrectMap()
+    {
+        MapManager.MapSelections.Where(x => x.MapGameObject != null).ToList().ForEach(map => map.MapGameObject.SetActive(false));
+        SwapToMap((MapType)(LocationManager.GetCurrentLocation()?.Key));
     }
 
     private void SwapToMap(MapType mapType)
     {
         MapViewCameraMovement.SetMapForViewing(MapManager.MapSelections.FirstOrDefault(map => map.MapType == mapType));
-        ToggleViewingCanvas();
+    }
+
+    private void EnableNextLocationUI()
+    {
+        for (int i = 0; i < NextLocationButton.transform.parent.childCount; i++)
+            NextLocationButton.transform.parent.GetChild(i).gameObject.SetActive(false);
+
+        NextLocationButton.SetActive(true);
+    }
+
+    private void ResetDefaultUI()
+    {
+        ConfirmGuessButton.GetComponent<ConfirmGuessButton>().ToggleActive(false);
+        ConfirmGuessButton.SetActive(false);
+        ReviewLocationButton.SetActive(false);
+
+        NextLocationButton.SetActive(false);
     }
 
     private void ToggleViewingCanvas()
@@ -95,9 +146,16 @@ public class UIManager_Game : MonoBehaviour
     private void ConfigureGuessLocationButton()
     {
         if (mapSelection.MapType == MapType.AllMaps)
-            GuessLocationButton.GetComponent<Button>().onClick.AddListener(delegate () { ToggleMapSelectionRect(); });
+            GuessLocationButton.GetComponent<Button>().onClick.AddListener(delegate ()
+            {
+                ToggleMapSelectionRect();
+            });
         else
-            GuessLocationButton.GetComponent<Button>().onClick.AddListener(delegate () { SwapToMap(mapSelection.MapType); });
+            GuessLocationButton.GetComponent<Button>().onClick.AddListener(delegate ()
+            {
+                SwapToMap(mapSelection.MapType);
+                ToggleViewingCanvas();
+            });
     }
 
     private void InitializeMaps()
@@ -122,7 +180,7 @@ public class UIManager_Game : MonoBehaviour
 
     private GameObject InitializeMap(MapSelection mapToInitialize)
     {
-        var initializedMap = Instantiate(mapToInitialize.MapPrefab, Map.transform);
+        var initializedMap = Instantiate(mapToInitialize.MapPrefab, MapParent.transform);
         initializedMap.SetActive(false);
 
         return mapToInitialize.MapGameObject = initializedMap;
@@ -134,7 +192,27 @@ public class UIManager_Game : MonoBehaviour
         {
             var mapSelectionButton = Instantiate(MapManager.GetUIMapSelectionPrefab(map.MapType), GuessLocationSelectionsRect.transform);
             mapSelectionButton.GetComponentInChildren<TextMeshProUGUI>().text = $"{map.MapName.ToUpper()}";
-            mapSelectionButton.GetComponent<Button>().onClick.AddListener(delegate () { SwapToMap(map.MapType); ToggleMapSelectionRect(); });
+            mapSelectionButton.GetComponent<Button>().onClick.AddListener(delegate ()
+            {
+                SwapToMap(map.MapType);
+                ToggleViewingCanvas();
+                ToggleMapSelectionRect();
+            });
         }
     }
+
+    private void EndGame()
+    {
+        // TODO: Enable end game overlay that displays final results (accuracy, No. of attempts, etc.), and back to main menu button.
+    }
+
+    private void InitializeInternalSystems()
+    {
+        ResultEvaluationManager = FindObjectOfType<ResultEvaluationManager>();
+        MapViewCameraMovement = FindObjectOfType<MapViewCameraMovement>();
+        LocationManager = FindObjectOfType<LocationManager>();
+        MapManager = FindObjectOfType<MapManager>();
+        MapMarkerManager = FindObjectOfType<MapMarkerManager>();
+    }
+
 }

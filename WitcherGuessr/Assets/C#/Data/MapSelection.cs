@@ -9,4 +9,5 @@ public class MapSelection
     public int Index;
     public GameObject MapPrefab;
     public GameObject MapGameObject;
+    public bool IsMarkedByUser = false;
 }

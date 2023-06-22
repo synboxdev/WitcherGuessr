@@ -1,20 +1,26 @@
+using System.Collections.Generic;
 using UnityEngine;
 
 public class MapViewCameraMovement : MonoBehaviour
 {
+    private MapMarkerManager MapMarkerManager;
+
+    public bool IsBeingMoved = false;
     private Camera cam;
     private MapViewCamera MapViewCamera;
 
     [SerializeField]
-    private float zoomStep, minCamSize, maxCamSize;
+    private float zoomStep, minCamSize, maxCamSize, camSize, camResizeRatio;
 
     [SerializeField]
     private SpriteRenderer mapRenderer;
+
     private float mapMinX, mapMaxX, mapMinY, mapMaxY;
     private Vector3 dragOrigin;
 
     void Awake()
     {
+        MapMarkerManager = FindObjectOfType<MapMarkerManager>();
         cam = GetComponent<Camera>();
         InitializeMapViewCamera();
     }
@@ -34,6 +40,8 @@ public class MapViewCameraMovement : MonoBehaviour
 
     public void SetMapForViewing(MapSelection mapSelection)
     {
+        MapMarkerManager.EligibleForUserMarking = false;
+
         if (MapViewCamera.MapSelectionToView != null &&
             MapViewCamera.MapSelectionToView.Index != mapSelection.Index)
         {
@@ -47,18 +55,41 @@ public class MapViewCameraMovement : MonoBehaviour
 
     public void ZoomIn()
     {
-        float newSize = cam.orthographicSize - zoomStep;
+        camSize = cam.orthographicSize - zoomStep;
 
-        cam.orthographicSize = Mathf.Clamp(newSize, minCamSize, Mathf.Min(maxCamSize, (mapRenderer.bounds.size.x / 2f) / cam.aspect));
+        cam.orthographicSize = Mathf.Clamp(camSize, minCamSize, Mathf.Min(maxCamSize, (mapRenderer.bounds.size.x / 2f) / cam.aspect));
         cam.transform.position = ClampCamera(cam.transform.position);
     }
 
     public void ZoomOut()
     {
-        float newSize = cam.orthographicSize + zoomStep;
+        camSize = cam.orthographicSize + zoomStep;
 
-        cam.orthographicSize = Mathf.Clamp(newSize, minCamSize, Mathf.Min(maxCamSize, (mapRenderer.bounds.size.x / 2f) / cam.aspect));
+        cam.orthographicSize = Mathf.Clamp(camSize, minCamSize, Mathf.Min(maxCamSize, (mapRenderer.bounds.size.x / 2f) / cam.aspect));
         cam.transform.position = ClampCamera(cam.transform.position);
+    }
+
+    public void HandleCameraMovement(Vector3 endPosition)
+    {
+        HandleCameraReposition(endPosition);
+        HandleCameraResizing();
+    }
+
+    private void HandleCameraReposition(Vector3 endPosition)
+    {
+        LeanTween.value(cam.gameObject, cam.transform.position, endPosition, 1f)
+                 .setEaseOutCubic()
+                 .setOnUpdate((Vector3 newPosition) => cam.transform.position = new Vector3(newPosition.x, newPosition.y, cam.transform.position.z));
+    }
+
+    private void HandleCameraResizing()
+    {
+        if (camSize < maxCamSize / 2)
+        {
+            LeanTween.value(cam.gameObject, camSize, maxCamSize * camResizeRatio, 1f)
+                .setEaseOutCubic()
+                .setOnUpdate((float newCamSize) => cam.orthographicSize = newCamSize);
+        }
     }
 
     private void InitializeMapViewCamera()
@@ -72,9 +103,9 @@ public class MapViewCameraMovement : MonoBehaviour
 
     private void ConfigureCameraForViewing()
     {
-        var mapGameobjectToView = MapViewCamera.MapSelectionToView.MapGameObject;
-        mapGameobjectToView.SetActive(true);
-        mapRenderer = mapGameobjectToView.GetComponent<SpriteRenderer>();
+        var mapGameObjectToView = MapViewCamera.MapSelectionToView.MapGameObject;
+        mapGameObjectToView.SetActive(true);
+        mapRenderer = mapGameObjectToView.GetComponent<SpriteRenderer>();
 
         mapMinX = mapRenderer.transform.position.x - mapRenderer.bounds.size.x / 2f;
         mapMaxX = mapRenderer.transform.position.x + mapRenderer.bounds.size.x / 2f;
@@ -82,6 +113,13 @@ public class MapViewCameraMovement : MonoBehaviour
         mapMaxY = mapRenderer.transform.position.y + mapRenderer.bounds.size.y / 2f;
 
         cam.orthographicSize = Mathf.Clamp(cam.orthographicSize, minCamSize, Mathf.Min(maxCamSize, (mapRenderer.bounds.size.x / 2f) / cam.aspect));
+        ConfigureMapMarkerManager(MapViewCamera.MapSelectionToView);
+    }
+
+    private void ConfigureMapMarkerManager(MapSelection mapSelection)
+    {
+        MapMarkerManager.CurrentMapSelection = new KeyValuePair<MapSelection, GameObject>(mapSelection, mapSelection.MapGameObject);
+        LeanTween.value(0, 1, .5f).setOnComplete(() => MapMarkerManager.EligibleForUserMarking = true);
     }
 
     private Vector3 ClampCamera(Vector3 targetPosition)
@@ -107,8 +145,14 @@ public class MapViewCameraMovement : MonoBehaviour
 
         if (Input.GetMouseButton(0))
         {
+            if (dragOrigin != cam.ScreenToWorldPoint(Input.mousePosition))
+                IsBeingMoved = true;
+
             Vector3 difference = dragOrigin - cam.ScreenToWorldPoint(Input.mousePosition);
             cam.transform.position = ClampCamera(cam.transform.position + difference);
         }
+
+        if (Input.GetMouseButtonUp(0))
+            LeanTween.value(0, 1, .25f).setOnComplete(() => IsBeingMoved = false);
     }
 }

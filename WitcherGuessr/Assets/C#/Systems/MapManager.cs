@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using System.Linq;
 using UnityEngine;
 
 public class MapManager : MonoBehaviour
@@ -31,5 +32,11 @@ public class MapManager : MonoBehaviour
             default:
                 return MapSelectionSelected;
         }
+    }
+
+    public void MapMarkedByUser(MapSelection mapSelection)
+    {
+        MapSelections.ForEach(x => x.IsMarkedByUser = false);
+        MapSelections.FirstOrDefault(x => x.Index == mapSelection.Index).IsMarkedByUser = true;
     }
 }
