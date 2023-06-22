@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 public class UIManager_MainMenu : MonoBehaviour
 {
     private MapManager MapManager;
+    private LocationManager LocationManager;
 
     public GameObject PlaySelectionMenu;
     public GameObject MapSelectionParentObject;
@@ -14,6 +15,7 @@ public class UIManager_MainMenu : MonoBehaviour
     void Awake()
     {
         MapManager = FindObjectOfType<MapManager>();
+        LocationManager = FindObjectOfType<LocationManager>();
         SpawnMapSelectionButtons();
         PlaySelectionMenu.SetActive(false);
     }
@@ -27,7 +29,11 @@ public class UIManager_MainMenu : MonoBehaviour
     {
         DestroyAllMapSelections();
 
-        foreach (var mapSelection in MapManager.MapSelections)
+        // Only display map selection buttons of maps who have ANY locations set for them, excluding 'All maps' selection.
+        var eligibleMapSelections = MapManager.MapSelections.Where(x => LocationManager.LocationSelections.Any(l => l.MapType == x.MapType && l.LocationsForViewing.Any()) ||
+                                                  x.MapType == MapType.AllMaps).ToList();
+
+        foreach (var mapSelection in eligibleMapSelections)
         {
             var mapSelectionButton = Instantiate(mapSelection.Index == currentMapSelectionIndex ?
                                                  MapManager.GetUIMapSelectionPrefab(mapSelection.MapType) : MapManager.MapSelectionDefault,
