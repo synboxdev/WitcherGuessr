@@ -33,6 +33,11 @@ public class UIManager_Game : MonoBehaviour
     public GameObject ConfirmGuessButton;
     public GameObject NextLocationButton;
 
+    [Header("Results")]
+    public TextMeshProUGUI LocationNumberText;
+    public TextMeshProUGUI AverageAccuracyText;
+    public TextMeshProUGUI AvailableAttemptsText;
+
     void Awake()
     {
         InitializeInternalSystems();
@@ -87,6 +92,14 @@ public class UIManager_Game : MonoBehaviour
         ReviewLocation();
         MapMarkerManager.ResetAllMapMarkers();
         ResetDefaultUI();
+        ResultEvaluationManager.MovingToNextLocation();
+    }
+
+    public void HandleUserGuessResultsToUI(UserGuessResults userGuessResults)
+    {
+        LocationNumberText.text = $"{userGuessResults.LocationNumber}";
+        AverageAccuracyText.text = $"{userGuessResults.UserGuesses.Select(x => x.Accuracy).DefaultIfEmpty(0).Average().ToString("0")}%";
+        AvailableAttemptsText.text = $"{userGuessResults.AvailableAttempts}";
     }
 
     private void ForceSwapToCorrectMap()

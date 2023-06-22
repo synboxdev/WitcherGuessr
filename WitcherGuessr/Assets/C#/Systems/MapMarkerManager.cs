@@ -57,7 +57,13 @@ public class MapMarkerManager : MonoBehaviour
 
     public KeyValuePair<bool, float> GetUserMarkerResults()
     {
-        return new KeyValuePair<bool, float>(CorrectMapWasSelected, UserMarkerDistanceToLocationAreaCenter());
+        var _UserMarkerDistanceToLocationAreaEdge = UserMarkerDistanceToLocationAreaCenter();
+
+        // If User landed Marker within Specific Area's circle, or within inner half of the circle - we consider the accuracy to be 100%.
+        if ((IsCorrectLocationInSpecificArea() && _UserMarkerDistanceToLocationAreaEdge <= 100) || _UserMarkerDistanceToLocationAreaEdge < 50)
+            _UserMarkerDistanceToLocationAreaEdge = 100;
+
+        return new KeyValuePair<bool, float>(CorrectMapWasSelected, _UserMarkerDistanceToLocationAreaEdge);
     }
 
     public bool IsUserMarkerPlaced()

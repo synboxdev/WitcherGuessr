@@ -6,11 +6,21 @@ public class ResultEvaluationManager : MonoBehaviour
 {
     private MapManager MapManager;
     private LocationManager LocationManager;
+    private UIManager_Game UIManager;
+
+    private UserGuessResults UserGuessResults;
 
     void Awake()
     {
         LocationManager = FindObjectOfType<LocationManager>();
         MapManager = FindObjectOfType<MapManager>();
+        UIManager = FindObjectOfType<UIManager_Game>();
+    }
+
+    void Start()
+    {
+        UserGuessResults = new UserGuessResults();
+        UIManager.HandleUserGuessResultsToUI(UserGuessResults);
     }
 
     public bool IsCorrectMapSelected()
@@ -18,16 +28,27 @@ public class ResultEvaluationManager : MonoBehaviour
         return LocationManager.GetCurrentLocation()?.Key == MapManager.MapSelections.FirstOrDefault(x => x.IsMarkedByUser).MapType;
     }
 
-    public bool EvaluateUserGuess(KeyValuePair<bool, float> userMarkerResults)
+    public void MovingToNextLocation()
     {
-        // TODO: Evalute user guess based on results.
-        // If wrong map was selected or distance to center is over 100 - subtract from attempts
-        // otherwise - calculate new average for all attemps.
-        return true;
+        UserGuessResults.LocationNumber++;
+        UIManager.HandleUserGuessResultsToUI(UserGuessResults);
     }
 
-    public void RegisterUserGuessResults()
+    public bool EvaluateUserGuess(KeyValuePair<bool, float> userMarkerResults)
     {
+        RegisterUserGuessResults(userMarkerResults);
+        UIManager.HandleUserGuessResultsToUI(UserGuessResults);
+        return UserGuessResults.AvailableAttempts > 0;
+    }
 
+    private void RegisterUserGuessResults(KeyValuePair<bool, float> userMarkerResults)
+    {
+        if (!userMarkerResults.Key || userMarkerResults.Value > 100)
+        {
+            UserGuessResults.AvailableAttempts--;
+            UserGuessResults.UserGuesses.Add(new() { IsAccurate = false, Accuracy = 0 });
+        }
+        else
+            UserGuessResults.UserGuesses.Add(new() { IsAccurate = true, Accuracy = userMarkerResults.Value });
     }
 }
