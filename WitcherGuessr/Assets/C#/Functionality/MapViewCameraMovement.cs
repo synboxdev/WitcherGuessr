@@ -100,9 +100,9 @@ public class MapViewCameraMovement : MonoBehaviour
     private void ConfigureCameraSettings()
     {
         var mapSizeDeltaAvg = (MapViewCamera.MapSelectionToView.MapGameObject.GetComponent<RectTransform>().sizeDelta.x +
-                               MapViewCamera.MapSelectionToView.MapGameObject.GetComponent<RectTransform>().sizeDelta.y) / 2;
+                              MapViewCamera.MapSelectionToView.MapGameObject.GetComponent<RectTransform>().sizeDelta.y) / 2;
         maxCamSize = 0.2f * mapSizeDeltaAvg;
-        minCamSize = maxCamSize * 0.3f;
+        minCamSize = maxCamSize * 0.2f;
         camSize = (maxCamSize + minCamSize) / 2;
         cam.orthographicSize = Mathf.Clamp(camSize, minCamSize, Mathf.Min(maxCamSize, (MapRenderer.bounds.size.x / 2f) / cam.aspect));
         zoomStep = (maxCamSize + minCamSize) / 20;
