@@ -59,9 +59,15 @@ public class LocationManager : MonoBehaviour
         if (locationIndex != null)
             return chosenMap.LocationsForViewing[(int)locationIndex];
 
-        return CurrentLocation.HasValue ?
-            chosenMap.LocationsForViewing.Where(potentialLocation => potentialLocation.Index != CurrentLocation.Value.Value.Index).ToList().OrderBy(x => Guid.NewGuid()).FirstOrDefault() :
-            chosenMap.LocationsForViewing.OrderBy(x => Guid.NewGuid()).FirstOrDefault();
+        if (CurrentLocation.HasValue)
+        {
+            var potentialLocations = chosenMap.LocationsForViewing.Where(potentialLocation => potentialLocation.Index != CurrentLocation.Value.Value.Index).ToList();
+            return potentialLocations.Any() ?
+                   potentialLocations.OrderBy(x => Guid.NewGuid()).FirstOrDefault() :
+                   chosenMap.LocationsForViewing.OrderBy(x => Guid.NewGuid()).FirstOrDefault();
+        }
+        else
+            return chosenMap.LocationsForViewing.OrderBy(x => Guid.NewGuid()).FirstOrDefault();
     }
 
     private void SetLocationIndexes()

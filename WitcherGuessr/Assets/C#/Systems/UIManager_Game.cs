@@ -26,6 +26,12 @@ public class UIManager_Game : MonoBehaviour
     public GameObject GuessLocationButton;
     public GameObject GuessLocationSelectionsRect;
 
+    [Header("Location details card")]
+    public GameObject LocationDetailsCard;
+    public CanvasGroup LocationDetailsCardCanvasGroup;
+    public TextMeshProUGUI LocationNameText;
+    public TextMeshProUGUI LocationDescriptionText;
+
     [Header("Map viewing")]
     public GameObject MapViewUICanvas;
     public GameObject MapViewInteractiveCanvas;
@@ -83,6 +89,8 @@ public class UIManager_Game : MonoBehaviour
 
             if (ResultEvaluationManager.EvaluateUserGuess(MapMarkerManager.GetUserMarkerResults()))
                 EnableNextLocationUI();
+
+            HandleLocationDetailsCardDisplay();
         }
     }
 
@@ -112,6 +120,18 @@ public class UIManager_Game : MonoBehaviour
         AvailableAttemptsText.text = $"{userGuessResults.AvailableAttempts}";
     }
 
+    private void HandleLocationDetailsCardDisplay()
+    {
+        var correctLocation = LocationManager.GetCurrentLocation()?.Value;
+        LocationDetailsCard.SetActive(true);
+        LocationNameText.text = $"{correctLocation.Name}";
+        LocationDescriptionText.text = $"{correctLocation.Description}";
+
+        LeanTween.value(LocationDetailsCardCanvasGroup.gameObject, 0, 1, 0.5f)
+            .setEaseOutQuart()
+            .setOnUpdate((float alphaValue) => LocationDetailsCardCanvasGroup.alpha = alphaValue);
+    }
+
     private void ForceSwapToCorrectMap()
     {
         MapManager.MapSelections.Where(x => x.MapGameObject != null).ToList().ForEach(map => map.MapGameObject.SetActive(false));
@@ -136,6 +156,7 @@ public class UIManager_Game : MonoBehaviour
         ConfirmGuessButton.GetComponent<ConfirmGuessButton>().ToggleActive(false);
         ConfirmGuessButton.SetActive(false);
         ReviewLocationButton.SetActive(false);
+        LocationDetailsCard.SetActive(false);
 
         NextLocationButton.SetActive(false);
     }
@@ -250,5 +271,4 @@ public class UIManager_Game : MonoBehaviour
         MapManager = FindObjectOfType<MapManager>();
         MapMarkerManager = FindObjectOfType<MapMarkerManager>();
     }
-
 }
