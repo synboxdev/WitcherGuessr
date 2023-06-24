@@ -33,10 +33,17 @@ public class UIManager_Game : MonoBehaviour
     public GameObject ConfirmGuessButton;
     public GameObject NextLocationButton;
 
-    [Header("Results")]
+    [Header("In-game results")]
     public TextMeshProUGUI LocationNumberText;
     public TextMeshProUGUI AverageAccuracyText;
     public TextMeshProUGUI AvailableAttemptsText;
+
+    [Header("End game results")]
+    public GameObject EndGameOverlay;
+    public Image EndGameBackgroundPanelImage;
+    public CanvasGroup EndGameDetailsCanvasGroup;
+    public TextMeshProUGUI SuccessfulGuessesText;
+    public TextMeshProUGUI AccuracyPercentageText;
 
     void Awake()
     {
@@ -76,8 +83,6 @@ public class UIManager_Game : MonoBehaviour
 
             if (ResultEvaluationManager.EvaluateUserGuess(MapMarkerManager.GetUserMarkerResults()))
                 EnableNextLocationUI();
-            else
-                EndGame();
         }
     }
 
@@ -88,11 +93,16 @@ public class UIManager_Game : MonoBehaviour
 
     public void GoToNextLocation()
     {
-        InitializeLocation();
-        ReviewLocation();
-        MapMarkerManager.ResetAllMapMarkers();
-        ResetDefaultUI();
-        ResultEvaluationManager.MovingToNextLocation();
+        if (!ResultEvaluationManager.GameShouldEnd())
+        {
+            InitializeLocation();
+            ReviewLocation();
+            MapMarkerManager.ResetAllMapMarkers();
+            ResetDefaultUI();
+            ResultEvaluationManager.MovingToNextLocation();
+        }
+        else
+            EnableEndGameUI();
     }
 
     public void HandleUserGuessResultsToUI(UserGuessResults userGuessResults)
@@ -214,9 +224,22 @@ public class UIManager_Game : MonoBehaviour
         }
     }
 
-    private void EndGame()
+    private void EnableEndGameUI()
     {
-        // TODO: Enable end game overlay that displays final results (accuracy, No. of attempts, etc.), and back to main menu button.
+        EndGameOverlay.SetActive(true);
+        SuccessfulGuessesText.text = ResultEvaluationManager.GetSuccessfulGuessesText();
+        AccuracyPercentageText.text = ResultEvaluationManager.GetAccuracyPercentageText();
+
+        LeanTween.value(EndGameBackgroundPanelImage.gameObject, 0, 1, 1f)
+            .setEaseOutQuart()
+            .setOnUpdate((float alphaValue) => EndGameBackgroundPanelImage.color = new Color(EndGameBackgroundPanelImage.color.r,
+                                                                                             EndGameBackgroundPanelImage.color.g,
+                                                                                             EndGameBackgroundPanelImage.color.b,
+                                                                                             alphaValue));
+
+        LeanTween.value(EndGameDetailsCanvasGroup.gameObject, 0, 1, 1f)
+            .setEaseOutQuart()
+            .setOnUpdate((float alphaValue) => EndGameDetailsCanvasGroup.alpha = alphaValue);
     }
 
     private void InitializeInternalSystems()

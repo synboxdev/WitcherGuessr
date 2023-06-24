@@ -23,6 +23,21 @@ public class ResultEvaluationManager : MonoBehaviour
         UIManager.HandleUserGuessResultsToUI(UserGuessResults);
     }
 
+    public string GetSuccessfulGuessesText()
+    {
+        return $"{UserGuessResults.UserGuesses.Count(x => x.IsAccurate)}/{UserGuessResults.UserGuesses.Count}";
+    }
+
+    public string GetAccuracyPercentageText()
+    {
+        return $"{UserGuessResults.UserGuesses.Select(x => x.Accuracy).DefaultIfEmpty(0).Average().ToString("0")}%";
+    }
+
+    public bool GameShouldEnd()
+    {
+        return UserGuessResults.AvailableAttempts <= 0;
+    }
+
     public bool IsCorrectMapSelected()
     {
         return LocationManager.GetCurrentLocation()?.Key == MapManager.MapSelections.FirstOrDefault(x => x.IsMarkedByUser).MapType;
@@ -38,7 +53,7 @@ public class ResultEvaluationManager : MonoBehaviour
     {
         RegisterUserGuessResults(userMarkerResults);
         UIManager.HandleUserGuessResultsToUI(UserGuessResults);
-        return UserGuessResults.AvailableAttempts > 0;
+        return UserGuessResults.AvailableAttempts >= 0;
     }
 
     private void RegisterUserGuessResults(KeyValuePair<bool, float> userMarkerResults)

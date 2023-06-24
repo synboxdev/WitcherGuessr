@@ -904,6 +904,13 @@ MonoBehaviour:
       Name: Test location name4
       Description: test location desciprtion4
       PanoramicImage: {fileID: 21300000, guid: f3c54852a3d554746849aa922e33bf5c, type: 3}
+  - MapType: 6
+    LocationsForViewing:
+    - Index: 0
+      Coordinates: {x: 0, y: 0}
+      Name: Test location name4
+      Description: test location desciprtion4
+      PanoramicImage: {fileID: 21300000, guid: f3c54852a3d554746849aa922e33bf5c, type: 3}
 --- !u!1 &556506242
 GameObject:
   m_ObjectHideFlags: 0

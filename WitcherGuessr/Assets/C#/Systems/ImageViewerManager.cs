@@ -9,9 +9,46 @@ public class ImageViewerManager : MonoBehaviour
     private Rect BoundingBox;
     private DragObject _currentDraggedObject = null;
 
+    public CanvasGroup DragImageToLookAroundCanvasGroup;
+
     void Awake()
     {
         SetBoundingBoxRect(DragLayer);
+    }
+
+    public void RegisterDraggedObject(DragObject drag)
+    {
+        _currentDraggedObject = drag;
+        drag.transform.SetParent(DragLayer);
+        FadeDragImageToLookAroundCanvasGroup(true);
+    }
+
+    public void UnregisterDraggedObject(DragObject drag)
+    {
+        drag.transform.SetParent(DefaultLayer);
+        _currentDraggedObject = null;
+        FadeDragImageToLookAroundCanvasGroup(false);
+    }
+
+    public bool IsWithinBounds(Vector2 position)
+    {
+        return BoundingBox.Contains(position);
+    }
+
+    private void FadeDragImageToLookAroundCanvasGroup(bool fadeOut)
+    {
+        if (fadeOut)
+        {
+            LeanTween.value(DragImageToLookAroundCanvasGroup.gameObject, 1, 0, 0.5f)
+                .setEaseOutQuart()
+                .setOnUpdate((float alphaValue) => DragImageToLookAroundCanvasGroup.alpha = alphaValue);
+        }
+        else
+        {
+            LeanTween.value(DragImageToLookAroundCanvasGroup.gameObject, 0, 1, 0.5f)
+                .setEaseOutQuart()
+                .setOnUpdate((float alphaValue) => DragImageToLookAroundCanvasGroup.alpha = alphaValue);
+        }
     }
 
     private void SetBoundingBoxRect(RectTransform rectTransform)
@@ -27,20 +64,4 @@ public class ImageViewerManager : MonoBehaviour
         BoundingBox = new Rect(position, size);
     }
 
-    public void RegisterDraggedObject(DragObject drag)
-    {
-        _currentDraggedObject = drag;
-        drag.transform.SetParent(DragLayer);
-    }
-
-    public void UnregisterDraggedObject(DragObject drag)
-    {
-        drag.transform.SetParent(DefaultLayer);
-        _currentDraggedObject = null;
-    }
-
-    public bool IsWithinBounds(Vector2 position)
-    {
-        return BoundingBox.Contains(position);
-    }
 }

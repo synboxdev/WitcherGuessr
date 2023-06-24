@@ -3,18 +3,15 @@ using UnityEngine;
 
 public class MapViewCameraMovement : MonoBehaviour
 {
-    private MapMarkerManager MapMarkerManager;
-
-    public bool IsBeingMoved = false;
     private Camera cam;
+    private SpriteRenderer MapRenderer;
+    private MapMarkerManager MapMarkerManager;
     private MapViewCamera MapViewCamera;
 
-    [SerializeField]
-    private float zoomStep, minCamSize, maxCamSize, camSize, camResizeRatio;
+    public bool IsBeingMoved = false;
+    public float CamResizeRatio;
 
-    [SerializeField]
-    private SpriteRenderer mapRenderer;
-
+    private float zoomStep, minCamSize, maxCamSize, camSize;
     private float mapMinX, mapMaxX, mapMinY, mapMaxY;
     private Vector3 dragOrigin;
 
@@ -27,7 +24,7 @@ public class MapViewCameraMovement : MonoBehaviour
 
     void Update()
     {
-        if (mapRenderer != null && mapRenderer.gameObject.activeInHierarchy)
+        if (MapRenderer != null && MapRenderer.gameObject.activeInHierarchy)
         {
             PanCamera();
 
@@ -51,21 +48,20 @@ public class MapViewCameraMovement : MonoBehaviour
 
         MapViewCamera.MapSelectionToView = mapSelection;
         ConfigureCameraForViewing();
+        ConfigureCameraSettings();
     }
 
     public void ZoomIn()
     {
-        camSize = cam.orthographicSize - zoomStep;
-
-        cam.orthographicSize = Mathf.Clamp(camSize, minCamSize, Mathf.Min(maxCamSize, (mapRenderer.bounds.size.x / 2f) / cam.aspect));
+        camSize = cam.orthographicSize - zoomStep < minCamSize ? minCamSize : cam.orthographicSize - zoomStep;
+        cam.orthographicSize = Mathf.Clamp(camSize, minCamSize, Mathf.Min(maxCamSize, (MapRenderer.bounds.size.x / 2f) / cam.aspect));
         cam.transform.position = ClampCamera(cam.transform.position);
     }
 
     public void ZoomOut()
     {
-        camSize = cam.orthographicSize + zoomStep;
-
-        cam.orthographicSize = Mathf.Clamp(camSize, minCamSize, Mathf.Min(maxCamSize, (mapRenderer.bounds.size.x / 2f) / cam.aspect));
+        camSize = cam.orthographicSize + zoomStep > maxCamSize ? maxCamSize : cam.orthographicSize + zoomStep;
+        cam.orthographicSize = Mathf.Clamp(camSize, minCamSize, Mathf.Min(maxCamSize, (MapRenderer.bounds.size.x / 2f) / cam.aspect));
         cam.transform.position = ClampCamera(cam.transform.position);
     }
 
@@ -86,7 +82,7 @@ public class MapViewCameraMovement : MonoBehaviour
     {
         if (camSize < maxCamSize / 2)
         {
-            LeanTween.value(cam.gameObject, camSize, maxCamSize * camResizeRatio, 1f)
+            LeanTween.value(cam.gameObject, camSize, maxCamSize * CamResizeRatio, 1f)
                 .setEaseOutCubic()
                 .setOnUpdate((float newCamSize) => cam.orthographicSize = newCamSize);
         }
@@ -101,18 +97,29 @@ public class MapViewCameraMovement : MonoBehaviour
         };
     }
 
+    private void ConfigureCameraSettings()
+    {
+        var mapSizeDeltaAvg = (MapViewCamera.MapSelectionToView.MapGameObject.GetComponent<RectTransform>().sizeDelta.x +
+                               MapViewCamera.MapSelectionToView.MapGameObject.GetComponent<RectTransform>().sizeDelta.y) / 2;
+        maxCamSize = 0.2f * mapSizeDeltaAvg;
+        minCamSize = maxCamSize * 0.3f;
+        camSize = (maxCamSize + minCamSize) / 2;
+        cam.orthographicSize = Mathf.Clamp(camSize, minCamSize, Mathf.Min(maxCamSize, (MapRenderer.bounds.size.x / 2f) / cam.aspect));
+        zoomStep = (maxCamSize + minCamSize) / 20;
+    }
+
     private void ConfigureCameraForViewing()
     {
         var mapGameObjectToView = MapViewCamera.MapSelectionToView.MapGameObject;
         mapGameObjectToView.SetActive(true);
-        mapRenderer = mapGameObjectToView.GetComponent<SpriteRenderer>();
+        MapRenderer = mapGameObjectToView.GetComponent<SpriteRenderer>();
 
-        mapMinX = mapRenderer.transform.position.x - mapRenderer.bounds.size.x / 2f;
-        mapMaxX = mapRenderer.transform.position.x + mapRenderer.bounds.size.x / 2f;
-        mapMinY = mapRenderer.transform.position.y - mapRenderer.bounds.size.y / 2f;
-        mapMaxY = mapRenderer.transform.position.y + mapRenderer.bounds.size.y / 2f;
+        mapMinX = MapRenderer.transform.position.x - MapRenderer.bounds.size.x / 2f;
+        mapMaxX = MapRenderer.transform.position.x + MapRenderer.bounds.size.x / 2f;
+        mapMinY = MapRenderer.transform.position.y - MapRenderer.bounds.size.y / 2f;
+        mapMaxY = MapRenderer.transform.position.y + MapRenderer.bounds.size.y / 2f;
 
-        cam.orthographicSize = Mathf.Clamp(cam.orthographicSize, minCamSize, Mathf.Min(maxCamSize, (mapRenderer.bounds.size.x / 2f) / cam.aspect));
+        cam.orthographicSize = Mathf.Clamp(cam.orthographicSize, minCamSize, Mathf.Min(maxCamSize, (MapRenderer.bounds.size.x / 2f) / cam.aspect));
         ConfigureMapMarkerManager(MapViewCamera.MapSelectionToView);
     }
 
