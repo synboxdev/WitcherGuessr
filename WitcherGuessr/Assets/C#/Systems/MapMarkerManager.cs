@@ -142,7 +142,7 @@ public class MapMarkerManager : MonoBehaviour
     private bool IsCorrectLocationInSpecificArea()
     {
         var specificAreas = CorrectMapGameObject.transform.GetComponentsInChildren<PolygonCollider2D>();
-        return specificAreas.Any() ? specificAreas.Any(specificArea => specificArea.OverlapPoint(LocationMarker.transform.localPosition)) : false;
+        return specificAreas.Any() && specificAreas.Any(specificArea => specificArea.OverlapPoint(LocationMarker.transform.localPosition));
     }
 
     private void ConnectMarkers()
