@@ -1,13 +1,17 @@
+using System.IO;
 using System.Linq;
 using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.Video;
 
 public class UIManager_MainMenu : MonoBehaviour
 {
     private MapManager MapManager;
     private LocationManager LocationManager;
+    private const string BackgroundVideoName = "MainMenuBackgroundVideo.mp4";
 
+    public VideoPlayer VideoPlayer;
     public GameObject PlaySelectionMenu;
     public GameObject MapSelectionParentObject;
     public int currentMapSelectionIndex;
@@ -18,6 +22,11 @@ public class UIManager_MainMenu : MonoBehaviour
         LocationManager = FindObjectOfType<LocationManager>();
         SpawnMapSelectionButtons();
         PlaySelectionMenu.SetActive(false);
+    }
+
+    void Start()
+    {
+        VideoPlayer.url = Path.Combine(Application.streamingAssetsPath, BackgroundVideoName);
     }
 
     public void TogglePlaySelectionMenu()
