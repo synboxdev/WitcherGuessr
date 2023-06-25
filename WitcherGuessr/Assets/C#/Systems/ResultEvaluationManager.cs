@@ -30,7 +30,7 @@ public class ResultEvaluationManager : MonoBehaviour
 
     public string GetAccuracyPercentageText()
     {
-        return $"{UserGuessResults.UserGuesses.Select(x => x.Accuracy).DefaultIfEmpty(0).Average().ToString("0")}%";
+        return $"{UserGuessResults.UserGuesses.Select(x => x.Accuracy).DefaultIfEmpty(0).Average():0}%";
     }
 
     public bool GameShouldEnd()

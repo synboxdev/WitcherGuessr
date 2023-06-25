@@ -116,7 +116,7 @@ public class UIManager_Game : MonoBehaviour
     public void HandleUserGuessResultsToUI(UserGuessResults userGuessResults)
     {
         LocationNumberText.text = $"{userGuessResults.LocationNumber}";
-        AverageAccuracyText.text = $"{userGuessResults.UserGuesses.Select(x => x.Accuracy).DefaultIfEmpty(0).Average().ToString("0")}%";
+        AverageAccuracyText.text = $"{userGuessResults.UserGuesses.Select(x => x.Accuracy).DefaultIfEmpty(0).Average():0}%";
         AvailableAttemptsText.text = $"{userGuessResults.AvailableAttempts}";
     }
 
