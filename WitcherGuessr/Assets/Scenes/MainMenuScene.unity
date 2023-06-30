@@ -883,34 +883,57 @@ MonoBehaviour:
   - MapType: 1
     LocationsForViewing:
     - Index: 0
-      Coordinates: {x: 0, y: 0}
-      Name: Test location name
-      Description: test location desciprtion
-      PanoramicImage: {fileID: 21300000, guid: 06dfe88b7d734a347930d3b939d66d51, type: 3}
+      Coordinates: {x: 1.5, y: -0.7}
+      Name: White Orchard
+      Description: east of woesong bridge
+      PanoramicImage: {fileID: 21300000, guid: 5a5b4244b28172b45b0a225e33a39170, type: 3}
     - Index: 0
-      Coordinates: {x: 0, y: 0}
-      Name: Test location name2
-      Description: test location desciprtion2
-      PanoramicImage: {fileID: 21300000, guid: f3c54852a3d554746849aa922e33bf5c, type: 3}
+      Coordinates: {x: -2.35, y: 0.15}
+      Name: White Orchard
+      Description: nearby woesong bridge signpost
+      PanoramicImage: {fileID: 21300000, guid: 084f2363b78ac504fb6d45d9049de0f3, type: 3}
+    - Index: 0
+      Coordinates: {x: 31.41, y: 9.41}
+      Name: White Orchard
+      Description: south of battlefield
+      PanoramicImage: {fileID: 21300000, guid: 86da006c138052c41889c25e0f802d92, type: 3}
+    - Index: 0
+      Coordinates: {x: -6.12, y: 18.58}
+      Name: White Orchard
+      Description: east of mill
+      PanoramicImage: {fileID: 21300000, guid: 53feb7508e171714bacf38452ca36c70, type: 3}
+    - Index: 0
+      Coordinates: {x: -10.86, y: 21.68}
+      Name: White Orchard
+      Description: White Orchard's cemetery
+      PanoramicImage: {fileID: 21300000, guid: 641e07b21ecd0f347bcd6f739a5edc48, type: 3}
   - MapType: 2
     LocationsForViewing:
     - Index: 0
-      Coordinates: {x: -13, y: 23}
-      Name: Test location name3
-      Description: test location desciprtion3
-      PanoramicImage: {fileID: 21300000, guid: 06dfe88b7d734a347930d3b939d66d51, type: 3}
+      Coordinates: {x: -20.4, y: 23.5}
+      Name: novigrad city
+      Description: abandoned warehouse near the Novigrad Docks
+      PanoramicImage: {fileID: 21300000, guid: 888191650a9ad7144b615a5eb39c8af3, type: 3}
     - Index: 0
-      Coordinates: {x: 0, y: 0}
-      Name: Test location name4
-      Description: test location desciprtion4
-      PanoramicImage: {fileID: 21300000, guid: f3c54852a3d554746849aa922e33bf5c, type: 3}
-  - MapType: 6
-    LocationsForViewing:
+      Coordinates: {x: -14.1, y: 27.17}
+      Name: novigrad city
+      Description: fish market near the city center
+      PanoramicImage: {fileID: 21300000, guid: e6e088d5e0901e3418c11e251a36fb02, type: 3}
     - Index: 0
-      Coordinates: {x: 0, y: 0}
-      Name: Test location name4
-      Description: test location desciprtion4
-      PanoramicImage: {fileID: 21300000, guid: f3c54852a3d554746849aa922e33bf5c, type: 3}
+      Coordinates: {x: -9.7, y: 23.1}
+      Name: Farcorners district
+      Description: just outside gate of the hierarch
+      PanoramicImage: {fileID: 21300000, guid: 0d5720320c2f2fc4ca8f7c3b4d0a1751, type: 3}
+    - Index: 0
+      Coordinates: {x: 16, y: 21.85}
+      Name: East of Novigrad city
+      Description: stables at the vegelbud residence
+      PanoramicImage: {fileID: 21300000, guid: cad6f09d2a755244b9734a4dbfcfaa2b, type: 3}
+    - Index: 0
+      Coordinates: {x: 9.27, y: 36.67}
+      Name: Northeast of Honeyfill Meadworks
+      Description: Moldavie Residence manor
+      PanoramicImage: {fileID: 21300000, guid: 291e3c7438fb8e3478b060ca0e9dee32, type: 3}
 --- !u!1 &556506242
 GameObject:
   m_ObjectHideFlags: 0
@@ -1080,7 +1103,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1088783797}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 556506244}
+        m_TargetAssemblyTypeName: UIManager_MainMenu, Assembly-CSharp
+        m_MethodName: ApplicationQuit
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1088783797
 MonoBehaviour:
   m_ObjectHideFlags: 0
