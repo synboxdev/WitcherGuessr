@@ -29,6 +29,11 @@ public class UIManager_MainMenu : MonoBehaviour
         VideoPlayer.url = Path.Combine(Application.streamingAssetsPath, BackgroundVideoName);
     }
 
+    public void ApplicationQuit()
+    {
+        Application.Quit();
+    }
+
     public void TogglePlaySelectionMenu()
     {
         PlaySelectionMenu.SetActive(!PlaySelectionMenu.activeInHierarchy);
