@@ -1,10 +1,10 @@
-# Contributing to 'Witcher Guessr'
+# <b>Contributing to 'Witcher Guessr'</b>
 
 First and foremost, I appreciate you being interested enough in this project to even consider contributing to it as a whole. The following contents of the document lay out the basic rules and guidelines about contributing to the project. That being said, by no means these are laws set in stone - follow your best judgment, and feel free to propose changes to this document, or the project itself. Any and all positive contributions are always welcome, including features, issues, documentation, guides, and more.
 
 ---
 
-## 📄 Table of contents
+## 📄 <b>Table of contents</b>
 
 * [Code of Conduct](#code-of-conduct)
 * [GitHub Terms of Service](#github-terms-of-service)
@@ -18,21 +18,21 @@ First and foremost, I appreciate you being interested enough in this project to 
 
 ---
 
-## Code of Conduct
+## <b>Code of Conduct</b>
 
 This project and everyone participating in it are governed by the [Code of Conduct](CODE_OF_CONDUCT.md). By participating and contributing the the project and its contents, you are expected to uphold this code.
 
 ---
 
-## Github Terms of Service
+## <b>Github Terms of Service</b>
 
 If it wasn't already clear - you should always follow [GitHub's terms of service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) not only when contributing to this project, but to any and all repositories on the platform - follow the rules
 
 ---
 
-## Guidelines of contribution
+## <b>Guidelines of contribution</b>
 
-## Choosing a location for panorama image
+## <b>Choosing a location for panorama image</b>
 
 Vastness and visual fidelity of [The Witcher 3: Wild Hunt](https://www.thewitcher.com) might make it difficult to choose a fitting location for a panorama image. Here's a few rules of thumb that I tend to follow, when choosing said location myself:
 
@@ -40,14 +40,14 @@ Vastness and visual fidelity of [The Witcher 3: Wild Hunt](https://www.thewitche
 
 * <b>A given location is recognizable.</b> Location of your choice should be possible to recognize because of either one of two reasons:
 
-    1. Its directly related to either a quest, or a point of interest, which would imply that people would've potentially stumbled upon when playing through the game.
-    2. There are recognizable visual cues that could help identifying a given location. A building, flag, statue, you name it - something that would help identify the surroundings and pinpoint a given location on the map.
+    * Its directly related to either a quest, or a point of interest, which would imply that people would've potentially stumbled upon when playing through the game.
+    * There are recognizable visual cues that could help identifying a given location. A building, flag, statue, you name it - something that would help identify the surroundings and pinpoint a given location on the map.
 
 * <b>A given location has a corresponding place on a map.</b> This is an extremely important point! Some locations in the game, despite being visually stunning, will not be valid to be added to the project, because of a simple reason - they can't be visualized on the map itself. For example, places different 'worlds' that you visit with Avallac'h during quest [Through Time and Space](https://witcher.fandom.com/wiki/Through_Time_and_Space) or cave systems either simply don't 'exist' on a map that player could open and identify, or are located 'outside the bounds' of a given map. Therefor, such locations simply will not be suitable for the project.
 
 ---
 
-## Visualizing the existing locations in the project
+## <b>Visualizing the existing locations in the project</b>
 
 There's a small functionality that I've developed for the sole purpose of making it easier to visualize where the existing locations for each map are located. This functionality exists and can be invoked only within Unity Engine editor. To utilize it, follow the steps below (assuming you've already installed the Unity Engine itself, and are able to follow along):
 
@@ -62,7 +62,7 @@ Small thing to note - if you open another map afterwards, initial 'Spawn all loc
 
 ---
 
-## Requirements for to-be-submitted panorama images
+## <b>Requirements for to-be-submitted panorama images</b>
 
 There are a few requirements that should be followed, when creating and submitting panorama images as a contribution to the project:
 
@@ -74,12 +74,12 @@ There are a few requirements that should be followed, when creating and submitti
 
 ---
 
-## Code conventions
+## <b>Code conventions</b>
 In order for the project to remain well-built and structured you should align with stylistic of the code in the repo already. Good place to start would be following [Microsoft C# Coding Conventions](https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions).
 
 ---
 
-## Issues
+## <b>Issues</b>
 I'd consider [GitHub Issues](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues) as a standardized and widely accepted way of contributing to the project and its contents. It covers everything from feature requests, bugs, suggestions to questions. If you wish to read further, GitHub documentation on [Creating an issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue) has got you covered. As a general rule of thumb, here's a few bullet-points I'd like you to follow, when creating an issues, regardless of its type:
 * Title of the issues should be clear, concise and descriptive.
 * Utilize existing [labels](https://docs.github.com/en/issues/using-labels-and-milestones-to-track-work/managing-labels) for your issues to be more informative. If you believe an additional label should be added - create an issue with a default label 'enhancement', where you'd explain what that new label should be, as well as provide reasoning as to why it should be added to the project.
@@ -88,7 +88,7 @@ I'd consider [GitHub Issues](https://docs.github.com/en/issues/tracking-your-wor
 
 ---
 
-## How to contribute
+## <b>How to contribute</b>
 
 1. Clone the repository and make a new branch. 'Getting started' section in [README.md](README.md) document might be a good starting point.
 2. Make any and all changes to your branch. Whatever that might be - a bugfix, a new functionality or addition of new locations.
