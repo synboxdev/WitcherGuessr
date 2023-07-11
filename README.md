@@ -1,6 +1,6 @@
-# Witcher Guessr
+# <b>Witcher Guessr</b>
 
-## 📄 Table of contents
+## 📄 <b>Table of contents</b>
 
 * [About the project](#about-the-project)
 * [Why Itch.io?](#why-itchio)
@@ -13,7 +13,7 @@
 
 ---
 
-## About the project
+## <b>About the project</b>
 
 'Witcher Guessr' is an unofficial map location guessing game, based entirely on [The Witcher 3: Wild Hunt](https://www.thewitcher.com) made by [CD Projekt Red](https://www.cdprojektred.com). Core gameplay loop revolves around carefully inspecting a 360° degree panorama image of a randomly selected place in game game world, and then accurately guessing its precise location in one of many maps from the game world.
 
@@ -21,7 +21,7 @@ Project is, and will for ever remain free and open-source, as an appreciation an
 
 ---
 
-## Why Itch.io?
+## <b>Why Itch.io?</b>
 
 Initially, the idea was to host this project directly here, on [GitHub Pages](https://pages.github.com/), how ever the [usage limits](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits) of GitHub pages makes this practically impossible, since build size of the project, primarily impacted by file sizes of high quality map images, and panorama images themselves exceeds the limits by a good amount.
 
@@ -31,13 +31,13 @@ That's why, the project currently is, and will likely remain as a downloadable e
 
 ---
 
-## Getting started
+## <b>Getting started</b>
 
-### If you wish to just simply play the game
+### <b>If you wish to just simply play the game</b>
 
 You can do so, by simply visiting project's page on Itch.io, downloading the game for free and playing it at your heart's content.
 
-### If you wish to actually inspect the project itself
+### <b>If you wish to actually inspect the project itself</b>
 
 Follow the steps described below:
 
@@ -69,7 +69,7 @@ Best of luck!
 
 ---
 
-## Contributing
+## <b>Contributing</b>
 
 Probably the most lacking aspect of this project is the lack of panorama images (locations). That's where you, the community, can easily help out!
 
@@ -79,7 +79,7 @@ Generally speaking, any and all positive contributions are welcome, including fe
 
 ---
 
-## Technology stack
+## <b>Technology stack</b>
 
 Technologies used for the development of the game project itself:
 
@@ -112,7 +112,7 @@ As you might already tell from the few points mentioned above - the process of c
 
 ---
 
-## Credits & Legalities
+## <b>Credits & Legalities
 
 As mentioned in the introductory description, this is an unofficial project, completely unrelated to [CD Projekt Red](https://www.cdprojektred.com). All assets related to The Witcher 3, logos, icons, maps, and in-game panorama images are property of [CD Projekt Red](https://www.cdprojektred.com) and were used without permission. The project was developed with the best efforts to follow the official [CD Projekt Red - Fan content guidelines](https://www.cdprojektred.com/en/fan-content) and the official [CD Projekt Red - User agreement](https://regulations.cdprojektred.com/en/user_agreement).
 
