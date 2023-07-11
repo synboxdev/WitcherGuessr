@@ -46,7 +46,7 @@ Follow the steps described below:
 2. Second of all, you must first clone the repository (download the project to your own machine). You can do this by a number of methods, here's two:
 
     * Method 1 - Downloading zipped repository and extracting it locally:
-[Download](https://github.com/synboxdev/Collection-of-coding-exercises/archive/refs/heads/master.zip) zipped repository, and extract the files to a folder of your choosing.
+[Download](https://github.com/synboxdev/WitcherGuessr/archive/refs/heads/main.zip) zipped repository, and extract the files to a folder of your choosing.
 
     * Method 2 - Using [Windows CLI](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd) to download the repository:
     1. Open up <b>Cmd.exe</b>
@@ -58,7 +58,7 @@ Follow the steps described below:
     3. Execute a command that clones (downloads a copy) the repository to your current directory
     <br><br>
     ```
-    git clone https://github.com/synboxdev/Collection-of-coding-exercises.git
+    git clone https://github.com/synboxdev/WitcherGuessr.git
     ```
 
 3. Next, you can now simply open the project with Unity Engine via Unity Hub by [Opening existing project](https://docs.unity3d.com/2021.1/Documentation/Manual/GettingStartedOpeningProjects.html). Press 'Open' in Unity Hub, and in File Explorer navigate inside the extracted folder (which will be named 'WitcherGuessr-main'), and select 'WitcherGuessr' folder to be opened.
