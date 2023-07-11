@@ -4,8 +4,14 @@
 
 * [About the project](#about-the-project)
 * [Why Itch.io?](#why-itchio)
+* [Getting started](#getting-started)
+    * [If you wish to just simply play the game](#if-you-wish-to-just-simply-play-the-game)
+    * [If you wish to actually inspect the project itself](#if-you-wish-to-actually-inspect-the-project-itself)
 * [Contributing](#Contributing)
 * [Technology stack](#technology-stack)
+* [Credits & Legalities](#credits--legalities)
+
+---
 
 ## About the project
 
@@ -23,6 +29,46 @@ That's where [Itch.io](https://itch.io/docs/general/about) comes into play - fre
 
 That's why, the project currently is, and will likely remain as a downloadable executable project. After any and all changes made to the project in this repository, the project will be updated in Itch.io page as well.
 
+---
+
+## Getting started
+
+### If you wish to just simply play the game
+
+You can do so, by simply visiting project's page on Itch.io, downloading the game for free and playing it at your heart's content.
+
+### If you wish to actually inspect the project itself
+
+Follow the steps described below:
+
+1. First, and foremost, you'll have to download & install the Unity Engine itself. You can do so by visiting their official [download page](https://unity.com/download).
+
+2. Second of all, you must first clone the repository (download the project to your own machine). You can do this by a number of methods, here's two:
+
+    * Method 1 - Downloading zipped repository and extracting it locally:
+[Download](https://github.com/synboxdev/Collection-of-coding-exercises/archive/refs/heads/master.zip) zipped repository, and extract the files to a folder of your choosing.
+
+    * Method 2 - Using [Windows CLI](https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/cmd) to download the repository:
+    1. Open up <b>Cmd.exe</b>
+    2. Navigate to an empty folder of your choosing
+    <br><br>
+    ```
+    cd C:\Users\DeveloperUser\Desktop\MyEmptyFolder
+    ```
+    3. Execute a command that clones (downloads a copy) the repository to your current directory
+    <br><br>
+    ```
+    git clone https://github.com/synboxdev/Collection-of-coding-exercises.git
+    ```
+
+3. Next, you can now simply open the project with Unity Engine via Unity Hub by [Opening existing project](https://docs.unity3d.com/2021.1/Documentation/Manual/GettingStartedOpeningProjects.html). Press 'Open' in Unity Hub, and in File Explorer navigate inside the extracted folder (which will be named 'WitcherGuessr-main'), and select 'WitcherGuessr' folder to be opened.
+
+4. Project will open up, and you'll be able to start it and inspect it inside the Unity Editor. 
+
+Best of luck!
+
+---
+
 ## Contributing
 
 Probably the most lacking aspect of this project is the lack of panorama images (locations). That's where you, the community, can easily help out!
@@ -30,6 +76,8 @@ Probably the most lacking aspect of this project is the lack of panorama images 
 On the off chance that you own an NVIDIA graphics card (which I unfortunately do not) - you could probably use [NVIDIA Ansel](https://www.nvidia.com/en-us/geforce/geforce-experience/ansel/) which fortunately supports [The Witcher 3: Wild Hunt](https://www.nvidia.com/en-us/geforce/geforce-experience/games/) and could be used to take high quality, 360° degree panorama images that could be added to this project. I have not had a chance to try this piece of software, but by the looks of it, it could be extremely useful to the development of this project. 
 
 Generally speaking, any and all positive contributions are welcome, including features, bugfixes and of course - panorama images themselves. See [contributing documentation](CONTRIBUTING.md) for more details.
+
+---
 
 ## Technology stack
 
@@ -42,7 +90,7 @@ Technologies used for the development of the game project itself:
 
 Technologies used for creating in-game panorama images (A terrible way of doing it. Reasoning and the process behind it are explained below):
 
-* #### Modded [The Witcher 3: Wild Hunt](https://www.thewitcher.com/lt/en/witcher3)
+* #### Modded [The Witcher 3: Wild Hunt](https://www.thewitcher.com)
 * #### [Open Broadcaster Software](https://obsproject.com/)
 * #### [Microsoft Image Composite Editor](https://www.microsoft.com/en-us/research/project/image-composite-editor/)
 
@@ -61,6 +109,8 @@ As you might already tell from the few points mentioned above - the process of c
 1. <b>Creating each individual panorama takes way too much time.</b> Depending on the speed of your workflow, and performance of your machine, each attempt at creating the panorama image (recording a 360° degree video), processing it with [Microsoft Image Composite Editor](https://www.microsoft.com/en-us/research/project/image-composite-editor/) might take upwards of 5-10 minutes. And realistically, it takes probably around 20-30 attempts per location, for you to end up with at least an 'OK' quality panorama image.
 2. <b>Most processed panorama images by [Microsoft Image Composite Editor](https://www.microsoft.com/en-us/research/project/image-composite-editor/) end up being 'glitched'.</b> To elaborate - overlapping frames being distorted, objects being multiplied or faded. This roots back into the first point, because of many many repeated attempts being necessary.
 3. <b>Quality of the final panorama image is still bad.</b> Overall image quality still remains low, almost regardless of in-game graphics quality settings, recording software settings for quality and framerate, and limited configuration and settings of the [Microsoft Image Composite Editor](https://www.microsoft.com/en-us/research/project/image-composite-editor/).
+
+---
 
 ## Credits & Legalities
 
