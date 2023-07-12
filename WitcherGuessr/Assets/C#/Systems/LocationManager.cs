@@ -7,19 +7,16 @@ public class LocationManager : MonoBehaviour
 {
     private ImageInitializationManager ImageInitializationManager = null;
     private KeyValuePair<MapType, Location>? CurrentLocation = null;
+    private MapType MapTypeForLocations;
+    private List<KeyValuePair<MapType, Location>> Locations;
 
     public List<LocationSelection> LocationSelections;
-
-    void Awake()
-    {
-        SetLocationIndexes();
-    }
 
     public void InitializeLocationForViewing(MapType? mapType)
     {
         ImageInitializationManager = FindObjectOfType<ImageInitializationManager>();
 
-        CurrentLocation = GetLocation(mapType, null);
+        CurrentLocation = GetLocation();
         ImageInitializationManager.SetNewImage(CurrentLocation.Value.Value.PanoramicImage);
     }
 
@@ -28,52 +25,29 @@ public class LocationManager : MonoBehaviour
         return CurrentLocation;
     }
 
-    private KeyValuePair<MapType, Location> GetLocation(MapType? mapType, int? locationIndex)
+    public void InitializeLocationList(MapType mapType)
     {
-        var chosenMap = GetMap(mapType);
-        var chosenLocation = GetLocation(chosenMap, locationIndex);
-        return new KeyValuePair<MapType, Location>(chosenMap.MapType, chosenLocation);
-    }
+        MapTypeForLocations = mapType;
+        Locations = new();
 
-    private LocationSelection GetMap(MapType? mapType)
-    {
-        LocationSelection locationSelection = null;
-
-        if (mapType != null &&
-            LocationSelections.Any(x => x.MapType == mapType) &&
-            LocationSelections.FirstOrDefault(x => x.MapType == mapType).LocationsForViewing.Any())
-        {
-            locationSelection = LocationSelections.FirstOrDefault(x => x.MapType == mapType);
-        }
+        if (mapType == MapType.AllMaps)
+            LocationSelections.ForEach(x => x.LocationsForViewing
+                              .ForEach(y => Locations.Add(new KeyValuePair<MapType, Location>(x.MapType, y))));
         else
-        {
-            var potentialMaps = LocationSelections.Where(x => x.LocationsForViewing.Any()).ToList();
-            locationSelection = potentialMaps.OrderBy(x => Guid.NewGuid()).FirstOrDefault();
-        }
+            LocationSelections.FirstOrDefault(x => x.MapType == mapType).LocationsForViewing
+                              .ForEach(x => Locations.Add(new KeyValuePair<MapType, Location>(mapType, x)));
 
-        return locationSelection;
+        Locations = Locations.OrderBy(x => Guid.NewGuid()).ToList();
     }
 
-    private Location GetLocation(LocationSelection chosenMap, int? locationIndex)
+    private KeyValuePair<MapType, Location> GetLocation()
     {
-        if (locationIndex != null)
-            return chosenMap.LocationsForViewing[(int)locationIndex];
+        if (Locations == null || !Locations.Any())
+            InitializeLocationList(MapTypeForLocations);
 
-        if (CurrentLocation.HasValue)
-        {
-            var potentialLocations = chosenMap.LocationsForViewing.Where(potentialLocation => potentialLocation.Index != CurrentLocation.Value.Value.Index).ToList();
-            return potentialLocations.Any() ?
-                   potentialLocations.OrderBy(x => Guid.NewGuid()).FirstOrDefault() :
-                   chosenMap.LocationsForViewing.OrderBy(x => Guid.NewGuid()).FirstOrDefault();
-        }
-        else
-            return chosenMap.LocationsForViewing.OrderBy(x => Guid.NewGuid()).FirstOrDefault();
-    }
+        var locationToTakeAndRemove = Locations.FirstOrDefault();
+        Locations.Remove(locationToTakeAndRemove);
 
-    private void SetLocationIndexes()
-    {
-        foreach (var area in LocationSelections)
-            for (int i = 0; i < area.LocationsForViewing.Count; i++)
-                area.LocationsForViewing[i].Index = i;
+        return locationToTakeAndRemove;
     }
 }

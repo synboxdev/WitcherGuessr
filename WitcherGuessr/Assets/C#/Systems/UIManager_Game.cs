@@ -59,6 +59,7 @@ public class UIManager_Game : MonoBehaviour
     void Start()
     {
         mapSelection = GlobalManager.GetMapSelection();
+        LocationManager.InitializeLocationList(mapSelection.MapType);
         InitializeUI();
         ConfigureGuessLocationButton();
     }
@@ -92,11 +93,6 @@ public class UIManager_Game : MonoBehaviour
 
             HandleLocationDetailsCardDisplay();
         }
-    }
-
-    public void InitializeNextLocation()
-    {
-        InitializeLocation();
     }
 
     public void GoToNextLocation()
