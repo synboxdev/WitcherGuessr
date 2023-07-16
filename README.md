@@ -112,7 +112,7 @@ As you might already tell from the few points mentioned above - the process of c
 
 ---
 
-## <b>Credits & Legalities
+## <b>Credits & Legalities</b>
 
 As mentioned in the introductory description, this is an unofficial project, completely unrelated to [CD Projekt Red](https://www.cdprojektred.com). All assets related to The Witcher 3, logos, icons, maps, and in-game panorama images are property of [CD Projekt Red](https://www.cdprojektred.com) and were used without permission. The project was developed with the best efforts to follow the official [CD Projekt Red - Fan content guidelines](https://www.cdprojektred.com/en/fan-content) and the official [CD Projekt Red - User agreement](https://regulations.cdprojektred.com/en/user_agreement).
 

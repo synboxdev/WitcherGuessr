@@ -36,14 +36,14 @@ If it wasn't already clear - you should always follow [GitHub's terms of service
 
 Vastness and visual fidelity of [The Witcher 3: Wild Hunt](https://www.thewitcher.com) might make it difficult to choose a fitting location for a panorama image. Here's a few rules of thumb that I tend to follow, when choosing said location myself:
 
-* <b>A given location does not exist in the project.</b> It should be relatively unique in comparison to the already existing locations in the project. Moving a few steps from an existing location and swapping to a different time of day, or adding weather effects can't be considered as a 'unique' location. See section [Visualizing the existing locations in the project](#visualizing-the-existing-locations-in-the-project) below.
+* <b>A given location does not exist in the project OR to-be-submitted panorama of an already existing location (or extremely close by) is higher quality.</b> It should be relatively unique in comparison to the already existing locations in the project. Moving a few steps from an existing location and swapping to a different time of day, or adding weather effects can't be considered as a 'unique' location. Either choose a location that is truly unique in comparison to already existing ones, or clearly state that your submitted panorama image should be a replacement for an already existing location. See section [Visualizing the existing locations in the project](#visualizing-the-existing-locations-in-the-project) below for more information.
 
 * <b>A given location is recognizable.</b> Location of your choice should be possible to recognize because of either one of two reasons:
 
     * Its directly related to either a quest, or a point of interest, which would imply that people would've potentially stumbled upon when playing through the game.
     * There are recognizable visual cues that could help identifying a given location. A building, flag, statue, you name it - something that would help identify the surroundings and pinpoint a given location on the map.
 
-* <b>A given location has a corresponding place on a map.</b> This is an extremely important point! Some locations in the game, despite being visually stunning, will not be valid to be added to the project, because of a simple reason - they can't be visualized on the map itself. For example, places different 'worlds' that you visit with Avallac'h during quest [Through Time and Space](https://witcher.fandom.com/wiki/Through_Time_and_Space) or cave systems either simply don't 'exist' on a map that player could open and identify, or are located 'outside the bounds' of a given map. Therefor, such locations simply will not be suitable for the project.
+* <b>A given location has a corresponding place on a map.</b> This is an extremely important point! Some locations in the game, despite being visually stunning, will not be valid to be added to the project, because of a simple reason - they can't be pinpointed on the map itself. For example, places like different 'worlds' that you visit with Avallac'h during quest [Through Time and Space](https://witcher.fandom.com/wiki/Through_Time_and_Space) or cave systems either simply don't 'exist' on a map that player could open and identify, are located 'outside the bounds' of a given map, or merely have a mini-map display, and display you somewhere 'under' the map when you open an actual map menu. Therefor, such locations simply will not be suitable for the project.
 
 ---
 
@@ -55,7 +55,7 @@ There's a small functionality that I've developed for the sole purpose of making
 2. Start the project via the 'Play' button in the editor.
 3. In-game, press 'Play' in the main menu, select 'All maps', and press 'Play'.
 4. Once you're in-game, and some panorama image is loaded, press 'Guess the location', and choose a map for which you want to visualize all the existing locations.
-5. From the Unity's main menu, press 'Custom' -> 'Spawn all location of current map'.
+5. From the Unity's main menu, press 'Custom' -> 'Spawn all locations of current map'.
 6. Blue markers will be placed in the entire current map for you to see!
 
 Small thing to note - if you open another map afterwards, initial 'Spawn all location of current map' selection will de-spawn the location markers on the previous map. It works like a 'toggle', so you'll have to press it once more, to spawn the location markers in the current map.

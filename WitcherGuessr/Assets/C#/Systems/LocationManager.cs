@@ -12,6 +12,11 @@ public class LocationManager : MonoBehaviour
 
     public List<LocationSelection> LocationSelections;
 
+    void Awake()
+    {
+        SetLocationIndexes();
+    }
+
     public void InitializeLocationForViewing(MapType? mapType)
     {
         ImageInitializationManager = FindObjectOfType<ImageInitializationManager>();
@@ -49,5 +54,12 @@ public class LocationManager : MonoBehaviour
         Locations.Remove(locationToTakeAndRemove);
 
         return locationToTakeAndRemove;
+    }
+
+    private void SetLocationIndexes()
+    {
+        foreach (var area in LocationSelections)
+            for (int i = 0; i < area.LocationsForViewing.Count; i++)
+                area.LocationsForViewing[i].Index = i;
     }
 }

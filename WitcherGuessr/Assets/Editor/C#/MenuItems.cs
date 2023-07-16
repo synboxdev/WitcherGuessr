@@ -40,19 +40,18 @@ public class MenuItems : MonoBehaviour
             }
 
             var gameObjectOfCurrentMap = _currentMapSelection.MapGameObject;
-            allLocationsHolder = Instantiate(new GameObject("_AllLocationHolder"), gameObjectOfCurrentMap.transform);
+            allLocationsHolder = new GameObject("_AllLocationHolder");
+            allLocationsHolder.transform.SetParent(gameObjectOfCurrentMap.transform);
 
             foreach (var location in _allLocationsOfCurrentMap)
             {
                 var _location = Instantiate(MapMarkerManager.LocationMarkerPrefab, allLocationsHolder.transform);
                 _location.GetComponent<SpriteRenderer>().color = Color.cyan;
-                _location.name = location.Coordinates.ToString();
+                _location.name = $"[{location.Index}] - [{location.Coordinates}]";
                 _location.transform.position = new Vector3(location.Coordinates.x, location.Coordinates.y, -1f);
             }
-
         }
         else
             Destroy(allLocationsHolder);
-
     }
 }
