@@ -34,9 +34,6 @@ public class ImageInitializationManager : MonoBehaviour
         secondImageObjectRect.sizeDelta = new Vector2((float)Math.Round(ImageSprite.rect.width * scaleFactor),
                                                       (float)Math.Round(ImageSprite.rect.height * scaleFactor));
 
-        secondImageObjectRect.position = new Vector2(-secondImageObjectRect.sizeDelta.x + Screen.width,
-                                                      secondImageObjectRect.position.y);
-
         // Post-initialization
         firstImageObject.GetComponent<DragObject>().NeighborRect = secondImageObjectRect;
         secondImageObject.GetComponent<DragObject>().NeighborRect = firstImageObjectRect;

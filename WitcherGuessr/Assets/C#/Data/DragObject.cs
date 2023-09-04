@@ -23,9 +23,9 @@ public class DragObject : MonoBehaviour, IDragHandler, IBeginDragHandler, IEndDr
                 transform.position = new Vector2(transform.position.x + DistanceBetweenDiff, transform.position.y);
         }
 
-        if (transform.position.x > thisRect.sizeDelta.x)
+        if (thisRect.anchoredPosition.x > thisRect.sizeDelta.x)
             Reposition(Side.Left);
-        else if (Mathf.Abs(transform.position.x) > thisRect.sizeDelta.x)
+        if (thisRect.anchoredPosition.x < -thisRect.sizeDelta.x)
             Reposition(Side.Right);
     }
 
@@ -39,7 +39,6 @@ public class DragObject : MonoBehaviour, IDragHandler, IBeginDragHandler, IEndDr
     {
         if (side == Side.Left)
             thisRect.position = new Vector2(-thisRect.sizeDelta.x + Screen.width, thisRect.position.y);
-
         if (side == Side.Right)
             transform.position = new Vector2(thisRect.sizeDelta.x, thisRect.position.y);
     }

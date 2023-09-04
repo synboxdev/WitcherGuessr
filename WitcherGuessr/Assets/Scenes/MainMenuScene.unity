@@ -881,38 +881,65 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   LocationSelections:
   - MapType: 1
+    DefaultLocationName: White Orchard
     LocationsForViewing:
     - Index: 0
       Coordinates: {x: 1.5, y: -0.7}
-      Name: White Orchard
+      Name: 
       Description: east of woesong bridge
       PanoramicImage: {fileID: 21300000, guid: 5a5b4244b28172b45b0a225e33a39170, type: 3}
     - Index: 0
       Coordinates: {x: -2.35, y: 0.15}
-      Name: White Orchard
-      Description: nearby woesong bridge signpost
+      Name: 
+      Description: woesong bridge signpost
       PanoramicImage: {fileID: 21300000, guid: 084f2363b78ac504fb6d45d9049de0f3, type: 3}
     - Index: 0
       Coordinates: {x: 31.41, y: 9.41}
-      Name: White Orchard
+      Name: 
       Description: south of battlefield
       PanoramicImage: {fileID: 21300000, guid: 86da006c138052c41889c25e0f802d92, type: 3}
     - Index: 0
       Coordinates: {x: -6.12, y: 18.58}
-      Name: White Orchard
-      Description: east of mill
+      Name: 
+      Description: next to mill
       PanoramicImage: {fileID: 21300000, guid: 53feb7508e171714bacf38452ca36c70, type: 3}
     - Index: 0
       Coordinates: {x: -10.86, y: 21.68}
-      Name: White Orchard
-      Description: White Orchard's cemetery
+      Name: 
+      Description: White Orchard cemetery
       PanoramicImage: {fileID: 21300000, guid: 641e07b21ecd0f347bcd6f739a5edc48, type: 3}
+    - Index: 0
+      Coordinates: {x: 4.35, y: 21.2}
+      Name: 
+      Description: east of mill
+      PanoramicImage: {fileID: 21300000, guid: e69749e46d9d68745967fd87bdcb84ab, type: 3}
+    - Index: 0
+      Coordinates: {x: 11.2, y: 27.25}
+      Name: 
+      Description: spy's camp and 'deserter gold' quest
+      PanoramicImage: {fileID: 21300000, guid: 2709b8a53cfedf14986ff1bfaa2e24ef, type: 3}
+    - Index: 0
+      Coordinates: {x: -7.3, y: -22.2}
+      Name: 
+      Description: Abandoned Village
+      PanoramicImage: {fileID: 21300000, guid: ac51376502d48134497cf9ca05fb6e83, type: 3}
+    - Index: 0
+      Coordinates: {x: -8.55, y: -0.95}
+      Name: 
+      Description: White Orchard village
+      PanoramicImage: {fileID: 21300000, guid: 2652d3fbc99bd584480377d605bfbbe3, type: 3}
+    - Index: 0
+      Coordinates: {x: -33.3, y: 1.71}
+      Name: 
+      Description: sawmill signpost
+      PanoramicImage: {fileID: 21300000, guid: 379a8eb15421fa54ea5416844cf4a566, type: 3}
   - MapType: 2
+    DefaultLocationName: Velen - no man's land
     LocationsForViewing:
     - Index: 0
       Coordinates: {x: -20.4, y: 23.5}
       Name: novigrad city
-      Description: abandoned warehouse near the Novigrad Docks
+      Description: abandoned warehouse at the Novigrad Docks
       PanoramicImage: {fileID: 21300000, guid: 888191650a9ad7144b615a5eb39c8af3, type: 3}
     - Index: 0
       Coordinates: {x: -14.1, y: 27.17}
@@ -926,14 +953,16 @@ MonoBehaviour:
       PanoramicImage: {fileID: 21300000, guid: 0d5720320c2f2fc4ca8f7c3b4d0a1751, type: 3}
     - Index: 0
       Coordinates: {x: 16, y: 21.85}
-      Name: East of Novigrad city
+      Name: 
       Description: stables at the vegelbud residence
       PanoramicImage: {fileID: 21300000, guid: cad6f09d2a755244b9734a4dbfcfaa2b, type: 3}
     - Index: 0
       Coordinates: {x: 9.27, y: 36.67}
-      Name: Northeast of Honeyfill Meadworks
+      Name: 
       Description: Moldavie Residence manor
       PanoramicImage: {fileID: 21300000, guid: 291e3c7438fb8e3478b060ca0e9dee32, type: 3}
+  IndexFrom: 3
+  IndexTo: 3
 --- !u!1 &556506242
 GameObject:
   m_ObjectHideFlags: 0
