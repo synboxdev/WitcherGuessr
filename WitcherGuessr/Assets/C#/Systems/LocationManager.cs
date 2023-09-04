@@ -11,10 +11,11 @@ public class LocationManager : MonoBehaviour
     private List<KeyValuePair<MapType, Location>> Locations;
 
     public List<LocationSelection> LocationSelections;
+    public int IndexFrom, IndexTo;
 
     void Awake()
     {
-        SetLocationIndexes();
+        SetInitialConfiguration();
     }
 
     public void InitializeLocationForViewing(MapType? mapType)
@@ -42,7 +43,8 @@ public class LocationManager : MonoBehaviour
             LocationSelections.FirstOrDefault(x => x.MapType == mapType).LocationsForViewing
                               .ForEach(x => Locations.Add(new KeyValuePair<MapType, Location>(mapType, x)));
 
-        Locations = Locations.OrderBy(x => Guid.NewGuid()).ToList();
+        //Locations = Locations.OrderBy(x => Guid.NewGuid()).ToList();
+        Locations = Locations.Where(x => x.Value.Index >= IndexFrom && x.Value.Index <= IndexTo).OrderBy(x => Guid.NewGuid()).ToList();
     }
 
     private KeyValuePair<MapType, Location> GetLocation()
@@ -56,10 +58,23 @@ public class LocationManager : MonoBehaviour
         return locationToTakeAndRemove;
     }
 
+    private void SetInitialConfiguration()
+    {
+        SetLocationIndexes();
+        SetDefaultLocationNames();
+    }
+
     private void SetLocationIndexes()
     {
         foreach (var area in LocationSelections)
             for (int i = 0; i < area.LocationsForViewing.Count; i++)
                 area.LocationsForViewing[i].Index = i;
+    }
+
+    private void SetDefaultLocationNames()
+    {
+        foreach (var area in LocationSelections)
+            foreach (var locationWithoutName in area.LocationsForViewing.Where(location => string.IsNullOrEmpty(location.Name.Trim())))
+                locationWithoutName.Name = area.DefaultLocationName;
     }
 }
