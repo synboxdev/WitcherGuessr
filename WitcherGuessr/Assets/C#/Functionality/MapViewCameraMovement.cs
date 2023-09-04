@@ -68,24 +68,13 @@ public class MapViewCameraMovement : MonoBehaviour
     public void HandleCameraMovement(Vector3 endPosition)
     {
         HandleCameraReposition(endPosition);
-        HandleCameraResizing();
     }
 
     private void HandleCameraReposition(Vector3 endPosition)
     {
         LeanTween.value(cam.gameObject, cam.transform.position, endPosition, 1f)
                  .setEaseOutCubic()
-                 .setOnUpdate((Vector3 newPosition) => cam.transform.position = new Vector3(newPosition.x, newPosition.y, cam.transform.position.z));
-    }
-
-    private void HandleCameraResizing()
-    {
-        if (camSize < maxCamSize / 2)
-        {
-            LeanTween.value(cam.gameObject, camSize, maxCamSize * CamResizeRatio, 1f)
-                .setEaseOutCubic()
-                .setOnUpdate((float newCamSize) => cam.orthographicSize = newCamSize);
-        }
+                 .setOnUpdate((Vector3 newPosition) => cam.transform.position = ClampCamera(new Vector3(newPosition.x, newPosition.y, cam.transform.position.z)));
     }
 
     private void InitializeMapViewCamera()
@@ -105,6 +94,7 @@ public class MapViewCameraMovement : MonoBehaviour
         minCamSize = maxCamSize * 0.2f;
         camSize = (maxCamSize + minCamSize) / 2;
         cam.orthographicSize = Mathf.Clamp(camSize, minCamSize, Mathf.Min(maxCamSize, (MapRenderer.bounds.size.x / 2f) / cam.aspect));
+        cam.transform.position = new Vector3(0, 0, cam.transform.position.z);
         zoomStep = (maxCamSize + minCamSize) / 20;
     }
 

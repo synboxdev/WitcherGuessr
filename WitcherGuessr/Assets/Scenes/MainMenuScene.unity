@@ -961,8 +961,6 @@ MonoBehaviour:
       Name: 
       Description: Moldavie Residence manor
       PanoramicImage: {fileID: 21300000, guid: 291e3c7438fb8e3478b060ca0e9dee32, type: 3}
-  IndexFrom: 3
-  IndexTo: 3
 --- !u!1 &556506242
 GameObject:
   m_ObjectHideFlags: 0

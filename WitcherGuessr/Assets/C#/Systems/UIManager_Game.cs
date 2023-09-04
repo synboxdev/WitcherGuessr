@@ -215,7 +215,7 @@ public class UIManager_Game : MonoBehaviour
 
     private void InitializeLocation()
     {
-        LocationManager.InitializeLocationForViewing(mapSelection.MapType);
+        LocationManager.InitializeLocationForViewing();
     }
 
     private GameObject InitializeMap(MapSelection mapToInitialize)

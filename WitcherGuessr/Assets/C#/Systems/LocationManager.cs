@@ -11,14 +11,13 @@ public class LocationManager : MonoBehaviour
     private List<KeyValuePair<MapType, Location>> Locations;
 
     public List<LocationSelection> LocationSelections;
-    public int IndexFrom, IndexTo;
 
     void Awake()
     {
         SetInitialConfiguration();
     }
 
-    public void InitializeLocationForViewing(MapType? mapType)
+    public void InitializeLocationForViewing()
     {
         ImageInitializationManager = FindObjectOfType<ImageInitializationManager>();
 
@@ -43,8 +42,7 @@ public class LocationManager : MonoBehaviour
             LocationSelections.FirstOrDefault(x => x.MapType == mapType).LocationsForViewing
                               .ForEach(x => Locations.Add(new KeyValuePair<MapType, Location>(mapType, x)));
 
-        //Locations = Locations.OrderBy(x => Guid.NewGuid()).ToList();
-        Locations = Locations.Where(x => x.Value.Index >= IndexFrom && x.Value.Index <= IndexTo).OrderBy(x => Guid.NewGuid()).ToList();
+        Locations = Locations.OrderBy(x => Guid.NewGuid()).ToList();
     }
 
     private KeyValuePair<MapType, Location> GetLocation()
