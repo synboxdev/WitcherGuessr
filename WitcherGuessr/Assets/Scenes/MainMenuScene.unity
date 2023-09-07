@@ -933,6 +933,81 @@ MonoBehaviour:
       Name: 
       Description: sawmill signpost
       PanoramicImage: {fileID: 21300000, guid: 379a8eb15421fa54ea5416844cf4a566, type: 3}
+    - Index: 0
+      Coordinates: {x: -37.2, y: 28.65}
+      Name: 
+      Description: inside of nilfgaardian garrison
+      PanoramicImage: {fileID: 21300000, guid: c7427ee988bf88f41963193af599a69c, type: 3}
+    - Index: 0
+      Coordinates: {x: -35.2, y: 36.9}
+      Name: 
+      Description: island north of nilfgaardian garrison
+      PanoramicImage: {fileID: 21300000, guid: 949df4561f8ceed41bce1bcd2bc69bd2, type: 3}
+    - Index: 0
+      Coordinates: {x: -13.75, y: 33.71}
+      Name: 
+      Description: harpy monster nest
+      PanoramicImage: {fileID: 21300000, guid: 0649232e08521324ca1d8dcc273a9e49, type: 3}
+    - Index: 0
+      Coordinates: {x: 4.52, y: 1.73}
+      Name: 
+      Description: farmer's hut, east of white orchard village
+      PanoramicImage: {fileID: 21300000, guid: 0694e1f10c20c414fab0ab94dddaa82c, type: 3}
+    - Index: 0
+      Coordinates: {x: 30.65, y: 18.23}
+      Name: 
+      Description: alghoul monster nest, east of cackler bridge
+      PanoramicImage: {fileID: 21300000, guid: 4df7a62d1b9edde4dab261252c4954a2, type: 3}
+    - Index: 0
+      Coordinates: {x: 30.9, y: -7.1}
+      Name: 
+      Description: ransacked village
+      PanoramicImage: {fileID: 21300000, guid: 693ca80667b038d4d865141d6bddd37e, type: 3}
+    - Index: 0
+      Coordinates: {x: 13.41, y: -1.2}
+      Name: 
+      Description: ford signpost
+      PanoramicImage: {fileID: 21300000, guid: 732c8e6908d95844ab3f0b7bf257e453, type: 3}
+    - Index: 0
+      Coordinates: {x: 8.8, y: -17}
+      Name: 
+      Description: abandoned site, next to Shrine of Melitele
+      PanoramicImage: {fileID: 21300000, guid: c6c7df3167b1beb4b9704558b4b73114, type: 3}
+    - Index: 0
+      Coordinates: {x: -0.5, y: -18.36}
+      Name: 
+      Description: fisherman's hut, east of abandoned village
+      PanoramicImage: {fileID: 21300000, guid: 828fdf0c40c320a4781f3814c68e5a71, type: 3}
+    - Index: 0
+      Coordinates: {x: -28.65, y: -0.5}
+      Name: 
+      Description: Tomira's hut
+      PanoramicImage: {fileID: 21300000, guid: 4ac2035d17290e1439831f127df02162, type: 3}
+    - Index: 0
+      Coordinates: {x: -39.33, y: 0.64}
+      Name: 
+      Description: sawmill, next to vulpine woods
+      PanoramicImage: {fileID: 21300000, guid: ac68b01855f68ad48a87edee14e19150, type: 3}
+    - Index: 0
+      Coordinates: {x: -10.1, y: 2.2}
+      Name: 
+      Description: north end of white orchard village
+      PanoramicImage: {fileID: 21300000, guid: afaf6d54ed31f2e4c96773048619815e, type: 3}
+    - Index: 0
+      Coordinates: {x: -6, y: 18.4}
+      Name: 
+      Description: next to mill
+      PanoramicImage: {fileID: 21300000, guid: 7efbbb92c3518da4c95d4622f3837e20, type: 3}
+    - Index: 0
+      Coordinates: {x: -7.75, y: 5.4}
+      Name: 
+      Description: north of white orchard village
+      PanoramicImage: {fileID: 21300000, guid: 338e1ae2163b1534685fc1fba16e4ef2, type: 3}
+    - Index: 0
+      Coordinates: {x: -1.68, y: -16.8}
+      Name: 
+      Description: middle of frozen lake, next to fisherman's hut
+      PanoramicImage: {fileID: 21300000, guid: e91b9c35d7d9c504ca8fe6d8d4ed2e47, type: 3}
   - MapType: 2
     DefaultLocationName: Velen - no man's land
     LocationsForViewing:
