@@ -827,7 +827,7 @@ MonoBehaviour:
     MapGameObject: {fileID: 0}
     IsMarkedByUser: 0
   - MapType: 3
-    MapName: skellige isles
+    MapName: the skellige isles
     Index: 3
     MapPrefab: {fileID: 6103748158817771600, guid: c0bd30bc08244374691282a6754eb623, type: 3}
     MapGameObject: {fileID: 0}
@@ -1009,7 +1009,7 @@ MonoBehaviour:
       Description: middle of frozen lake, next to fisherman's hut
       PanoramicImage: {fileID: 21300000, guid: e91b9c35d7d9c504ca8fe6d8d4ed2e47, type: 3}
   - MapType: 2
-    DefaultLocationName: Velen - no man's land
+    DefaultLocationName: Velen - No Man's land
     LocationsForViewing:
     - Index: 0
       Coordinates: {x: -20.4, y: 23.5}
@@ -1036,6 +1036,141 @@ MonoBehaviour:
       Name: 
       Description: Moldavie Residence manor
       PanoramicImage: {fileID: 21300000, guid: 291e3c7438fb8e3478b060ca0e9dee32, type: 3}
+  - MapType: 3
+    DefaultLocationName: The Skellige Isles
+    LocationsForViewing:
+    - Index: 0
+      Coordinates: {x: -1.06, y: -2.07}
+      Name: 
+      Description: village of rannvaig
+      PanoramicImage: {fileID: 21300000, guid: 260e830db7b4daa4e936706ec82aaf20, type: 3}
+    - Index: 0
+      Coordinates: {x: 0.4, y: -0.8}
+      Name: 
+      Description: fishing village, east of crossroads
+      PanoramicImage: {fileID: 21300000, guid: ad60f65706922844ea2a9bc63687478a, type: 3}
+    - Index: 0
+      Coordinates: {x: -2.68, y: -0.11}
+      Name: 
+      Description: guarded treasure by the harpy nest
+      PanoramicImage: {fileID: 21300000, guid: 897e7a8751ebe3d47bf7ef62560b531e, type: 3}
+    - Index: 0
+      Coordinates: {x: -3.4, y: -0.9}
+      Name: 
+      Description: original shipwreck, next to the place of power
+      PanoramicImage: {fileID: 21300000, guid: 34d0d932bddb7a14490fff468d4ffdfb, type: 3}
+    - Index: 0
+      Coordinates: {x: -6.9, y: -5.7}
+      Name: 
+      Description: village of sund
+      PanoramicImage: {fileID: 21300000, guid: 6293bf7cc106ec74189a3d9e0e98e134, type: 3}
+    - Index: 0
+      Coordinates: {x: -7.37, y: -7.4}
+      Name: 
+      Description: logging camp, south of village of sund
+      PanoramicImage: {fileID: 21300000, guid: 9dcbc7ed06a3f5b40942a9d105195654, type: 3}
+    - Index: 0
+      Coordinates: {x: -8.38, y: -7.9}
+      Name: 
+      Description: tower ruins
+      PanoramicImage: {fileID: 21300000, guid: dc3238648c052f94f9441a5785afbdb4, type: 3}
+    - Index: 0
+      Coordinates: {x: -10.75, y: -10.95}
+      Name: 
+      Description: wild shore
+      PanoramicImage: {fileID: 21300000, guid: 2dff7485db4f4e54686bb06521c99617, type: 3}
+    - Index: 0
+      Coordinates: {x: -2.51, y: -5.05}
+      Name: 
+      Description: village of fayrlund
+      PanoramicImage: {fileID: 21300000, guid: 193824902ed753647a4535b7b0698f4d, type: 3}
+    - Index: 0
+      Coordinates: {x: -7.1, y: -16.05}
+      Name: 
+      Description: 'Holmstein''s Port '
+      PanoramicImage: {fileID: 21300000, guid: dedcfd57d4caf6b4cafe465c751a8101, type: 3}
+    - Index: 0
+      Coordinates: {x: -5.58, y: -15.65}
+      Name: 
+      Description: village of Holmstein
+      PanoramicImage: {fileID: 21300000, guid: a0f5548e66f91a14b87451df86c775b3, type: 3}
+    - Index: 0
+      Coordinates: {x: -4.14, y: -15.1}
+      Name: 
+      Description: Kaer Muire fortress
+      PanoramicImage: {fileID: 21300000, guid: 8f6d677f0f016e7479ad4f790ac46637, type: 3}
+    - Index: 0
+      Coordinates: {x: -0.25, y: -20.07}
+      Name: 
+      Description: cave entrace to quest 'the cave of dreams'
+      PanoramicImage: {fileID: 21300000, guid: 3fba203663cbc3f4a9d9c8e3365a34f9, type: 3}
+    - Index: 0
+      Coordinates: {x: 3.22, y: -20.22}
+      Name: 
+      Description: path towards the Elverum Lighthouse
+      PanoramicImage: {fileID: 21300000, guid: 0e05bb117911500469132c50f218d003, type: 3}
+    - Index: 0
+      Coordinates: {x: 1.925, y: -11.35}
+      Name: 
+      Description: village of Fyresdal
+      PanoramicImage: {fileID: 21300000, guid: 353434bb8137f284fa4fffb15fb21904, type: 3}
+    - Index: 0
+      Coordinates: {x: 1.075, y: -5.58}
+      Name: 
+      Description: destroyed village of boxholm
+      PanoramicImage: {fileID: 21300000, guid: 9787e69ce6198244d85c90f40643f8f6, type: 3}
+    - Index: 0
+      Coordinates: {x: 4.7, y: -2.77}
+      Name: 
+      Description: village of Blandare
+      PanoramicImage: {fileID: 21300000, guid: dab4b2afce680a64991648c10cb9cd73, type: 3}
+    - Index: 0
+      Coordinates: {x: -2.915, y: 5.324}
+      Name: 
+      Description: mountainside path to Kaer Trolde citadel
+      PanoramicImage: {fileID: 21300000, guid: 295338f836be8df49b6f88b98ed6268a, type: 3}
+    - Index: 0
+      Coordinates: {x: -4.24, y: 6.44}
+      Name: 
+      Description: bridge to Kaer Trolde
+      PanoramicImage: {fileID: 21300000, guid: 4b2d439fe2873214285e0093f5885f5c, type: 3}
+    - Index: 0
+      Coordinates: {x: -4.95, y: 6.05}
+      Name: 
+      Description: Kaer Trolde banquet hall
+      PanoramicImage: {fileID: 21300000, guid: 8e990d3099ee9ee4faf00a9708ea449f, type: 3}
+    - Index: 0
+      Coordinates: {x: 0, y: 8.5}
+      Name: 
+      Description: entrance to the ancient crypt
+      PanoramicImage: {fileID: 21300000, guid: 7f9fa8f423047c34a843ca0fd4df2865, type: 3}
+    - Index: 0
+      Coordinates: {x: 1.12, y: 7.05}
+      Name: 
+      Description: Treasure guarded by gargoyles
+      PanoramicImage: {fileID: 21300000, guid: f254302336a542e41a1b405629ac98a2, type: 3}
+    - Index: 0
+      Coordinates: {x: 9.354, y: 8.24}
+      Name: 
+      Description: north end of giant's toes shoreline
+      PanoramicImage: {fileID: 21300000, guid: ff2f4aa89f7be9b4798df393b518be81, type: 3}
+    - Index: 0
+      Coordinates: {x: 6.08, y: 4.5}
+      Name: 
+      Description: mountaintop, north of Kaer Gelen
+      PanoramicImage: {fileID: 21300000, guid: d9c58e2fcb0a9404e9f4a605094ba593, type: 3}
+    - Index: 0
+      Coordinates: {x: 9.72, y: -0.15}
+      Name: 
+      Description: Gedyneith, the sacred oak tree
+      PanoramicImage: {fileID: 21300000, guid: be6cda205170cfe41a6d1e360a383dd7, type: 3}
+    - Index: 0
+      Coordinates: {x: 9.1, y: -10.7}
+      Name: 
+      Description: inside of the Distillery
+      PanoramicImage: {fileID: 21300000, guid: 0cf8f1a5bda1214469f86b3b84a00a32, type: 3}
+  IndexFrom: 0
+  IndexTo: 0
 --- !u!1 &556506242
 GameObject:
   m_ObjectHideFlags: 0

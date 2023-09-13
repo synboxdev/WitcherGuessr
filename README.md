@@ -15,9 +15,9 @@
 
 ## <b>About the project</b>
 
-'Witcher Guessr' is an unofficial map location guessing game, based entirely on [The Witcher 3: Wild Hunt](https://www.thewitcher.com) made by [CD Projekt Red](https://www.cdprojektred.com). Core gameplay loop revolves around carefully inspecting a 360° degree panorama image of a randomly selected place in game game world, and then accurately guessing its precise location in one of many maps from the game world.
+'Witcher Guessr' is an unofficial map location guessing game, based entirely on [The Witcher 3: Wild Hunt](https://www.thewitcher.com) made by [CD Projekt Red](https://www.cdprojektred.com). Core gameplay loop revolves around carefully inspecting a 360° degree panorama image of a randomly selected place in the game world, and then accurately guessing its precise location in one of many maps from the game world.
 
-Project is, and will for ever remain free and open-source, as an appreciation and as a nod to talented team who have have brought The Witcher universe to life.
+Project is, and will for ever remain free and open-source, as an appreciation and as a nod to the talented team who have have brought The Witcher universe to life.
 
 ---
 
