@@ -71,7 +71,7 @@ Best of luck!
 
 ## <b>Contributing</b>
 
-Probably the most lacking aspect of this project is the lack of panorama images (locations). That's where you, the community, can easily help out!
+Probably the most lacking aspect of this project is the lack of panorama images (locations) and their quality. That's where you, the community, can easily help out!
 
 On the off chance that you own an NVIDIA graphics card (which I unfortunately do not) - you could probably use [NVIDIA Ansel](https://www.nvidia.com/en-us/geforce/geforce-experience/ansel/) which fortunately supports [The Witcher 3: Wild Hunt](https://www.nvidia.com/en-us/geforce/geforce-experience/games/) and could be used to take high quality, 360° degree panorama images that could be added to this project. I have not had a chance to try this piece of software, but by the looks of it, it could be extremely useful to the development of this project. 
 

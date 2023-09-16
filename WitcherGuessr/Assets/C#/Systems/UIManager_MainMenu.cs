@@ -13,6 +13,7 @@ public class UIManager_MainMenu : MonoBehaviour
 
     public VideoPlayer VideoPlayer;
     public GameObject PlaySelectionMenu;
+    public GameObject AboutSection;
     public GameObject MapSelectionParentObject;
     public int currentMapSelectionIndex;
 
@@ -20,8 +21,7 @@ public class UIManager_MainMenu : MonoBehaviour
     {
         MapManager = FindObjectOfType<MapManager>();
         LocationManager = FindObjectOfType<LocationManager>();
-        SpawnMapSelectionButtons();
-        PlaySelectionMenu.SetActive(false);
+        ConfigureMainMenuDefaultDisplay();
     }
 
     void Start()
@@ -36,7 +36,14 @@ public class UIManager_MainMenu : MonoBehaviour
 
     public void TogglePlaySelectionMenu()
     {
+        ToggleCloseAllMenus();
         PlaySelectionMenu.SetActive(!PlaySelectionMenu.activeInHierarchy);
+    }
+
+    public void ToggleAboutSection()
+    {
+        ToggleCloseAllMenus();
+        AboutSection.SetActive(!PlaySelectionMenu.activeInHierarchy);
     }
 
     public void SpawnMapSelectionButtons()
@@ -63,6 +70,12 @@ public class UIManager_MainMenu : MonoBehaviour
         SceneManager.LoadScene((int)SceneIndex.Game);
     }
 
+    private void ToggleCloseAllMenus()
+    {
+        PlaySelectionMenu.SetActive(false);
+        AboutSection.SetActive(false);
+    }
+
     private void DestroyAllMapSelections()
     {
         if (MapSelectionParentObject.transform.childCount > 0)
@@ -70,5 +83,12 @@ public class UIManager_MainMenu : MonoBehaviour
             foreach (Transform mapSelection in MapSelectionParentObject.transform)
                 Destroy(mapSelection.gameObject);
         }
+    }
+
+    private void ConfigureMainMenuDefaultDisplay()
+    {
+        SpawnMapSelectionButtons();
+        PlaySelectionMenu.SetActive(false);
+        AboutSection.SetActive(false);
     }
 }
