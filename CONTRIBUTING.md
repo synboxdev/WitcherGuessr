@@ -26,7 +26,7 @@ This project and everyone participating in it are governed by the [Code of Condu
 
 ## <b>Github Terms of Service</b>
 
-If it wasn't already clear - you should always follow [GitHub's terms of service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) not only when contributing to this project, but to any and all repositories on the platform - follow the rules
+If it wasn't already clear - you should always follow [GitHub's terms of service](https://docs.github.com/en/site-policy/github-terms/github-terms-of-service) not only when contributing to this project, but to any and all repositories on the platform - follow the rules!
 
 ---
 
@@ -66,10 +66,10 @@ Small thing to note - if you open another map afterwards, initial 'Spawn all loc
 
 There are a few requirements that should be followed, when creating and submitting panorama images as a contribution to the project:
 
-1. Due to GitHub's file size limitation that you can see in [GitHub's documentation](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository#adding-a-file-to-a-repository-on-github), file size of submitted panorama images should ideally be under 25 MB.
+1. Due to GitHub's file size limitation that you can see in [GitHub's documentation](https://docs.github.com/en/repositories/working-with-files/managing-files/adding-a-file-to-a-repository#adding-a-file-to-a-repository-on-github) and [attaching files documention article](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/attaching-files), file size of submitted panorama would have to be below 10MB. If necessary, you could upload the image to a platform like Imgur which has file size limit of 20MB as per [this help article](https://help.imgur.com/hc/en-us/articles/115000083326-What-files-can-I-upload-Is-there-a-size-limit-). This might be a subject to change, so if you have ideas for a suitable alternative of submitting images - feel free to create an issue with a 'Suggestion' label, or start a discussion regarding this topic.
 2. When submitting a panorama image - submit AT LEAST two panorama images of a given location, with different times of day, and potentially - different weather, so that best fitting choice could be made.
 3. Additionally, add in-game coordinates (which can be retrieved using in-game Debug Console - See more at ['How to Enable the Debug Console in Witcher 3'](https://commands.gg/witcher3/blog/enable-console)) or at least submit a zoomed in image of map of a given location.
-4. Panorama image (location in-game), should not have any spawned in objects, entities or NPCs that are NOT present in the 'vanilla' game. Things like alternate outfits for NPC characters, or monsters that are naturally spawn in a given area/map are fine.
+4. Panorama image (location in-game), should not have any spawned in objects, entities or NPCs that are NOT present in the un-modded game. Things like alternate outfits for NPC characters, or monsters that are naturally spawn in a given area are fine.
 5. Repeating what was described previously - familiarity and recognizability are key factors that should always be considered when submitting a panorama image. See section [Choosing a location for panorama image](#choosing-a-location-for-panorama-image) above.
 
 ---
