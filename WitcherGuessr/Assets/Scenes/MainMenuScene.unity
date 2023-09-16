@@ -1013,12 +1013,12 @@ MonoBehaviour:
     LocationsForViewing:
     - Index: 0
       Coordinates: {x: -20.4, y: 23.5}
-      Name: novigrad city
+      Name: Free City of Novigrad
       Description: abandoned warehouse at the Novigrad Docks
       PanoramicImage: {fileID: 21300000, guid: 888191650a9ad7144b615a5eb39c8af3, type: 3}
     - Index: 0
       Coordinates: {x: -14.1, y: 27.17}
-      Name: novigrad city
+      Name: Free City of Novigrad
       Description: fish market near the city center
       PanoramicImage: {fileID: 21300000, guid: e6e088d5e0901e3418c11e251a36fb02, type: 3}
     - Index: 0
@@ -1036,6 +1036,237 @@ MonoBehaviour:
       Name: 
       Description: Moldavie Residence manor
       PanoramicImage: {fileID: 21300000, guid: 291e3c7438fb8e3478b060ca0e9dee32, type: 3}
+    - Index: 0
+      Coordinates: {x: -24.3, y: -42.6}
+      Name: 
+      Description: inner courtyard of the fyke isle tower
+      PanoramicImage: {fileID: 21300000, guid: 2d5440241f17b7e48ae70457f80ee55e, type: 3}
+    - Index: 0
+      Coordinates: {x: -24.03, y: -55.3}
+      Name: 
+      Description: village of Frischlow
+      PanoramicImage: {fileID: 21300000, guid: 91df9ccb4d3eb4a498da4f34986cc237, type: 3}
+    - Index: 0
+      Coordinates: {x: -24.27, y: -58.8}
+      Name: 
+      Description: treasure guarded by gargoyle, south of Frischlow
+      PanoramicImage: {fileID: 21300000, guid: d63cc3be3370e244ca865a81f8f97101, type: 3}
+    - Index: 0
+      Coordinates: {x: -24.95, y: -60.13}
+      Name: 
+      Description: place of power, south of the village of Frischlow
+      PanoramicImage: {fileID: 21300000, guid: 65c5b0477a6825e4ba731cc09fbdd535, type: 3}
+    - Index: 0
+      Coordinates: {x: -38.5, y: -53.7}
+      Name: 
+      Description: fishing village, south of byways
+      PanoramicImage: {fileID: 21300000, guid: 2fa0c2feb8472974eae67ada2728033e, type: 3}
+    - Index: 0
+      Coordinates: {x: -37.8, y: -48.65}
+      Name: 
+      Description: village of byways
+      PanoramicImage: {fileID: 21300000, guid: fcbbabbdfc3e6aa41ac4bdaa424d9ca1, type: 3}
+    - Index: 0
+      Coordinates: {x: -44.31, y: -44.05}
+      Name: 
+      Description: treasure related to quest "The Dead Have No Defense"
+      PanoramicImage: {fileID: 21300000, guid: bd6254a1319dead4f8799bf5fb6baf08, type: 3}
+    - Index: 0
+      Coordinates: {x: -43.4, y: -37.13}
+      Name: 
+      Description: Religious site of Duen Hen
+      PanoramicImage: {fileID: 21300000, guid: 2f9656cf6d62b7b47bfb86c386a4c064, type: 3}
+    - Index: 0
+      Coordinates: {x: -48.23, y: -40.4}
+      Name: 
+      Description: bandit camp, south of village of condyle
+      PanoramicImage: {fileID: 21300000, guid: cd688ffbfecec9c46b7a4eee85e85ddc, type: 3}
+    - Index: 0
+      Coordinates: {x: -50.8, y: -41.35}
+      Name: 
+      Description: treasure related to quest "A plea ignored"
+      PanoramicImage: {fileID: 21300000, guid: 6b93a7e4fd3278643a69de8a1e46d093, type: 3}
+    - Index: 0
+      Coordinates: {x: -47.46, y: -44.12}
+      Name: 
+      Description: fisherman's hut, south of village of condyle
+      PanoramicImage: {fileID: 21300000, guid: b59d12cbf693a8b4786741ffc213bc5e, type: 3}
+    - Index: 0
+      Coordinates: {x: -48.65, y: -33.97}
+      Name: 
+      Description: a camp of cannibalistic bandits
+      PanoramicImage: {fileID: 21300000, guid: be558248a5976114ab36b9c8adaed141, type: 3}
+    - Index: 0
+      Coordinates: {x: 3.5, y: -20.6}
+      Name: 
+      Description: village of lurtch, related to quest "fools' gold"
+      PanoramicImage: {fileID: 21300000, guid: 0ea47592c1c32a64bac5c2f5c741ac17, type: 3}
+    - Index: 0
+      Coordinates: {x: -47.3, y: -23.9}
+      Name: 
+      Description: treasure related to quest "queen zuleyka's treasure"
+      PanoramicImage: {fileID: 21300000, guid: 360df4e05c03107428f301418ed9a0ee, type: 3}
+    - Index: 0
+      Coordinates: {x: -44.39, y: -21}
+      Name: 
+      Description: person in distress, west of hangman's alley
+      PanoramicImage: {fileID: 21300000, guid: 824ea72522f16d749abf581a24616a44, type: 3}
+    - Index: 0
+      Coordinates: {x: -41.6, y: -30.1}
+      Name: 
+      Description: village of midcopse
+      PanoramicImage: {fileID: 21300000, guid: 86f46b605c4f52b4e88f0ec5b4083ae3, type: 3}
+    - Index: 0
+      Coordinates: {x: -46.8, y: -27.8}
+      Name: 
+      Description: Refugees' Camp
+      PanoramicImage: {fileID: 21300000, guid: b24120e521acdfa4abf88d54fa888c0e, type: 3}
+    - Index: 0
+      Coordinates: {x: -37.88, y: -26.06}
+      Name: 
+      Description: Keira's hut
+      PanoramicImage: {fileID: 21300000, guid: 3683c78ebe6127b4baddb6a031658c53, type: 3}
+    - Index: 0
+      Coordinates: {x: -42.11, y: -19.4}
+      Name: 
+      Description: Hangman's Alley
+      PanoramicImage: {fileID: 21300000, guid: 0de82b48a0dc82f429720e604b2e3dda, type: 3}
+    - Index: 0
+      Coordinates: {x: -36.06, y: -18.4}
+      Name: 
+      Description: village of blackbough
+      PanoramicImage: {fileID: 21300000, guid: caf50dc2d08105a478f0c89edfcca206, type: 3}
+    - Index: 0
+      Coordinates: {x: -39.55, y: -13.88}
+      Name: 
+      Description: bear cave, related to quest "A Princess in Distress"
+      PanoramicImage: {fileID: 21300000, guid: 9bcddde4c0f19904caa9e6bd72d89078, type: 3}
+    - Index: 0
+      Coordinates: {x: -41, y: -7.5}
+      Name: 
+      Description: Isolated Shack, related to quest "Wild at Heart"
+      PanoramicImage: {fileID: 21300000, guid: e91aa07d16c52d7479a5d3eeee6149d6, type: 3}
+    - Index: 0
+      Coordinates: {x: -37.85, y: -7.7}
+      Name: 
+      Description: 'Abandoned Tower, related to quest "Ciri''s Story: The Race"'
+      PanoramicImage: {fileID: 21300000, guid: 620991bd79570cb4e9bba6dc291612c2, type: 3}
+    - Index: 0
+      Coordinates: {x: -33.1, y: -8.7}
+      Name: 
+      Description: abandoned village of Heatherton
+      PanoramicImage: {fileID: 21300000, guid: 95926aadf76e90547979402e1bbaf474, type: 3}
+    - Index: 0
+      Coordinates: {x: -28.38, y: -13.49}
+      Name: 
+      Description: Wolven Glade related to quest "Family matters"
+      PanoramicImage: {fileID: 21300000, guid: e10f578f7f0b69a488a820100b946b0e, type: 3}
+    - Index: 0
+      Coordinates: {x: -38, y: 1.78}
+      Name: 
+      Description: lighthouse of lornruk
+      PanoramicImage: {fileID: 21300000, guid: 8c3e07d7cfaeff741b842db4dde15e4c, type: 3}
+    - Index: 0
+      Coordinates: {x: -33.75, y: -30.1}
+      Name: 
+      Description: wastrel manor signpost, related to quest "a greedy god"
+      PanoramicImage: {fileID: 21300000, guid: f90c091258236da4aa753756f77e3ae3, type: 3}
+    - Index: 0
+      Coordinates: {x: -32.88, y: -33.1}
+      Name: 
+      Description: wastrel manor, related to quest "a greedy god"
+      PanoramicImage: {fileID: 21300000, guid: b4289746a5964344e9a1988965134d00, type: 3}
+    - Index: 0
+      Coordinates: {x: 15.67, y: -20.8}
+      Name: 
+      Description: village of toderas
+      PanoramicImage: {fileID: 21300000, guid: 2a5a4f3694f61a94e92135d0eed9a01f, type: 3}
+    - Index: 0
+      Coordinates: {x: -23.9, y: -28.91}
+      Name: 
+      Description: village of honorton, related to quest "Where the Cat and Wolf
+        Play..."
+      PanoramicImage: {fileID: 21300000, guid: 5c14d9a1e4d58a3489a4cbfa2b804468, type: 3}
+    - Index: 0
+      Coordinates: {x: -26.5, y: -36.15}
+      Name: 
+      Description: village of oreton
+      PanoramicImage: {fileID: 21300000, guid: 924bae7dff8629040a643b9f3da1dc30, type: 3}
+    - Index: 0
+      Coordinates: {x: -25.4, y: -35.97}
+      Name: 
+      Description: blacksmith at the village of oreton
+      PanoramicImage: {fileID: 21300000, guid: 47451e3970a1fe447b8c53762b84a22c, type: 3}
+    - Index: 0
+      Coordinates: {x: -19.85, y: -29.74}
+      Name: 
+      Description: boatmakers' hut
+      PanoramicImage: {fileID: 21300000, guid: 2b8f95ae361586849b2e060dba3e9a44, type: 3}
+    - Index: 0
+      Coordinates: {x: -22.55, y: -23.55}
+      Name: 
+      Description: Smokehouse, related to quest "Family matters"
+      PanoramicImage: {fileID: 21300000, guid: 64c0a677444ced0499b0467d4f1529be, type: 3}
+    - Index: 0
+      Coordinates: {x: -26.2, y: -22.9}
+      Name: 
+      Description: crossroads near the crow's perch signpost
+      PanoramicImage: {fileID: 21300000, guid: d21ff0660139f5e42ad74c055d1eb9c7, type: 3}
+    - Index: 0
+      Coordinates: {x: -25.55, y: -20.97}
+      Name: 
+      Description: main entrance of the Crow's Perch palisade hold
+      PanoramicImage: {fileID: 21300000, guid: 33d6de640fffb5643ac43568265f896a, type: 3}
+    - Index: 0
+      Coordinates: {x: -26.2, y: -18.7}
+      Name: 
+      Description: inner courtyard of the Crow's Perch palisade hold
+      PanoramicImage: {fileID: 21300000, guid: 9bcc301266aa4044ea5b7b33c69d0edf, type: 3}
+    - Index: 0
+      Coordinates: {x: -26.36, y: -20.74}
+      Name: 
+      Description: western gate of the Crow's Perch palisade hold
+      PanoramicImage: {fileID: 21300000, guid: 3420ec550a9054649ba654a8913260f0, type: 3}
+    - Index: 0
+      Coordinates: {x: -26.3, y: -18.05}
+      Name: 
+      Description: stronghold at the Crow's Perch
+      PanoramicImage: {fileID: 21300000, guid: 5e924fd1152dc9f4f8f2440d9797d2d2, type: 3}
+    - Index: 0
+      Coordinates: {x: -21.8, y: -17.77}
+      Name: 
+      Description: burned ruins, east of Crow's Perch palisade hold
+      PanoramicImage: {fileID: 21300000, guid: a1a6a69510033924686b56cca25b3625, type: 3}
+    - Index: 0
+      Coordinates: {x: -14.54, y: -17.39}
+      Name: 
+      Description: fisherman voytek's hut, related to quest "Family matters"
+      PanoramicImage: {fileID: 21300000, guid: 3f2329a26d54456419acb183a833719d, type: 3}
+    - Index: 0
+      Coordinates: {x: -9.35, y: -21.25}
+      Name: 
+      Description: village of Lindenvale
+      PanoramicImage: {fileID: 21300000, guid: f5715757c9b031b4e92a6fc60b4fef4a, type: 3}
+    - Index: 0
+      Coordinates: {x: -12.86, y: 28.48}
+      Name: Free City of Novigrad
+      Description: Hierarch Square
+      PanoramicImage: {fileID: 21300000, guid: 3e573030e08b050419e837703752176b, type: 3}
+    - Index: 0
+      Coordinates: {x: -11.75, y: 41.5}
+      Name: 
+      Description: cavern entrance, northeast of Novigrad city
+      PanoramicImage: {fileID: 21300000, guid: a07ecfe5fc599d04fb8bd85a11beab78, type: 3}
+    - Index: 0
+      Coordinates: {x: -18.6, y: 43}
+      Name: 
+      Description: hut overran by monsters, north of Novigrad city
+      PanoramicImage: {fileID: 21300000, guid: 512f239bb9519ed43add5d1f880f29f0, type: 3}
+    - Index: 0
+      Coordinates: {x: -26.6, y: 41.03}
+      Name: 
+      Description: beachside, south of crane cape's lighthouse
+      PanoramicImage: {fileID: 21300000, guid: 106367eb771272b4cbd35598f3a2f5df, type: 3}
   - MapType: 3
     DefaultLocationName: The Skellige Isles
     LocationsForViewing:
@@ -1169,8 +1400,6 @@ MonoBehaviour:
       Name: 
       Description: inside of the Distillery
       PanoramicImage: {fileID: 21300000, guid: 0cf8f1a5bda1214469f86b3b84a00a32, type: 3}
-  IndexFrom: 0
-  IndexTo: 0
 --- !u!1 &556506242
 GameObject:
   m_ObjectHideFlags: 0
