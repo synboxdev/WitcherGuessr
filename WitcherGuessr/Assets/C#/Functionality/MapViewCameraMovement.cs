@@ -68,6 +68,7 @@ public class MapViewCameraMovement : MonoBehaviour
     public void HandleCameraMovement(Vector3 endPosition)
     {
         HandleCameraReposition(endPosition);
+        HandleCameraResizing();
     }
 
     private void HandleCameraReposition(Vector3 endPosition)
@@ -75,6 +76,15 @@ public class MapViewCameraMovement : MonoBehaviour
         LeanTween.value(cam.gameObject, cam.transform.position, endPosition, 1f)
                  .setEaseOutCubic()
                  .setOnUpdate((Vector3 newPosition) => cam.transform.position = ClampCamera(new Vector3(newPosition.x, newPosition.y, cam.transform.position.z)));
+    }
+
+    private void HandleCameraResizing()
+    {
+        CamResizeRatio = camSize < maxCamSize / 2 ? 1.5f : .4f;
+
+        LeanTween.value(cam.gameObject, camSize, camSize * CamResizeRatio, 1f)
+                 .setEaseOutCubic()
+                 .setOnUpdate((float newCamSize) => cam.orthographicSize = newCamSize);
     }
 
     private void InitializeMapViewCamera()
