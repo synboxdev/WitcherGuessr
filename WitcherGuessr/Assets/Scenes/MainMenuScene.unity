@@ -339,13 +339,13 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: '''Witcher Guessr'' is an unofficial map location guessing game, based
-    entirely on The Witcher 3: Wild Hunt made by CD Projekt Red.
+    entirely on <color=#8D0B0F>The Witcher 3: Wild Hunt</color> made by <color=#8D0B0F>cd
+    projekt red</color>.
 
 
-    Project is,
-    and will for ever remain free and open-source, as an appreciation and as a nod
-    to the talented team who have have brought The Witcher universe to life. thank
-    you!'
+    Project is, and will for ever remain free and open-source,
+    as an appreciation and as a nod to the talented team who have have brought The
+    Witcher universe to life. thank you!'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: a831ec691378859409fc7a4c1e0668d6, type: 2}
   m_sharedMaterial: {fileID: 1523643733332674418, guid: a831ec691378859409fc7a4c1e0668d6, type: 2}
