@@ -1,4 +1,4 @@
-# <b>Witcher Guessr</b>
+# <b>[Witcher Guessr](https://synbox.itch.io/witcher-guessr)</b>
 
 ## 📄 <b>Table of contents</b>
 
@@ -15,7 +15,9 @@
 
 ## <b>About the project</b>
 
-'Witcher Guessr' is an unofficial map location guessing game, based entirely on [The Witcher 3: Wild Hunt](https://www.thewitcher.com) made by [CD Projekt Red](https://www.cdprojektred.com). Core gameplay loop revolves around carefully inspecting a 360° degree panorama image of a randomly selected place in the game world, and then accurately guessing its precise location in one of many maps from the game world.
+'Witcher Guessr' is an unofficial map location guessing game, based entirely on [The Witcher 3: Wild Hunt](https://www.thewitcher.com) made by [CD Projekt Red](https://www.cdprojektred.com).
+
+Core gameplay loop revolves around carefully inspecting a 360° degree panorama image of a randomly selected place in the game world, and then accurately guessing its precise location in one of many maps from the game world.
 
 Project is, and will for ever remain free and open-source, as an appreciation and as a nod to the talented team who have have brought The Witcher universe to life.
 
@@ -35,7 +37,7 @@ That's why, the project currently is, and will likely remain as a downloadable e
 
 ### <b>If you wish to just simply play the game</b>
 
-You can do so, by simply visiting project's page on Itch.io, downloading the game for free and playing it at your heart's content.
+You can do so, by simply visiting [project's page on Itch.io](https://synbox.itch.io/witcher-guessr), downloading the game for free and playing it at your heart's content, or you could download it directly here, on GitHub, by visiting [releases section](https://github.com/synboxdev/WitcherGuessr/releases) and downloading the latest version of the project!
 
 ### <b>If you wish to actually inspect the project itself</b>
 
