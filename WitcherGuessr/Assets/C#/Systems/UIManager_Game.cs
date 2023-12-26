@@ -1,5 +1,6 @@
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
 using TMPro;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -17,7 +18,6 @@ public class UIManager_Game : MonoBehaviour
     private MapSelection mapSelection;
 
     [Header("Map")]
-    public GameObject MapParent;
     public TextMeshProUGUI MapName;
 
     [Header("Location viewing")]
@@ -56,16 +56,17 @@ public class UIManager_Game : MonoBehaviour
         InitializeInternalSystems();
     }
 
-    void Start()
+    async void Start()
     {
         mapSelection = GlobalManager.GetMapSelection();
         LocationManager.InitializeLocationList(mapSelection.MapType);
-        InitializeUI();
+        await InitializeUIAsync();
         ConfigureGuessLocationButton();
     }
 
     public void SwapToMainMenuScene()
     {
+        GameSceneCleanup();
         SceneManager.LoadScene((int)SceneIndex.MainMenu);
     }
 
@@ -176,11 +177,11 @@ public class UIManager_Game : MonoBehaviour
         GuessLocationSelectionsRect.SetActive(!GuessLocationSelectionsRect.activeInHierarchy);
     }
 
-    private void InitializeUI()
+    private async Task InitializeUIAsync()
     {
         MapName.text = mapSelection.MapName.ToUpper();
-        InitializeMaps();
         InitializeLocation();
+        await InitializeMapsAsync();
     }
 
     private void ConfigureGuessLocationButton()
@@ -198,18 +199,18 @@ public class UIManager_Game : MonoBehaviour
             });
     }
 
-    private void InitializeMaps()
+    private async Task InitializeMapsAsync()
     {
         if (mapSelection.MapType == MapType.AllMaps)
         {
-            var eligibleMaps = MapManager.MapSelections.Where(x => x.MapType != MapType.AllMaps && x.MapPrefab != null).ToList();
-            eligibleMaps.ForEach(map => map.MapGameObject = InitializeMap(map));
+            var eligibleMaps = MapManager.MapSelections.Where(x => x.MapType != MapType.AllMaps && !x.AddressableMapLoaded).ToList();
+            eligibleMaps.ForEach(async map => map.MapGameObject = await InitializeMap(map));
             InitializeMapSelections(eligibleMaps);
         }
         else
         {
             var mapToInitialize = MapManager.MapSelections.FirstOrDefault(x => x.MapType == mapSelection.MapType);
-            mapToInitialize.MapGameObject = InitializeMap(mapToInitialize);
+            mapToInitialize.MapGameObject = await InitializeMap(mapToInitialize);
         }
     }
 
@@ -218,10 +219,19 @@ public class UIManager_Game : MonoBehaviour
         LocationManager.InitializeLocationForViewing();
     }
 
-    private GameObject InitializeMap(MapSelection mapToInitialize)
+    private async Task<GameObject> InitializeMap(MapSelection mapToInitialize)
     {
-        var initializedMap = Instantiate(mapToInitialize.MapPrefab, MapParent.transform);
+        var loadedMap = MapManager.GetLoadedMapGameObject(mapToInitialize.MapType);
+
+        if (loadedMap != null)
+            return loadedMap;
+
+        var handle = mapToInitialize.AddressableMapPrefab.InstantiateAsync();
+        await handle.Task;
+
+        var initializedMap = handle.Result;
         initializedMap.SetActive(false);
+        MapManager.RegisterLoadedMapGameObject(mapToInitialize.MapType, initializedMap);
 
         return mapToInitialize.MapGameObject = initializedMap;
     }
@@ -257,6 +267,12 @@ public class UIManager_Game : MonoBehaviour
         LeanTween.value(EndGameDetailsCanvasGroup.gameObject, 0, 1, 1f)
             .setEaseOutQuart()
             .setOnUpdate((float alphaValue) => EndGameDetailsCanvasGroup.alpha = alphaValue);
+    }
+
+    private void GameSceneCleanup()
+    {
+        MapMarkerManager.DestroyUserMarker();
+        MapManager.DisableAllMaps();
     }
 
     private void InitializeInternalSystems()

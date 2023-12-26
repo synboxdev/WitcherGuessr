@@ -104,6 +104,11 @@ public class MapMarkerManager : MonoBehaviour
         MapViewCameraMovement.HandleCameraMovement(GetPositionForMainCamera());
     }
 
+    public void DestroyUserMarker()
+    {
+        Destroy(UserMarker);
+    }
+
     private void HandleLocationMarker()
     {
         if (!LocationMarkerPlaced)

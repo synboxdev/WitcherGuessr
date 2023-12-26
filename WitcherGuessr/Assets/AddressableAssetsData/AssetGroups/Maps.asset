@@ -1,0 +1,105 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Maps
+  m_EditorClassIdentifier: 
+  m_GroupName: Maps
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 527493579f6030e44b135b4968a1fb76
+  m_SerializeEntries:
+  - m_GUID: e00d6b9827742604e834f108509c1a3b
+    m_Address: Assets/UI/Maps/WhiteOrchard.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b60ba318e2449b4497b1b5914ee7519
+    m_Address: Assets/UI/Maps/VelenNovigrad.JPG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d493feb5a867b9042bbb9f5302c9a74d
+    m_Address: Assets/UI/Maps/Skellige.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 105485032804e3742a4040d8efae17be
+    m_Address: Assets/UI/Maps/KaerMorhen.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e000bb2aac2d37c45904324cffdedd86
+    m_Address: Assets/UI/Maps/IsleOfMists.JPG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 722f2a59b445f0c49b64e9ecdeb1fcd8
+    m_Address: Assets/UI/Maps/GauntersWorld.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0e2b9300a4b9f0458020d7f220b285c
+    m_Address: Assets/UI/Maps/Toussaint.JPG
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b1b725ccb768a04d938ff76896bdc72
+    m_Address: Assets/UI/Maps/ThousandFables.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11579cb28ba2d124f86eb2bc7c097d46
+    m_Address: Assets/UI/Maps/Prefabs/WhiteOrchard.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b2ee6fadde3da6f49b51484cad87bc1d
+    m_Address: Assets/UI/Maps/Prefabs/VelenNovigrad.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c0bd30bc08244374691282a6754eb623
+    m_Address: Assets/UI/Maps/Prefabs/Skellige.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0bf22fa5b2f25ee41b40628fac3ccba1
+    m_Address: Assets/UI/Maps/Prefabs/KaerMorhen.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f54db49aa5d9ceb49b36f4d89d3aa2fe
+    m_Address: Assets/UI/Maps/Prefabs/IsleOfMists.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cbb36c3734d7a88419300666bce9da13
+    m_Address: Assets/UI/Maps/Prefabs/GauntersWorld.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 573f4901c9ae6a24db2bc6938f1eb902
+    m_Address: Assets/UI/Maps/Prefabs/Toussaint.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ddcba15bd6ec4a44a1361ada29b23b8
+    m_Address: Assets/UI/Maps/Prefabs/ThousandFables.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 154bc2ac59ecb0a42bfcbacc4f781828, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2cc984425747a7947842bffce0765b9d, type: 2}
+    - {fileID: 11400000, guid: 6353e42bfb5759d4faf77131f2d5aeec, type: 2}
