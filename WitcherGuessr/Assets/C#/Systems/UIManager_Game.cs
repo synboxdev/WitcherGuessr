@@ -226,7 +226,7 @@ public class UIManager_Game : MonoBehaviour
         if (loadedMap != null)
             return loadedMap;
 
-        var handle = mapToInitialize.AddressableMapPrefab.InstantiateAsync();
+        var handle = mapToInitialize.AddressableMapGameObject.InstantiateAsync();
         await handle.Task;
 
         var initializedMap = handle.Result;
