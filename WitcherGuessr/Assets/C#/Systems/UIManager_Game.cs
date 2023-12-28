@@ -203,9 +203,16 @@ public class UIManager_Game : MonoBehaviour
     {
         if (mapSelection.MapType == MapType.AllMaps)
         {
-            var eligibleMaps = MapManager.MapSelections.Where(x => x.MapType != MapType.AllMaps && !x.AddressableMapLoaded).ToList();
-            eligibleMaps.ForEach(async map => map.MapGameObject = await InitializeMap(map));
-            InitializeMapSelections(eligibleMaps);
+            var eligibleMaps = MapManager.MapSelections
+                .Join(LocationManager.LocationSelections,
+                      mapSelection => mapSelection.MapType,
+                      locationSelection => locationSelection.MapType,
+                      (mapSelection, locationSelection) => new { mapSelection, locationSelection })
+                .Where(x => x.mapSelection.MapType != MapType.AllMaps && !x.mapSelection.AddressableMapLoaded)
+                .Where(x => x.locationSelection.LocationsForViewing.Any()).ToList();
+
+            eligibleMaps.ForEach(async map => map.mapSelection.MapGameObject = await InitializeMap(map.mapSelection));
+            InitializeMapSelections(eligibleMaps.Select(x => x.mapSelection).ToList());
         }
         else
         {
