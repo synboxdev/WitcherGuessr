@@ -17,46 +17,6 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 527493579f6030e44b135b4968a1fb76
   m_SerializeEntries:
-  - m_GUID: e00d6b9827742604e834f108509c1a3b
-    m_Address: Assets/UI/Maps/WhiteOrchard.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 9b60ba318e2449b4497b1b5914ee7519
-    m_Address: Assets/UI/Maps/VelenNovigrad.JPG
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: d493feb5a867b9042bbb9f5302c9a74d
-    m_Address: Assets/UI/Maps/Skellige.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 105485032804e3742a4040d8efae17be
-    m_Address: Assets/UI/Maps/KaerMorhen.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: e000bb2aac2d37c45904324cffdedd86
-    m_Address: Assets/UI/Maps/IsleOfMists.JPG
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 722f2a59b445f0c49b64e9ecdeb1fcd8
-    m_Address: Assets/UI/Maps/GauntersWorld.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: d0e2b9300a4b9f0458020d7f220b285c
-    m_Address: Assets/UI/Maps/Toussaint.JPG
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 4b1b725ccb768a04d938ff76896bdc72
-    m_Address: Assets/UI/Maps/ThousandFables.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels: []
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 11579cb28ba2d124f86eb2bc7c097d46
     m_Address: Assets/UI/Maps/Prefabs/WhiteOrchard.prefab
     m_ReadOnly: 0

@@ -1089,113 +1089,104 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   MapSelections:
-  - MapType: 0
+  - Index: 0
+    MapType: 0
     MapName: all maps
-    Index: 0
-    MapPrefab: {fileID: 0}
     MapGameObject: {fileID: 0}
-    AddressableMapLoaded: 0
-    AddressableMapPrefab:
+    AddressableMapGameObject:
       m_AssetGUID: 
       m_SubObjectName: 
       m_SubObjectType: 
       m_EditorAssetChanged: 0
-    IsMarkedByUser: 0
-  - MapType: 1
-    MapName: white orchard
-    Index: 1
-    MapPrefab: {fileID: 4745981047282078112, guid: 11579cb28ba2d124f86eb2bc7c097d46, type: 3}
-    MapGameObject: {fileID: 0}
     AddressableMapLoaded: 0
-    AddressableMapPrefab:
+    IsMarkedByUser: 0
+  - Index: 1
+    MapType: 1
+    MapName: white orchard
+    MapGameObject: {fileID: 0}
+    AddressableMapGameObject:
       m_AssetGUID: 11579cb28ba2d124f86eb2bc7c097d46
       m_SubObjectName: 
       m_SubObjectType: 
       m_EditorAssetChanged: 0
-    IsMarkedByUser: 0
-  - MapType: 2
-    MapName: velen & novigrad
-    Index: 2
-    MapPrefab: {fileID: 1655364505736269759, guid: b2ee6fadde3da6f49b51484cad87bc1d, type: 3}
-    MapGameObject: {fileID: 0}
     AddressableMapLoaded: 0
-    AddressableMapPrefab:
+    IsMarkedByUser: 0
+  - Index: 2
+    MapType: 2
+    MapName: velen & novigrad
+    MapGameObject: {fileID: 0}
+    AddressableMapGameObject:
       m_AssetGUID: b2ee6fadde3da6f49b51484cad87bc1d
       m_SubObjectName: 
       m_SubObjectType: 
-      m_EditorAssetChanged: 0
-    IsMarkedByUser: 0
-  - MapType: 3
-    MapName: the skellige isles
-    Index: 3
-    MapPrefab: {fileID: 6103748158817771600, guid: c0bd30bc08244374691282a6754eb623, type: 3}
-    MapGameObject: {fileID: 0}
+      m_EditorAssetChanged: 1
     AddressableMapLoaded: 0
-    AddressableMapPrefab:
+    IsMarkedByUser: 0
+  - Index: 3
+    MapType: 3
+    MapName: the skellige isles
+    MapGameObject: {fileID: 0}
+    AddressableMapGameObject:
       m_AssetGUID: c0bd30bc08244374691282a6754eb623
       m_SubObjectName: 
       m_SubObjectType: 
-      m_EditorAssetChanged: 0
-    IsMarkedByUser: 0
-  - MapType: 4
-    MapName: kaer morhen
-    Index: 4
-    MapPrefab: {fileID: 1760731486911137829, guid: 0bf22fa5b2f25ee41b40628fac3ccba1, type: 3}
-    MapGameObject: {fileID: 0}
+      m_EditorAssetChanged: 1
     AddressableMapLoaded: 0
-    AddressableMapPrefab:
+    IsMarkedByUser: 0
+  - Index: 4
+    MapType: 4
+    MapName: kaer morhen
+    MapGameObject: {fileID: 0}
+    AddressableMapGameObject:
       m_AssetGUID: 0bf22fa5b2f25ee41b40628fac3ccba1
       m_SubObjectName: 
       m_SubObjectType: 
-      m_EditorAssetChanged: 0
-    IsMarkedByUser: 0
-  - MapType: 5
-    MapName: isle of mists
-    Index: 5
-    MapPrefab: {fileID: 8557030388960074374, guid: f54db49aa5d9ceb49b36f4d89d3aa2fe, type: 3}
-    MapGameObject: {fileID: 0}
+      m_EditorAssetChanged: 1
     AddressableMapLoaded: 0
-    AddressableMapPrefab:
+    IsMarkedByUser: 0
+  - Index: 5
+    MapType: 5
+    MapName: isle of mists
+    MapGameObject: {fileID: 0}
+    AddressableMapGameObject:
       m_AssetGUID: f54db49aa5d9ceb49b36f4d89d3aa2fe
       m_SubObjectName: 
       m_SubObjectType: 
-      m_EditorAssetChanged: 0
-    IsMarkedByUser: 0
-  - MapType: 6
-    MapName: gaunter's world
-    Index: 6
-    MapPrefab: {fileID: 5914277765895359835, guid: cbb36c3734d7a88419300666bce9da13, type: 3}
-    MapGameObject: {fileID: 0}
+      m_EditorAssetChanged: 1
     AddressableMapLoaded: 0
-    AddressableMapPrefab:
+    IsMarkedByUser: 0
+  - Index: 6
+    MapType: 6
+    MapName: gaunter's world
+    MapGameObject: {fileID: 0}
+    AddressableMapGameObject:
       m_AssetGUID: cbb36c3734d7a88419300666bce9da13
       m_SubObjectName: 
       m_SubObjectType: 
-      m_EditorAssetChanged: 0
-    IsMarkedByUser: 0
-  - MapType: 7
-    MapName: toussaint
-    Index: 7
-    MapPrefab: {fileID: 2514854231302726727, guid: 573f4901c9ae6a24db2bc6938f1eb902, type: 3}
-    MapGameObject: {fileID: 0}
+      m_EditorAssetChanged: 1
     AddressableMapLoaded: 0
-    AddressableMapPrefab:
+    IsMarkedByUser: 0
+  - Index: 7
+    MapType: 7
+    MapName: toussaint
+    MapGameObject: {fileID: 0}
+    AddressableMapGameObject:
       m_AssetGUID: 573f4901c9ae6a24db2bc6938f1eb902
       m_SubObjectName: 
       m_SubObjectType: 
       m_EditorAssetChanged: 0
-    IsMarkedByUser: 0
-  - MapType: 8
-    MapName: thousand fables
-    Index: 8
-    MapPrefab: {fileID: 172292941615170137, guid: 8ddcba15bd6ec4a44a1361ada29b23b8, type: 3}
-    MapGameObject: {fileID: 0}
     AddressableMapLoaded: 0
-    AddressableMapPrefab:
+    IsMarkedByUser: 0
+  - Index: 8
+    MapType: 8
+    MapName: thousand fables
+    MapGameObject: {fileID: 0}
+    AddressableMapGameObject:
       m_AssetGUID: 8ddcba15bd6ec4a44a1361ada29b23b8
       m_SubObjectName: 
       m_SubObjectType: 
       m_EditorAssetChanged: 1
+    AddressableMapLoaded: 0
     IsMarkedByUser: 0
   MapSelectionDefault: {fileID: 6729932700960844645, guid: 32a36622b52168946866e7afe18d737a, type: 3}
   MapSelectionSelected: {fileID: 855970857115603094, guid: 92f81be34c68b7f44ad15e9ecc885971, type: 3}
