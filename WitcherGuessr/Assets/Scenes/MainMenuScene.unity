@@ -1214,126 +1214,326 @@ MonoBehaviour:
       Name: 
       Description: east of woesong bridge
       PanoramicImage: {fileID: 21300000, guid: 5a5b4244b28172b45b0a225e33a39170, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 5a5b4244b28172b45b0a225e33a39170
+        m_SubObjectName: WO1
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 1
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -2.35, y: 0.15}
       Name: 
       Description: woesong bridge signpost
       PanoramicImage: {fileID: 21300000, guid: 084f2363b78ac504fb6d45d9049de0f3, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 084f2363b78ac504fb6d45d9049de0f3
+        m_SubObjectName: WO2
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: 31.41, y: 9.41}
       Name: 
       Description: south of battlefield
       PanoramicImage: {fileID: 21300000, guid: 86da006c138052c41889c25e0f802d92, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 86da006c138052c41889c25e0f802d92
+        m_SubObjectName: WO3
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -6.12, y: 18.58}
       Name: 
       Description: next to mill
       PanoramicImage: {fileID: 21300000, guid: 53feb7508e171714bacf38452ca36c70, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 53feb7508e171714bacf38452ca36c70
+        m_SubObjectName: WO4
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -10.86, y: 21.68}
       Name: 
       Description: White Orchard cemetery
       PanoramicImage: {fileID: 21300000, guid: 641e07b21ecd0f347bcd6f739a5edc48, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 641e07b21ecd0f347bcd6f739a5edc48
+        m_SubObjectName: WO5
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: 4.35, y: 21.2}
       Name: 
       Description: east of mill
       PanoramicImage: {fileID: 21300000, guid: e69749e46d9d68745967fd87bdcb84ab, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: e69749e46d9d68745967fd87bdcb84ab
+        m_SubObjectName: WO6
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: 11.2, y: 27.25}
       Name: 
       Description: spy's camp and 'deserter gold' quest
       PanoramicImage: {fileID: 21300000, guid: 2709b8a53cfedf14986ff1bfaa2e24ef, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 2709b8a53cfedf14986ff1bfaa2e24ef
+        m_SubObjectName: WO7
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -7.3, y: -22.2}
       Name: 
       Description: Abandoned Village
       PanoramicImage: {fileID: 21300000, guid: ac51376502d48134497cf9ca05fb6e83, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: ac51376502d48134497cf9ca05fb6e83
+        m_SubObjectName: WO8
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -8.55, y: -0.95}
       Name: 
       Description: White Orchard village
       PanoramicImage: {fileID: 21300000, guid: 2652d3fbc99bd584480377d605bfbbe3, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 2652d3fbc99bd584480377d605bfbbe3
+        m_SubObjectName: WO9
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -33.3, y: 1.71}
       Name: 
       Description: sawmill signpost
       PanoramicImage: {fileID: 21300000, guid: 379a8eb15421fa54ea5416844cf4a566, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 379a8eb15421fa54ea5416844cf4a566
+        m_SubObjectName: WO10
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -37.2, y: 28.65}
       Name: 
       Description: inside of nilfgaardian garrison
       PanoramicImage: {fileID: 21300000, guid: c7427ee988bf88f41963193af599a69c, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: c7427ee988bf88f41963193af599a69c
+        m_SubObjectName: WO11
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -35.2, y: 36.9}
       Name: 
       Description: island north of nilfgaardian garrison
       PanoramicImage: {fileID: 21300000, guid: 949df4561f8ceed41bce1bcd2bc69bd2, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 949df4561f8ceed41bce1bcd2bc69bd2
+        m_SubObjectName: WO12
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -13.75, y: 33.71}
       Name: 
       Description: harpy monster nest
       PanoramicImage: {fileID: 21300000, guid: 0649232e08521324ca1d8dcc273a9e49, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 0649232e08521324ca1d8dcc273a9e49
+        m_SubObjectName: WO13
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: 4.52, y: 1.73}
       Name: 
       Description: farmer's hut, east of white orchard village
       PanoramicImage: {fileID: 21300000, guid: 0694e1f10c20c414fab0ab94dddaa82c, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 0694e1f10c20c414fab0ab94dddaa82c
+        m_SubObjectName: WO14
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: 30.65, y: 18.23}
       Name: 
       Description: alghoul monster nest, east of cackler bridge
       PanoramicImage: {fileID: 21300000, guid: 4df7a62d1b9edde4dab261252c4954a2, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 4df7a62d1b9edde4dab261252c4954a2
+        m_SubObjectName: WO15
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: 30.9, y: -7.1}
       Name: 
       Description: ransacked village
       PanoramicImage: {fileID: 21300000, guid: 693ca80667b038d4d865141d6bddd37e, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 693ca80667b038d4d865141d6bddd37e
+        m_SubObjectName: WO16
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: 13.41, y: -1.2}
       Name: 
       Description: ford signpost
       PanoramicImage: {fileID: 21300000, guid: 732c8e6908d95844ab3f0b7bf257e453, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 732c8e6908d95844ab3f0b7bf257e453
+        m_SubObjectName: WO17
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: 8.8, y: -17}
       Name: 
       Description: abandoned site, next to Shrine of Melitele
       PanoramicImage: {fileID: 21300000, guid: c6c7df3167b1beb4b9704558b4b73114, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: c6c7df3167b1beb4b9704558b4b73114
+        m_SubObjectName: WO18
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -0.5, y: -18.36}
       Name: 
       Description: fisherman's hut, east of abandoned village
       PanoramicImage: {fileID: 21300000, guid: 828fdf0c40c320a4781f3814c68e5a71, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 828fdf0c40c320a4781f3814c68e5a71
+        m_SubObjectName: WO19
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -28.65, y: -0.5}
       Name: 
       Description: Tomira's hut
       PanoramicImage: {fileID: 21300000, guid: 4ac2035d17290e1439831f127df02162, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 4ac2035d17290e1439831f127df02162
+        m_SubObjectName: WO20
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -39.33, y: 0.64}
       Name: 
       Description: sawmill, next to vulpine woods
       PanoramicImage: {fileID: 21300000, guid: ac68b01855f68ad48a87edee14e19150, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: ac68b01855f68ad48a87edee14e19150
+        m_SubObjectName: WO21
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -10.1, y: 2.2}
       Name: 
       Description: north end of white orchard village
       PanoramicImage: {fileID: 21300000, guid: afaf6d54ed31f2e4c96773048619815e, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: afaf6d54ed31f2e4c96773048619815e
+        m_SubObjectName: WO22
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -6, y: 18.4}
       Name: 
       Description: next to mill
       PanoramicImage: {fileID: 21300000, guid: 7efbbb92c3518da4c95d4622f3837e20, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 7efbbb92c3518da4c95d4622f3837e20
+        m_SubObjectName: WO23
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -7.75, y: 5.4}
       Name: 
       Description: north of white orchard village
       PanoramicImage: {fileID: 21300000, guid: 338e1ae2163b1534685fc1fba16e4ef2, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 338e1ae2163b1534685fc1fba16e4ef2
+        m_SubObjectName: WO24
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -1.68, y: -16.8}
       Name: 
       Description: middle of frozen lake, next to fisherman's hut
       PanoramicImage: {fileID: 21300000, guid: e91b9c35d7d9c504ca8fe6d8d4ed2e47, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: e91b9c35d7d9c504ca8fe6d8d4ed2e47
+        m_SubObjectName: WO25
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
   - MapType: 2
     DefaultLocationName: Velen - No Man's land
     LocationsForViewing:
@@ -1342,257 +1542,665 @@ MonoBehaviour:
       Name: Free City of Novigrad
       Description: abandoned warehouse at the Novigrad Docks
       PanoramicImage: {fileID: 21300000, guid: 888191650a9ad7144b615a5eb39c8af3, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 888191650a9ad7144b615a5eb39c8af3
+        m_SubObjectName: NV1
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 1
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -14.1, y: 27.17}
       Name: Free City of Novigrad
       Description: fish market near the city center
       PanoramicImage: {fileID: 21300000, guid: e6e088d5e0901e3418c11e251a36fb02, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: e6e088d5e0901e3418c11e251a36fb02
+        m_SubObjectName: NV2
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 1
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -9.7, y: 23.1}
       Name: Farcorners district
       Description: just outside gate of the hierarch
       PanoramicImage: {fileID: 21300000, guid: 0d5720320c2f2fc4ca8f7c3b4d0a1751, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 0d5720320c2f2fc4ca8f7c3b4d0a1751
+        m_SubObjectName: NV3
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 1
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: 16, y: 21.85}
       Name: 
       Description: stables at the vegelbud residence
       PanoramicImage: {fileID: 21300000, guid: cad6f09d2a755244b9734a4dbfcfaa2b, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: cad6f09d2a755244b9734a4dbfcfaa2b
+        m_SubObjectName: NV4
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 1
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: 9.27, y: 36.67}
       Name: 
       Description: Moldavie Residence manor
       PanoramicImage: {fileID: 21300000, guid: 291e3c7438fb8e3478b060ca0e9dee32, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 291e3c7438fb8e3478b060ca0e9dee32
+        m_SubObjectName: NV5
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 1
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -24.3, y: -42.6}
       Name: 
       Description: inner courtyard of the fyke isle tower
       PanoramicImage: {fileID: 21300000, guid: 2d5440241f17b7e48ae70457f80ee55e, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 2d5440241f17b7e48ae70457f80ee55e
+        m_SubObjectName: NV6
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 1
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -24.03, y: -55.3}
       Name: 
       Description: village of Frischlow
       PanoramicImage: {fileID: 21300000, guid: 91df9ccb4d3eb4a498da4f34986cc237, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 91df9ccb4d3eb4a498da4f34986cc237
+        m_SubObjectName: NV7
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 1
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -24.27, y: -58.8}
       Name: 
       Description: treasure guarded by gargoyle, south of Frischlow
       PanoramicImage: {fileID: 21300000, guid: d63cc3be3370e244ca865a81f8f97101, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: d63cc3be3370e244ca865a81f8f97101
+        m_SubObjectName: NV8
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 1
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -24.95, y: -60.13}
       Name: 
       Description: place of power, south of the village of Frischlow
       PanoramicImage: {fileID: 21300000, guid: 65c5b0477a6825e4ba731cc09fbdd535, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 65c5b0477a6825e4ba731cc09fbdd535
+        m_SubObjectName: NV9
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -38.5, y: -53.7}
       Name: 
       Description: fishing village, south of byways
       PanoramicImage: {fileID: 21300000, guid: 2fa0c2feb8472974eae67ada2728033e, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 2fa0c2feb8472974eae67ada2728033e
+        m_SubObjectName: NV10
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -37.8, y: -48.65}
       Name: 
       Description: village of byways
       PanoramicImage: {fileID: 21300000, guid: fcbbabbdfc3e6aa41ac4bdaa424d9ca1, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: fcbbabbdfc3e6aa41ac4bdaa424d9ca1
+        m_SubObjectName: NV11
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -44.31, y: -44.05}
       Name: 
       Description: treasure related to quest "The Dead Have No Defense"
       PanoramicImage: {fileID: 21300000, guid: bd6254a1319dead4f8799bf5fb6baf08, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: bd6254a1319dead4f8799bf5fb6baf08
+        m_SubObjectName: NV12
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -43.4, y: -37.13}
       Name: 
       Description: Religious site of Duen Hen
       PanoramicImage: {fileID: 21300000, guid: 2f9656cf6d62b7b47bfb86c386a4c064, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 2f9656cf6d62b7b47bfb86c386a4c064
+        m_SubObjectName: NV13
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -48.23, y: -40.4}
       Name: 
       Description: bandit camp, south of village of condyle
       PanoramicImage: {fileID: 21300000, guid: cd688ffbfecec9c46b7a4eee85e85ddc, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: cd688ffbfecec9c46b7a4eee85e85ddc
+        m_SubObjectName: NV14
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -50.8, y: -41.35}
       Name: 
       Description: treasure related to quest "A plea ignored"
       PanoramicImage: {fileID: 21300000, guid: 6b93a7e4fd3278643a69de8a1e46d093, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 6b93a7e4fd3278643a69de8a1e46d093
+        m_SubObjectName: NV15
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -47.46, y: -44.12}
       Name: 
       Description: fisherman's hut, south of village of condyle
       PanoramicImage: {fileID: 21300000, guid: b59d12cbf693a8b4786741ffc213bc5e, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: b59d12cbf693a8b4786741ffc213bc5e
+        m_SubObjectName: NV16
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -48.65, y: -33.97}
       Name: 
       Description: a camp of cannibalistic bandits
       PanoramicImage: {fileID: 21300000, guid: be558248a5976114ab36b9c8adaed141, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: be558248a5976114ab36b9c8adaed141
+        m_SubObjectName: NV17
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: 3.5, y: -20.6}
       Name: 
       Description: village of lurtch, related to quest "fools' gold"
       PanoramicImage: {fileID: 21300000, guid: 0ea47592c1c32a64bac5c2f5c741ac17, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 0ea47592c1c32a64bac5c2f5c741ac17
+        m_SubObjectName: NV18
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -47.3, y: -23.9}
       Name: 
       Description: treasure related to quest "queen zuleyka's treasure"
       PanoramicImage: {fileID: 21300000, guid: 360df4e05c03107428f301418ed9a0ee, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 360df4e05c03107428f301418ed9a0ee
+        m_SubObjectName: NV19
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -44.39, y: -21}
       Name: 
       Description: person in distress, west of hangman's alley
       PanoramicImage: {fileID: 21300000, guid: 824ea72522f16d749abf581a24616a44, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 824ea72522f16d749abf581a24616a44
+        m_SubObjectName: NV20
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -41.6, y: -30.1}
       Name: 
       Description: village of midcopse
       PanoramicImage: {fileID: 21300000, guid: 86f46b605c4f52b4e88f0ec5b4083ae3, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 86f46b605c4f52b4e88f0ec5b4083ae3
+        m_SubObjectName: NV21
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -46.8, y: -27.8}
       Name: 
       Description: Refugees' Camp
       PanoramicImage: {fileID: 21300000, guid: b24120e521acdfa4abf88d54fa888c0e, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: b24120e521acdfa4abf88d54fa888c0e
+        m_SubObjectName: NV22
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -37.88, y: -26.06}
       Name: 
       Description: Keira's hut
       PanoramicImage: {fileID: 21300000, guid: 3683c78ebe6127b4baddb6a031658c53, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 3683c78ebe6127b4baddb6a031658c53
+        m_SubObjectName: NV23
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -42.11, y: -19.4}
       Name: 
       Description: Hangman's Alley
       PanoramicImage: {fileID: 21300000, guid: 0de82b48a0dc82f429720e604b2e3dda, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 0de82b48a0dc82f429720e604b2e3dda
+        m_SubObjectName: NV24
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -36.06, y: -18.4}
       Name: 
       Description: village of blackbough
       PanoramicImage: {fileID: 21300000, guid: caf50dc2d08105a478f0c89edfcca206, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: caf50dc2d08105a478f0c89edfcca206
+        m_SubObjectName: NV25
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -39.55, y: -13.88}
       Name: 
       Description: bear cave, related to quest "A Princess in Distress"
       PanoramicImage: {fileID: 21300000, guid: 9bcddde4c0f19904caa9e6bd72d89078, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 9bcddde4c0f19904caa9e6bd72d89078
+        m_SubObjectName: NV26
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -41, y: -7.5}
       Name: 
       Description: Isolated Shack, related to quest "Wild at Heart"
       PanoramicImage: {fileID: 21300000, guid: e91aa07d16c52d7479a5d3eeee6149d6, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: e91aa07d16c52d7479a5d3eeee6149d6
+        m_SubObjectName: NV27
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -37.85, y: -7.7}
       Name: 
       Description: 'Abandoned Tower, related to quest "Ciri''s Story: The Race"'
       PanoramicImage: {fileID: 21300000, guid: 620991bd79570cb4e9bba6dc291612c2, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 620991bd79570cb4e9bba6dc291612c2
+        m_SubObjectName: NV28
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -33.1, y: -8.7}
       Name: 
       Description: abandoned village of Heatherton
       PanoramicImage: {fileID: 21300000, guid: 95926aadf76e90547979402e1bbaf474, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 95926aadf76e90547979402e1bbaf474
+        m_SubObjectName: NV29
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -28.38, y: -13.49}
       Name: 
       Description: Wolven Glade related to quest "Family matters"
       PanoramicImage: {fileID: 21300000, guid: e10f578f7f0b69a488a820100b946b0e, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: e10f578f7f0b69a488a820100b946b0e
+        m_SubObjectName: NV30
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -38, y: 1.78}
       Name: 
       Description: lighthouse of lornruk
       PanoramicImage: {fileID: 21300000, guid: 8c3e07d7cfaeff741b842db4dde15e4c, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 8c3e07d7cfaeff741b842db4dde15e4c
+        m_SubObjectName: NV31
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -33.75, y: -30.1}
       Name: 
       Description: wastrel manor signpost, related to quest "a greedy god"
       PanoramicImage: {fileID: 21300000, guid: f90c091258236da4aa753756f77e3ae3, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: f90c091258236da4aa753756f77e3ae3
+        m_SubObjectName: NV32
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -32.88, y: -33.1}
       Name: 
       Description: wastrel manor, related to quest "a greedy god"
       PanoramicImage: {fileID: 21300000, guid: b4289746a5964344e9a1988965134d00, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: b4289746a5964344e9a1988965134d00
+        m_SubObjectName: NV33
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: 15.67, y: -20.8}
       Name: 
       Description: village of toderas
       PanoramicImage: {fileID: 21300000, guid: 2a5a4f3694f61a94e92135d0eed9a01f, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 2a5a4f3694f61a94e92135d0eed9a01f
+        m_SubObjectName: NV34
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -23.9, y: -28.91}
       Name: 
       Description: village of honorton, related to quest "Where the Cat and Wolf
         Play..."
       PanoramicImage: {fileID: 21300000, guid: 5c14d9a1e4d58a3489a4cbfa2b804468, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 5c14d9a1e4d58a3489a4cbfa2b804468
+        m_SubObjectName: NV35
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -26.5, y: -36.15}
       Name: 
       Description: village of oreton
       PanoramicImage: {fileID: 21300000, guid: 924bae7dff8629040a643b9f3da1dc30, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 924bae7dff8629040a643b9f3da1dc30
+        m_SubObjectName: NV36
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -25.4, y: -35.97}
       Name: 
       Description: blacksmith at the village of oreton
       PanoramicImage: {fileID: 21300000, guid: 47451e3970a1fe447b8c53762b84a22c, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 47451e3970a1fe447b8c53762b84a22c
+        m_SubObjectName: NV37
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -19.85, y: -29.74}
       Name: 
       Description: boatmakers' hut
       PanoramicImage: {fileID: 21300000, guid: 2b8f95ae361586849b2e060dba3e9a44, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 2b8f95ae361586849b2e060dba3e9a44
+        m_SubObjectName: NV38
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -22.55, y: -23.55}
       Name: 
       Description: Smokehouse, related to quest "Family matters"
       PanoramicImage: {fileID: 21300000, guid: 64c0a677444ced0499b0467d4f1529be, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 64c0a677444ced0499b0467d4f1529be
+        m_SubObjectName: NV39
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -26.2, y: -22.9}
       Name: 
       Description: crossroads near the crow's perch signpost
       PanoramicImage: {fileID: 21300000, guid: d21ff0660139f5e42ad74c055d1eb9c7, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: d21ff0660139f5e42ad74c055d1eb9c7
+        m_SubObjectName: NV40
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -25.55, y: -20.97}
       Name: 
       Description: main entrance of the Crow's Perch palisade hold
       PanoramicImage: {fileID: 21300000, guid: 33d6de640fffb5643ac43568265f896a, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 33d6de640fffb5643ac43568265f896a
+        m_SubObjectName: NV41
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -26.2, y: -18.7}
       Name: 
       Description: inner courtyard of the Crow's Perch palisade hold
       PanoramicImage: {fileID: 21300000, guid: 9bcc301266aa4044ea5b7b33c69d0edf, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 9bcc301266aa4044ea5b7b33c69d0edf
+        m_SubObjectName: NV42
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -26.36, y: -20.74}
       Name: 
       Description: western gate of the Crow's Perch palisade hold
       PanoramicImage: {fileID: 21300000, guid: 3420ec550a9054649ba654a8913260f0, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 3420ec550a9054649ba654a8913260f0
+        m_SubObjectName: NV43
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -26.3, y: -18.05}
       Name: 
       Description: stronghold at the Crow's Perch
       PanoramicImage: {fileID: 21300000, guid: 5e924fd1152dc9f4f8f2440d9797d2d2, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 5e924fd1152dc9f4f8f2440d9797d2d2
+        m_SubObjectName: NV44
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -21.8, y: -17.77}
       Name: 
       Description: burned ruins, east of Crow's Perch palisade hold
       PanoramicImage: {fileID: 21300000, guid: a1a6a69510033924686b56cca25b3625, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: a1a6a69510033924686b56cca25b3625
+        m_SubObjectName: NV45
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -14.54, y: -17.39}
       Name: 
       Description: fisherman voytek's hut, related to quest "Family matters"
       PanoramicImage: {fileID: 21300000, guid: 3f2329a26d54456419acb183a833719d, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 3f2329a26d54456419acb183a833719d
+        m_SubObjectName: NV46
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -9.35, y: -21.25}
       Name: 
       Description: village of Lindenvale
       PanoramicImage: {fileID: 21300000, guid: f5715757c9b031b4e92a6fc60b4fef4a, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: f5715757c9b031b4e92a6fc60b4fef4a
+        m_SubObjectName: NV47
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -12.86, y: 28.48}
       Name: Free City of Novigrad
       Description: Hierarch Square
       PanoramicImage: {fileID: 21300000, guid: 3e573030e08b050419e837703752176b, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 3e573030e08b050419e837703752176b
+        m_SubObjectName: NV48
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -11.75, y: 41.5}
       Name: 
       Description: cavern entrance, northeast of Novigrad city
       PanoramicImage: {fileID: 21300000, guid: a07ecfe5fc599d04fb8bd85a11beab78, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: a07ecfe5fc599d04fb8bd85a11beab78
+        m_SubObjectName: NV49
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -18.6, y: 43}
       Name: 
       Description: hut overran by monsters, north of Novigrad city
       PanoramicImage: {fileID: 21300000, guid: 512f239bb9519ed43add5d1f880f29f0, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 512f239bb9519ed43add5d1f880f29f0
+        m_SubObjectName: NV50
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -26.6, y: 41.03}
       Name: 
       Description: beachside, south of crane cape's lighthouse
       PanoramicImage: {fileID: 21300000, guid: 106367eb771272b4cbd35598f3a2f5df, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 106367eb771272b4cbd35598f3a2f5df
+        m_SubObjectName: NV51
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
   - MapType: 3
     DefaultLocationName: The Skellige Isles
     LocationsForViewing:
@@ -1601,131 +2209,339 @@ MonoBehaviour:
       Name: 
       Description: village of rannvaig
       PanoramicImage: {fileID: 21300000, guid: 260e830db7b4daa4e936706ec82aaf20, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 260e830db7b4daa4e936706ec82aaf20
+        m_SubObjectName: SK1
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: 0.4, y: -0.8}
       Name: 
       Description: fishing village, east of crossroads
       PanoramicImage: {fileID: 21300000, guid: ad60f65706922844ea2a9bc63687478a, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: ad60f65706922844ea2a9bc63687478a
+        m_SubObjectName: SK2
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -2.68, y: -0.11}
       Name: 
       Description: guarded treasure by the harpy nest
       PanoramicImage: {fileID: 21300000, guid: 897e7a8751ebe3d47bf7ef62560b531e, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 897e7a8751ebe3d47bf7ef62560b531e
+        m_SubObjectName: SK3
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -3.4, y: -0.9}
       Name: 
       Description: original shipwreck, next to the place of power
       PanoramicImage: {fileID: 21300000, guid: 34d0d932bddb7a14490fff468d4ffdfb, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 34d0d932bddb7a14490fff468d4ffdfb
+        m_SubObjectName: SK4
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -6.9, y: -5.7}
       Name: 
       Description: village of sund
       PanoramicImage: {fileID: 21300000, guid: 6293bf7cc106ec74189a3d9e0e98e134, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 6293bf7cc106ec74189a3d9e0e98e134
+        m_SubObjectName: SK5
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -7.37, y: -7.4}
       Name: 
       Description: logging camp, south of village of sund
       PanoramicImage: {fileID: 21300000, guid: 9dcbc7ed06a3f5b40942a9d105195654, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 9dcbc7ed06a3f5b40942a9d105195654
+        m_SubObjectName: SK6
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -8.38, y: -7.9}
       Name: 
       Description: tower ruins
       PanoramicImage: {fileID: 21300000, guid: dc3238648c052f94f9441a5785afbdb4, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: dc3238648c052f94f9441a5785afbdb4
+        m_SubObjectName: SK7
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -10.75, y: -10.95}
       Name: 
       Description: wild shore
       PanoramicImage: {fileID: 21300000, guid: 2dff7485db4f4e54686bb06521c99617, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 2dff7485db4f4e54686bb06521c99617
+        m_SubObjectName: SK8
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -2.51, y: -5.05}
       Name: 
       Description: village of fayrlund
       PanoramicImage: {fileID: 21300000, guid: 193824902ed753647a4535b7b0698f4d, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 193824902ed753647a4535b7b0698f4d
+        m_SubObjectName: SK9
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -7.1, y: -16.05}
       Name: 
       Description: 'Holmstein''s Port '
       PanoramicImage: {fileID: 21300000, guid: dedcfd57d4caf6b4cafe465c751a8101, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: dedcfd57d4caf6b4cafe465c751a8101
+        m_SubObjectName: SK10
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -5.58, y: -15.65}
       Name: 
       Description: village of Holmstein
       PanoramicImage: {fileID: 21300000, guid: a0f5548e66f91a14b87451df86c775b3, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: a0f5548e66f91a14b87451df86c775b3
+        m_SubObjectName: SK11
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -4.14, y: -15.1}
       Name: 
       Description: Kaer Muire fortress
       PanoramicImage: {fileID: 21300000, guid: 8f6d677f0f016e7479ad4f790ac46637, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 8f6d677f0f016e7479ad4f790ac46637
+        m_SubObjectName: SK12
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -0.25, y: -20.07}
       Name: 
       Description: cave entrace to quest 'the cave of dreams'
       PanoramicImage: {fileID: 21300000, guid: 3fba203663cbc3f4a9d9c8e3365a34f9, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 3fba203663cbc3f4a9d9c8e3365a34f9
+        m_SubObjectName: SK13
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: 3.22, y: -20.22}
       Name: 
       Description: path towards the Elverum Lighthouse
       PanoramicImage: {fileID: 21300000, guid: 0e05bb117911500469132c50f218d003, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 0e05bb117911500469132c50f218d003
+        m_SubObjectName: SK14
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: 1.925, y: -11.35}
       Name: 
       Description: village of Fyresdal
       PanoramicImage: {fileID: 21300000, guid: 353434bb8137f284fa4fffb15fb21904, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 353434bb8137f284fa4fffb15fb21904
+        m_SubObjectName: SK15
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: 1.075, y: -5.58}
       Name: 
       Description: destroyed village of boxholm
       PanoramicImage: {fileID: 21300000, guid: 9787e69ce6198244d85c90f40643f8f6, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 9787e69ce6198244d85c90f40643f8f6
+        m_SubObjectName: SK16
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: 4.7, y: -2.77}
       Name: 
       Description: village of Blandare
       PanoramicImage: {fileID: 21300000, guid: dab4b2afce680a64991648c10cb9cd73, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: dab4b2afce680a64991648c10cb9cd73
+        m_SubObjectName: SK17
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -2.915, y: 5.324}
       Name: 
       Description: mountainside path to Kaer Trolde citadel
       PanoramicImage: {fileID: 21300000, guid: 295338f836be8df49b6f88b98ed6268a, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 295338f836be8df49b6f88b98ed6268a
+        m_SubObjectName: SK18
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -4.24, y: 6.44}
       Name: 
       Description: bridge to Kaer Trolde
       PanoramicImage: {fileID: 21300000, guid: 4b2d439fe2873214285e0093f5885f5c, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 4b2d439fe2873214285e0093f5885f5c
+        m_SubObjectName: SK19
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: -4.95, y: 6.05}
       Name: 
       Description: Kaer Trolde banquet hall
       PanoramicImage: {fileID: 21300000, guid: 8e990d3099ee9ee4faf00a9708ea449f, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 8e990d3099ee9ee4faf00a9708ea449f
+        m_SubObjectName: SK20
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: 0, y: 8.5}
       Name: 
       Description: entrance to the ancient crypt
       PanoramicImage: {fileID: 21300000, guid: 7f9fa8f423047c34a843ca0fd4df2865, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 7f9fa8f423047c34a843ca0fd4df2865
+        m_SubObjectName: SK21
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: 1.12, y: 7.05}
       Name: 
       Description: Treasure guarded by gargoyles
       PanoramicImage: {fileID: 21300000, guid: f254302336a542e41a1b405629ac98a2, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: f254302336a542e41a1b405629ac98a2
+        m_SubObjectName: SK22
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: 9.354, y: 8.24}
       Name: 
       Description: north end of giant's toes shoreline
       PanoramicImage: {fileID: 21300000, guid: ff2f4aa89f7be9b4798df393b518be81, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: ff2f4aa89f7be9b4798df393b518be81
+        m_SubObjectName: SK23
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: 6.08, y: 4.5}
       Name: 
       Description: mountaintop, north of Kaer Gelen
       PanoramicImage: {fileID: 21300000, guid: d9c58e2fcb0a9404e9f4a605094ba593, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: d9c58e2fcb0a9404e9f4a605094ba593
+        m_SubObjectName: SK24
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: 9.72, y: -0.15}
       Name: 
       Description: Gedyneith, the sacred oak tree
       PanoramicImage: {fileID: 21300000, guid: be6cda205170cfe41a6d1e360a383dd7, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: be6cda205170cfe41a6d1e360a383dd7
+        m_SubObjectName: SK25
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
     - Index: 0
       Coordinates: {x: 9.1, y: -10.7}
       Name: 
       Description: inside of the Distillery
       PanoramicImage: {fileID: 21300000, guid: 0cf8f1a5bda1214469f86b3b84a00a32, type: 3}
+      CachedPanoramicSprite: {fileID: 0}
+      AddressablePanoramicSprite:
+        m_AssetGUID: 0cf8f1a5bda1214469f86b3b84a00a32
+        m_SubObjectName: SK26
+        m_SubObjectType: UnityEngine.Sprite, UnityEngine.CoreModule, Version=0.0.0.0,
+          Culture=neutral, PublicKeyToken=null
+        m_EditorAssetChanged: 0
+      AddressablePanoramicSpriteLoaded: 0
 --- !u!1 &556506242
 GameObject:
   m_ObjectHideFlags: 0
