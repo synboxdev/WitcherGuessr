@@ -7,9 +7,13 @@ public class ImageInitializationManager : MonoBehaviour
     public RectTransform DefaultLayer;
     public GameObject ImageObject;
 
+    void Awake()
+    {
+        FindObjectOfType<LocationManager>().RegisterImageInitializationManager(this);
+    }
+
     public void SetNewImage(Sprite ImageSprite)
     {
-        ClearLayers();
         InitializeImages(ImageSprite);
     }
 
@@ -42,12 +46,10 @@ public class ImageInitializationManager : MonoBehaviour
         secondImageObject.SetActive(true);
     }
 
-    private void ClearLayers()
+    public void ClearLayers()
     {
         if (DefaultLayer.childCount > 0)
-        {
             foreach (Transform child in DefaultLayer.transform)
                 Destroy(child.gameObject);
-        }
     }
 }

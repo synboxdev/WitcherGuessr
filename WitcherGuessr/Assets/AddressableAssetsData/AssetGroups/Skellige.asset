@@ -1,0 +1,155 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Skellige
+  m_EditorClassIdentifier: 
+  m_GroupName: Skellige
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0650e1f771e08da41b7870b8eeb92ced
+  m_SerializeEntries:
+  - m_GUID: 260e830db7b4daa4e936706ec82aaf20
+    m_Address: Assets/UI/Locations/Skellige/SK1.tiff
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad60f65706922844ea2a9bc63687478a
+    m_Address: Assets/UI/Locations/Skellige/SK2.tiff
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 897e7a8751ebe3d47bf7ef62560b531e
+    m_Address: Assets/UI/Locations/Skellige/SK3.tiff
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 34d0d932bddb7a14490fff468d4ffdfb
+    m_Address: Assets/UI/Locations/Skellige/SK4.tiff
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6293bf7cc106ec74189a3d9e0e98e134
+    m_Address: Assets/UI/Locations/Skellige/SK5.tiff
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9dcbc7ed06a3f5b40942a9d105195654
+    m_Address: Assets/UI/Locations/Skellige/SK6.tiff
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc3238648c052f94f9441a5785afbdb4
+    m_Address: Assets/UI/Locations/Skellige/SK7.tiff
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2dff7485db4f4e54686bb06521c99617
+    m_Address: Assets/UI/Locations/Skellige/SK8.tiff
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 193824902ed753647a4535b7b0698f4d
+    m_Address: Assets/UI/Locations/Skellige/SK9.tiff
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dedcfd57d4caf6b4cafe465c751a8101
+    m_Address: Assets/UI/Locations/Skellige/SK10.tiff
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0f5548e66f91a14b87451df86c775b3
+    m_Address: Assets/UI/Locations/Skellige/SK11.tiff
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f6d677f0f016e7479ad4f790ac46637
+    m_Address: Assets/UI/Locations/Skellige/SK12.tiff
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3fba203663cbc3f4a9d9c8e3365a34f9
+    m_Address: Assets/UI/Locations/Skellige/SK13.tiff
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e05bb117911500469132c50f218d003
+    m_Address: Assets/UI/Locations/Skellige/SK14.tiff
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 353434bb8137f284fa4fffb15fb21904
+    m_Address: Assets/UI/Locations/Skellige/SK15.tiff
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9787e69ce6198244d85c90f40643f8f6
+    m_Address: Assets/UI/Locations/Skellige/SK16.tiff
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dab4b2afce680a64991648c10cb9cd73
+    m_Address: Assets/UI/Locations/Skellige/SK17.tiff
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 295338f836be8df49b6f88b98ed6268a
+    m_Address: Assets/UI/Locations/Skellige/SK18.tiff
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4b2d439fe2873214285e0093f5885f5c
+    m_Address: Assets/UI/Locations/Skellige/SK19.tiff
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8e990d3099ee9ee4faf00a9708ea449f
+    m_Address: Assets/UI/Locations/Skellige/SK20.tiff
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7f9fa8f423047c34a843ca0fd4df2865
+    m_Address: Assets/UI/Locations/Skellige/SK21.tiff
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f254302336a542e41a1b405629ac98a2
+    m_Address: Assets/UI/Locations/Skellige/SK22.tiff
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff2f4aa89f7be9b4798df393b518be81
+    m_Address: Assets/UI/Locations/Skellige/SK23.tiff
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9c58e2fcb0a9404e9f4a605094ba593
+    m_Address: Assets/UI/Locations/Skellige/SK24.tiff
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: be6cda205170cfe41a6d1e360a383dd7
+    m_Address: Assets/UI/Locations/Skellige/SK25.tiff
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0cf8f1a5bda1214469f86b3b84a00a32
+    m_Address: Assets/UI/Locations/Skellige/SK26.tiff
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 154bc2ac59ecb0a42bfcbacc4f781828, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8578970df764b91418d62c7d926466ef, type: 2}
+    - {fileID: 11400000, guid: bf4a2a4a614ceea4483b09fc083efb04, type: 2}
