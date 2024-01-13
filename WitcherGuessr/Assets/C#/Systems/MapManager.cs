@@ -73,11 +73,14 @@ public class MapManager : MonoBehaviour
     }
 #nullable disable
 
-    public void RegisterLoadedMapGameObject(MapType mapType, GameObject loadedMapGameObject)
+    public GameObject RegisterLoadedMapGameObject(MapType mapType, Sprite loadedMapSprite)
     {
         var mapSelection = MapSelections.FirstOrDefault(x => x.MapType == mapType);
-        mapSelection.MapGameObject = loadedMapGameObject;
+        mapSelection.MapGameObject = Instantiate(mapSelection.MapPrefab, MapParent.transform);
+        mapSelection.MapGameObject.SetActive(false);
         mapSelection.AddressableMapLoaded = true;
-        loadedMapGameObject.transform.SetParent(MapParent.transform);
+        mapSelection.MapGameObject.GetComponent<SpriteRenderer>().sprite = loadedMapSprite;
+
+        return mapSelection.MapGameObject;
     }
 }

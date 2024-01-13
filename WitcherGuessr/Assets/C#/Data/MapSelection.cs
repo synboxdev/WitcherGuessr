@@ -9,7 +9,8 @@ public class MapSelection
     public MapType MapType;
     public string MapName;
     public GameObject MapGameObject;
-    public AssetReferenceGameObject AddressableMapGameObject;
+    public GameObject MapPrefab;
+    public AssetReferenceSprite AddressableMapSprite;
     public bool AddressableMapLoaded = false;
     public bool IsMarkedByUser = false;
 }
