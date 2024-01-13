@@ -142,6 +142,11 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fdab04d2780432d4e91932faa9e0315e
+    m_Address: Assets/UI/Locations/WhiteOrchard
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 154bc2ac59ecb0a42bfcbacc4f781828, type: 2}
   m_SchemaSet:

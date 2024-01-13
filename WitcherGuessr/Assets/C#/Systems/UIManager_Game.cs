@@ -233,12 +233,9 @@ public class UIManager_Game : MonoBehaviour
         if (loadedMap != null)
             return loadedMap;
 
-        var handle = mapToInitialize.AddressableMapGameObject.InstantiateAsync();
-        await handle.Task;
-
-        var initializedMap = handle.Result;
-        initializedMap.SetActive(false);
-        MapManager.RegisterLoadedMapGameObject(mapToInitialize.MapType, initializedMap);
+        var handle = mapToInitialize.AddressableMapSprite.LoadAssetAsync();
+        var loadedMapSprite = await handle.Task;
+        var initializedMap = MapManager.RegisterLoadedMapGameObject(mapToInitialize.MapType, loadedMapSprite);
 
         return mapToInitialize.MapGameObject = initializedMap;
     }

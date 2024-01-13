@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: 0afafa0eeb47f064c852a1ff6e23d9d7
   m_currentHash:
     serializedVersion: 2
-    Hash: 00000000000000000000000000000000
+    Hash: d918c0bc8a69d204d05d9ae40a012979
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 1
   m_BundleLocalCatalog: 0
@@ -71,6 +71,20 @@ MonoBehaviour:
         m_Value: ServerData/[BuildTarget]
       - m_Id: 1d133fba0316846459daaf502d64c003
         m_Value: http://[PrivateIpAddress]:[HostingServicePort]
+    - m_InheritedParent: 
+      m_Id: aeab26175c53e4a449377beebf4b06af
+      m_ProfileName: Remote
+      m_Values:
+      - m_Id: 501415a2480d8bf459aee80020589f62
+        m_Value: '[UnityEditor.EditorUserBuildSettings.activeBuildTarget]'
+      - m_Id: b07f24935442cdb45a2da15003b5468b
+        m_Value: ServerData/[BuildTarget]
+      - m_Id: 8e2d54a51115dee4f8c7edc957eff1da
+        m_Value: http://[PrivateIpAddress]:[HostingServicePort]
+      - m_Id: 698ccfd8f6eb5a0479ca76c1a3e21ac7
+        m_Value: ServerData/[BuildTarget]
+      - m_Id: 1d133fba0316846459daaf502d64c003
+        m_Value: https://storage.googleapis.com/witcherguessrdlc/[BuildTarget]
     m_ProfileEntryNames:
     - m_Id: 501415a2480d8bf459aee80020589f62
       m_Name: BuildTarget
@@ -104,7 +118,7 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 6c82cae3dd259e74a9a2883bfb6d5ea5, type: 2}
   - {fileID: 11400000, guid: 0e4661dba93e0994b95620b739b45ffc, type: 2}
   - {fileID: 11400000, guid: 3c1ee1513ab29554bb58abb65f8d5094, type: 2}
-  m_ActiveProfileId: 1a56a68d5d100eb41a707c5bf0acba62
+  m_ActiveProfileId: aeab26175c53e4a449377beebf4b06af
   m_HostingServicesManager:
     m_HostingServiceInfos: []
     m_Settings: {fileID: 11400000}
