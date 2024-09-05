@@ -9,6 +9,7 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+/[Ss]erver[Dd]ata/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -67,6 +68,21 @@ crashlytics-build.properties
 # Packed Addressables
 /[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
 
+# Ignore unnecessary addressable build artifacts
+/Assets/AddressableAssetsData/*
+!/Assets/AddressableAssetsData/AssetGroups/
+!/Assets/AddressableAssetsData/AssetGroups.meta
+!/Assets/AddressableAssetsData/AssetGroupTemplates/
+!/Assets/AddressableAssetsData/AssetGroupTemplates.meta
+!/Assets/AddressableAssetsData/DataBuilders/
+!/Assets/AddressableAssetsData/DataBuilders.meta
+!/Assets/AddressableAssetsData/*.asset
+!/Assets/AddressableAssetsData/*.asset.meta
+
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Ignore Location images and maps
+/[Aa]ssets/UI/Maps
+/[Aa]ssets/UI/Locations
