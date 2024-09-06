@@ -1376,7 +1376,7 @@ MonoBehaviour:
       Description: Crossroads signpost
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: 98ab606300faafc40b372c858fdf6793
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1387,7 +1387,7 @@ MonoBehaviour:
       Description: battlefield, north-east of crossroads
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: df87a8a79760d8743b1592fc315942d7
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1398,7 +1398,7 @@ MonoBehaviour:
       Description: ... none, but devils play here
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: ca81dc69bdb02ae47af63f75a13e53d5
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1409,7 +1409,7 @@ MonoBehaviour:
       Description: cackler bridge, north of crossroads
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: ad16fee63492adc42906921188be4170
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1420,7 +1420,7 @@ MonoBehaviour:
       Description: bandit encampment
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: 5befc2c570bbbc846a780ce97214808b
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1431,7 +1431,7 @@ MonoBehaviour:
       Description: observer's camp, 'deserter gold' quest
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: ebfef41a9aca0a94a9eb79ca1d55b078
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1442,7 +1442,7 @@ MonoBehaviour:
       Description: mill
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: a9139a5d1a6c4834ca09408ee91d377a
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1453,7 +1453,7 @@ MonoBehaviour:
       Description: cementery, north of mill
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: 8155a43a95341f0409f4d11662537eb6
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1464,7 +1464,7 @@ MonoBehaviour:
       Description: north of mill
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: 71152135a4a91a245b9d0ae9d506c409
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1475,7 +1475,7 @@ MonoBehaviour:
       Description: nilfgaardian camp, north of mill
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: e5dad3a8f7f164d48822a4fc7690c774
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1486,7 +1486,7 @@ MonoBehaviour:
       Description: place of power, north of cementery
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: de19c1a7416a2fc4d9ac0c1d25f8e254
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1497,7 +1497,7 @@ MonoBehaviour:
       Description: north of white orchard village
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: 7f3b297a7b02886419bca5190e94642e
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1508,7 +1508,7 @@ MonoBehaviour:
       Description: center of white orchard village
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: 47f9f679dacbfe54c9e7e8c417133de3
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1519,7 +1519,7 @@ MonoBehaviour:
       Description: white orchard inn
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: f12c1c3b8b6adef47b6a0992fb14faa4
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1530,7 +1530,7 @@ MonoBehaviour:
       Description: woesong bridge
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: 00a39d6059c9cf645946f026318f2500
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1541,7 +1541,7 @@ MonoBehaviour:
       Description: vildenvert's farm
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: d0169e0b078b04646bf555ba55a6463d
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1552,7 +1552,7 @@ MonoBehaviour:
       Description: ford signpost
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: 7126a357259695b4c84dd7873f9cbdcb
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1563,7 +1563,7 @@ MonoBehaviour:
       Description: bandit camp, fortress ruins
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: 03b7412382c9d41489930dac337cebb7
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1574,7 +1574,7 @@ MonoBehaviour:
       Description: ransacked village
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: 7e5e69dd5abeda74fa1bf5e9e843b00e
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1585,7 +1585,7 @@ MonoBehaviour:
       Description: ransacked village signpost
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: 1d8aeaf3f82082c418754888b60bb932
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1596,7 +1596,7 @@ MonoBehaviour:
       Description: island, north of nilfgaardian garrison
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: 15f8aed4ea2eced49bd33ab65b989fc0
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1607,7 +1607,7 @@ MonoBehaviour:
       Description: end of bridge, north of nilfgaardian garrison
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: dc33bf4781ffdac4a8fa1d7cf24f69f8
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1618,7 +1618,7 @@ MonoBehaviour:
       Description: nilfgaardian garrison signpost
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: 703e7230bb8948148bc93f67ac37e50b
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1629,7 +1629,7 @@ MonoBehaviour:
       Description: center of nilfgaardian garrison
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: 631e0e166d2bafe4496a16d0da0d0228
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1640,7 +1640,7 @@ MonoBehaviour:
       Description: swamp, south of nilfgaardian garrison
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: 0552f753a7c74954db2b3d0c51b20357
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1651,7 +1651,7 @@ MonoBehaviour:
       Description: '''precious cargo'' quest start'
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: abdf3d203c065144a96e12d9f8617ea7
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1662,7 +1662,7 @@ MonoBehaviour:
       Description: place of power, north of sawmill
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: 6e9718a5b8b4b464083c8f1fe49270ea
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1673,7 +1673,7 @@ MonoBehaviour:
       Description: bridge, west of mill
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: e1f0656563046ae4fa479eeb7e1c7306
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1684,7 +1684,7 @@ MonoBehaviour:
       Description: A Frying Pan, Spick and Span
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c6e537fcb5f34154c87a24334a7d0ddc
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1695,7 +1695,7 @@ MonoBehaviour:
       Description: tomira's hut
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: 0e3c8f69e9437aa458b155899249b3d8
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1706,7 +1706,7 @@ MonoBehaviour:
       Description: sawmill signpost
       CachedPanoramicImageTexture: {fileID: 2800000, guid: edbe3c4f317d14542b3c10d433ae5e6f, type: 3}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: 48a85d371e061f64ea84e67d6f8ddb34
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1717,7 +1717,7 @@ MonoBehaviour:
       Description: sawmill
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: 2ec119281685dd647b2b1b376c963941
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1728,7 +1728,7 @@ MonoBehaviour:
       Description: insignificant hut, east of sawmill
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: 08da4ce1b820dd941843aa7beda47e1f
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1739,7 +1739,7 @@ MonoBehaviour:
       Description: mislav's hut
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: 44782b232bbef0b46a7a3b472df665b5
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1750,7 +1750,7 @@ MonoBehaviour:
       Description: broken bridge signpost
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: d760cbfa2aa480f43b9d2daea1ca8620
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1761,7 +1761,7 @@ MonoBehaviour:
       Description: griffin's nest
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: b739ed451fa1a1f48897fd4370ef0720
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1772,7 +1772,7 @@ MonoBehaviour:
       Description: devil by the well
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: db5b88955471cec4babf19a77d2767dc
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1783,7 +1783,7 @@ MonoBehaviour:
       Description: fisherman's hut
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: 060050afe351bfa419e254ed476cd1bf
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1794,7 +1794,7 @@ MonoBehaviour:
       Description: place of power, east of abandoned village
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: 5584cd0c52a22ad468d9ff91b6a2cc3a
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1805,7 +1805,7 @@ MonoBehaviour:
       Description: insignificant bridge, south of ford
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: 4297c0ca33f03fd48b29de264a960f57
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1816,7 +1816,7 @@ MonoBehaviour:
       Description: west of of white orchard
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: 6d0441f125f41b841a3bda7ba000d7d7
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1827,7 +1827,7 @@ MonoBehaviour:
       Description: woesong bridge
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: 51f7cc09e32eedf4188332989f03e15a
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1838,7 +1838,7 @@ MonoBehaviour:
       Description: farmer's hut
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: 78d953f6610bbf34fb658488b95e0b87
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1849,7 +1849,7 @@ MonoBehaviour:
       Description: ford signpost
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: 797961e4fa806a942bd7cc638c6ec3a4
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1860,7 +1860,7 @@ MonoBehaviour:
       Description: center of white orchard village
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: fc1833adc561c2f4998087d1036b5c89
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1871,7 +1871,7 @@ MonoBehaviour:
       Description: mill signpost
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: 07f0421dfd3bd4f469bfa3b0d84cd502
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1882,7 +1882,7 @@ MonoBehaviour:
       Description: cementery, north of mill
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: a0917d7eeb66d1d45bd1cdf333b81708
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1893,7 +1893,7 @@ MonoBehaviour:
       Description: nilfgaardian garrison signpost
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: 0481f8b7c33007444adac0352729e5ad
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1904,7 +1904,7 @@ MonoBehaviour:
       Description: center of nilfgaardian garrison
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: de25e61ab54340e49b8ad9678ce88dec
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1915,7 +1915,7 @@ MonoBehaviour:
       Description: sawmill
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: ae2e14dda7cb5fb418ed31e54f0a2291
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1926,7 +1926,7 @@ MonoBehaviour:
       Description: altar of human sacrifice
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c8ea792c0e93f5342b4849c4e0293b88
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1937,7 +1937,7 @@ MonoBehaviour:
       Description: abandoned griffin's nest
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: 335d7d00446f9bd4981b2b1d294dbdc3
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1948,7 +1948,7 @@ MonoBehaviour:
       Description: devil no longer by the well
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: e3af57904ca58e540acc34d7456c71e3
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1959,7 +1959,7 @@ MonoBehaviour:
       Description: frozen lake by fisherman's hut
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: de3b68322a239ed4a927969dac549a71
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1970,7 +1970,7 @@ MonoBehaviour:
       Description: battlefield, north-east of crossroads
       CachedPanoramicImageTexture: {fileID: 2800000, guid: fa62f1988a0810f4c9b97f1081ee1904, type: 3}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: 06ed60dfeaca7954dafac330490c00ee
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1981,7 +1981,7 @@ MonoBehaviour:
       Description: tomira's hut
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: 32f009c93fe5e78449c7367abdb82c65
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -1992,7 +1992,7 @@ MonoBehaviour:
       Description: insignificant bandit camp
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: d4778cae7a7f459429529ea7eba808c2
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -2003,7 +2003,7 @@ MonoBehaviour:
       Description: bridge by ransacked village
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: aef2ce7af889fd345a92389529b4ce4d
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
@@ -2014,7 +2014,7 @@ MonoBehaviour:
       Description: white orchard fields
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: 232e94023a6df5248a3f2687e85316f6
+        m_AssetGUID: c16918833a2aab44ba7276883b695082
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
