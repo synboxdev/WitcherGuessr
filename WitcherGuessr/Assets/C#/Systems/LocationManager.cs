@@ -22,11 +22,6 @@ public class LocationManager : MonoBehaviour
     public int _toIndex = -1;
 #endif
 
-    void Awake()
-    {
-        SetInitialConfiguration();
-    }
-
     private void Update()
     {
         if (handle.IsValid() && !handle.IsDone)
@@ -117,26 +112,6 @@ public class LocationManager : MonoBehaviour
         Locations.Remove(locationToTakeAndRemove);
 
         return locationToTakeAndRemove;
-    }
-
-    private void SetInitialConfiguration()
-    {
-        SetLocationIndexes();
-        SetDefaultLocationNames();
-    }
-
-    private void SetLocationIndexes()
-    {
-        foreach (var area in LocationSelections)
-            for (int i = 0; i < area.LocationsForViewing.Count; i++)
-                area.LocationsForViewing[i].Index = i;
-    }
-
-    private void SetDefaultLocationNames()
-    {
-        foreach (var area in LocationSelections)
-            foreach (var locationWithoutName in area.LocationsForViewing.Where(location => string.IsNullOrEmpty(location.Name.Trim())))
-                locationWithoutName.Name = area.DefaultLocationName;
     }
 
     #if UNITY_EDITOR

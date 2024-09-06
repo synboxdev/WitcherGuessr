@@ -9,7 +9,7 @@ public enum MapType
     IsleOfMists = 5,
     GauntersWorld = 6,
     Toussaint = 7,
-    ThousandFables = 8
+    Fables = 8
 }
 
 public enum SceneIndex
