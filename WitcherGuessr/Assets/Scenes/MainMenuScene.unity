@@ -1361,7 +1361,7 @@ MonoBehaviour:
     LocationsForViewing:
     - Index: 0
       Coordinates: {x: 32.7, y: 4.9}
-      Name: 
+      Name: white orchard
       Description: Lilac and Gooseberries
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
@@ -1370,657 +1370,657 @@ MonoBehaviour:
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 1
       Coordinates: {x: 28.8, y: 4.7}
-      Name: 
+      Name: white orchard
       Description: Crossroads signpost
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: 98ab606300faafc40b372c858fdf6793
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 2
       Coordinates: {x: 36.3, y: 9.4}
-      Name: 
+      Name: white orchard
       Description: battlefield, north-east of crossroads
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: df87a8a79760d8743b1592fc315942d7
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 3
       Coordinates: {x: 46.25, y: 20.7}
-      Name: 
+      Name: white orchard
       Description: ... none, but devils play here
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: ca81dc69bdb02ae47af63f75a13e53d5
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 4
       Coordinates: {x: 25.7, y: 17.6}
-      Name: 
+      Name: white orchard
       Description: cackler bridge, north of crossroads
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: ad16fee63492adc42906921188be4170
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 5
       Coordinates: {x: 18.7, y: 22.8}
-      Name: 
+      Name: white orchard
       Description: bandit encampment
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: 5befc2c570bbbc846a780ce97214808b
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 6
       Coordinates: {x: 12.07, y: 26.38}
-      Name: 
+      Name: white orchard
       Description: observer's camp, 'deserter gold' quest
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: ebfef41a9aca0a94a9eb79ca1d55b078
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 7
       Coordinates: {x: -8.3, y: 17.3}
-      Name: 
+      Name: white orchard
       Description: mill
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: a9139a5d1a6c4834ca09408ee91d377a
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 8
       Coordinates: {x: -11.77, y: 21.82}
-      Name: 
+      Name: white orchard
       Description: cementery, north of mill
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: 8155a43a95341f0409f4d11662537eb6
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 9
       Coordinates: {x: -6, y: 23.8}
-      Name: 
+      Name: white orchard
       Description: north of mill
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: 71152135a4a91a245b9d0ae9d506c409
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 10
       Coordinates: {x: -20.2, y: 28.4}
-      Name: 
+      Name: white orchard
       Description: nilfgaardian camp, north of mill
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: e5dad3a8f7f164d48822a4fc7690c774
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 11
       Coordinates: {x: -14, y: 33.74}
-      Name: 
+      Name: white orchard
       Description: place of power, north of cementery
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: de19c1a7416a2fc4d9ac0c1d25f8e254
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 12
       Coordinates: {x: -9.83, y: 6.3}
-      Name: 
+      Name: white orchard
       Description: north of white orchard village
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: 7f3b297a7b02886419bca5190e94642e
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 13
       Coordinates: {x: -6.14, y: -0.97}
-      Name: 
+      Name: white orchard
       Description: center of white orchard village
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: 47f9f679dacbfe54c9e7e8c417133de3
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 14
       Coordinates: {x: -6.34, y: -0.22}
-      Name: 
+      Name: white orchard
       Description: white orchard inn
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: f12c1c3b8b6adef47b6a0992fb14faa4
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 15
       Coordinates: {x: -1.09, y: 0.09}
-      Name: 
+      Name: white orchard
       Description: woesong bridge
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: 00a39d6059c9cf645946f026318f2500
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 16
       Coordinates: {x: 4.94, y: 1}
-      Name: 
+      Name: white orchard
       Description: vildenvert's farm
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: d0169e0b078b04646bf555ba55a6463d
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 17
       Coordinates: {x: 12.87, y: 1.29}
-      Name: 
+      Name: white orchard
       Description: ford signpost
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: 7126a357259695b4c84dd7873f9cbdcb
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 18
       Coordinates: {x: 21.41, y: -6.21}
-      Name: 
+      Name: white orchard
       Description: bandit camp, fortress ruins
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: 03b7412382c9d41489930dac337cebb7
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 19
       Coordinates: {x: 29.4, y: -10.25}
-      Name: 
+      Name: white orchard
       Description: ransacked village
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: 7e5e69dd5abeda74fa1bf5e9e843b00e
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 20
       Coordinates: {x: 31.13, y: -7.4}
-      Name: 
+      Name: white orchard
       Description: ransacked village signpost
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: 1d8aeaf3f82082c418754888b60bb932
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 21
       Coordinates: {x: -35.73, y: 37.24}
-      Name: 
+      Name: white orchard
       Description: island, north of nilfgaardian garrison
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: 15f8aed4ea2eced49bd33ab65b989fc0
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 22
       Coordinates: {x: -41.5, y: 38.6}
-      Name: 
+      Name: white orchard
       Description: end of bridge, north of nilfgaardian garrison
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: dc33bf4781ffdac4a8fa1d7cf24f69f8
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 23
       Coordinates: {x: -41.1, y: 32.34}
-      Name: 
+      Name: white orchard
       Description: nilfgaardian garrison signpost
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: 703e7230bb8948148bc93f67ac37e50b
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 24
       Coordinates: {x: -37.45, y: 28.71}
-      Name: 
+      Name: white orchard
       Description: center of nilfgaardian garrison
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: 631e0e166d2bafe4496a16d0da0d0228
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 25
       Coordinates: {x: -34.62, y: 21.43}
-      Name: 
+      Name: white orchard
       Description: swamp, south of nilfgaardian garrison
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: 0552f753a7c74954db2b3d0c51b20357
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 26
       Coordinates: {x: -35.58, y: 16.14}
-      Name: 
+      Name: white orchard
       Description: '''precious cargo'' quest start'
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: abdf3d203c065144a96e12d9f8617ea7
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 27
       Coordinates: {x: -29.03, y: 13.86}
-      Name: 
+      Name: white orchard
       Description: place of power, north of sawmill
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: 6e9718a5b8b4b464083c8f1fe49270ea
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
-      Coordinates: {x: -18.77, y: 16.23}
-      Name: 
-      Description: bridge, west of mill
+    - Index: 28
+      Coordinates: {x: -40.95, y: 28.57}
+      Name: white orchard
+      Description: nilfgaardian garrison
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: e922eb3a45c82d44d92e69848f80cf4f
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 29
       Coordinates: {x: -18.15, y: 6.07}
-      Name: 
+      Name: white orchard
       Description: A Frying Pan, Spick and Span
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: c6e537fcb5f34154c87a24334a7d0ddc
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 30
       Coordinates: {x: -27.73, y: -1.13}
-      Name: 
+      Name: white orchard
       Description: tomira's hut
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: 0e3c8f69e9437aa458b155899249b3d8
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 31
       Coordinates: {x: -33.5, y: 1.41}
-      Name: 
+      Name: white orchard
       Description: sawmill signpost
       CachedPanoramicImageTexture: {fileID: 2800000, guid: edbe3c4f317d14542b3c10d433ae5e6f, type: 3}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: edbe3c4f317d14542b3c10d433ae5e6f
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 32
       Coordinates: {x: -37.79, y: 1.41}
-      Name: 
+      Name: white orchard
       Description: sawmill
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: 2ec119281685dd647b2b1b376c963941
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 33
       Coordinates: {x: -23.12, y: -3.9}
-      Name: 
+      Name: white orchard
       Description: insignificant hut, east of sawmill
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: 08da4ce1b820dd941843aa7beda47e1f
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 34
       Coordinates: {x: -13.54, y: -8.09}
-      Name: 
+      Name: white orchard
       Description: mislav's hut
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: 44782b232bbef0b46a7a3b472df665b5
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 35
       Coordinates: {x: -19.53, y: -17.55}
-      Name: 
+      Name: white orchard
       Description: broken bridge signpost
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: d760cbfa2aa480f43b9d2daea1ca8620
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 36
       Coordinates: {x: -17.69, y: -22.44}
-      Name: 
+      Name: white orchard
       Description: griffin's nest
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: b739ed451fa1a1f48897fd4370ef0720
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 37
       Coordinates: {x: -7.75, y: -22.27}
-      Name: 
+      Name: white orchard
       Description: devil by the well
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: db5b88955471cec4babf19a77d2767dc
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 38
       Coordinates: {x: -1.51, y: -17.18}
-      Name: 
+      Name: white orchard
       Description: fisherman's hut
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: 060050afe351bfa419e254ed476cd1bf
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 39
       Coordinates: {x: 7.25, y: -21.74}
-      Name: 
+      Name: white orchard
       Description: place of power, east of abandoned village
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: 5584cd0c52a22ad468d9ff91b6a2cc3a
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 40
       Coordinates: {x: 16.47, y: -15.86}
-      Name: 
+      Name: white orchard
       Description: insignificant bridge, south of ford
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: 4297c0ca33f03fd48b29de264a960f57
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 41
       Coordinates: {x: -32.85, y: -10.76}
-      Name: 
+      Name: white orchard
       Description: west of of white orchard
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: 6d0441f125f41b841a3bda7ba000d7d7
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 42
       Coordinates: {x: -2.46, y: 0}
-      Name: 
+      Name: white orchard
       Description: woesong bridge
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: 51f7cc09e32eedf4188332989f03e15a
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 43
       Coordinates: {x: 6, y: 1.11}
-      Name: 
+      Name: white orchard
       Description: farmer's hut
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: 78d953f6610bbf34fb658488b95e0b87
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 44
       Coordinates: {x: 12.14, y: 0.61}
-      Name: 
+      Name: white orchard
       Description: ford signpost
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: 797961e4fa806a942bd7cc638c6ec3a4
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 45
       Coordinates: {x: -8.87, y: -1}
-      Name: 
+      Name: white orchard
       Description: center of white orchard village
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: fc1833adc561c2f4998087d1036b5c89
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 46
       Coordinates: {x: -10.3, y: 16.05}
-      Name: 
+      Name: white orchard
       Description: mill signpost
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: 07f0421dfd3bd4f469bfa3b0d84cd502
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 47
       Coordinates: {x: -11.6, y: 22.44}
-      Name: 
+      Name: white orchard
       Description: cementery, north of mill
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: a0917d7eeb66d1d45bd1cdf333b81708
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 48
       Coordinates: {x: -38.69, y: 32.18}
-      Name: 
+      Name: white orchard
       Description: nilfgaardian garrison signpost
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: 0481f8b7c33007444adac0352729e5ad
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 49
       Coordinates: {x: -37.53, y: 28.83}
-      Name: 
+      Name: white orchard
       Description: center of nilfgaardian garrison
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: de25e61ab54340e49b8ad9678ce88dec
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 50
       Coordinates: {x: -38.03, y: 1.44}
-      Name: 
+      Name: white orchard
       Description: sawmill
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: ae2e14dda7cb5fb418ed31e54f0a2291
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 51
       Coordinates: {x: -29.21, y: 14.17}
-      Name: 
+      Name: white orchard
       Description: altar of human sacrifice
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: c8ea792c0e93f5342b4849c4e0293b88
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 52
       Coordinates: {x: -17.37, y: -22.93}
-      Name: 
+      Name: white orchard
       Description: abandoned griffin's nest
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: 335d7d00446f9bd4981b2b1d294dbdc3
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 53
       Coordinates: {x: -7.81, y: -22.47}
-      Name: 
+      Name: white orchard
       Description: devil no longer by the well
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: e3af57904ca58e540acc34d7456c71e3
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 54
       Coordinates: {x: -2.17, y: -16.53}
-      Name: 
+      Name: white orchard
       Description: frozen lake by fisherman's hut
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: de3b68322a239ed4a927969dac549a71
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 55
       Coordinates: {x: 36.96, y: 13.52}
-      Name: 
+      Name: white orchard
       Description: battlefield, north-east of crossroads
       CachedPanoramicImageTexture: {fileID: 2800000, guid: fa62f1988a0810f4c9b97f1081ee1904, type: 3}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: fa62f1988a0810f4c9b97f1081ee1904
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 56
       Coordinates: {x: -28.11, y: -0.35}
-      Name: 
+      Name: white orchard
       Description: tomira's hut
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: 32f009c93fe5e78449c7367abdb82c65
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 57
       Coordinates: {x: -23.89, y: -26.15}
-      Name: 
+      Name: white orchard
       Description: insignificant bandit camp
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: d4778cae7a7f459429529ea7eba808c2
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 58
       Coordinates: {x: 22.31, y: -13.42}
-      Name: 
+      Name: white orchard
       Description: bridge by ransacked village
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: aef2ce7af889fd345a92389529b4ce4d
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-    - Index: 0
+    - Index: 59
       Coordinates: {x: -6.09, y: 12.55}
-      Name: 
+      Name: white orchard
       Description: white orchard fields
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: c16918833a2aab44ba7276883b695082
+        m_AssetGUID: 232e94023a6df5248a3f2687e85316f6
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
-  _fromIndex: -1
-  _toIndex: -1
+  _fromIndex: 28
+  _toIndex: 29
 --- !u!1 &556506242
 GameObject:
   m_ObjectHideFlags: 0
