@@ -89,12 +89,6 @@ MonoBehaviour:
     m_SerializedLabels:
     - whiteorchard
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: e1f0656563046ae4fa479eeb7e1c7306
-    m_Address: Assets/UI/Locations/WhiteOrchard/W28.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - whiteorchard
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: b739ed451fa1a1f48897fd4370ef0720
     m_Address: Assets/UI/Locations/WhiteOrchard/W36.jpg
     m_ReadOnly: 0
@@ -373,6 +367,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: ebfef41a9aca0a94a9eb79ca1d55b078
     m_Address: Assets/UI/Locations/WhiteOrchard/W6.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - whiteorchard
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e922eb3a45c82d44d92e69848f80cf4f
+    m_Address: Assets/UI/Locations/WhiteOrchard/W28.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - whiteorchard
