@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using System.Diagnostics.Eventing.Reader;
 using System.IO;
 using System.Linq;
 using System.Text.RegularExpressions;
@@ -108,7 +109,14 @@ public class MenuItems : MonoBehaviour
             Debug.LogError($"Failed to load textures for map: {Enum.GetName(typeof(MapType), map)}");
         }
 
-        MapTextureReferencesToLocationEntities(textureReferences, assignableLocations);
+        if (ValidateMapTextureProperties(textureReferences) &&
+            ValidateAssignableLocationProperties(assignableLocations))
+        {
+            Debug.Log($"All textures have correct parameters. Initializing their default values!");
+            MapTextureReferencesToLocationEntities(textureReferences, assignableLocations);
+        }
+        else
+            Debug.Log($"There has been problems with textures. Fix them!");
     }
 
     private static string GetLocationNamePrefixByMapType(MapType mapType)
@@ -134,6 +142,73 @@ public class MenuItems : MonoBehaviour
         }
 
         return null;
+    }
+
+    private static bool ValidateMapTextureProperties(List<Tuple<string, AssetReferenceTexture>> textures)
+    {
+        int invalidTextures = 0;
+
+        foreach (var texture in textures.Select(x => x.Item2))
+        {
+            var editorAsset = texture.editorAsset;
+            
+            if (editorAsset.height != 4096 || editorAsset.width != 8192 || (editorAsset.width / editorAsset.height) != 2f)
+            {
+                Debug.Log($"Texture by name: '{editorAsset.name}' has invalid width/height proportions.");
+                invalidTextures++;
+                continue;
+            }
+
+            if (editorAsset.filterMode != FilterMode.Trilinear)
+            {
+                Debug.Log($"Texture by name: {editorAsset.name} has incorrect filter mode. " +
+                    $"Expected: [{Enum.GetName(typeof(FilterMode), FilterMode.Trilinear)}], " +
+                    $"Current [{Enum.GetName(typeof(FilterMode), editorAsset.filterMode)}]");
+                invalidTextures++;
+                continue;
+            }
+
+            if (editorAsset.wrapMode != TextureWrapMode.Repeat)
+            {
+                Debug.Log($"Texture by name: {editorAsset.name} has incorrect wrap mode. " +
+                    $"Expected: [{Enum.GetName(typeof(TextureWrapMode), TextureWrapMode.Repeat)}], " +
+                    $"Current [{Enum.GetName(typeof(TextureWrapMode), editorAsset.wrapMode)}]");
+                invalidTextures++;
+                continue;
+            }
+        }
+
+        return invalidTextures == 0;
+    }
+
+    private static bool ValidateAssignableLocationProperties(List<Location> locations)
+    {
+        int invalidLocations = 0;
+
+        foreach (var location in locations)
+        {
+            if (locations
+                .Where(x => x.Index != location.Index)
+                .Any(x => x.Coordinates.x == location.Coordinates.x && x.Coordinates.y == location.Coordinates.y))
+            {
+                var otherLocation = locations
+                    .Where(x => x.Index != location.Index)
+                    .FirstOrDefault(x => x.Coordinates.x == location.Coordinates.x && x.Coordinates.y == location.Coordinates.y);
+
+                Debug.Log($"Location by index: '{location.Index}' has conflicting coordinates with location by index {otherLocation.Index} invalid width/height proportions.");
+                invalidLocations++;
+                continue;
+            }
+
+            if (string.IsNullOrEmpty(location.Description))
+            {
+                Debug.Log($"Location by index {location.Index} does NOT have a description written! Write it!");
+                invalidLocations++;
+                continue;
+            }
+        }
+
+        return invalidLocations == 0;
     }
 
     private static void MapTextureReferencesToLocationEntities(
