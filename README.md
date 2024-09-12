@@ -92,7 +92,7 @@ Because of that - I've outlined the following roadmap for the project's future, 
 	
 - Medium priority:
 	- Find a way to store map and location image files outside of repository - because Git LFS sucks. (Probably a downloadable archive from portfolio website) + Update '[Getting started](#getting-started)' section of this document
-	- QoL changes (Ex. Location viewing image drag sensitivity setting, disable addressable caching setting)
+	- QoL changes (Ex. Location viewing image drag sensitivity setting, disable addressable caching setting, adjustable guess attempt variable)
 	- Create a Desktop build of the project and upload it to Itch.io and make downloadable link directly on portfolio website
 
 -  Lower priority:

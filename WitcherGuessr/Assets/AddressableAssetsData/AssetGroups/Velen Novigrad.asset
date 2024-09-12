@@ -16,7 +16,907 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: f5f3c1ad8f3a06c46911cce78f2a0044
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 694e14b65a4f74e488e3b40ae03c6604
+    m_Address: Assets/UI/Locations/VelenNovigrad/V0.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56902f8552fad294db9660ac1f16c7ca
+    m_Address: Assets/UI/Locations/VelenNovigrad/V1.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e8d14d36b3a4b449b2a2027b36760b8
+    m_Address: Assets/UI/Locations/VelenNovigrad/V2.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d83911530a4d9344db48b445c9cde756
+    m_Address: Assets/UI/Locations/VelenNovigrad/V3.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6da76de702ad0e44e89b0ee0012eac44
+    m_Address: Assets/UI/Locations/VelenNovigrad/V4.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f99b0469adfa64749a83ffd29bb04f84
+    m_Address: Assets/UI/Locations/VelenNovigrad/V5.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e0ed6ffa992a87429ad931b21660a12
+    m_Address: Assets/UI/Locations/VelenNovigrad/V6.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 78a9ea0ca1a1c3e439afe4851bbc162b
+    m_Address: Assets/UI/Locations/VelenNovigrad/V7.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5e5d8a755c575e44b9a9b5049f03f197
+    m_Address: Assets/UI/Locations/VelenNovigrad/V8.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 61e740aef0d706443a2a8471f887e3de
+    m_Address: Assets/UI/Locations/VelenNovigrad/V9.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aae3d0f35a0866b4d9f7c7201611086a
+    m_Address: Assets/UI/Locations/VelenNovigrad/V10.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23a4871a2ff143e4c8763775addd9cda
+    m_Address: Assets/UI/Locations/VelenNovigrad/V11.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 559f3a306d197f042966347312aee235
+    m_Address: Assets/UI/Locations/VelenNovigrad/V12.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66d9e9a09aa0b3c4691e793f6063a674
+    m_Address: Assets/UI/Locations/VelenNovigrad/V13.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa54226cf9eca4e44a94a58c917f4f6d
+    m_Address: Assets/UI/Locations/VelenNovigrad/V14.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f85a98eaaa7172d46a58d65d1e6bcd6e
+    m_Address: Assets/UI/Locations/VelenNovigrad/V15.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b9433445393aede4c930c605e240dd68
+    m_Address: Assets/UI/Locations/VelenNovigrad/V16.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0d1d3452734f6554f92363391eb0b429
+    m_Address: Assets/UI/Locations/VelenNovigrad/V17.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d890af089afa8ff4f9b20a22e7b3076e
+    m_Address: Assets/UI/Locations/VelenNovigrad/V18.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eb37662038eb4bf49af2a27479e05895
+    m_Address: Assets/UI/Locations/VelenNovigrad/V19.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6362dd8b131ec7c4385ee03cccc0f2c0
+    m_Address: Assets/UI/Locations/VelenNovigrad/V20.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: db44665c2105a874c9ed8e62b1112285
+    m_Address: Assets/UI/Locations/VelenNovigrad/V21.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 375b7f6265828dc41856507a95477b31
+    m_Address: Assets/UI/Locations/VelenNovigrad/V22.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0a131ea7eda04cc479b2597b4be4de2e
+    m_Address: Assets/UI/Locations/VelenNovigrad/V23.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de96c3e8e8d5540408271930e1d1e3be
+    m_Address: Assets/UI/Locations/VelenNovigrad/V24.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9847b035ffef9e244b5e2d0631ea1eb9
+    m_Address: Assets/UI/Locations/VelenNovigrad/V25.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 462413890c62b0c4ea508d2a846606a5
+    m_Address: Assets/UI/Locations/VelenNovigrad/V26.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1744f8e6addd9744fbec0599f19930e4
+    m_Address: Assets/UI/Locations/VelenNovigrad/V27.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e8f4c3eced12f6d42bee905b4a934b4e
+    m_Address: Assets/UI/Locations/VelenNovigrad/V28.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 09e80fab0a8f3144f9c37f97773499d8
+    m_Address: Assets/UI/Locations/VelenNovigrad/V29.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 895b63256be34ff4295245a9e9897a96
+    m_Address: Assets/UI/Locations/VelenNovigrad/V30.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97142453c6c4153478faef44bd7f1971
+    m_Address: Assets/UI/Locations/VelenNovigrad/V31.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f2a7c1694e2d9d4f84ca50f335132ec
+    m_Address: Assets/UI/Locations/VelenNovigrad/V32.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73d334c8fe7470947bb0ba56ca6fbd3c
+    m_Address: Assets/UI/Locations/VelenNovigrad/V33.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f997aaade0cbf744bc79e668c39a4b6
+    m_Address: Assets/UI/Locations/VelenNovigrad/V34.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 71748bf75d69ba748a8971b0b66d3b84
+    m_Address: Assets/UI/Locations/VelenNovigrad/V35.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f774783b1b0dae546838277ddd6a489d
+    m_Address: Assets/UI/Locations/VelenNovigrad/V36.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a696f36aaf6e5d6448e69341487e79f4
+    m_Address: Assets/UI/Locations/VelenNovigrad/V37.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2c838e623f2760044bdd80860e4143a1
+    m_Address: Assets/UI/Locations/VelenNovigrad/V38.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4034700ada0aed4fb795dcdb0f8bac4
+    m_Address: Assets/UI/Locations/VelenNovigrad/V39.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b10c6ee0daf84d245a4f24e0ceda1bb0
+    m_Address: Assets/UI/Locations/VelenNovigrad/V40.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b170891916e7e6540929b28814fc3cda
+    m_Address: Assets/UI/Locations/VelenNovigrad/V41.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c443a8eda704d049b150b353d67a0f5
+    m_Address: Assets/UI/Locations/VelenNovigrad/V42.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8de228ddd782c6419a163f4d10b5cb6
+    m_Address: Assets/UI/Locations/VelenNovigrad/V43.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1bc5449dd9f3a14da3f78a50124dec3
+    m_Address: Assets/UI/Locations/VelenNovigrad/V44.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 39e45a95173e9b54a8af1fff33f83b12
+    m_Address: Assets/UI/Locations/VelenNovigrad/V45.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2bcf2b11d175b5d479aa30e1ccba2399
+    m_Address: Assets/UI/Locations/VelenNovigrad/V46.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e9eb8d94d6c46024e94ad3c8d8cb2776
+    m_Address: Assets/UI/Locations/VelenNovigrad/V47.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ff9eff17276cf6b408cd241369d55795
+    m_Address: Assets/UI/Locations/VelenNovigrad/V48.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b194f13b5325b3b4dbdb09beadeda6ae
+    m_Address: Assets/UI/Locations/VelenNovigrad/V49.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e4c0dea1eb2b6b24290abfecadd402fa
+    m_Address: Assets/UI/Locations/VelenNovigrad/V50.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cf0591cd2fa51694181fc64550f1e4b1
+    m_Address: Assets/UI/Locations/VelenNovigrad/V51.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0aeb7c8ebf89f6a4aab09a43e6680563
+    m_Address: Assets/UI/Locations/VelenNovigrad/V52.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ef30b398cf58f314e8c04af73c020ac2
+    m_Address: Assets/UI/Locations/VelenNovigrad/V53.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f7af4ee80a84b0d4eb3e8abf8fb4b166
+    m_Address: Assets/UI/Locations/VelenNovigrad/V54.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 53318296cfa2dd9498c92f5b36468149
+    m_Address: Assets/UI/Locations/VelenNovigrad/V55.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 12d153ff0df254748840e74bce9b3eda
+    m_Address: Assets/UI/Locations/VelenNovigrad/V56.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: faed30ecd3765ff44b526ab5ff665603
+    m_Address: Assets/UI/Locations/VelenNovigrad/V57.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5678d8914f9b8b4aaae315f059b5d78
+    m_Address: Assets/UI/Locations/VelenNovigrad/V58.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e4b93747f63c54e4b9d8a1491840437a
+    m_Address: Assets/UI/Locations/VelenNovigrad/V59.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f82af16724c9e8b40b73cdc794dc14a5
+    m_Address: Assets/UI/Locations/VelenNovigrad/V60.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a9095a9173024c84f90e4cbed2d24de7
+    m_Address: Assets/UI/Locations/VelenNovigrad/V61.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee181357a720cbf44bb9b7c6050c9a31
+    m_Address: Assets/UI/Locations/VelenNovigrad/V62.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77bc5afca442ce24f81ef6187c320054
+    m_Address: Assets/UI/Locations/VelenNovigrad/V63.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ced6367f273014478e8729b8dbac0b2
+    m_Address: Assets/UI/Locations/VelenNovigrad/V64.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 57ae18cb0c8a64f47854f37e0ec5e932
+    m_Address: Assets/UI/Locations/VelenNovigrad/V65.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 03cc53864442da24899d3799094bb8bb
+    m_Address: Assets/UI/Locations/VelenNovigrad/V66.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 43a989db54bfca74193739ad0ca734bc
+    m_Address: Assets/UI/Locations/VelenNovigrad/V67.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9bf06562d1147da4ebd8c020af41703b
+    m_Address: Assets/UI/Locations/VelenNovigrad/V68.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 078de8688271099439fca409d5991249
+    m_Address: Assets/UI/Locations/VelenNovigrad/V69.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 55cce3be90bf5b8449035f6f0427bda5
+    m_Address: Assets/UI/Locations/VelenNovigrad/V70.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e49025ea29c3c249b916f3756e09af5
+    m_Address: Assets/UI/Locations/VelenNovigrad/V71.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6787509c6f1807f498a4e5c6d684f169
+    m_Address: Assets/UI/Locations/VelenNovigrad/V72.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a5a8fa9837bfb4f44b8642e5ab7803b5
+    m_Address: Assets/UI/Locations/VelenNovigrad/V73.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b7f10d2423c64c45be170eeef99c745
+    m_Address: Assets/UI/Locations/VelenNovigrad/V74.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8faa8ba1d9af56441a3494cbe7ab1f00
+    m_Address: Assets/UI/Locations/VelenNovigrad/V75.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b697a5600a7e76b4685366a3bae80d81
+    m_Address: Assets/UI/Locations/VelenNovigrad/V76.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f2dc32cea48660f4f940ff3d035e712e
+    m_Address: Assets/UI/Locations/VelenNovigrad/V77.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7cb2142a2de83614999053e6ef7d85a1
+    m_Address: Assets/UI/Locations/VelenNovigrad/V78.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b95045f2d723517409043551d200a37c
+    m_Address: Assets/UI/Locations/VelenNovigrad/V79.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d86c2162d004e76498b63a922c400ab8
+    m_Address: Assets/UI/Locations/VelenNovigrad/V80.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cab812561c7d132488ac42136ac286b9
+    m_Address: Assets/UI/Locations/VelenNovigrad/V81.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b91c0eea17bb8364fb24680efde559c6
+    m_Address: Assets/UI/Locations/VelenNovigrad/V82.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b13dade11c898ec49ac68f99bd9fef98
+    m_Address: Assets/UI/Locations/VelenNovigrad/V83.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 943f0977ac3e8ef4e8943ce257918e23
+    m_Address: Assets/UI/Locations/VelenNovigrad/V84.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4676fbde3c05c5449a8a197623b1dfe
+    m_Address: Assets/UI/Locations/VelenNovigrad/V85.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6a17c98fdabb0741941eebaa3b3566f
+    m_Address: Assets/UI/Locations/VelenNovigrad/V86.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 00cc5fcf58da8f94fac041346975b685
+    m_Address: Assets/UI/Locations/VelenNovigrad/V87.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8633fef6555f61b49892756ad7984433
+    m_Address: Assets/UI/Locations/VelenNovigrad/V88.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 818b7003ac853594da9698c631315fa6
+    m_Address: Assets/UI/Locations/VelenNovigrad/V89.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 629d4242d0d44c74198a9b316196e6b5
+    m_Address: Assets/UI/Locations/VelenNovigrad/V90.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 75218a2d4de2840479931cc5007e9657
+    m_Address: Assets/UI/Locations/VelenNovigrad/V91.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9720b386d5cca564483c4c19f8fba30b
+    m_Address: Assets/UI/Locations/VelenNovigrad/V92.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4815f2d2505020b44bc1418c6c4ffe00
+    m_Address: Assets/UI/Locations/VelenNovigrad/V93.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f560f745b40259149b073afcdd2d3c60
+    m_Address: Assets/UI/Locations/VelenNovigrad/V94.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69a13de0803ca8e479f14da5af23c1ee
+    m_Address: Assets/UI/Locations/VelenNovigrad/V95.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 17636bf3ea2dd2b43b3372025cc217e8
+    m_Address: Assets/UI/Locations/VelenNovigrad/V96.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cb67c87761a0d234a85f9bf8eeecba89
+    m_Address: Assets/UI/Locations/VelenNovigrad/V97.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21a32591578f8684a9539365c4462b05
+    m_Address: Assets/UI/Locations/VelenNovigrad/V98.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6faa04100f5a3e74192c6c1e3967482b
+    m_Address: Assets/UI/Locations/VelenNovigrad/V99.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3af7dbd5fc2dbac46b1502f0771da4d5
+    m_Address: Assets/UI/Locations/VelenNovigrad/V100.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 368c9316c82db014984e3d655e8d0f78
+    m_Address: Assets/UI/Locations/VelenNovigrad/V101.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e0c075d31ad86fe47844d388d75af9f3
+    m_Address: Assets/UI/Locations/VelenNovigrad/V102.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9ceb687675899c343a638d7c3e0cdb95
+    m_Address: Assets/UI/Locations/VelenNovigrad/V103.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6216405d78a62342b195430c8964293
+    m_Address: Assets/UI/Locations/VelenNovigrad/V104.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a7b9f64402a1ee4db0cc9ebf1f0fc9f
+    m_Address: Assets/UI/Locations/VelenNovigrad/V105.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10957eaac28a64647be9c612bfb16151
+    m_Address: Assets/UI/Locations/VelenNovigrad/V106.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ca24392a9204b248bd26826058f4e9b
+    m_Address: Assets/UI/Locations/VelenNovigrad/V107.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a1e49e7a45471341ac6feb9dc6d0e3b
+    m_Address: Assets/UI/Locations/VelenNovigrad/V108.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec4148bcfae56e34b91cfaa8719c9b94
+    m_Address: Assets/UI/Locations/VelenNovigrad/V109.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: baf4fbaeaca3e854c948c6d0e1ff84d6
+    m_Address: Assets/UI/Locations/VelenNovigrad/V110.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9dafe8f89048dfd48971828b1c1b0a55
+    m_Address: Assets/UI/Locations/VelenNovigrad/V111.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c07bd8ac768eae84bbbcbda5a4202005
+    m_Address: Assets/UI/Locations/VelenNovigrad/V112.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5b3a06232800a5b42875856747b95980
+    m_Address: Assets/UI/Locations/VelenNovigrad/V113.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 51ea8f76b33e3974185c155ecf33c8ba
+    m_Address: Assets/UI/Locations/VelenNovigrad/V114.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6306914110146f2458a339acbf10d105
+    m_Address: Assets/UI/Locations/VelenNovigrad/V115.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 33f5f99d498df554b9bd9f37c7d4e79a
+    m_Address: Assets/UI/Locations/VelenNovigrad/V116.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b282ce25f6a0a14459b9b2e60b6a7f76
+    m_Address: Assets/UI/Locations/VelenNovigrad/V117.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ecd8839f8c2f0ac4b9d1fff367f61ab7
+    m_Address: Assets/UI/Locations/VelenNovigrad/V118.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a88b227cd4063294a8175a138f239b8a
+    m_Address: Assets/UI/Locations/VelenNovigrad/V119.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4794a3919bfb3b408dd7f4b94222916
+    m_Address: Assets/UI/Locations/VelenNovigrad/V120.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c88bee3a1efd4354a8d35c81ab1e982f
+    m_Address: Assets/UI/Locations/VelenNovigrad/V121.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 492aa09f1fdf9f5468f4dc3962249725
+    m_Address: Assets/UI/Locations/VelenNovigrad/V122.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22417063a5f40fa4595d70ab7e6d6c14
+    m_Address: Assets/UI/Locations/VelenNovigrad/V123.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8674890691763d84f8fe632f04ee7afa
+    m_Address: Assets/UI/Locations/VelenNovigrad/V124.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0543f373211519144bac8ed9497e8a9e
+    m_Address: Assets/UI/Locations/VelenNovigrad/V125.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2291ec1865a1674499dbf46de48fec62
+    m_Address: Assets/UI/Locations/VelenNovigrad/V126.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 41457127375301f4abc4fa8d7702579d
+    m_Address: Assets/UI/Locations/VelenNovigrad/V127.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d0d0a5f709560e479792d39ad0f47fd
+    m_Address: Assets/UI/Locations/VelenNovigrad/V128.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5499d0772337c68448ae60f77a4e4512
+    m_Address: Assets/UI/Locations/VelenNovigrad/V129.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8c35eab2ff356546ae80f1048a960f1
+    m_Address: Assets/UI/Locations/VelenNovigrad/V130.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 740a526f41c4309409ce8a5cbe311683
+    m_Address: Assets/UI/Locations/VelenNovigrad/V131.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 85cd0cec6b78d0242bbde0e82fd137f1
+    m_Address: Assets/UI/Locations/VelenNovigrad/V132.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 703ff41c4d6f7eb4a9d112ae7762f39b
+    m_Address: Assets/UI/Locations/VelenNovigrad/V133.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88ca9be40d0a47247842905d889a088d
+    m_Address: Assets/UI/Locations/VelenNovigrad/V134.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a51e4f74544a62499648a2020a8af69
+    m_Address: Assets/UI/Locations/VelenNovigrad/V135.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d703979659040e84395f0a235f1c2f88
+    m_Address: Assets/UI/Locations/VelenNovigrad/V136.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e955c54eaba11a4091442e270b624b4
+    m_Address: Assets/UI/Locations/VelenNovigrad/V137.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b2c5900372a02f443b4fbb68e4dbfbb3
+    m_Address: Assets/UI/Locations/VelenNovigrad/V138.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3e2c9568ffb127d48b492a1f080e3302
+    m_Address: Assets/UI/Locations/VelenNovigrad/V139.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2818ec40b1dd28244816b0ef4306c6ab
+    m_Address: Assets/UI/Locations/VelenNovigrad/V140.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2169f4afad815024f82e7275201dd225
+    m_Address: Assets/UI/Locations/VelenNovigrad/V141.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 578512588075735429875f9966693e11
+    m_Address: Assets/UI/Locations/VelenNovigrad/V142.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af22f0e3e97c54841a0066a4a825584f
+    m_Address: Assets/UI/Locations/VelenNovigrad/V143.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4c77ad78ceb426849ba429ae7bad2623
+    m_Address: Assets/UI/Locations/VelenNovigrad/V144.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7373cdbeab462774cac8b5a3edffb886
+    m_Address: Assets/UI/Locations/VelenNovigrad/V145.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8b2e2000fde38184bb75544d06bd4786
+    m_Address: Assets/UI/Locations/VelenNovigrad/V146.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a527fc17be3801479a1431ed44d7f4c
+    m_Address: Assets/UI/Locations/VelenNovigrad/V147.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 73378820b6df22f49bfbb292ea489022
+    m_Address: Assets/UI/Locations/VelenNovigrad/V148.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb173538f4121584fb26b593afb1848a
+    m_Address: Assets/UI/Locations/VelenNovigrad/V149.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 154bc2ac59ecb0a42bfcbacc4f781828, type: 2}
   m_SchemaSet:

@@ -87,6 +87,7 @@ public class MenuItems : MonoBehaviour
 
     private static void OnTexturesLoaded(AsyncOperationHandle<IList<Texture>> handle, MapType map)
     {
+        var mapName = Enum.GetName(typeof(MapType), map);
         var LocationManager = FindObjectOfType<LocationManager>();
 
         var locationNamePrefix = GetLocationNamePrefixByMapType(map);
@@ -106,13 +107,13 @@ public class MenuItems : MonoBehaviour
         }
         else
         {
-            Debug.LogError($"Failed to load textures for map: {Enum.GetName(typeof(MapType), map)}");
+            Debug.LogError($"Failed to load textures for map: {mapName}");
         }
 
         if (ValidateMapTextureProperties(textureReferences) &&
             ValidateAssignableLocationProperties(assignableLocations))
         {
-            Debug.Log($"All textures have correct parameters. Initializing their default values!");
+            Debug.Log($"[{mapName}] All textures have correct parameters. Initializing their default values!");
             MapTextureReferencesToLocationEntities(textureReferences, assignableLocations);
         }
         else
