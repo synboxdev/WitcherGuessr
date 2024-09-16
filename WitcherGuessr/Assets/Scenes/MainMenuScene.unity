@@ -154,6 +154,7 @@ RectTransform:
   m_Children:
   - {fileID: 1121343662}
   - {fileID: 1454488189}
+  - {fileID: 1242394876}
   - {fileID: 476540773}
   m_Father: {fileID: 408226537}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -3672,6 +3673,1194 @@ MonoBehaviour:
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
+    - Index: 150
+      Coordinates: {x: -18.03, y: 8.47}
+      Name: Velen
+      Description: village of ursten
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 7614f5b43d060014c92c9c184f909c55
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 151
+      Coordinates: {x: -20, y: 11.87}
+      Name: Velen
+      Description: At the Mercy of Strangers quest start
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 89e79a94ca73cd147934356db862e1e3
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 152
+      Coordinates: {x: -24.63, y: 12.77}
+      Name: Velen
+      Description: Widows' Grotto signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 872b61ff2245f7340897f38d6aa68e78
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 153
+      Coordinates: {x: -21.6, y: 13.65}
+      Name: Velen
+      Description: bandit camp, east of widow's grotto
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 45aa3f57ea87dfb46bc3121bed3b7b47
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 154
+      Coordinates: {x: -32.91, y: 17.65}
+      Name: Velen
+      Description: basilisk's nest, west of lighthouse
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 4e4f974ab90dcbe499a483f8b7ff38ec
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 155
+      Coordinates: {x: -29.34, y: 21.68}
+      Name: Velen
+      Description: lighthouse signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 74f3245f0845def49850e6b8b4eda8b8
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 156
+      Coordinates: {x: -29.71, y: 21.77}
+      Name: Velen
+      Description: top of lighthouse
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 9f86b330c48e1c84fa6c0b6216dd0ae2
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 157
+      Coordinates: {x: -21.46, y: 18.71}
+      Name: Velen
+      Description: Scoia'tael Trading Camp
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: eecb545935d2fb1429ecbda1bca139b6
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 158
+      Coordinates: {x: -22.7, y: 21.53}
+      Name: Velen
+      Description: loggers' hut signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 44fd55b3fc31f0640ade60f81f03fbdd
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 159
+      Coordinates: {x: -18.83, y: 16.74}
+      Name: Velen
+      Description: lucian's windmill signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ab2422eb2e0e82f4ba91f28c0d33ef9b
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 160
+      Coordinates: {x: -14.39, y: 14.63}
+      Name: Velen
+      Description: ribleaf farm
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 8bb93ebc0d319ba4595218f9dbbdcf07
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 161
+      Coordinates: {x: -11.02, y: 15.17}
+      Name: Velen
+      Description: drahim castle signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 2fc361a30e1b949408b502a4d3223b5b
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 162
+      Coordinates: {x: -7.96, y: 10.68}
+      Name: Velen
+      Description: abandoned huts, north of hindhold
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: a0c4ead785aa4364cb3b3ce7295b1503
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 163
+      Coordinates: {x: -5.36, y: 11.38}
+      Name: Velen
+      Description: treasure guarded by a wyvern
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 766fe0f903fb5674aabf95632824ff10
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 164
+      Coordinates: {x: -5.88, y: 17.17}
+      Name: Velen
+      Description: cunny of the goose signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 140f7cdb5bf09b24e98436be988c3515
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 165
+      Coordinates: {x: -5.97, y: 17.97}
+      Name: Velen
+      Description: cunny of the goose inn
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: d5d4abb765b7fe640b11ead96dd1e937
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 166
+      Coordinates: {x: -8.25, y: 22.68}
+      Name: Velen
+      Description: bridge, west of gate of the hierarch
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c54855213b55f6a448fd3b1473789e56
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 167
+      Coordinates: {x: 2.63, y: 17.83}
+      Name: Velen
+      Description: eternal fire chapel signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 8a83abfeac2a2c74fb508e89c9053669
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 168
+      Coordinates: {x: -2.17, y: 23.71}
+      Name: Velen
+      Description: seven cats inn signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 9b228178b7e37ca4bb4eefefa56501ab
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 169
+      Coordinates: {x: -1.96, y: 24.27}
+      Name: Velen
+      Description: seven cats inn
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ce6e50e9c2eb7024b911e72bd9a66af0
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 170
+      Coordinates: {x: -3.46, y: 30.86}
+      Name: Velen
+      Description: village of arette
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: fdc549b26e16efe478984f4bcb19361d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 171
+      Coordinates: {x: -6.55, y: 31.43}
+      Name: Velen
+      Description: oxenfurt gate signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 662111f6b8ec585479b5ccc1cd768ec7
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 172
+      Coordinates: {x: -6.71, y: 33.48}
+      Name: Velen
+      Description: novigrad's crematorium
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 8d14493b684b922418e704aa5cb71d1c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 173
+      Coordinates: {x: 2.96, y: 30.23}
+      Name: Velen
+      Description: Miersdorf Meadworks pier
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 2b34345560b1a3c4d9e02d0ccc7054fe
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 174
+      Coordinates: {x: 4.95, y: 31.24}
+      Name: Velen
+      Description: Miersdorf Meadworks signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 451d802a30474634ca9f6f954c2e7c2d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 175
+      Coordinates: {x: 6.91, y: 30.72}
+      Name: Velen
+      Description: empty coop quest start
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: b908bb881c06d034eb95620449bd5f55
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 176
+      Coordinates: {x: 10.99, y: 31.79}
+      Name: Velen
+      Description: dancing windmill signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 3c244fbce38f1df4784e35416ca4ef5d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 177
+      Coordinates: {x: 8.87, y: 36.61}
+      Name: Velen
+      Description: Moldavie Residence signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: b29fc445f12210a4c83c2ad563f555bf
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 178
+      Coordinates: {x: 14.62, y: 39.37}
+      Name: Velen
+      Description: winespring grange signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: b5c336fe9ed8fd342b61972243f7033d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 179
+      Coordinates: {x: 20.91, y: 43.84}
+      Name: Velen
+      Description: garin estate signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: a74340de97cda7a4cb6dfdb2404787ce
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 180
+      Coordinates: {x: 20.04, y: 46.48}
+      Name: Velen
+      Description: garin estate inner courtyard
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ddc018a025030804c96a131a053a2458
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 181
+      Coordinates: {x: 21.73, y: 52.53}
+      Name: Velen
+      Description: bandit camp, north of garin estate
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 764f29f36dfb6eb489447392e9abc20d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 182
+      Coordinates: {x: 16.06, y: 52.47}
+      Name: Velen
+      Description: bandit camp, east of bowdon
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e068df438f3dad0438011862e9011006
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 183
+      Coordinates: {x: 14.62, y: 46.83}
+      Name: Velen
+      Description: guarded treasure in Olevald Clearing
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 2859e6ca1e0a0324fbd698010e31f441
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 184
+      Coordinates: {x: 10.38, y: 49.63}
+      Name: Velen
+      Description: abandoned village of bowdon
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: de6e1cadaf197884e9e424949c2a00f4
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 185
+      Coordinates: {x: 11.82, y: 43.2}
+      Name: Velen
+      Description: mohrin village
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 01c2479f93f2ae544b51e7e7e144b016
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 186
+      Coordinates: {x: 8.52, y: 41.94}
+      Name: Velen
+      Description: isolated hut signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 4f141956b7755e44084c5aebb4bfbc27
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 187
+      Coordinates: {x: 9.06, y: 42}
+      Name: Velen
+      Description: inside of the isolated hut
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: cf4eb8e0535ac3e41ad28f56033dc425
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 188
+      Coordinates: {x: -0.724, y: 51.75}
+      Name: Velen
+      Description: hunter's cottage
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: d3cb64667c85f224ab3742edbcf6923b
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 189
+      Coordinates: {x: -4.126, y: 45.602}
+      Name: Velen
+      Description: sarrasin grange signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 12161123c48b47940b8e8fc68863b7e5
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 190
+      Coordinates: {x: 0.71, y: 41.59}
+      Name: Velen
+      Description: village of yantra
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 68e2f91e020ae204eb1c7a05d933b933
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 191
+      Coordinates: {x: -11.59, y: 40.71}
+      Name: Velen
+      Description: cavern signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ab366ba515369d0428440cc04364467f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 192
+      Coordinates: {x: -17.7, y: 43.84}
+      Name: Velen
+      Description: abandoned hut, east of crane cape
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 0251115c95737f742b19fa261d4b3bd9
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 193
+      Coordinates: {x: -27.89, y: 42.89}
+      Name: Velen
+      Description: crane cape signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 377e06b6eeeaea1408b71a9ed2b838ae
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 194
+      Coordinates: {x: 8.827, y: 22.192}
+      Name: Velen
+      Description: wheat fields signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 92947069afd8ca1498f1dbe75d0b78f4
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 195
+      Coordinates: {x: 6.69, y: 16.71}
+      Name: Velen
+      Description: redanian checkpoint
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: eedc9589652a64943af73dda66e278ad
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 196
+      Coordinates: {x: 11.55, y: 17.83}
+      Name: Velen
+      Description: village of carsten signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 33d84125915509345840a450e683bbd2
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 197
+      Coordinates: {x: 11.18, y: 16.63}
+      Name: Velen
+      Description: village of carsten
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 907d6f2c577bbf24299d4f8317410738
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 198
+      Coordinates: {x: 14.08, y: 20.41}
+      Name: Velen
+      Description: vegelbud residence signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 8131e43bbdfe6aa44ad4bc6ef7886343
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 199
+      Coordinates: {x: 14.62, y: 22.49}
+      Name: Velen
+      Description: vegelbud residence horse track
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e08a4404992c4db49b3f4e8072f530d2
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 200
+      Coordinates: {x: 16.17, y: 21.9}
+      Name: Velen
+      Description: vegelbud residence stables
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 1de2fbb953c494343a7114d434a2c08a
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 201
+      Coordinates: {x: 16.98, y: 20.41}
+      Name: Velen
+      Description: vegelbud residence, outer courtyard
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 4ec22797abc8fb94190fe340e5ee6d2f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 202
+      Coordinates: {x: 18.626, y: 19.812}
+      Name: Velen
+      Description: vegelbud residence, inner courtyard
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e24112990ff275c499f077e27bffce91
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 203
+      Coordinates: {x: 19.094, y: 19.665}
+      Name: Velen
+      Description: vegelbud residence
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ce95fd80b3c254c41a5aaae01b4525b7
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 204
+      Coordinates: {x: 14.5, y: 25.39}
+      Name: Velen
+      Description: a place of power, north of vegelbud residence
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 15e226955ef7ff54993b0fc57d40ab77
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 205
+      Coordinates: {x: 12.261, y: 27.582}
+      Name: Velen
+      Description: village of alness
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: fbec6b887f434a44f867b184fa2f53a0
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 206
+      Coordinates: {x: 20.08, y: 35.68}
+      Name: Velen
+      Description: martin feuille's farmstead
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 3d66c2f0e7aed494b81670247196aec3
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 207
+      Coordinates: {x: 24.64, y: 32.99}
+      Name: Velen
+      Description: draken hollow outpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: f977d6c239e76604eac2cd38363d88c0
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 208
+      Coordinates: {x: 30.43, y: 44.56}
+      Name: Velen
+      Description: brunwich signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 40195b2f188fce5488f59a36b3cbb43d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 209
+      Coordinates: {x: 31.46, y: 45.42}
+      Name: Velen
+      Description: brunwich inner courtyard
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 63453c415cec25d409328d58162cac9c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 210
+      Coordinates: {x: 34.65, y: 46.15}
+      Name: Velen
+      Description: miller's lake, brunwich
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 128a60c6d17d2c149b01ede10ef74dd8
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 211
+      Coordinates: {x: 34.12, y: 43.17}
+      Name: Velen
+      Description: miller's lake, brunwich
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 0267a3843b32151449a09607c2b46815
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 212
+      Coordinates: {x: 38.3, y: 45.72}
+      Name: Velen
+      Description: Old Chapel
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 3364c295a1cebf94498b9209b169f995
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 213
+      Coordinates: {x: 37.09, y: 42.82}
+      Name: Velen
+      Description: upper mill signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: b3df14d51e1993046952a9faef7729ce
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 214
+      Coordinates: {x: 38.72, y: 42.81}
+      Name: Velen
+      Description: runewright's workshop by upper mill
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: b2e2e0ca570a8e64bb6e37d01da2faca
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 215
+      Coordinates: {x: 31.94, y: 37.47}
+      Name: Velen
+      Description: lower mill, south of brunwich
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: cce448b13d0dfed4986d19b11ece8ba0
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 216
+      Coordinates: {x: 40.11, y: 34.55}
+      Name: Velen
+      Description: zuetzer castle signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 60e7976ab9e7f5140900220f038d1787
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 217
+      Coordinates: {x: 39.77, y: 36.28}
+      Name: Velen
+      Description: zuetzer castle ruins
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 952d0c74ac69c8f43aeea2ab725049ae
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 218
+      Coordinates: {x: 34.9, y: 34.13}
+      Name: Velen
+      Description: insignificant old man's hut
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ea50e977af80b124b888ccf2c004fff1
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 219
+      Coordinates: {x: 29.66, y: 35.22}
+      Name: Velen
+      Description: von everec estate courtyard
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 2197d1ff95cafc340b390328b86238df
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 220
+      Coordinates: {x: 28.37, y: 33.11}
+      Name: Velen
+      Description: von everec estate backyard
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: eb2206065f930664caf4398eacd0b2a4
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 221
+      Coordinates: {x: 27.975, y: 32.328}
+      Name: Velen
+      Description: von everec family crypt
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: b394c1ab7f7e95f439e5fe3308ce849a
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 222
+      Coordinates: {x: 29.01, y: 31.404}
+      Name: Velen
+      Description: von everec family crypt entrance
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: cd7c335aadfdf0040a4926e358c1b103
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 223
+      Coordinates: {x: 39.069, y: 30.912}
+      Name: Velen
+      Description: insignificant hut, west of kilkerinn ruins
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 190fe273a1a2ebb48b023ff357202a2e
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 224
+      Coordinates: {x: 42.881, y: 31.134}
+      Name: Velen
+      Description: bandit camp in kilkerinn ruins
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 2dc4f6bd421be9c4291f9cd130d6d020
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 225
+      Coordinates: {x: 36.033, y: 27.442}
+      Name: Velen
+      Description: village of erde
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 84cd37b870220354c9584375e16b5992
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 226
+      Coordinates: {x: 27.78, y: 22.62}
+      Name: Velen
+      Description: vikk watchtower signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 80f3b1c8df8b52c4090e6072dd380f32
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 227
+      Coordinates: {x: 29.84, y: 20.64}
+      Name: Velen
+      Description: Hidden Treasure - The Royal Airforce
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 68b08eb39ded86448b8671edfe667bf5
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 228
+      Coordinates: {x: 34.48, y: 22.45}
+      Name: Velen
+      Description: lumberjack camp, south of erde
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 4a8fe2fe554752944bd7de0fa84b4d30
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 229
+      Coordinates: {x: 44.38, y: 23.64}
+      Name: Velen
+      Description: Arnskrone Castle Ruins
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ae4a5044291e4d64aa425ad0994c11d1
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 230
+      Coordinates: {x: 25.82, y: 24.41}
+      Name: Velen
+      Description: master topical's hut
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 03733d39d9e7fad46a2123fb125d8116
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 231
+      Coordinates: {x: 35.67, y: 17.72}
+      Name: Velen
+      Description: abandoned site - Stacheier
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c8f4b768ec7374340981b27da6a5a003
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 232
+      Coordinates: {x: 37.29, y: 14.57}
+      Name: Velen
+      Description: arachnomorph infested village of heddel
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 6022ba5eb82ca1b4cb3b3171d38ba665
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 233
+      Coordinates: {x: 27.642, y: 16.813}
+      Name: Velen
+      Description: est tayiar
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c2871a1467eff664180bb74d325f5ef1
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 234
+      Coordinates: {x: 20.53, y: 15.27}
+      Name: Velen
+      Description: temerian partisan holdout signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 6bacddce7e119b3499875cee0b6dcc68
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 235
+      Coordinates: {x: 21.28, y: 15.01}
+      Name: Velen
+      Description: temerian partisan holdout
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: aa153168a42724d4a853ca4b313910eb
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 236
+      Coordinates: {x: 16.01, y: 10.17}
+      Name: Velen
+      Description: gustfields farm signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 5c41abcd810e8e7498ff9be1dc26e4ee
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 237
+      Coordinates: {x: 22.08, y: 10.43}
+      Name: Velen
+      Description: herbalist's hut
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 9707d89707e752e439c71c3415fc45f6
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 238
+      Coordinates: {x: 22.44, y: 10.87}
+      Name: Velen
+      Description: heist planning room
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: af76f60c8c6ec8e44ab66d6e29ce4be2
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 239
+      Coordinates: {x: 21.5, y: 7.86}
+      Name: Velen
+      Description: The Most Truest of Basilisks
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 395d3cc4e85b32f4785e610663006141
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 240
+      Coordinates: {x: 34.25, y: 4.23}
+      Name: Velen
+      Description: Aeramas' Abandoned Manor signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e73ab11bcb00c79479c86dcca0c139fc
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 241
+      Coordinates: {x: 24.07, y: 1.38}
+      Name: Velen
+      Description: spooked mare quest start
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 4cb61ba255ec53e4fb16bae271fc1601
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 242
+      Coordinates: {x: 25.75, y: -1.72}
+      Name: Velen
+      Description: crossroads signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 2b386e00e0563df4e9069d61a7a449a2
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 243
+      Coordinates: {x: 31.48, y: -1.45}
+      Name: Velen
+      Description: Scoia'tael Merchant in distress
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: dfd9c4e3b8b948043b13a740eb895165
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 244
+      Coordinates: {x: 30.58, y: -6.94}
+      Name: Velen
+      Description: Scoia'tael camp, south of crossroads
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: a8a71d8be7508db4780c96fd24ab95e5
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 245
+      Coordinates: {x: 31.13, y: 45.45}
+      Name: Velen
+      Description: dead man's party, brunwich
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 6f1325070efc5c940bc250b5ce1ae054
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 246
+      Coordinates: {x: 32.06, y: 44.84}
+      Name: Velen
+      Description: dead man's party, brunwich
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: f8fcc01b738209242927abad41f59d80
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 247
+      Coordinates: {x: 31.13, y: 46.31}
+      Name: Velen
+      Description: dead man's party, brunwich
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 43515f15c0dc6f04c9f3b031068edf22
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 248
+      Coordinates: {x: 30.66, y: 46.06}
+      Name: Velen
+      Description: time, time is the key
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e2d4e66c5eb18624cb77cd258f0c0a16
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 249
+      Coordinates: {x: 16.926, y: 20.492}
+      Name: Velen
+      Description: vegelbud residence, outer courtyard
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 44e78a5ffbf7fcd42948a9acc0fcf2a0
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 250
+      Coordinates: {x: 18.392, y: 20.39}
+      Name: Velen
+      Description: vegelbud residence, inner courtyard
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e6975d384b6da8d448a5b29a3c0dcdda
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 251
+      Coordinates: {x: -4.56, y: -2.16}
+      Name: Velen
+      Description: thaler and friends
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 45c24a34117ac6f44ac9989703a79f5b
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 252
+      Coordinates: {x: -2.655, y: 43.486}
+      Name: Velen
+      Description: Novigrad Hospitality quest start
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 772405452adb63e4cb95fbe8b943451e
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 253
+      Coordinates: {x: 9.97, y: 4.48}
+      Name: Velen
+      Description: '''here redania camp army'', white eagle fort'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 642cdf6ec1c1b5f4a91ca4815973d354
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 254
+      Coordinates: {x: -32.79, y: -34.39}
+      Name: Velen
+      Description: a greedy god, wastrel manor ruins
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 0bb43aa11e20211469c7767319af8e74
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 255
+      Coordinates: {x: -29.137, y: -43.061}
+      Name: Velen
+      Description: forefathers' eve ritual
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ec35855d91255f545bb62d7b6aab00cb
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 256
+      Coordinates: {x: 28.804, y: 32.59}
+      Name: Velen
+      Description: painted world, von everec estate backyard
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: b6ce7c7dfe949914d990b42c35fde479
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 257
+      Coordinates: {x: 29.191, y: 35.831}
+      Name: Velen
+      Description: painted world - winter, von everec estate courtyard
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 7653b3444beddfb429284afe04224d0f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
   _fromIndex: -1
   _toIndex: -1
 --- !u!1 &556506242
@@ -3723,6 +4912,7 @@ MonoBehaviour:
   AboutSection: {fileID: 1888417952}
   MapSelectionParentObject: {fileID: 269964430}
   ProjectVersionText: {fileID: 176834841}
+  AvailableLocationsText: {fileID: 1242394877}
   currentMapSelectionIndex: 0
 --- !u!1 &561146794
 GameObject:
@@ -4590,6 +5780,140 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1391731147}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1242394875
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1242394876}
+  - component: {fileID: 1242394878}
+  - component: {fileID: 1242394877}
+  m_Layer: 5
+  m_Name: AvailableLocationsText
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &1242394876
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1242394875}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 55264830}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: 0.49998474, y: -959.33}
+  m_SizeDelta: {x: -76, y: 25}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &1242394877
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1242394875}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Material: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_RaycastTarget: 1
+  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
+  m_Maskable: 1
+  m_OnCullStateChanged:
+    m_PersistentCalls:
+      m_Calls: []
+  m_text: 
+  m_isRightToLeft: 0
+  m_fontAsset: {fileID: 11400000, guid: a831ec691378859409fc7a4c1e0668d6, type: 2}
+  m_sharedMaterial: {fileID: 1523643733332674418, guid: a831ec691378859409fc7a4c1e0668d6, type: 2}
+  m_fontSharedMaterials: []
+  m_fontMaterial: {fileID: 0}
+  m_fontMaterials: []
+  m_fontColor32:
+    serializedVersion: 2
+    rgba: 4288124823
+  m_fontColor: {r: 0.5921569, g: 0.5921569, b: 0.5921569, a: 1}
+  m_enableVertexGradient: 0
+  m_colorMode: 3
+  m_fontColorGradient:
+    topLeft: {r: 1, g: 1, b: 1, a: 1}
+    topRight: {r: 1, g: 1, b: 1, a: 1}
+    bottomLeft: {r: 1, g: 1, b: 1, a: 1}
+    bottomRight: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColorGradientPreset: {fileID: 0}
+  m_spriteAsset: {fileID: 0}
+  m_tintAllSprites: 0
+  m_StyleSheet: {fileID: 0}
+  m_TextStyleHashCode: -1183493901
+  m_overrideHtmlColors: 0
+  m_faceColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  m_fontSize: 20
+  m_fontSizeBase: 20
+  m_fontWeight: 400
+  m_enableAutoSizing: 0
+  m_fontSizeMin: 18
+  m_fontSizeMax: 72
+  m_fontStyle: 1
+  m_HorizontalAlignment: 2
+  m_VerticalAlignment: 4096
+  m_textAlignment: 65535
+  m_characterSpacing: 0
+  m_wordSpacing: 0
+  m_lineSpacing: 0
+  m_lineSpacingMax: 0
+  m_paragraphSpacing: 0
+  m_charWidthMaxAdj: 0
+  m_enableWordWrapping: 1
+  m_wordWrappingRatios: 0.4
+  m_overflowMode: 0
+  m_linkedTextComponent: {fileID: 0}
+  parentLinkedComponent: {fileID: 0}
+  m_enableKerning: 1
+  m_enableExtraPadding: 0
+  checkPaddingRequired: 0
+  m_isRichText: 1
+  m_parseCtrlCharacters: 1
+  m_isOrthographic: 1
+  m_isCullingEnabled: 0
+  m_horizontalMapping: 0
+  m_verticalMapping: 0
+  m_uvLineOffset: 0
+  m_geometrySortingOrder: 0
+  m_IsTextObjectScaleStatic: 0
+  m_VertexBufferAutoSizeReduction: 0
+  m_useMaxVisibleDescender: 1
+  m_pageToDisplay: 1
+  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_isUsingLegacyAnimationComponent: 0
+  m_isVolumetricText: 0
+  m_hasFontAssetChanged: 0
+  m_baseMaterial: {fileID: 0}
+  m_maskOffset: {x: 0, y: 0, z: 0, w: 0}
+--- !u!222 &1242394878
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1242394875}
+  m_CullTransparentMesh: 1
 --- !u!1 &1290066953
 GameObject:
   m_ObjectHideFlags: 0
@@ -4733,8 +6057,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0, y: -44.75}
-  m_SizeDelta: {x: -77, y: -305.5}
+  m_AnchoredPosition: {x: 0, y: -32.248}
+  m_SizeDelta: {x: -77, y: -330.5}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1454488190
 MonoBehaviour:
@@ -5467,8 +6791,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -627.1, y: 259.29}
-  m_SizeDelta: {x: 340.92993, y: 65}
+  m_AnchoredPosition: {x: -625, y: 242.20941}
+  m_SizeDelta: {x: 316.0978, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1711736487
 MonoBehaviour:
@@ -5492,7 +6816,9 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'UNOFFICIAL
 
-    MAP LOCATION GUESSING'
+    MAP LOCATION
+
+    GUESSING GAME'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: a831ec691378859409fc7a4c1e0668d6, type: 2}
   m_sharedMaterial: {fileID: 1523643733332674418, guid: a831ec691378859409fc7a4c1e0668d6, type: 2}

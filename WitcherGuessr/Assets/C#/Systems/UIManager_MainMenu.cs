@@ -2,7 +2,9 @@ using System.IO;
 using System.Linq;
 using TMPro;
 using UnityEngine;
+using UnityEngine.EventSystems;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 using UnityEngine.Video;
 
 public class UIManager_MainMenu : MonoBehaviour
@@ -16,6 +18,7 @@ public class UIManager_MainMenu : MonoBehaviour
     public GameObject AboutSection;
     public GameObject MapSelectionParentObject;
     public TextMeshProUGUI ProjectVersionText;
+    public TextMeshProUGUI AvailableLocationsText;
     public int currentMapSelectionIndex;
 
     void Awake()
@@ -61,7 +64,7 @@ public class UIManager_MainMenu : MonoBehaviour
                                                  MapManager.GetUIMapSelectionPrefab(mapSelection.MapType) : MapManager.MapSelectionDefault,
                                                  MapSelectionParentObject.transform);
             mapSelectionButton.GetComponentInChildren<TextMeshProUGUI>().text = $"{mapSelection.MapName.ToUpper()}";
-            mapSelectionButton.AddComponent<MapSelectionEntity>().Index = (int)mapSelection.MapType;
+            var mapSelectionEntity = GetMapSelectionEntity(mapSelectionButton, mapSelection);
         }
     }
 
@@ -91,6 +94,24 @@ public class UIManager_MainMenu : MonoBehaviour
         SpawnMapSelectionButtons();
         PlaySelectionMenu.SetActive(false);
         AboutSection.SetActive(false);
+        AvailableLocationsText.text = $"Available locations: {GetAvailableLocationsCount(MapType.AllMaps)}";
         ProjectVersionText.text = $"v{Application.version}";
     }
+
+    private MapSelectionEntity GetMapSelectionEntity(GameObject mapSelectionButton, MapSelection mapSelection)
+    {
+        var availableLocations = GetAvailableLocationsCount(mapSelection.MapType);
+        
+        var mapSelectionEntity = mapSelectionButton.AddComponent<MapSelectionEntity>();
+        mapSelectionEntity.Index = (int)mapSelection.MapType;
+        mapSelectionEntity.AvailableLocations = availableLocations;
+
+        mapSelectionEntity.SetAvailableLocationsTextReference(AvailableLocationsText);
+
+        return mapSelectionEntity;
+    }
+
+    private int GetAvailableLocationsCount(MapType mapType) => mapType == MapType.AllMaps ?
+                                 LocationManager.LocationSelections.Sum(x => x.LocationsForViewing.Count) :
+                                 LocationManager.LocationSelections.FirstOrDefault(x => x.MapType == mapType).LocationsForViewing.Count;
 }
