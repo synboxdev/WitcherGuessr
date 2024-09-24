@@ -74,8 +74,14 @@ public class MenuItems : MonoBehaviour
                 area.LocationsForViewing[i].Index = i;
 
         foreach (var area in LocationManager.LocationSelections)
-            foreach (var locationWithoutName in area.LocationsForViewing.Where(location => string.IsNullOrEmpty(location.Name.Trim())))
+        {
+            var eligibleLocations = area.LocationsForViewing
+                .Where(location => string.IsNullOrEmpty(location.Name.Trim()) || 
+                                   !area.DefaultLocationName.Contains(location.Name)).ToList();
+            
+            foreach (var locationWithoutName in eligibleLocations)
                 locationWithoutName.Name = area.DefaultLocationName;
+        }
 
         foreach (var locations in LocationManager.LocationSelections.Where(x => x.LocationsForViewing.Any()))
         {
@@ -152,7 +158,7 @@ public class MenuItems : MonoBehaviour
         foreach (var texture in textures.Select(x => x.Item2))
         {
             var editorAsset = texture.editorAsset;
-            
+
             if (editorAsset.height != 4096 || editorAsset.width != 8192 || (editorAsset.width / editorAsset.height) != 2f)
             {
                 Debug.Log($"Texture by name: '{editorAsset.name}' has invalid width/height proportions.");
@@ -213,7 +219,7 @@ public class MenuItems : MonoBehaviour
     }
 
     private static void MapTextureReferencesToLocationEntities(
-        List<Tuple<string, AssetReferenceTexture>> references, 
+        List<Tuple<string, AssetReferenceTexture>> references,
         List<Location> locations)
     {
         var formattedReferences = new List<Tuple<int, AssetReferenceTexture>>();

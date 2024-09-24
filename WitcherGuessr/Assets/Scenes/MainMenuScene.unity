@@ -3379,7 +3379,7 @@ MonoBehaviour:
     - Index: 123
       Coordinates: {x: -13.18, y: -1.55}
       Name: Velen
-      Description: man's best friend quest start
+      Description: '''man''s best friend'' quest start'
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
         m_AssetGUID: 22417063a5f40fa4595d70ab7e6d6c14
@@ -3687,7 +3687,7 @@ MonoBehaviour:
     - Index: 151
       Coordinates: {x: -20, y: 11.87}
       Name: Velen
-      Description: At the Mercy of Strangers quest start
+      Description: '''At the Mercy of Strangers'' quest start'
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
         m_AssetGUID: 89e79a94ca73cd147934356db862e1e3
@@ -3951,7 +3951,7 @@ MonoBehaviour:
     - Index: 175
       Coordinates: {x: 6.91, y: 30.72}
       Name: Velen
-      Description: empty coop quest start
+      Description: '''empty coop'' quest start'
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
         m_AssetGUID: b908bb881c06d034eb95620449bd5f55
@@ -4677,7 +4677,7 @@ MonoBehaviour:
     - Index: 241
       Coordinates: {x: 24.07, y: 1.38}
       Name: Velen
-      Description: spooked mare quest start
+      Description: '''spooked mare'' quest start'
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
         m_AssetGUID: 4cb61ba255ec53e4fb16bae271fc1601
@@ -4798,7 +4798,7 @@ MonoBehaviour:
     - Index: 252
       Coordinates: {x: -2.655, y: 43.486}
       Name: Velen
-      Description: Novigrad Hospitality quest start
+      Description: '''Novigrad Hospitality'' quest start'
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
         m_AssetGUID: 772405452adb63e4cb95fbe8b943451e
@@ -4857,6 +4857,2220 @@ MonoBehaviour:
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
         m_AssetGUID: 7653b3444beddfb429284afe04224d0f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+  - MapType: 3
+    DefaultLocationName: Skellige Isles
+    LocationsForViewing:
+    - Index: 0
+      Coordinates: {x: -20.215, y: 14.334}
+      Name: Skellige Isles
+      Description: Master of the Arena, village of hov
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c02d4cabc91cd7b449db2e2e924cfef2
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 1
+      Coordinates: {x: -20.022, y: 14.962}
+      Name: Skellige Isles
+      Description: village of hov signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 7a0b1e2205a198c4b884657a44fa18ed
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 2
+      Coordinates: {x: -23.407, y: 17.166}
+      Name: Skellige Isles
+      Description: insignificant hut on spikeroog isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 2efdc380084b9cf439ec9371d813b9f1
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 3
+      Coordinates: {x: -24.619, y: 15.706}
+      Name: Skellige Isles
+      Description: outside of Udalryk's old Home
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 40e28aaca6bd9dd45abf70b59b92b3ff
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 4
+      Coordinates: {x: -24.561, y: 15.903}
+      Name: Skellige Isles
+      Description: Inside of Udalryk's old Home
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 1eb418590efe978479704e2bccdc9853
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 5
+      Coordinates: {x: -25.349, y: 15.232}
+      Name: Skellige Isles
+      Description: a Place of Power by udalryk's home
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 540d97a5fdff5344d8cb7f27c35985a3
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 6
+      Coordinates: {x: -23.437, y: 14.641}
+      Name: Skellige Isles
+      Description: village of svorlag
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 089f77195d64755428cf74221e48b285
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 7
+      Coordinates: {x: -23.554, y: 14.24}
+      Name: Skellige Isles
+      Description: village of svorlag inn
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 6f9930db18c593340aea35cccbf1b53b
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 8
+      Coordinates: {x: -22.664, y: 14.7}
+      Name: Skellige Isles
+      Description: village of Svorlag Harbor
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: af0c5054f1a5b2e4f8e1e98fa31e382d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 9
+      Coordinates: {x: -21.401, y: 12.744}
+      Name: Skellige Isles
+      Description: guarded treasure - Ulula's Needle, Spikeroog isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 3b7b83f007c860c4996b9382ab54d2fa
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 10
+      Coordinates: {x: -25.924, y: 11.486}
+      Name: Skellige Isles
+      Description: old watchtower, spikeroog isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 1398a7954a2c83444b1694beae360a2c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 11
+      Coordinates: {x: -26.366, y: 10.144}
+      Name: Skellige Isles
+      Description: cave entrance, south of old watchtower
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 89f24f1295f35d24daaa79fb28e33f86
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 12
+      Coordinates: {x: -11.071, y: 14.325}
+      Name: Skellige Isles
+      Description: hidden treasure, on an insignificant island
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 31937755f0ca2f8479f8a6a022ba568b
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 13
+      Coordinates: {x: -14.508, y: 6.589}
+      Name: Skellige Isles
+      Description: hidden treasure, on an insignificant island
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 085105b827791de43baec1d5d54004c7
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 14
+      Coordinates: {x: -19.927, y: 2.625}
+      Name: Skellige Isles
+      Description: kaer almhult ruins
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: bf316dd172679414ba0e00aacab778ca
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 15
+      Coordinates: {x: -18.689, y: 3.613}
+      Name: Skellige Isles
+      Description: kaer almhult signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 6e421bab8627c154d987b94a2f2cf423
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 16
+      Coordinates: {x: -30.399, y: 1.566}
+      Name: Skellige Isles
+      Description: the pali gap coast signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 7cf644dc7f77d39458cacf32fd32dfb0
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 17
+      Coordinates: {x: -29.279, y: 1.048}
+      Name: Skellige Isles
+      Description: Avallac'h's laboratory, the pali gap coast cave
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: d478920142c69bc4294cfd1f7cf2f16a
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 18
+      Coordinates: {x: 0.04, y: 16.788}
+      Name: Skellige Isles
+      Description: Hidden Treasure - archgriffin's nest
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 0a359176e9e481b4c84a7b082bb37371
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 19
+      Coordinates: {x: 0.58, y: 15.556}
+      Name: Skellige Isles
+      Description: '''free spirit'' quest start'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: a846d8ba70a7c0643980023f8fd068f6
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 20
+      Coordinates: {x: -17.012, y: 27.202}
+      Name: Skellige Isles
+      Description: hidden treasure - shipwreck, northern isles
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: b04b679ece2917744a44644050b3e065
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 21
+      Coordinates: {x: -2.316, y: 23.335}
+      Name: Skellige Isles
+      Description: guarded treasure, northen isles
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e414937cf1dda50458d094535bddbc9c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 22
+      Coordinates: {x: -1.083, y: 25.175}
+      Name: Skellige Isles
+      Description: guarded treasure, northen isles
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 05e2f6ad5e8b9e44caa1ffeddb986a04
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 23
+      Coordinates: {x: 13.101, y: 20.087}
+      Name: Skellige Isles
+      Description: bay of winds signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: fc3bb9144fcdbc14dbfd91acd760773d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 24
+      Coordinates: {x: 13.727, y: 22.068}
+      Name: Skellige Isles
+      Description: abandoned village, west of an skellig isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c44eb9542e7e71d44814f0c54350958c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 25
+      Coordinates: {x: 15.018, y: 22.534}
+      Name: Skellige Isles
+      Description: yngvar's fang signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 55342f1d7d08d1e4ea75642676066a88
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 26
+      Coordinates: {x: 17.836, y: 21.985}
+      Name: Skellige Isles
+      Description: trail to yngvar's fang signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: b17191422dc4985478b8db466436bb37
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 27
+      Coordinates: {x: 16.916, y: 21.48}
+      Name: Skellige Isles
+      Description: fight arena in an skellig
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 08d36bc71bfed3e449ee89a555f6ccf6
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 28
+      Coordinates: {x: 15.268, y: 20.253}
+      Name: Skellige Isles
+      Description: village of urialla harbor
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 15143c6a96dc42e45bd2feb6dbb71240
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 29
+      Coordinates: {x: 15.792, y: 20.873}
+      Name: Skellige Isles
+      Description: urialla harbor signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 3dc85f4d8006bee46b792d7e11b442f3
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 30
+      Coordinates: {x: -23.464, y: 13.564}
+      Name: Skellige Isles
+      Description: udalryk's home, spikeroog isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 0b3a413f33368634bbc5db3a714158ae
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 31
+      Coordinates: {x: 15.878, y: 20.373}
+      Name: Skellige Isles
+      Description: blacksmith's hut, urialla harbor, an skellig
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 843b02cf2ae0c2f4d92c7b690d234986
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 32
+      Coordinates: {x: 15.746, y: 11.466}
+      Name: Skellige Isles
+      Description: insignificant bandit camp, south of an skellig
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: d2b7b833297794f4c9a3dc9d0c817823
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 33
+      Coordinates: {x: 29.447, y: 13.45}
+      Name: Skellige Isles
+      Description: guarded treasure, east of an skellig
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 13e41448b651a664b825499c9628fba0
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 34
+      Coordinates: {x: 26.878, y: 5.46}
+      Name: Skellige Isles
+      Description: Ingalden Isle, north of hindersfjall
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 457ca4299c859b447982218397eeb7df
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 35
+      Coordinates: {x: 28.252, y: 0.32}
+      Name: Skellige Isles
+      Description: freya's garden signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 23d805cea3b31ed4987a0925664d554b
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 36
+      Coordinates: {x: 28.656, y: 0.581}
+      Name: Skellige Isles
+      Description: center of freya's garden
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 6488795654a74e4439bf6d69f13c3ae5
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 37
+      Coordinates: {x: 29.185, y: 1.228}
+      Name: Skellige Isles
+      Description: Morkvarg's hut, hindersfjall
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 67c21d1ee5b376f41aa9a513d98fb009
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 38
+      Coordinates: {x: 29.739, y: 0.276}
+      Name: Skellige Isles
+      Description: freya's temple, hindersfjall
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 81e2eb54cbfecb143b9b580f083ddd97
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 39
+      Coordinates: {x: 27.026, y: -1.031}
+      Name: Skellige Isles
+      Description: village of lofoten, hindersfjall
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 22a754bdf76100049ab1faf7a21e7126
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 40
+      Coordinates: {x: 27.567, y: -1.131}
+      Name: Skellige Isles
+      Description: sauna's backyard, lofoten, hindersfjall
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 6ff20082f34bad04cae803d3037e51a4
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 41
+      Coordinates: {x: 27.2, y: -2.295}
+      Name: Skellige Isles
+      Description: lofoten cementery signpost, hindersfjall
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 097caf39410e10b498239ff8f906a198
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 42
+      Coordinates: {x: 27.872, y: -3.427}
+      Name: Skellige Isles
+      Description: isolated hut, hindersfjall
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 3841186faa64c0f4c9e5a98f01b8909b
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 43
+      Coordinates: {x: 30.124, y: -2.189}
+      Name: Skellige Isles
+      Description: '''for fame and glory'' quest start, hindersfjall'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 5dc19ae1792262c4a83aceeea9553ee5
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 44
+      Coordinates: {x: 30.964, y: -2.114}
+      Name: Skellige Isles
+      Description: front gate to the village of larvik
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: b63ad5a2d0658c64f81baf2afb9e4251
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 45
+      Coordinates: {x: 31.58, y: -2.195}
+      Name: Skellige Isles
+      Description: village of larvik, hindersfjall
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 5f9107036223a2f4c875d93dbf761073
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 46
+      Coordinates: {x: 31.462, y: -1.349}
+      Name: Skellige Isles
+      Description: village of larvik harbor, hindersfjall
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 1659df31dd38455448b13f3cdadc0b5e
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 47
+      Coordinates: {x: 17.02, y: -3.48}
+      Name: Skellige Isles
+      Description: '''From a Land Far, Far Away'' quest start'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 1fdfaa47069775041bd5ffa1ea6ebcdc
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 48
+      Coordinates: {x: 11.24, y: -23.52}
+      Name: Skellige Isles
+      Description: guarded treasure, west of faroe isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 75ac343ac9468b9419329c41b0f7996f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 49
+      Coordinates: {x: 16.87, y: -25.43}
+      Name: Skellige Isles
+      Description: guarded treasure by a cyclop, west of faroe isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: acb3405969a5e7748942589dabfdc71a
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 50
+      Coordinates: {x: 16.48, y: -26.42}
+      Name: Skellige Isles
+      Description: a place of power, west of faroe isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 355fd37faafb75d4baa21ebd84269044
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 51
+      Coordinates: {x: 17.03, y: -28.48}
+      Name: Skellige Isles
+      Description: hermit's cave entrance, west of faroe isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e45259b8041fa274fac876a04be286cd
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 52
+      Coordinates: {x: 19.158, y: -26.79}
+      Name: Skellige Isles
+      Description: village of harviken, faroe isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 1bf60fc9251ee6043b158945feba992a
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 53
+      Coordinates: {x: 20.656, y: -28.655}
+      Name: Skellige Isles
+      Description: Shrine to Hemdall, south of faroe isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: fe6ff2b30baf5234f943e3a969d1647c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 54
+      Coordinates: {x: 20.692, y: -26.623}
+      Name: Skellige Isles
+      Description: Jutta an Dimun, the iron maiden
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 9521569aaff9cd748b453ceda29bbd22
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 55
+      Coordinates: {x: 21.381, y: -27.046}
+      Name: Skellige Isles
+      Description: crossroads, center of faroe isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 2a7482917f324f4439be77ee59767148
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 56
+      Coordinates: {x: 22.306, y: -26.23}
+      Name: Skellige Isles
+      Description: Shrine to Hemdall, north of faroe isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 7850835bfbe6e724a98fdbabfaee5405
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 57
+      Coordinates: {x: 24.005, y: -27.161}
+      Name: Skellige Isles
+      Description: village of trottheim, faroe isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 0f767edd5d857df48b8f0c8f94c67e17
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 58
+      Coordinates: {x: 26.303, y: -28.358}
+      Name: Skellige Isles
+      Description: hammond's shrine, east of faroe isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 1a23d79cbb27fb443aca4159fc02f51e
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 59
+      Coordinates: {x: -35.98, y: -20.05}
+      Name: Skellige Isles
+      Description: guarded treasure by a cyclop, south of undvik
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 7f7e7fe8d36f19a4aa2a56d1a0891575
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 60
+      Coordinates: {x: -33.125, y: -12.005}
+      Name: Skellige Isles
+      Description: hidden treasure, west of undvik isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: b926bec00da74c148b512f5dba49134d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 61
+      Coordinates: {x: -30.391, y: -6.414}
+      Name: Skellige Isles
+      Description: tor gvalch'ca signpost, north of undvik isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 1738f3856fbfcf64fb134ee1ce30ec09
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 62
+      Coordinates: {x: -29.782, y: -6.366}
+      Name: Skellige Isles
+      Description: tor gvalch'ca, north of undvik isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 69c0a19c30d600c4a8ae0b82de499b77
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 63
+      Coordinates: {x: -29.961, y: -6.014}
+      Name: Skellige Isles
+      Description: tor gvalch'ca, north of undvik isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ddd3c1af50ce30a45bc13737a22f6112
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 64
+      Coordinates: {x: -29.107, y: -7.675}
+      Name: Skellige Isles
+      Description: hidden treasure, south of tor gvalch'ca
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: b03d45d82a70aaa49934d9c6f2aeb55b
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 65
+      Coordinates: {x: -29.101, y: -10.202}
+      Name: Skellige Isles
+      Description: ice troll cave entrance, north of undvik isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 28284fea282ae51478152b99d639a975
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 66
+      Coordinates: {x: -29.4, y: -11.212}
+      Name: Skellige Isles
+      Description: abandoned village, undvik isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: fb9d2fbe743b5e54394bd1201a229133
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 67
+      Coordinates: {x: -25.778, y: -10.584}
+      Name: Skellige Isles
+      Description: octo the madman's shipwreck, undvik isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 31ff9e7a2a4e8f64a80c735bb094a715
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 68
+      Coordinates: {x: -25.502, y: -7.784}
+      Name: Skellige Isles
+      Description: guarded treasure, north of undvik isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 082956ac8a08c014b993e615f0ab3ebd
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 69
+      Coordinates: {x: -23.982, y: -7.544}
+      Name: Skellige Isles
+      Description: undvik harbor, north of undvik isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 1334acbe0581ec341b07a1636bd88728
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 70
+      Coordinates: {x: -22.879, y: -10.002}
+      Name: Skellige Isles
+      Description: marlin coast signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 12c56721dd774734caa21f531ed2080b
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 71
+      Coordinates: {x: -19.841, y: -13.262}
+      Name: Skellige Isles
+      Description: gull point signpost, east of undvik isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ecff5b458b5c6654aaf1e6e1cceef41f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 72
+      Coordinates: {x: -21.378, y: -11.949}
+      Name: Skellige Isles
+      Description: Ruins, Hidden Treasure, You Know
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 0dca713a08d3e2248bf78cb77b1c10d8
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 73
+      Coordinates: {x: -22.58, y: -12.407}
+      Name: Skellige Isles
+      Description: drove ruins, undvik isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 4bbe27349040b5a42b7e5ce44b0ba643
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 74
+      Coordinates: {x: -23.636, y: -12.055}
+      Name: Skellige Isles
+      Description: drove ruins signpost, undvik isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: d5028889f9ce6be448895ee622e02850
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 75
+      Coordinates: {x: -23.72, y: -13.609}
+      Name: Skellige Isles
+      Description: hjalmar the giantslayer
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e25d4f8e65751bb4b82d4008b88a5556
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 76
+      Coordinates: {x: -25.794, y: -11.949}
+      Name: Skellige Isles
+      Description: hidden treasure - shortcut, undvik isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 53dd78241651e1041b8bae33f46de10b
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 77
+      Coordinates: {x: -27.202, y: -12.916}
+      Name: Skellige Isles
+      Description: village of urskar, undvik isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ee584d6e8b6a80346ae1d294cff35cc8
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 78
+      Coordinates: {x: -25.749, y: -14.527}
+      Name: Skellige Isles
+      Description: clan tordarroch forge signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 55adb0349a840cc42aee29fe18ca6e2c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 79
+      Coordinates: {x: -25.169, y: -13.685}
+      Name: Skellige Isles
+      Description: path to clan tordarroch forge
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 761ddf922eaf83f40b105fcf1b20eefc
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 80
+      Coordinates: {x: -12.627, y: 2.121}
+      Name: Skellige Isles
+      Description: eldberg lighthouse signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 328ca1581ef9c9d4992e0483fc5071b6
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 81
+      Coordinates: {x: -12.306, y: -0.525}
+      Name: Skellige Isles
+      Description: bandit camp, south of eldberg lighthouse
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 0f936e97a7a490a4b96d88b623047523
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 82
+      Coordinates: {x: -11.62, y: -1.501}
+      Name: Skellige Isles
+      Description: obelisk, south of eldberg lighthouse
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 3ff1f2ed9de767e419d62e9118b4f819
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 83
+      Coordinates: {x: -5.36, y: 3.738}
+      Name: Skellige Isles
+      Description: Bran Tuirseach's funeral, kaer trolde harbor
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 7d0a7ca180ac7534fa30ba4fdf52bd4e
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 84
+      Coordinates: {x: -4.289, y: 6.377}
+      Name: Skellige Isles
+      Description: bridge to kaer trolde signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 3ab57590c1ec200459e7109eadb8efc8
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 85
+      Coordinates: {x: -4.955, y: 5.929}
+      Name: Skellige Isles
+      Description: Bran Tuirseach's funeral wake
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 784b1e5256538cb478b355c71c74cc01
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 86
+      Coordinates: {x: -4.713, y: 6.28}
+      Name: Skellige Isles
+      Description: kaer trolde castle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 359cf4e9f83aeff4885269256d8e0230
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 87
+      Coordinates: {x: -4.749, y: 6.492}
+      Name: Skellige Isles
+      Description: blacksmith at kaer trolde castle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 57c5b396dd1193546807970e586aaf05
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 88
+      Coordinates: {x: -4.713, y: 5.306}
+      Name: Skellige Isles
+      Description: kaer trolde castle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 3742f55ba13a80442be27c4e1453a128
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 89
+      Coordinates: {x: -5.076, y: 5.161}
+      Name: Skellige Isles
+      Description: kaer trolde castle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: a1da5ccebef51b84db39dba87fc3766a
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 90
+      Coordinates: {x: -4.979, y: 5.669}
+      Name: Skellige Isles
+      Description: mysterious room in kaer trolde castle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 51157eceab15f124fbc6b81fe8fc5501
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 91
+      Coordinates: {x: -5.366, y: 5.79}
+      Name: Skellige Isles
+      Description: ermion's laboratory, kaer trolde castle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 3fac2d94332d7cf49ac61f1caac5dd9c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 92
+      Coordinates: {x: -4.949, y: 5.566}
+      Name: Skellige Isles
+      Description: Crach an Craite's room, kaer trolde castle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c188572212ff0984f9c506ad79cae18b
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 93
+      Coordinates: {x: -4.864, y: 6.171}
+      Name: Skellige Isles
+      Description: hjalmar's room, kaer trolde castle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 2f9bee1951ab1974fa826ad148ae19e0
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 94
+      Coordinates: {x: -5.027, y: 6.28}
+      Name: Skellige Isles
+      Description: cerys' room, kaer trolde castle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 2ad9a056ec46f714d9170c861c4ab1ef
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 95
+      Coordinates: {x: -3.823, y: 3.901}
+      Name: Skellige Isles
+      Description: kaer trolde harbor signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 742d702c18548fc438c78aa8829c5350
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 96
+      Coordinates: {x: -3.296, y: 4.04}
+      Name: Skellige Isles
+      Description: kaer trolde harbor
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e31d6b19518ba0641838bf804d76c183
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 97
+      Coordinates: {x: -3.671, y: 4.597}
+      Name: Skellige Isles
+      Description: Yennefer's room in Kaer Trolde Harbor
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 21bc0fbfcb8a217449747a16540dd970
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 98
+      Coordinates: {x: -3.707, y: 4.779}
+      Name: Skellige Isles
+      Description: kaer trolde harbor inn
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 0a0c531f21c0fad49b8c660d9949c346
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 99
+      Coordinates: {x: -3.322, y: 4.676}
+      Name: Skellige Isles
+      Description: kaer trolde harbor
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 6f1687c953eed0942920723071851ad1
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 100
+      Coordinates: {x: -4.022, y: 5.602}
+      Name: Skellige Isles
+      Description: kaer trolde harbor
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 05b4d0ee743b18f4c9c66c7e8c39fd06
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 101
+      Coordinates: {x: -2.969, y: 5.239}
+      Name: Skellige Isles
+      Description: kaer trolde harbor, cliffside path
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 8a8067e906be8764dbd0a0fc7023efab
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 102
+      Coordinates: {x: -2.896, y: 4.053}
+      Name: Skellige Isles
+      Description: kaer trolde harbor, guard tower
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: eec3041f8a7958a4b9dc0f4f6b3d823f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 103
+      Coordinates: {x: -5.686, y: 3.236}
+      Name: Skellige Isles
+      Description: kaer trolde harbor
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: f09f052a326ff5b40835d6098f5e4e8e
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 104
+      Coordinates: {x: -5.432, y: 2.141}
+      Name: Skellige Isles
+      Description: guarded treasure, south of kaer trolde castle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 6d12ab78d75053f428ed2d225b96be06
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 105
+      Coordinates: {x: -3.809, y: -0.837}
+      Name: Skellige Isles
+      Description: shipwreck, west of rannvaig village
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 609b8a1eceb3b8e4aa171681cfef2362
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 106
+      Coordinates: {x: -2.781, y: 0.104}
+      Name: Skellige Isles
+      Description: guarded treasure, west of crossroads
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 6fb4614404cca7c4ab77534badd17352
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 107
+      Coordinates: {x: -1.966, y: 0.117}
+      Name: Skellige Isles
+      Description: crossroads signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 3d7d851517d9fdb449164c9888acc79e
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 108
+      Coordinates: {x: -2.647, y: 1.953}
+      Name: Skellige Isles
+      Description: merchant, south of kaer trolde harbor
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 99c1a19555730e7448e98ce992b9111f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 109
+      Coordinates: {x: -1.312, y: 2.06}
+      Name: Skellige Isles
+      Description: '''Peace Disturbed'' quest start'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 0e6ef86687fdad24f8280162918dd066
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 110
+      Coordinates: {x: 1.066, y: 3.574}
+      Name: Skellige Isles
+      Description: village of rogne signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ce511a610f13fb1449c1e24ee245a7a0
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 111
+      Coordinates: {x: 1.733, y: 4.266}
+      Name: Skellige Isles
+      Description: village of rogne
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: d2a126d5cdc90514e8127b79eb9a739b
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 112
+      Coordinates: {x: 2.194, y: 2.135}
+      Name: Skellige Isles
+      Description: troll cave entrance, south of rogne village
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 36ef62f4824bee5418cad9fdb234b6b9
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 113
+      Coordinates: {x: 3.322, y: 1.543}
+      Name: Skellige Isles
+      Description: miners' camp signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 0ebb44b9d0d3a4e46875139f7f9791a1
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 114
+      Coordinates: {x: 0.214, y: 4.956}
+      Name: Skellige Isles
+      Description: monster den entrance, north of rogne village
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ce0759232be6a5342a41a09f7e0148a6
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 115
+      Coordinates: {x: 1.119, y: 7.074}
+      Name: Skellige Isles
+      Description: Fort Etnir
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 347473758c54a074fbae0769aa84dada
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 116
+      Coordinates: {x: 0.065, y: 8.378}
+      Name: Skellige Isles
+      Description: ancient crypt signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: a846523a210af33459422f51ff10b662
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 117
+      Coordinates: {x: 1.727, y: 9.176}
+      Name: Skellige Isles
+      Description: '''Crime and Punishment'' quest start'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: a6b5af79ca74d92448b29cf3628b449c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 118
+      Coordinates: {x: 3.836, y: 7.15}
+      Name: Skellige Isles
+      Description: the last wish
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: dfbe846b3eb2c3f4fbd8ec31122892f7
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 119
+      Coordinates: {x: 5.374, y: 5.452}
+      Name: Skellige Isles
+      Description: yustianna's grotto signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 1f52e5e049643c145b6fea2d726aaba9
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 120
+      Coordinates: {x: 6.302, y: 2.563}
+      Name: Skellige Isles
+      Description: kaer gelen signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: f0836ed3d43a92e46b9ae495ab28d9f3
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 121
+      Coordinates: {x: 6.146, y: 2.702}
+      Name: Skellige Isles
+      Description: kaer gelen fort ruins
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: fbb23f0d3aa429a43bb32511fa04511d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 122
+      Coordinates: {x: 6.129, y: 4.706}
+      Name: Skellige Isles
+      Description: sun peak, north of kaer gelen
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 73daf9010bbfa594097431b508efa046
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 123
+      Coordinates: {x: 8.159, y: 4.411}
+      Name: Skellige Isles
+      Description: monster den in an abandoned fort ruins
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 77579b8b3cb3e2b41a7eaa38e022d94c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 124
+      Coordinates: {x: 9.694, y: 6.423}
+      Name: Skellige Isles
+      Description: giants' toes signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 43340bb3376196142866b8d9e244bb08
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 125
+      Coordinates: {x: 9.954, y: 7.221}
+      Name: Skellige Isles
+      Description: bandit camp, giants' toes coast
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 6316e2ba175ef6e4a8948440b4ec73e7
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 126
+      Coordinates: {x: 9.052, y: 9.025}
+      Name: Skellige Isles
+      Description: '''finders keepers'' quest start'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e59c292cabb448f49a589379e92d69db
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 127
+      Coordinates: {x: 0.395, y: -0.92}
+      Name: Skellige Isles
+      Description: lumber workshop, east of crossroads
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 4dfb6d7bc3fb3cb4aa5eb047dcf46c6e
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 128
+      Coordinates: {x: -0.9, y: -2.18}
+      Name: Skellige Isles
+      Description: village of rannvaig signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: a383ad4e2e12dc04781cb58730ff0ed0
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 129
+      Coordinates: {x: -1.455, y: -1.87}
+      Name: Skellige Isles
+      Description: village of rannvaig
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 9b160cf398b63a744a2d6a276f6429c5
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 130
+      Coordinates: {x: 1.772, y: -0.837}
+      Name: Skellige Isles
+      Description: abandoned huts, east of lumber workshop
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 6017b27dae90e5648ab3cb9016c28762
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 131
+      Coordinates: {x: 1.106, y: -2.359}
+      Name: Skellige Isles
+      Description: bandit camp, south of lumber workshop
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ded84427441981740ba41026df62ee0f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 132
+      Coordinates: {x: 0.603, y: -3.358}
+      Name: Skellige Isles
+      Description: '''armed assault'' quest start'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 88986956750ee7b48bbe1321a2425280
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 133
+      Coordinates: {x: -0.056, y: -3.127}
+      Name: Skellige Isles
+      Description: '''The Nithing'' quest start'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 22943dcbc39ba524baea66c13e8cc8f6
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 134
+      Coordinates: {x: -1.129, y: -3.976}
+      Name: Skellige Isles
+      Description: Heroic rides - Fayrlund, horse race
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 3aa6e783d8f99ea438d97ce6b8bf24a3
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 135
+      Coordinates: {x: -2.399, y: -4.472}
+      Name: Skellige Isles
+      Description: village of fayrlund signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 609e896d764269e4d81c71123915ed19
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 136
+      Coordinates: {x: -1.89, y: -4.846}
+      Name: Skellige Isles
+      Description: village of fayrlund
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ac448196ec2d08d4e88ae88e6e685306
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 137
+      Coordinates: {x: 0.447, y: -4.88}
+      Name: Skellige Isles
+      Description: morvudd the fiend, kaer nyssen
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 3a49242bda4aef148b132382bf06d135
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 138
+      Coordinates: {x: 1.208, y: -5.98}
+      Name: Skellige Isles
+      Description: boxholm signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: aabcd54178ee93048b933f7a464bd860
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 139
+      Coordinates: {x: 1.779, y: -5.81}
+      Name: Skellige Isles
+      Description: hidden treasures, boxholm ruins
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: b7b9f53ce40c018409105570af3c8b43
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 140
+      Coordinates: {x: -4.575, y: -3.559}
+      Name: Skellige Isles
+      Description: person in distress, west of fayrlund
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ce07d283c07e32e4ea1952b8ef403403
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 141
+      Coordinates: {x: -7.562, y: -3.112}
+      Name: Skellige Isles
+      Description: hidden treasure, north of sund
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 133b2a20adc9a9e4fb3a0de1c692f75c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 142
+      Coordinates: {x: -6.593, y: -5.664}
+      Name: Skellige Isles
+      Description: village of sund signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e054f1538574a15488a8be103494a9a6
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 143
+      Coordinates: {x: -7.884, y: -5.558}
+      Name: Skellige Isles
+      Description: '''siren''s call'' quest start'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 3b88eeec86906f041ba208070f14ed3d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 144
+      Coordinates: {x: -10.947, y: -5.431}
+      Name: Skellige Isles
+      Description: village of arinbjorn
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: fcac82a69d589e247892e0c753b135e4
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 145
+      Coordinates: {x: -10.707, y: -6.682}
+      Name: Skellige Isles
+      Description: village of arinbjorn signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e229bb8aa57a1574fbb10d3dc8f8e570
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 146
+      Coordinates: {x: -10.407, y: -6.502}
+      Name: Skellige Isles
+      Description: village of arinbjorn inn
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 275a24aa288bd6b4b8a546114097d0a7
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 147
+      Coordinates: {x: -11.68, y: -6.652}
+      Name: Skellige Isles
+      Description: lookout point, west of arinbjorn village
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 35d6e796de7b88c4f88849cef9c5557f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 148
+      Coordinates: {x: -9.035, y: -7.998}
+      Name: Skellige Isles
+      Description: ruins, south-east of arinbjorn
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 24eebeca14473d64c9bb1a548bdb4b0e
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 149
+      Coordinates: {x: -7.149, y: -7.489}
+      Name: Skellige Isles
+      Description: bandit camp in lumber workshop, south of sund
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 24ef2445b78fe7c4592031126dc5f02a
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 150
+      Coordinates: {x: -5.44, y: -9.583}
+      Name: Skellige Isles
+      Description: village of fornhala signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 8f0285c182ac39a4a85da973166af5cf
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 151
+      Coordinates: {x: -5.184, y: -11.318}
+      Name: Skellige Isles
+      Description: cave undernearth village of fornhala
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: efdb8f0c82e78074baa9ab3f4905cc51
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 152
+      Coordinates: {x: -9.953, y: -11.068}
+      Name: Skellige Isles
+      Description: wild shore signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: bb8a078e5b4606f448614475ca0ee88e
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 153
+      Coordinates: {x: -10.694, y: -10.746}
+      Name: Skellige Isles
+      Description: guarded treasure, wild shore
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 0e32b30e87591b6428f5b7b4457395b6
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 154
+      Coordinates: {x: -6.69, y: -12.43}
+      Name: Skellige Isles
+      Description: a place of power, north of holmstein's port
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 18fb0041148626c47a45603b670d58c6
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 155
+      Coordinates: {x: -6.41, y: -12.71}
+      Name: Skellige Isles
+      Description: '''farting trolls'' quest start'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 31d81ced66fe3204da17af441cb98776
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 156
+      Coordinates: {x: -7.31, y: -14.548}
+      Name: Skellige Isles
+      Description: bandit camp, north of holmstein's port
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: cbfca4e213b8a0d46b2dfc2b1acf1397
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 157
+      Coordinates: {x: -7.109, y: -16.128}
+      Name: Skellige Isles
+      Description: holmstein's port harbor
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: bdf3f0c8cd1659a4687096a95539b581
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 158
+      Coordinates: {x: -6.487, y: -16.53}
+      Name: Skellige Isles
+      Description: holmstein's port signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: cd74baa7b04c30647af5862f03f267ed
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 159
+      Coordinates: {x: -5.644, y: -15.727}
+      Name: Skellige Isles
+      Description: holmstein notice board
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 1cdfb5bb8b50ee1439bf291963b3dc80
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 160
+      Coordinates: {x: -4.145, y: -15.54}
+      Name: Skellige Isles
+      Description: kaer muire signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: aeaa6273df942ab4fbe8b05bf2dc6efb
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 161
+      Coordinates: {x: -4.045, y: -15.192}
+      Name: Skellige Isles
+      Description: kaer muire
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 18c3d16510c2c1345a9b761ac59f76e2
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 162
+      Coordinates: {x: -0.341, y: -20.085}
+      Name: Skellige Isles
+      Description: shore cave entrance, south of kaer muire
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 7c2442b82cfd92b409911ac557718c26
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 163
+      Coordinates: {x: 0.385, y: -17.986}
+      Name: Skellige Isles
+      Description: cave of dreams
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 4c4c0bdc3501f9242a2c9a1002a70136
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 164
+      Coordinates: {x: -0.03, y: -17.547}
+      Name: Skellige Isles
+      Description: cave of dreams
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 473045730ea7d0647b378bb1c960a768
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 165
+      Coordinates: {x: 3.306, y: -20.875}
+      Name: Skellige Isles
+      Description: cave entrance, west of elverum lighthouse
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 479c03db970e51e44a47ef5bd253ec22
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 166
+      Coordinates: {x: 4.455, y: -20.763}
+      Name: Skellige Isles
+      Description: elverum lighthouse
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 7d7d37607c8678b4790b127eade3d3ba
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 167
+      Coordinates: {x: -0.595, y: -13.298}
+      Name: Skellige Isles
+      Description: guarded treasure, west of fyresdal
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: d57ea93af0bddd740a9e9db24b4afff1
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 168
+      Coordinates: {x: 1.903, y: -11.559}
+      Name: Skellige Isles
+      Description: village of fyresdal signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 1423e0107526415459410fd077fb0aae
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 169
+      Coordinates: {x: 2.219, y: -12.331}
+      Name: Skellige Isles
+      Description: village of fyresdal harbor
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: d07dff0d89f86ff438f38bbf0ff50124
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 170
+      Coordinates: {x: 1.46, y: -9.864}
+      Name: Skellige Isles
+      Description: river stream, north of fyresdal village
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 382d97f82ebfc9348b16b0abf10d52ac
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 171
+      Coordinates: {x: -3.041, y: -9.564}
+      Name: Skellige Isles
+      Description: ruins, east of fornhala village
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 98fe6ea5b94182c4aa32ca596fc511e7
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 172
+      Coordinates: {x: -2.065, y: -7.657}
+      Name: Skellige Isles
+      Description: abandoned mine entrance, south of fayrlund
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 7771b9f5312cc7f4e987118eaf2ff3c6
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 173
+      Coordinates: {x: -0.539, y: -7.928}
+      Name: Skellige Isles
+      Description: Grymmdjarr Monument, south of boxholm ruins
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: d8a1ae7f4bb72d04580d4f637036387f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 174
+      Coordinates: {x: 4.949, y: -13.462}
+      Name: Skellige Isles
+      Description: ruined inn
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 88cc35b93aa33654e8ca87b285a12d78
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 175
+      Coordinates: {x: 9.251, y: -11.224}
+      Name: Skellige Isles
+      Description: distillery signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 0fa5ff41e8d7e3d48840a85d2ee31ea1
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 176
+      Coordinates: {x: 9.147, y: -10.809}
+      Name: Skellige Isles
+      Description: distillery
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 7d994284c01ee474fa44dd7b39fef24b
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 177
+      Coordinates: {x: 11.998, y: -12.234}
+      Name: Skellige Isles
+      Description: grotto signpost and cave entrance
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: d007c5acdcb06674489ac1c733ab00dd
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 178
+      Coordinates: {x: 10.478, y: -8.692}
+      Name: Skellige Isles
+      Description: Succubus Cave
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 49abbde61e7547d42ab2ea3e89138acd
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 179
+      Coordinates: {x: 12.301, y: -7.526}
+      Name: Skellige Isles
+      Description: '''taken as a lass'' quest start'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: adeb64907c8169c4cb4a1a701d744cfe
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 180
+      Coordinates: {x: 4.03, y: -8.12}
+      Name: Skellige Isles
+      Description: palisade signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 0203af3e31cd9774c921de911f2694e8
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 181
+      Coordinates: {x: 4.536, y: -5.908}
+      Name: Skellige Isles
+      Description: Heroic rides - Fayrlund, horse race
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 3189e8f8d44200e4c8ca29a5fcc439a8
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 182
+      Coordinates: {x: 4.039, y: -5.277}
+      Name: Skellige Isles
+      Description: herbalist in distress, south of blandare village
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 11f8cdd01c013ab4dae39f77735c1295
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 183
+      Coordinates: {x: 4.634, y: -3.723}
+      Name: Skellige Isles
+      Description: crossroads, south of blandare village
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c99e8b25db184d74d83287a8c67b784c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 184
+      Coordinates: {x: 4.67, y: -2.737}
+      Name: Skellige Isles
+      Description: village of blandare signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: d510b6ad619e21f40aa31ea91c762fc6
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 185
+      Coordinates: {x: 5.159, y: -2.604}
+      Name: Skellige Isles
+      Description: village of blandare
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c6146c107fbb19245974888af497774d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 186
+      Coordinates: {x: 5.87, y: -3.164}
+      Name: Skellige Isles
+      Description: gjarr's hut, village of blandare
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 23aae1ec72d5efa4a91ccd967cc03b01
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 187
+      Coordinates: {x: 3.534, y: -0.117}
+      Name: Skellige Isles
+      Description: crossroads, north of blandare village
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 42690113a7692694785964a35bf8cc87
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 188
+      Coordinates: {x: 9.54, y: -3.411}
+      Name: Skellige Isles
+      Description: druids' camp
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 589dbbfd65bdb5c42bba1e598f83aba1
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 189
+      Coordinates: {x: 7.75, y: -0.998}
+      Name: Skellige Isles
+      Description: abandoned sawmill
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: eef6087b1baacc84ba3bda7f4bc1f152
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 190
+      Coordinates: {x: 9.798, y: -0.143}
+      Name: Skellige Isles
+      Description: cerys' coronation at gedyneith
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: fd3c47a2d4c2d0c40a0787462c683831
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 191
+      Coordinates: {x: 10.065, y: 0.362}
+      Name: Skellige Isles
+      Description: gremist's cave, gedyneith
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ab54540bf35aa8c4a9bd9b77ebf511cc
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 192
+      Coordinates: {x: 11.84, y: -0.63}
+      Name: Skellige Isles
+      Description: guarded treasure, henge
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 57fab43999f692a49b9270788b2671bf
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 193
+      Coordinates: {x: 12.446, y: -2.868}
+      Name: Skellige Isles
+      Description: redgill signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 398b7f7a0173db14d9570b26f807f2d0
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 194
+      Coordinates: {x: 12.921, y: -2.375}
+      Name: Skellige Isles
+      Description: village of redgill
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: b5f235ee35d6fdf42bb1ab20fa4d1092
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 195
+      Coordinates: {x: 14.049, y: -0.071}
+      Name: Skellige Isles
+      Description: tower ruins by cliffside
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 1f6ed60a5b957da428969dac30c157f4
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 196
+      Coordinates: {x: 13.632, y: -0.056}
+      Name: Skellige Isles
+      Description: a place of power, east of gedyneith
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 2f2ffe69015ddd24ca99d81150a09742
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 197
+      Coordinates: {x: 12.005, y: 2.239}
+      Name: Skellige Isles
+      Description: whale graveyard signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: da280597401c468478e1a4195bee6252
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 198
+      Coordinates: {x: 13.152, y: 2.022}
+      Name: Skellige Isles
+      Description: bandit camp, whale graveyard
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 70adad11521e3934f9563c568c4030dd
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 199
+      Coordinates: {x: 9.62, y: -4.824}
+      Name: Velen
+      Description: site of cataclysm, south of druids' camp
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 2ae1b67018fb14441a904f0732af43ad
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 200
+      Coordinates: {x: 10.33, y: -8.251}
+      Name: Skellige Isles
+      Description: entrance to the succubus' cave
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: cfece4c0ba66930448fc3b67a154435f
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0

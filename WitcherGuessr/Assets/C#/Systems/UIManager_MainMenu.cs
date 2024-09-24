@@ -1,3 +1,4 @@
+using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using TMPro;
@@ -11,11 +12,14 @@ public class UIManager_MainMenu : MonoBehaviour
 {
     private MapManager MapManager;
     private LocationManager LocationManager;
-    private const string BackgroundVideoName = "MainMenuBackgroundVideo.mp4";
 
+    private const string BackgroundVideoName = "MainMenuBackgroundVideo.mp4";
     public VideoPlayer VideoPlayer;
+
     public GameObject PlaySelectionMenu;
     public GameObject AboutSection;
+    private List<GameObject> Menus;
+
     public GameObject MapSelectionParentObject;
     public TextMeshProUGUI ProjectVersionText;
     public TextMeshProUGUI AvailableLocationsText;
@@ -26,6 +30,7 @@ public class UIManager_MainMenu : MonoBehaviour
         MapManager = FindObjectOfType<MapManager>();
         LocationManager = FindObjectOfType<LocationManager>();
         ConfigureMainMenuDefaultDisplay();
+        InitializeMenus();
     }
 
     void Start()
@@ -33,22 +38,11 @@ public class UIManager_MainMenu : MonoBehaviour
         VideoPlayer.url = Path.Combine(Application.streamingAssetsPath, BackgroundVideoName);
     }
 
-    public void ApplicationQuit()
-    {
-        Application.Quit();
-    }
+    public void ApplicationQuit() => Application.Quit();
 
-    public void TogglePlaySelectionMenu()
-    {
-        ToggleCloseAllMenus();
-        PlaySelectionMenu.SetActive(!PlaySelectionMenu.activeInHierarchy);
-    }
+    public void TogglePlaySelectionMenu() => SetActiveMenu(PlaySelectionMenu);
 
-    public void ToggleAboutSection()
-    {
-        ToggleCloseAllMenus();
-        AboutSection.SetActive(!PlaySelectionMenu.activeInHierarchy);
-    }
+    public void ToggleAboutSection() => SetActiveMenu(AboutSection);
 
     public void SpawnMapSelectionButtons()
     {
@@ -74,10 +68,12 @@ public class UIManager_MainMenu : MonoBehaviour
         SceneManager.LoadScene((int)SceneIndex.Game);
     }
 
-    private void ToggleCloseAllMenus()
+    private void SetActiveMenu(GameObject menu)
     {
-        PlaySelectionMenu.SetActive(false);
-        AboutSection.SetActive(false);
+        foreach (var item in Menus.Where(x => x != menu))
+            item.SetActive(false);
+        
+        menu.SetActive(!menu.activeInHierarchy);
     }
 
     private void DestroyAllMapSelections()
@@ -98,10 +94,19 @@ public class UIManager_MainMenu : MonoBehaviour
         ProjectVersionText.text = $"v{Application.version}";
     }
 
+    private void InitializeMenus()
+    {
+        Menus = new List<GameObject> 
+        { 
+            PlaySelectionMenu, 
+            AboutSection 
+        };
+    }
+
     private MapSelectionEntity GetMapSelectionEntity(GameObject mapSelectionButton, MapSelection mapSelection)
     {
         var availableLocations = GetAvailableLocationsCount(mapSelection.MapType);
-        
+
         var mapSelectionEntity = mapSelectionButton.AddComponent<MapSelectionEntity>();
         mapSelectionEntity.Index = (int)mapSelection.MapType;
         mapSelectionEntity.AvailableLocations = availableLocations;
