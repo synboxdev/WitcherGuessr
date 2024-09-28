@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 5834b5087d578d24c926ce20cd31e6d6, type: 3}
-  m_Name: Velen Novigrad_ContentUpdateGroupSchema
+  m_Name: Gaunters World_ContentUpdateGroupSchema
   m_EditorClassIdentifier: 
-  m_Group: {fileID: 11400000, guid: ee5d907b61c575e40beb8739e6ecbcc9, type: 2}
+  m_Group: {fileID: 11400000, guid: d71e2c60b2bf76645b6b6c8e9bf69d07, type: 2}
   m_StaticContent: 0

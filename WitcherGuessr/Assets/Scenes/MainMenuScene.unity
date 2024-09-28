@@ -4861,6 +4861,17 @@ MonoBehaviour:
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
+    - Index: 258
+      Coordinates: {x: 25.15, y: -24.84}
+      Name: Velen
+      Description: Whatsoever a Man Soweth...
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: f5c3fc717c770bb4b83379577131c627
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
   - MapType: 3
     DefaultLocationName: Skellige Isles
     LocationsForViewing:
@@ -7055,7 +7066,7 @@ MonoBehaviour:
       AddressablePanoramicImageTextureLoaded: 0
     - Index: 199
       Coordinates: {x: 9.62, y: -4.824}
-      Name: Velen
+      Name: Skellige Isles
       Description: site of cataclysm, south of druids' camp
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
@@ -7071,6 +7082,287 @@ MonoBehaviour:
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
         m_AssetGUID: cfece4c0ba66930448fc3b67a154435f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+  - MapType: 5
+    DefaultLocationName: Isle of Mists
+    LocationsForViewing:
+    - Index: 0
+      Coordinates: {x: 0.258, y: 0.8917}
+      Name: Isle of Mists
+      Description: harbor crash site
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 0757657815f21ba4fa3114015ec3f84e
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 1
+      Coordinates: {x: 0.245, y: -1.198}
+      Name: Isle of Mists
+      Description: south side of the isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: f747e848dfcdc8e41b4de2de8ccb953a
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 2
+      Coordinates: {x: -2.761, y: -0.4683}
+      Name: Isle of Mists
+      Description: west side of the isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e945b4cee78bf5043aad762b2f3a9e91
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 3
+      Coordinates: {x: -1.011, y: 3.688}
+      Name: Isle of Mists
+      Description: abandoned lighthouse, north of the isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 33319d70e8821264584e8e0c625ea4e2
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 4
+      Coordinates: {x: 1.41, y: 2.749}
+      Name: Isle of Mists
+      Description: path between the hut and the lighthouse
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 8ebbd013601c6924d9ed107188303a86
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 5
+      Coordinates: {x: 2.62, y: 0.5988}
+      Name: Isle of Mists
+      Description: the hut, center of the isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: f8205da5bec429a43839bc8e6ab04748
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 6
+      Coordinates: {x: 2.307, y: 2.79}
+      Name: Isle of Mists
+      Description: ivo, north of the isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 4f09bd9079e45494e811ec55aaeef584
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 7
+      Coordinates: {x: -1.063, y: -1.248}
+      Name: Isle of Mists
+      Description: ferenc and the fiend, south-west of the isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 042dd247af1b0e941a402c8344c37bd3
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 8
+      Coordinates: {x: -0.844, y: 3.949}
+      Name: Isle of Mists
+      Description: gaspard in the lighthouse, north of the isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: bf28c904057938946ad08adc7f698e63
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 9
+      Coordinates: {x: 4.478, y: 2.582}
+      Name: Isle of Mists
+      Description: east of the isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 6c25c0ec7de44d54da96962f89e13e5c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+  - MapType: 6
+    DefaultLocationName: Gaunter's World
+    LocationsForViewing:
+    - Index: 0
+      Coordinates: {x: -4.258, y: -10.69}
+      Name: Gaunter's World
+      Description: realm of rumination
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 6abae648479143a46ab2a66060db9807
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 1
+      Coordinates: {x: -3.674, y: -6.092}
+      Name: Gaunter's World
+      Description: realm of rumination
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 5bcfc159ba9ee67448e33e0103fc3b75
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 2
+      Coordinates: {x: -2.56, y: -3.758}
+      Name: Gaunter's World
+      Description: the well
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 03ed3d6062d33c7499534cf1d266cbac
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 3
+      Coordinates: {x: 0.849, y: -1.775}
+      Name: Gaunter's World
+      Description: fortress ruins
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 00856659ecc80b74694d04c121ec5111
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 4
+      Coordinates: {x: -0.576, y: 0.168}
+      Name: Gaunter's World
+      Description: bridge
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 7941e8d16f4068a4e80a9588dcf84162
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 5
+      Coordinates: {x: -3.908, y: 1.594}
+      Name: Gaunter's World
+      Description: hym
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 28ec1c12fb03cee4a8e4ff490c35b0db
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 6
+      Coordinates: {x: -5.606, y: 2.19}
+      Name: Gaunter's World
+      Description: the viper sword
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 7cebd499ba209494b884b2dd4925bd06
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 7
+      Coordinates: {x: 1.808, y: 1.27}
+      Name: Gaunter's World
+      Description: fake shani
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 513aa62c9e9a06343893afcf690caf38
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 8
+      Coordinates: {x: 3.285, y: 4.251}
+      Name: Gaunter's World
+      Description: cave entrance
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: f4b1aa7942243d74ba2e9fe316d40bcd
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 9
+      Coordinates: {x: 6.033, y: 3.253}
+      Name: Gaunter's World
+      Description: cave, full of treasure
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 493e4fd367b620542aed799d93805a82
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 10
+      Coordinates: {x: -1.211, y: 5.521}
+      Name: Gaunter's World
+      Description: the swing
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ba9d0883b57c30f4295115a3c4bb1405
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 11
+      Coordinates: {x: 0.797, y: 7.116}
+      Name: Gaunter's World
+      Description: entrance to the cementery
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 7894c060798391e49bc4694402300a8d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 12
+      Coordinates: {x: 1.665, y: 9.604}
+      Name: Gaunter's World
+      Description: the tombstone
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: b19c6077b6c13bf4ba2b90a1fec8f5e4
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 13
+      Coordinates: {x: 4.063, y: 9.475}
+      Name: Gaunter's World
+      Description: entrance to the mansion
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 1da158a4c806e294e9c82853fb8e0c33
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 14
+      Coordinates: {x: 5.035, y: 9.6955}
+      Name: Gaunter's World
+      Description: inside of the mansion
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: bc0f9d9acc161984fb4e67ed8f5c9c0e
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0

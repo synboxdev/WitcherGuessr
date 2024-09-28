@@ -1,0 +1,115 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Gaunters World
+  m_EditorClassIdentifier: 
+  m_GroupName: Gaunters World
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 98fc09c5321d4ed42b8c789a071c8ad9
+  m_SerializeEntries:
+  - m_GUID: 6abae648479143a46ab2a66060db9807
+    m_Address: Assets/UI/Locations/Gaunter's World/G0.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - gauntersworld
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5bcfc159ba9ee67448e33e0103fc3b75
+    m_Address: Assets/UI/Locations/Gaunter's World/G1.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - gauntersworld
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 03ed3d6062d33c7499534cf1d266cbac
+    m_Address: Assets/UI/Locations/Gaunter's World/G2.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - gauntersworld
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 00856659ecc80b74694d04c121ec5111
+    m_Address: Assets/UI/Locations/Gaunter's World/G3.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - gauntersworld
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7941e8d16f4068a4e80a9588dcf84162
+    m_Address: Assets/UI/Locations/Gaunter's World/G4.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - gauntersworld
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 28ec1c12fb03cee4a8e4ff490c35b0db
+    m_Address: Assets/UI/Locations/Gaunter's World/G5.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - gauntersworld
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7cebd499ba209494b884b2dd4925bd06
+    m_Address: Assets/UI/Locations/Gaunter's World/G6.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - gauntersworld
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 513aa62c9e9a06343893afcf690caf38
+    m_Address: Assets/UI/Locations/Gaunter's World/G7.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - gauntersworld
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4b1aa7942243d74ba2e9fe316d40bcd
+    m_Address: Assets/UI/Locations/Gaunter's World/G8.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - gauntersworld
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 493e4fd367b620542aed799d93805a82
+    m_Address: Assets/UI/Locations/Gaunter's World/G9.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - gauntersworld
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ba9d0883b57c30f4295115a3c4bb1405
+    m_Address: Assets/UI/Locations/Gaunter's World/G10.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - gauntersworld
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7894c060798391e49bc4694402300a8d
+    m_Address: Assets/UI/Locations/Gaunter's World/G11.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - gauntersworld
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b19c6077b6c13bf4ba2b90a1fec8f5e4
+    m_Address: Assets/UI/Locations/Gaunter's World/G12.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - gauntersworld
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1da158a4c806e294e9c82853fb8e0c33
+    m_Address: Assets/UI/Locations/Gaunter's World/G13.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - gauntersworld
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bc0f9d9acc161984fb4e67ed8f5c9c0e
+    m_Address: Assets/UI/Locations/Gaunter's World/G14.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - gauntersworld
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 154bc2ac59ecb0a42bfcbacc4f781828, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 8f6f3a5b41712104a837b194b4eb2b76, type: 2}
+    - {fileID: 11400000, guid: 2cb65eedebd8f15469f59b024786ecb4, type: 2}

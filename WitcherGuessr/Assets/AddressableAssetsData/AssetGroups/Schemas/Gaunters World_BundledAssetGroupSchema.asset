@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: e5d17a21594effb4e9591490b009e7aa, type: 3}
-  m_Name: Velen Novigrad_BundledAssetGroupSchema
+  m_Name: Gaunters World_BundledAssetGroupSchema
   m_EditorClassIdentifier: 
-  m_Group: {fileID: 11400000, guid: ee5d907b61c575e40beb8739e6ecbcc9, type: 2}
+  m_Group: {fileID: 11400000, guid: d71e2c60b2bf76645b6b6c8e9bf69d07, type: 2}
   m_InternalBundleIdMode: 1
   m_Compression: 1
   m_IncludeAddressInCatalog: 1
