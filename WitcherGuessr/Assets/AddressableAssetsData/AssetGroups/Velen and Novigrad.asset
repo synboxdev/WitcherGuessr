@@ -10,9 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
-  m_Name: Velen Novigrad
+  m_Name: Velen and Novigrad
   m_EditorClassIdentifier: 
-  m_GroupName: Velen Novigrad
+  m_GroupName: Velen and Novigrad
   m_Data:
     m_SerializedData: []
   m_GUID: f5f3c1ad8f3a06c46911cce78f2a0044
@@ -1561,6 +1561,12 @@ MonoBehaviour:
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 7653b3444beddfb429284afe04224d0f
     m_Address: Assets/UI/Locations/VelenNovigrad/V257.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - velennovigrad
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f5c3fc717c770bb4b83379577131c627
+    m_Address: Assets/UI/Locations/VelenNovigrad/V258.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - velennovigrad

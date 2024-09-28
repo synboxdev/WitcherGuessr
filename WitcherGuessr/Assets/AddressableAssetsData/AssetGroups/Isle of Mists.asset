@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Isle of Mists
+  m_EditorClassIdentifier: 
+  m_GroupName: Isle of Mists
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 0fb2df0c64e70bd45b24a2f1659ad156
+  m_SerializeEntries:
+  - m_GUID: 0757657815f21ba4fa3114015ec3f84e
+    m_Address: Assets/UI/Locations/Isle of Mists/I0.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - isleofmists
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f747e848dfcdc8e41b4de2de8ccb953a
+    m_Address: Assets/UI/Locations/Isle of Mists/I1.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - isleofmists
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e945b4cee78bf5043aad762b2f3a9e91
+    m_Address: Assets/UI/Locations/Isle of Mists/I2.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - isleofmists
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 33319d70e8821264584e8e0c625ea4e2
+    m_Address: Assets/UI/Locations/Isle of Mists/I3.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - isleofmists
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ebbd013601c6924d9ed107188303a86
+    m_Address: Assets/UI/Locations/Isle of Mists/I4.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - isleofmists
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f8205da5bec429a43839bc8e6ab04748
+    m_Address: Assets/UI/Locations/Isle of Mists/I5.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - isleofmists
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4f09bd9079e45494e811ec55aaeef584
+    m_Address: Assets/UI/Locations/Isle of Mists/I6.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - isleofmists
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 042dd247af1b0e941a402c8344c37bd3
+    m_Address: Assets/UI/Locations/Isle of Mists/I7.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - isleofmists
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf28c904057938946ad08adc7f698e63
+    m_Address: Assets/UI/Locations/Isle of Mists/I8.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - isleofmists
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c25c0ec7de44d54da96962f89e13e5c
+    m_Address: Assets/UI/Locations/Isle of Mists/I9.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - isleofmists
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 154bc2ac59ecb0a42bfcbacc4f781828, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 63244f29586715941880f5cfe8f9893b, type: 2}
+    - {fileID: 11400000, guid: 0c7a49b74e4acb74189d4b0ae10366c3, type: 2}

@@ -67,7 +67,10 @@ public class MenuItems : MonoBehaviour
     [ExecuteInEditMode]
     private static void InitializeLocationIndexes()
     {
+        Debug.Log("Starting location value default value initialization");
+        
         var LocationManager = FindObjectOfType<LocationManager>();
+        EditorUtility.SetDirty(LocationManager);
 
         foreach (var area in LocationManager.LocationSelections)
             for (int i = 0; i < area.LocationsForViewing.Count; i++)
@@ -86,9 +89,10 @@ public class MenuItems : MonoBehaviour
         foreach (var locations in LocationManager.LocationSelections.Where(x => x.LocationsForViewing.Any()))
         {
             var locationAddressableLabel = $"{Enum.GetName(typeof(MapType), locations.MapType).ToLower()}";
-            Addressables.LoadAssetsAsync<Texture>(locationAddressableLabel, null).Completed += handle =>
-                OnTexturesLoaded(handle, locations.MapType);
+            Addressables.LoadAssetsAsync<Texture>(locationAddressableLabel, null).Completed += handle => OnTexturesLoaded(handle, locations.MapType);
         }
+
+        Debug.Log("Location value default value initialization has finished");
     }
 
     private static void OnTexturesLoaded(AsyncOperationHandle<IList<Texture>> handle, MapType map)
