@@ -1,11 +1,18 @@
 using System.Collections.Generic;
 using System.Linq;
+using System.Threading.Tasks;
 using UnityEngine;
+using UnityEngine.ResourceManagement.AsyncOperations;
 
 public class MapManager : MonoBehaviour
 {
     private const string _mapParent = "MapParent";
     private GameObject MapParent;
+
+    private AsyncOperationHandle<Sprite> handle;
+    private string addressableDownloadStatusText;
+    private bool addressableCompleted = false;
+    private MapType initializingMapType;
 
     public List<MapSelection> MapSelections;
 
@@ -21,15 +28,18 @@ public class MapManager : MonoBehaviour
             InitializeMapParent();
     }
 
-    private void InitializeMapParent()
+    private void Update()
     {
-        MapParent = new GameObject()
+        if (handle.IsValid() && !handle.IsDone)
         {
-            name = _mapParent,
-            tag = _mapParent
-        };
-        DontDestroyOnLoad(MapParent);
+            var status = handle.GetDownloadStatus().Percent;
+            addressableDownloadStatusText = $"Downloading map - {status * 100:0.00}%";
+        }
     }
+
+    public string GetMapDownloadPercentage() => addressableDownloadStatusText;
+
+    public bool GetMapDownloadStatus() => addressableCompleted;
 
     public GameObject GetUIMapSelectionPrefab(MapType map)
     {
@@ -65,13 +75,13 @@ public class MapManager : MonoBehaviour
         MapSelections.FirstOrDefault(x => x.Index == mapSelection.Index).IsMarkedByUser = true;
     }
 
-#nullable enable
-    public GameObject? GetLoadedMapGameObject(MapType mapType)
+    public async Task<GameObject> GetInitializedMapAsync(MapSelection mapSelection)
     {
-        return MapSelections.Any(x => x.MapType == mapType && x.AddressableMapLoaded) ?
-               MapSelections.FirstOrDefault(x => x.MapType == mapType && x.AddressableMapLoaded).MapGameObject : null;
+        if (!MapSelections.Any(x => x.MapType == mapSelection.MapType && x.AddressableMapLoaded))
+            await InitializeMap(mapSelection);
+
+        return GetMapGameObject(mapSelection);
     }
-#nullable disable
 
     public GameObject RegisterLoadedMapGameObject(MapType mapType, Sprite loadedMapSprite)
     {
@@ -82,5 +92,37 @@ public class MapManager : MonoBehaviour
         mapSelection.MapGameObject.GetComponent<SpriteRenderer>().sprite = loadedMapSprite;
 
         return mapSelection.MapGameObject;
+    }
+
+    private GameObject GetMapGameObject(MapSelection mapSelection) =>
+        MapSelections.FirstOrDefault(x => x.MapType == mapSelection.MapType && x.AddressableMapLoaded).MapGameObject;
+
+    private async Task InitializeMap(MapSelection mapToInitialize)
+    {
+        addressableCompleted = false;
+        handle = mapToInitialize.AddressableMapSprite.LoadAssetAsync();
+        handle.Completed += OnAddressableMapLoaded;
+        initializingMapType = mapToInitialize.MapType;
+        await handle.Task;
+    }
+
+    private void OnAddressableMapLoaded(AsyncOperationHandle<Sprite> handle)
+    {
+        addressableCompleted = true;
+
+        if (handle.Status == AsyncOperationStatus.Succeeded)
+            RegisterLoadedMapGameObject(initializingMapType, handle.Result);
+        else
+            Debug.Log("Error has occurred when loading Addressable map from remote directory!");
+    }
+
+    private void InitializeMapParent()
+    {
+        MapParent = new GameObject()
+        {
+            name = _mapParent,
+            tag = _mapParent
+        };
+        DontDestroyOnLoad(MapParent);
     }
 }

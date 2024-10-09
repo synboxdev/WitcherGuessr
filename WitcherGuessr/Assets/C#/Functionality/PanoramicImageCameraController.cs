@@ -26,5 +26,11 @@ public class PanoramicImageCameraController : MonoBehaviour
         Camera.main.transform.localPosition = new Vector3(0, 0, zoomAmount);
     }
 
-    public void DisplayImage(Texture sprite) => meshRenderer.material.mainTexture = sprite;
+    public void DisplayImage(Texture sprite)
+    {
+        meshRenderer.material.mainTexture = sprite;
+        ResetZoom();
+    } 
+
+    private void ResetZoom() => zoomAmount = 0;
 }

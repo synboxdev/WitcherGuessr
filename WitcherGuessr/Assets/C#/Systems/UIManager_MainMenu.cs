@@ -13,7 +13,7 @@ public class UIManager_MainMenu : MonoBehaviour
     private MapManager MapManager;
     private LocationManager LocationManager;
 
-    private const string BackgroundVideoName = "MainMenuBackgroundVideo.mp4";
+    private const string BackgroundVideoName = "MainMenuBackgroundVideo.webm";
     public VideoPlayer VideoPlayer;
 
     public GameObject PlaySelectionMenu;
