@@ -4872,6 +4872,3108 @@ MonoBehaviour:
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
+    - Index: 259
+      Coordinates: {x: 13.96, y: 5.48}
+      Name: Oxenfurt
+      Description: radovid's ship in oxenfurt's harbor
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 8a5c986bbceee46408567ecea60d108f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 260
+      Coordinates: {x: 15.24, y: 6.74}
+      Name: Oxenfurt
+      Description: oxenfurt's harbor
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 5dc2e01d1768230489a3175e66d83b9d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 261
+      Coordinates: {x: 15.25, y: 6.76}
+      Name: Oxenfurt
+      Description: tamara's home in oxenfurt
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 1762f02a40d5e6d40a215d307c9fbcaa
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 262
+      Coordinates: {x: 16.06, y: 6.984}
+      Name: Oxenfurt
+      Description: northen gate, oxenfurt
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 4e99a04c527016745a58fac1fa6052fa
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 263
+      Coordinates: {x: 15.451, y: 8.076}
+      Name: Oxenfurt
+      Description: slaughterhouse, north of oxenfurt
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: cf672a60088de90419ca9d8a9db06c98
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 264
+      Coordinates: {x: 15.827, y: 8.416}
+      Name: Oxenfurt
+      Description: houses, north of oxenfurt
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 3a709d3971432254391f23eeb6c40b75
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 265
+      Coordinates: {x: 14.627, y: 5.3004}
+      Name: Oxenfurt
+      Description: oxenfurt harbor signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ae71731d3e2c6f341b5a7df36d538c4a
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 266
+      Coordinates: {x: 13.4723, y: 3.258}
+      Name: Oxenfurt
+      Description: ship at oxenfurt harbor
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: a570fbe8a31cf6c488bc78a8469990f9
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 267
+      Coordinates: {x: 14.672, y: 2.434}
+      Name: Oxenfurt
+      Description: Oxenfurt Morgue
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 00ae4062f456aa140b2c4443983583d3
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 268
+      Coordinates: {x: 15.55891, y: 2.372}
+      Name: Oxenfurt
+      Description: well, south of oxenfurt
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 4a7ddb9187c48a047939e1fab9d9aba5
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 269
+      Coordinates: {x: 15.236, y: 1.754}
+      Name: Oxenfurt
+      Description: merchant's home, south of oxenfurt
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e8abada359cc26844b1ae335d3e70573
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 270
+      Coordinates: {x: 15.146, y: 2.945}
+      Name: Oxenfurt
+      Description: storage house, south of oxenfurt
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ad353713ad72cea4fbe29903bb8f70f1
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 271
+      Coordinates: {x: 14.851, y: 3.276}
+      Name: Oxenfurt
+      Description: shani's clinic
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 0e8855713c1620647a91e22deb3a1472
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 272
+      Coordinates: {x: 15.003, y: 3.392}
+      Name: Oxenfurt
+      Description: shani's apartment, oxenfurt
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 7063d9c5ef301ac4bbc5b859c72be0ee
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 273
+      Coordinates: {x: 12.72011, y: 0.2228}
+      Name: Oxenfurt
+      Description: bridge to oxenfurt
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 8ce82704bce75384d81b9007ce0c9911
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 274
+      Coordinates: {x: 15.648, y: 1.5123}
+      Name: Oxenfurt
+      Description: western gate signpost, oxenfurt
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: a8cbd67cdb929a0489401727ab48b785
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 275
+      Coordinates: {x: 16.409, y: 1.1989}
+      Name: Oxenfurt
+      Description: buildings by western gate signpost, oxenfurt
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: d9b8ca4055186924e9d3852752d14ad0
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 276
+      Coordinates: {x: 17.26, y: 0.778}
+      Name: Oxenfurt
+      Description: bridge to oxenfurt's academy grounds
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 46dfd140ff7d24d4ea96c1abf4f2a284
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 277
+      Coordinates: {x: 17.20667, y: 1.897}
+      Name: Oxenfurt
+      Description: entrance to Deireadh prison, oxenfurt
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: fc068aad40548e04b960da90b9d0a03b
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 278
+      Coordinates: {x: 18.039, y: 2.613}
+      Name: Oxenfurt
+      Description: blacksmith's workshop, south of oxenfurt
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 22eff69887df95349a41e6a5e70bea8b
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 279
+      Coordinates: {x: 18.075, y: 2.3541}
+      Name: Oxenfurt
+      Description: blacksmith's home, south of oxenfurt
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: d826a7e0eb53c0e43bcd3b08a672c4cf
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 280
+      Coordinates: {x: 16.051, y: 2.4437}
+      Name: Oxenfurt
+      Description: entrance to whoreson's mansion
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 6820dbf50c2f2e14385e1889829186e2
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 281
+      Coordinates: {x: 15.908, y: 3.1869}
+      Name: Oxenfurt
+      Description: insignificant house, oxenfurt
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 488c5e5e89b34b64da89ad21e3a9c72b
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 282
+      Coordinates: {x: 15.7469, y: 3.428}
+      Name: Oxenfurt
+      Description: barbershop, oxenfurt
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 49a7c088151e5a0419cc356ad732b826
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 283
+      Coordinates: {x: 15.2007, y: 3.6168}
+      Name: Oxenfurt
+      Description: oxenfurt main street
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e370ed9b12a87314387bbe4e0302ff25
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 284
+      Coordinates: {x: 15.27234, y: 4.575}
+      Name: Oxenfurt
+      Description: oxenfurt main street
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 74c1a30550171be4fae8eeb95ea5d3a6
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 285
+      Coordinates: {x: 15.54995, y: 4.9063}
+      Name: Oxenfurt
+      Description: entrance to 'the alchemy' inn
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: a683aebef3849b04194e06839261342e
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 286
+      Coordinates: {x: 15.89921, y: 5.873554}
+      Name: Oxenfurt
+      Description: oxenfurt market
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 7236f869450b725449616be220bc25b7
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 287
+      Coordinates: {x: 16.32906, y: 4.843}
+      Name: Oxenfurt
+      Description: center of oxenfurt
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ff7be236c630407409ca7f703fde7e16
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 288
+      Coordinates: {x: 16.373, y: 5.372}
+      Name: Oxenfurt
+      Description: oxenfurt's blacksmith
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: a8b62504efd994c46b25d225060f8c70
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 289
+      Coordinates: {x: 16.8663, y: 5.9989}
+      Name: Oxenfurt
+      Description: oxenfurt market
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 07387c5fe81089a4999c703354a86e02
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 290
+      Coordinates: {x: 16.257, y: 6.2675}
+      Name: Oxenfurt
+      Description: vivaldi bank, north of oxenfurt
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: b44930bdedf10b8419991e2e2d4ea44d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 291
+      Coordinates: {x: 15.7021, y: 3.778}
+      Name: Oxenfurt
+      Description: back alley, oxenfurt
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 15c099626a9edec4e9a055f09e6364a8
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 292
+      Coordinates: {x: 18.146, y: 4.0556}
+      Name: Oxenfurt
+      Description: fishermen's hut, east of oxenfurt
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 0a3360c0e80e4f748920fcfcbe1ea1ac
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 293
+      Coordinates: {x: 18.335, y: 4.5571}
+      Name: Oxenfurt
+      Description: fishermen's dock, east of oxenfurt
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 8f257c59fcb4f384ea092a5b83f30404
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 294
+      Coordinates: {x: 19.06, y: 5.228}
+      Name: Oxenfurt
+      Description: novigrad gate signpost, oxenfurt
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 2d9ba78add9c5e84180cc810eb64c9ea
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 295
+      Coordinates: {x: 19.284, y: 6.392}
+      Name: Oxenfurt
+      Description: fisherman's hut, east of oxenfurt
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 2d4c2d199c8d1344e8198cbc3fda08a0
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 296
+      Coordinates: {x: 19.875, y: 4.485}
+      Name: Oxenfurt
+      Description: entrance to oxenfurt chess club
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e222605a2900e564eae043b0b5991eba
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 297
+      Coordinates: {x: 20.215, y: 4.619}
+      Name: Oxenfurt
+      Description: oxenfurt chess club
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ca7cd53864548af4e9146109739ff67f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 298
+      Coordinates: {x: 20.126, y: 2.8198}
+      Name: Oxenfurt
+      Description: peasants' workshops, east of oxenfurt
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: cb6781077d8fddf4d9fccf8c16047b98
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 299
+      Coordinates: {x: 20.38578, y: 0.9929}
+      Name: Oxenfurt
+      Description: fields, east of oxenfurt
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 29e3d02454ca245459d0d8e5fc0d97ee
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 300
+      Coordinates: {x: 16.517, y: 6.7511}
+      Name: Oxenfurt
+      Description: backdoor to borsodi auction house
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 1f3b8fc3b35769346b2e97e012003689
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 301
+      Coordinates: {x: 15.85443, y: 4.6108}
+      Name: Oxenfurt
+      Description: '''the alchemy'' inn'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: a513c70d711d4bc40b2f26665f0d1684
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 302
+      Coordinates: {x: 15.6663, y: 4.6646}
+      Name: Oxenfurt
+      Description: '''the alchemy'' inn kitchen'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: a839cd31efe41d0479c7d9dbedf5b4a3
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 303
+      Coordinates: {x: 17.663, y: 1.3243}
+      Name: Oxenfurt
+      Description: sewer entrance to deireadh prison, oxenfurt
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: af35b791c7d2ae64cbc38096c3cc1306
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 304
+      Coordinates: {x: 17.466, y: 1.39698}
+      Name: Oxenfurt
+      Description: Deireadh prison cells
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 12d72ac450a78b64baca7e69005c92e6
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 305
+      Coordinates: {x: 17.976, y: 1.8437}
+      Name: Oxenfurt
+      Description: Deireadh prison, witch hunter quarters
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 96e7c6a65cf8659449132d494cab9fe3
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 306
+      Coordinates: {x: 17.752, y: 1.5302}
+      Name: Oxenfurt
+      Description: Deireadh prison yard
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 5ae629b2548f33741a12a7bc6d6106eb
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 307
+      Coordinates: {x: 17.941, y: 2.02281}
+      Name: Oxenfurt
+      Description: deireadh prison warden's office
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c5fbaad4d0b179047ad8fbbcf04b74fa
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 308
+      Coordinates: {x: 17.242, y: 1.3243}
+      Name: Oxenfurt
+      Description: the great espace, deireadh prison
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e324cc6a64fc743449356ff57fd9ada0
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 309
+      Coordinates: {x: 20.25144, y: 5.775}
+      Name: Oxenfurt
+      Description: eastern oxenfurt's bridge
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 16b6ce497c7b98048a91dff66b6c8a05
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 310
+      Coordinates: {x: 16.29324, y: 2.5601}
+      Name: Oxenfurt
+      Description: whorseson junior's mansion courtyard
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 806de7f2ea29f434780bb0878d67812e
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 311
+      Coordinates: {x: 16.535, y: 3.285}
+      Name: Oxenfurt
+      Description: whorseson junior's mansion courtyard
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 8b112fe418570c54fa965c826303b37d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 312
+      Coordinates: {x: 16.964, y: 2.9541}
+      Name: Oxenfurt
+      Description: whorseson junior's mansion entrance
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c7d42e02ae8c9ab46bb64030a5bf5c3b
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 313
+      Coordinates: {x: 17.19771, y: 2.9004}
+      Name: Oxenfurt
+      Description: whorseson junior's mansion
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: f86c3406858b9434abec934c9c9af66c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 314
+      Coordinates: {x: 18.084, y: -0.717}
+      Name: Oxenfurt
+      Description: oxenfurt academy front entrance
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 344e85fe31589314e90797f9d3496032
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 315
+      Coordinates: {x: 17.152, y: -2.5533}
+      Name: Oxenfurt
+      Description: oxenfurt academy
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: d9474bd0d46e65c4d8a209437c06c01a
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 316
+      Coordinates: {x: 18.03055, y: -2.508}
+      Name: Oxenfurt
+      Description: oxenfurt academy
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 04e7b4c44e4f08e4184217592f526905
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 317
+      Coordinates: {x: 17.69025, y: -2.204055}
+      Name: Oxenfurt
+      Description: Premethine Shakeslock's home
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: d3dc59d6421af844cbc8351291a59c8f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 318
+      Coordinates: {x: 17.69025, y: -2.12345}
+      Name: Oxenfurt
+      Description: Premethine Shakeslock's home
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e04ff6d467f7eda4598947df4be1d858
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 319
+      Coordinates: {x: 16.6604, y: 6.401915}
+      Name: Oxenfurt
+      Description: balcony of borsodi auction house
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 60dfddbf3040aaf41b235b5f9357ca6f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 320
+      Coordinates: {x: 16.43652, y: 6.4914}
+      Name: Oxenfurt
+      Description: borsodi auction house, second floor
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 8b0732a11f2b28346b57c61c4fdc3920
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 321
+      Coordinates: {x: 16.36487, y: 6.5362}
+      Name: Oxenfurt
+      Description: borsodi auction house, first floor
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c4ea9c045d84df147a72dd1167759653
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 322
+      Coordinates: {x: 16.4007, y: 6.518333}
+      Name: Oxenfurt
+      Description: borsodi auction house, attic
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 8851ad8d214ecdf4aa5de4141fc68dfa
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 323
+      Coordinates: {x: 16.01562, y: 6.5102}
+      Name: Oxenfurt
+      Description: borsodi auction house, basement storage
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 26261c50a3b05c34fb08ebadd9707626
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 324
+      Coordinates: {x: 17.1798, y: 5.9093}
+      Name: Oxenfurt
+      Description: borsodi auction house, vault entrance
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 0711baea48754c04784b8a3763d40853
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 325
+      Coordinates: {x: 17.67234, y: 5.7034}
+      Name: Oxenfurt
+      Description: borsodi auction house, vault
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 4cbe32eeea13a3e419ee12cc1d71866f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 326
+      Coordinates: {x: -17.151, y: 19.63317}
+      Name: Novigrad
+      Description: the circus troupe
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 38a4d5ef9469b384c84083b8fa776e54
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 327
+      Coordinates: {x: -15.67236, y: 20.50047}
+      Name: Novigrad
+      Description: portside gate signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 230a021980bde5540998e3e7fb7ce0c9
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 328
+      Coordinates: {x: -16.9662, y: 20.20189}
+      Name: Novigrad
+      Description: julia kenyon's home, by portside gate
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 640c0e35dea021e4d83e0086c2a4a590
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 329
+      Coordinates: {x: -15.50174, y: 20.03128}
+      Name: Novigrad
+      Description: blacksmith's workshop, by portside gate
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 1280c0937788b6c478416b28feab2e93
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 330
+      Coordinates: {x: -14.719, y: 19.9744}
+      Name: Novigrad
+      Description: '''witch hunter raids'' quest start'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e55725541bb67034894e3a37e8fae002
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 331
+      Coordinates: {x: -13.297, y: 19.63317}
+      Name: Novigrad
+      Description: market square, south of Farcorners district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 8521327945de5de4c8a1ce5e5c3decb1
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 332
+      Coordinates: {x: -14.0515, y: 18.45307}
+      Name: Novigrad
+      Description: honeycombs, south of farcorners district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: a99ddb5196569514b83912d4378f7ac1
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 333
+      Coordinates: {x: -12.88562, y: 20.88435}
+      Name: Novigrad
+      Description: glory gate signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: f576ac3a383c0794eb0f6527edc82f85
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 334
+      Coordinates: {x: -11.77662, y: 19.74691}
+      Name: Novigrad
+      Description: halflings' homes, farcorners district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 3d35ff85382a2454ca007f6396f21ade
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 335
+      Coordinates: {x: -10.83823, y: 20.1734}
+      Name: Novigrad
+      Description: dijkstra spy's meeting spot, farcorners district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: a325a74bd5e58f5459ed3328b63d2dc2
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 336
+      Coordinates: {x: -10.497, y: 21.75166}
+      Name: Novigrad
+      Description: vespula's laundry, farcorners district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: a6ead540ace5efe45a04221e14735ca2
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 337
+      Coordinates: {x: -10.46856, y: 23.34407}
+      Name: Novigrad
+      Description: gate of the hierarch signpost, farcorners district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 1b30422e06d020144ab59eef63ec3d6e
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 338
+      Coordinates: {x: -9.800316, y: 23.68531}
+      Name: Novigrad
+      Description: peasants' homes, farcorners district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 734ebf3d0a403ac4ebfb174fd1c818f8
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 339
+      Coordinates: {x: -8.008846, y: 24.16872}
+      Name: Novigrad
+      Description: elihal's shop, farcorners district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 034a75e19ab7e4f4a85206436cac0e63
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 340
+      Coordinates: {x: -7.056239, y: 23.85592}
+      Name: Novigrad
+      Description: boat building workshop, farcorners district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 4e4368d6baa6959438a2f58eabca096d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 341
+      Coordinates: {x: -7.255291, y: 26.40095}
+      Name: Novigrad
+      Description: peasants' workshops, farcorners district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 6d1b62058d511e74ebbf6c8c4e54908c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 342
+      Coordinates: {x: -8.406951, y: 26.23033}
+      Name: Novigrad
+      Description: houses by the tretogor's gate
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c129c9eb61ea7914191b97887bc0aa78
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 343
+      Coordinates: {x: -8.77662, y: 25.54787}
+      Name: Novigrad
+      Description: tretogor gate signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 52ba9fb6d9377ce4e98494911224aa14
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 344
+      Coordinates: {x: -7.667614, y: 25.63317}
+      Name: Novigrad
+      Description: peasants' workshops, farcorners district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 79f5c3de7c3213f4ebb829c589ecce3d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 345
+      Coordinates: {x: -6.032542, y: 27.41043}
+      Name: Novigrad
+      Description: peasants' workshops, farcorners district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 06612e810ed1f6a478d2a6ba130d77bd
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 346
+      Coordinates: {x: -6.359556, y: 28.7327}
+      Name: Novigrad
+      Description: southern gate signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 30dfba411d671aa419c0e18e8ecf3896
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 347
+      Coordinates: {x: -4.767138, y: 26.42938}
+      Name: Novigrad
+      Description: watchtower by the bridge, farcorners district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: adde24eb21d0f35488d0ad3322502993
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 348
+      Coordinates: {x: -3.075193, y: 26.42938}
+      Name: Novigrad
+      Description: bridge, east of novigrad
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 67b1bbd87d3c96a4db3284de181f34d8
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 349
+      Coordinates: {x: -5.236332, y: 29.98389}
+      Name: Novigrad
+      Description: lambert lambert...
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 5a43b37a4b4e8f94db1d4fa0b3b4a5b2
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 350
+      Coordinates: {x: -5.065718, y: 27.18294}
+      Name: Novigrad
+      Description: fisherman's home, farcorners district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 71245327c1c05474eadac26564e8cf60
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 351
+      Coordinates: {x: -9.857192, y: 25.60474}
+      Name: Novigrad
+      Description: canals, farcorners district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e4baa8d092d033b4fa0746fd58ad4914
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 352
+      Coordinates: {x: -11.02307, y: 23.72796}
+      Name: Novigrad
+      Description: gate of the hierarch entrance
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 2ad89ae9699de3347b3395b714cba562
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 353
+      Coordinates: {x: -11.23634, y: 24.52417}
+      Name: Novigrad
+      Description: entrance to rosemary and thyme inn
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 34a78e894fb37094ea883124043afff3
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 354
+      Coordinates: {x: -10.98042, y: 24.36777}
+      Name: Novigrad
+      Description: rosemary and thyme inn
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 2f85da326f07fe0449f38a690387a49b
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 355
+      Coordinates: {x: -10.98042, y: 24.19715}
+      Name: Novigrad
+      Description: top room at rosemary and thyme inn
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 90ee46fef6efebd468cc38c3a39186ac
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 356
+      Coordinates: {x: -11.64866, y: 24.19715}
+      Name: Novigrad
+      Description: balcony across from rosemary and thyme inn
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 17f8d9289f735414c85dd76859f51d8d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 357
+      Coordinates: {x: -10.32639, y: 25.10711}
+      Name: Novigrad
+      Description: '''Suspicious Shakedown'' quest start'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c0e9c02186db3594e8dbcd6891822beb
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 358
+      Coordinates: {x: -10.76715, y: 26.07393}
+      Name: Novigrad
+      Description: entrance to the bits district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 8232379ad8f042445aace44114619f14
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 359
+      Coordinates: {x: -11.50648, y: 25.27772}
+      Name: Novigrad
+      Description: glory lane, putrid grove
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 9c573feb34e256c4491462af594b65ad
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 360
+      Coordinates: {x: -12.89985, y: 25.96019}
+      Name: Novigrad
+      Description: sewer entrance by canals, glory lane
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 987e0649fc4b61b4184c49e338e8d03a
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 361
+      Coordinates: {x: -12.58705, y: 26.08815}
+      Name: Novigrad
+      Description: walkway over the canals, glory lane
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ac030ea9c62d94a41bc550e6af33bf55
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 362
+      Coordinates: {x: -14.49227, y: 25.47677}
+      Name: Novigrad
+      Description: glory lane, putrid grove
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 01f90407bf02e43488f734784954cb08
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 363
+      Coordinates: {x: -14.90459, y: 25.32037}
+      Name: Novigrad
+      Description: crippled kate's brothel
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 2bc38353b6ca810488db416f2c072218
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 364
+      Coordinates: {x: -15.01834, y: 25.47677}
+      Name: Novigrad
+      Description: crippled kate's brothel, second floor
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: fc9e2bded53cd5c43b4c727c407800f9
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 365
+      Coordinates: {x: -15.01833, y: 25.32037}
+      Name: Novigrad
+      Description: crippled kate's brothel, top floor
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 75e3e8f029ec09f488a4085414d42c7f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 366
+      Coordinates: {x: -15.65815, y: 25.90331}
+      Name: Novigrad
+      Description: harborside bridge
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 542a1ebd08da0674bbaef3a9822f482f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 367
+      Coordinates: {x: -16.5681, y: 24.66634}
+      Name: Novigrad
+      Description: captain liglad's ship, harborside
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 73d6a03d84fab734a8e640242b78ce98
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 368
+      Coordinates: {x: -16.24109, y: 23.81326}
+      Name: Novigrad
+      Description: harborside
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 03047afa2e29ecf429d090ffa383cefc
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 369
+      Coordinates: {x: -14.80506, y: 24.60947}
+      Name: Novigrad
+      Description: market in glory lane
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 13b42f0ca9e3de84cbb5f9f45cc93a50
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 370
+      Coordinates: {x: -15.00412, y: 24.85118}
+      Name: Novigrad
+      Description: backdoor to crippled kate's brothel
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: f7af034f54e5b734b916a8b4c653c744
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 371
+      Coordinates: {x: -13.78137, y: 24.69478}
+      Name: Novigrad
+      Description: glory lane square
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 7741f604adf08474eb8cf47cb8caa3eb
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 372
+      Coordinates: {x: -13.86667, y: 24.12606}
+      Name: Novigrad
+      Description: entrance to the lacehalls
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e65021f03dcf22249867d9fb4f83631f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 373
+      Coordinates: {x: -12.67236, y: 24.8654}
+      Name: Novigrad
+      Description: glory lane
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 09184001e0c903b4a90ab335cb7cec3f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 374
+      Coordinates: {x: -13.53966, y: 24.22559}
+      Name: Novigrad
+      Description: merchant at the lacehalls, putrid grove
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 3f3287f9f029d524780848c7f2d2ce32
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 375
+      Coordinates: {x: -13.31217, y: 23.87013}
+      Name: Novigrad
+      Description: lacehalls, putrid grove
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 4141f131540901e4b908e2560c1bca5d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 376
+      Coordinates: {x: -12.48753, y: 23.5289}
+      Name: Novigrad
+      Description: lacehalls, putrid grove
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 192a74c865c82f94f9a4260a530f007e
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 377
+      Coordinates: {x: -11.89037, y: 23.62843}
+      Name: Novigrad
+      Description: lacehalls, putrid grove
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c60612d233e034643856a12b98bd0e66
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 378
+      Coordinates: {x: -12.58705, y: 24.02654}
+      Name: Novigrad
+      Description: lacehalls, putrid grove
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: f538d0ff2580477468431079cc8ef317
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 379
+      Coordinates: {x: -12.13208, y: 23.96967}
+      Name: Novigrad
+      Description: king of beggars, lacehalls, putrid grove
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 33d3a26505c991e46ae7155b4dae6d37
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 380
+      Coordinates: {x: -11.81928, y: 23.17346}
+      Name: Novigrad
+      Description: glory lane
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 4bee4f4bab0db2f4ea0b54975c6fb3e4
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 381
+      Coordinates: {x: -12.41644, y: 22.67583}
+      Name: Novigrad
+      Description: lacehalls gate entrance
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 3269727a94423aa4f9b2d043e78f416a
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 382
+      Coordinates: {x: -14.16525, y: 23.52891}
+      Name: Novigrad
+      Description: glory lane square
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 6cf3b9fa11796894f978659edbeaec12
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 383
+      Coordinates: {x: -14.63445, y: 23.51469}
+      Name: Novigrad
+      Description: hattori's home
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 514a38481faf32c48beb87ab8c3ba1bb
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 384
+      Coordinates: {x: -14.70553, y: 23.40095}
+      Name: Novigrad
+      Description: hattori's collection
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 91d92d7468107d441b36736f1fb286d3
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 385
+      Coordinates: {x: -14.12259, y: 22.5763}
+      Name: Novigrad
+      Description: glory lane, back alleys
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 2262549297baad749ad470cae301c852
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 386
+      Coordinates: {x: -15.20316, y: 22.13554}
+      Name: Novigrad
+      Description: fighting contest, glory lane
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 8e496ef6839ab6243b837e6f43e79bee
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 387
+      Coordinates: {x: -15.60127, y: 22.64739}
+      Name: Novigrad
+      Description: '''Racists of Novigrad'' quest start'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: b7ecf0df720581141a6b358e342c53e8
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 388
+      Coordinates: {x: -14.91881, y: 22.97441}
+      Name: Novigrad
+      Description: glory lane
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: d720f6736b29dce4eb1ca63061db22b4
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 389
+      Coordinates: {x: -15.06099, y: 23.7564}
+      Name: Novigrad
+      Description: glory lane
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 49985531ffd15c94d99eb083a6381d96
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 390
+      Coordinates: {x: -15.388, y: 23.45782}
+      Name: Novigrad
+      Description: Salma Lilith's home, glory lane
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c3e0e16edaa75804aa80a072649d612a
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 391
+      Coordinates: {x: -15.34535, y: 23.50047}
+      Name: Novigrad
+      Description: Salma Lilith's home, top floor
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 43a88cfce034e4645b711f3a2102ee97
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 392
+      Coordinates: {x: -16.48279, y: 23.78483}
+      Name: Novigrad
+      Description: harborside docks
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 090624ba29510fe47a8a53a0b32f990b
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 393
+      Coordinates: {x: -16.6534, y: 22.86066}
+      Name: Novigrad
+      Description: Witch Hunter Barracks outpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: d21c993e40b50c24887594b0c7e609ad
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 394
+      Coordinates: {x: -16.65341, y: 22.36303}
+      Name: Novigrad
+      Description: Witch Hunter Barracks outpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e69dd13b96d941a499a33ef5ca36b026
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 395
+      Coordinates: {x: -16.61075, y: 21.99336}
+      Name: Novigrad
+      Description: Witch Hunter Barracks outpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e2217529f8f1d534b8f3eaac459dd790
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 396
+      Coordinates: {x: -16.82402, y: 21.80853}
+      Name: Novigrad
+      Description: Witch Hunter Barracks, warden's office
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: f2197b03b7c398b479a9f7bba3a9c218
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 397
+      Coordinates: {x: -16.44014, y: 21.82274}
+      Name: Novigrad
+      Description: Witch Hunter Barracks, torture room
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 2942ca8cbf7a36d4cbfb600acc60cd38
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 398
+      Coordinates: {x: -17.10838, y: 21.8654}
+      Name: Novigrad
+      Description: Witch Hunter Barracks outpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: aa46bb397b90bf34cb9e677b51e58448
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 399
+      Coordinates: {x: -17.94725, y: 24.01232}
+      Name: Novigrad
+      Description: '''of swords and dumplings'' quest, harborside'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 2abed302b965ecc4683d060fe77230ab
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 400
+      Coordinates: {x: -18.78611, y: 22.84645}
+      Name: Novigrad
+      Description: harborside, back alleys
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 0cd38c3191efc1640a8db7eef4002ef0
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 401
+      Coordinates: {x: -18.64393, y: 22.4199}
+      Name: Novigrad
+      Description: harborside, back alleys
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: f4f313d86a6fcc84eb44aa1258555dee
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 402
+      Coordinates: {x: -19.44014, y: 23.71374}
+      Name: Novigrad
+      Description: novigrad docks signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 5fe963eddc213c94fb37d960891e8de8
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 403
+      Coordinates: {x: -19.48279, y: 22.76113}
+      Name: Novigrad
+      Description: '''Strumpet in Distress'' quest start, novigrad docks'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: fbda19ede154ac34a9c7644107f2189c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 404
+      Coordinates: {x: -20.94725, y: 23.25876}
+      Name: Novigrad
+      Description: harborside markets, novigrad docks
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 97e5d5af81f20e647b655f9d46f350c6
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 405
+      Coordinates: {x: -22.22687, y: 23.52891}
+      Name: Novigrad
+      Description: '''Warehouse of Woe'' quest start, harborside'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 6e7b72cf0bd4cdf43a3760a030365882
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 406
+      Coordinates: {x: -22.14156, y: 23.89857}
+      Name: Novigrad
+      Description: secret warehouse hideout, harborside
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: f8d5493d4ebc6294dbc9dcc234cb02de
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 407
+      Coordinates: {x: -21.71502, y: 24.22559}
+      Name: Novigrad
+      Description: harborside, back alleys
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: f79a45ceb8b9cc644ac8a9f07aaf07b3
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 408
+      Coordinates: {x: -21.40222, y: 25.19241}
+      Name: Novigrad
+      Description: harborside, novigrad docks
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 2cc5771a6c85dc64db5172f4e216b074
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 409
+      Coordinates: {x: -21.47331, y: 25.96019}
+      Name: Novigrad
+      Description: boat building workshops, harborside
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ccb325bca1fe49f45a4ef44559e37620
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 410
+      Coordinates: {x: -22.16999, y: 26.62843}
+      Name: Novigrad
+      Description: harborside, back alleys
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: d117d6849fe32dc4c8500742637ca90a
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 411
+      Coordinates: {x: -21.40222, y: 27.80853}
+      Name: Novigrad
+      Description: watchtower entrance, harborside
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: fad2a2afd0070304c81323e2c130e913
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 412
+      Coordinates: {x: -17.1226, y: 23.67109}
+      Name: Novigrad
+      Description: '''A Walk on the Waterfront'' quest start, harborside'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 3389a35f6813f6e4684250e8abf5d80d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 413
+      Coordinates: {x: -11.16525, y: 26.64265}
+      Name: Novigrad
+      Description: Rudolf de Jonkheer's House
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: bfbda60d488882d44bd9cee0e6781f1b
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 414
+      Coordinates: {x: -11.09416, y: 26.9981}
+      Name: Novigrad
+      Description: '''Meyer and Meyer'' woodcarving workshop'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 589d18242cd489d4ebf2ef73cdc729e8
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 415
+      Coordinates: {x: -11.86193, y: 27.01232}
+      Name: Novigrad
+      Description: The Butcher's Yard Theater
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 90a8fadae2ccfe64a8dbd9b8b34c598a
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 416
+      Coordinates: {x: -12.37378, y: 27.25403}
+      Name: Novigrad
+      Description: The Butcher's Yard Theater backstage
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 917604d556e63ee45b61d11ac1e6b11b
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 417
+      Coordinates: {x: -12.37378, y: 26.51469}
+      Name: Novigrad
+      Description: The Butcher's Yard Theater backstage entrance
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ba2c1e7b9dee82949a22e4080f09a7ae
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 418
+      Coordinates: {x: -11.98989, y: 27.62369}
+      Name: Novigrad
+      Description: The Butcher's Yard Theater main entrance
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 4b7c9b162c57c834787042ec9967a2ef
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 419
+      Coordinates: {x: -12.9425, y: 27.28246}
+      Name: Novigrad
+      Description: old triss' hideout
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 0b3c0056436f40e42af1207a51ead0a2
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 420
+      Coordinates: {x: -12.88563, y: 26.38672}
+      Name: Novigrad
+      Description: canals by the fish market
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 1262165768e01a24998b4ad20ce540c1
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 421
+      Coordinates: {x: -14.13681, y: 26.4436}
+      Name: Novigrad
+      Description: bridge by the fish market
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: aa3e5faa74563c545b3ca2eb01f16032
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 422
+      Coordinates: {x: -13.69605, y: 27.31089}
+      Name: Novigrad
+      Description: blacksmith by the fish market
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 52a3450d77daa7542acd35ffee3df8d1
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 423
+      Coordinates: {x: -14.67709, y: 27.06919}
+      Name: Novigrad
+      Description: insignificant townsman's house by the fish market
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 4645b29c88a39e74ea5ee63a82fa8d19
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 424
+      Coordinates: {x: -13.48278, y: 27.33933}
+      Name: Novigrad
+      Description: store at the fish market
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 096e8f3dff5b2d344bb01b3f6a773451
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 425
+      Coordinates: {x: -15.68658, y: 26.47203}
+      Name: Novigrad
+      Description: bridge by harborside
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: be4ddebddb8834a4aa96b5dfa47ccc98
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 426
+      Coordinates: {x: -15.87141, y: 27.38199}
+      Name: Novigrad
+      Description: '''the golden sturgeon'' inn entrance, harborside'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c650d3f2ac3fa6448b3bcf5504ff590b
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 427
+      Coordinates: {x: -15.77188, y: 27.63791}
+      Name: Novigrad
+      Description: '''the golden sturgeon'' main room'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 9081067d80cc0cd4b95ec7a6a647b29f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 428
+      Coordinates: {x: -11.37852, y: 26.45782}
+      Name: Novigrad
+      Description: Corinne Tilly and Sarah at the haunted hosue
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: fc6000000ff66704ba921678c0feeeac
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 429
+      Coordinates: {x: -15.89985, y: 27.80853}
+      Name: Novigrad
+      Description: corinne tilly's room at 'the golden sturgeon' inn
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: a77c71afab2a33641b5fd68d9fe1f380
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 430
+      Coordinates: {x: -17.06573, y: 26.17345}
+      Name: Novigrad
+      Description: novigrad docks, harborside
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 3aef3de83655b654b87de5f476ce5112
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 431
+      Coordinates: {x: -17.39274, y: 28.00758}
+      Name: Novigrad
+      Description: novigrad docks, harborside
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: b20164a4f0d2e434fa9b8ff0301e01e7
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 432
+      Coordinates: {x: -18.50174, y: 27.76587}
+      Name: Novigrad
+      Description: novigrad docks, harborside
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 9a6383528dc10744a9d9095da99037b9
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 433
+      Coordinates: {x: -19.49701, y: 29.15924}
+      Name: Novigrad
+      Description: novigrad docks, harborside
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: f0224f3ffc053c64da9e87858e961499
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 434
+      Coordinates: {x: -17.20791, y: 27.95071}
+      Name: Novigrad
+      Description: sewers entrance by the novigrad docks, harborside
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ef7afcf5b03802f4a8d3fae35c69de1f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 435
+      Coordinates: {x: -18.48753, y: 29.01706}
+      Name: Novigrad
+      Description: big warehouse by the novigrad docks, harborside
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: a6953febb831c634c8d63fe2ccbce844
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 436
+      Coordinates: {x: -18.01833, y: 29.38673}
+      Name: Novigrad
+      Description: back alleys by the warehouses near novigrad docks
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 035f4c7875fa26046b83d0ebf290649d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 437
+      Coordinates: {x: -16.85246, y: 28.94597}
+      Name: Novigrad
+      Description: market by the novigrad docks
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 90459adae1ae0c247a4381f011e56cfc
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 438
+      Coordinates: {x: -16.07046, y: 28.77536}
+      Name: Novigrad
+      Description: painter's house by the novigrad docks
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 2172701db2ab7b445a38899d61bdb734
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 439
+      Coordinates: {x: -15.45909, y: 28.0218}
+      Name: Novigrad
+      Description: '''black pearl'' quest start'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 372a2542b1a8313418ca4e82cd6be196
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 440
+      Coordinates: {x: -15.51596, y: 28.61895}
+      Name: Novigrad
+      Description: well, silverton district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 61de96696f11c5943bacbcf3257dd236
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 441
+      Coordinates: {x: -18.06099, y: 31.1782}
+      Name: Novigrad
+      Description: the stables by the novigrad docks
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: b71ff80e134b3f54eaf6ee927d9ed4b5
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 442
+      Coordinates: {x: -16.16999, y: 31.66161}
+      Name: Novigrad
+      Description: docks, silverton district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 5e918632204e07a48ba148fde9742cc5
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 443
+      Coordinates: {x: -16.48278, y: 30.87962}
+      Name: Novigrad
+      Description: halfling merchant, silverton district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 24bc316e277aa7e4485f2b6f61d88e90
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 444
+      Coordinates: {x: -14.57757, y: 28.16398}
+      Name: Novigrad
+      Description: Margrave Henckel's House, silverton district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 5a0521f08e036884ba3e816ea5732366
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 445
+      Coordinates: {x: -15.65814, y: 29.96967}
+      Name: Novigrad
+      Description: blacksmith's workshop, silverton district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 204f6ab8dea2fde48ac70e3ec305d091
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 446
+      Coordinates: {x: -14.91881, y: 32.03128}
+      Name: Novigrad
+      Description: docks, silverton district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: efac0a656a0b42949872a4be16dba7d0
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 447
+      Coordinates: {x: -13.62496, y: 33.32512}
+      Name: Novigrad
+      Description: sewers entrance, silverton district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 4374fb6cb08a7344793976da303ff6b6
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 448
+      Coordinates: {x: -14.81928, y: 29.96967}
+      Name: Novigrad
+      Description: silverton district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: eb989d0dc861ebf4cadefa0e156cb2b8
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 449
+      Coordinates: {x: -14.44961, y: 31.10711}
+      Name: Novigrad
+      Description: market in the silverton district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 433fe83329644ef449c0361651e20e87
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 450
+      Coordinates: {x: -13.38326, y: 30.75166}
+      Name: Novigrad
+      Description: well in the silverton district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 7d68bba9338fbe94d858e27e56168a81
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 451
+      Coordinates: {x: -13.66762, y: 32.00285}
+      Name: Novigrad
+      Description: back alley, silverton district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 5ce19111eb4249a46ba8af8659adb728
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 452
+      Coordinates: {x: -12.6297, y: 30.9365}
+      Name: Novigrad
+      Description: entrance to the bathhouse
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 36bff9b8ec6fcc742b5d63ca920a8fcd
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 453
+      Coordinates: {x: -12.61548, y: 29.21611}
+      Name: Novigrad
+      Description: bookstore, hierarch square
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 5c6962422f6bf9e4e9eeac867b3a5556
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 454
+      Coordinates: {x: -13.73871, y: 29.10237}
+      Name: Novigrad
+      Description: entrance to the hierarch square
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: bf77e1b08c72c75499d5a3b5c4071d2f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 455
+      Coordinates: {x: -13.76714, y: 28.70426}
+      Name: Novigrad
+      Description: top notch swords blacksmith at the hierarch square
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 081ed9a3497981e43b79bf971f04201e
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 456
+      Coordinates: {x: -13.66762, y: 28.24929}
+      Name: Novigrad
+      Description: vivaldi bank, hierarch square
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 7a0a0bbac4a291d408cbca366135b79c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 457
+      Coordinates: {x: -12.80032, y: 28.33459}
+      Name: Novigrad
+      Description: hierarch square
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 63aa334abbb3c1d479db477e5d78433e
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 458
+      Coordinates: {x: -12.33112, y: 28.93175}
+      Name: Novigrad
+      Description: '''the kingfisher'' inn entrance'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c81f8f6e22975b24bb2ea83e4c3cedb5
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 459
+      Coordinates: {x: -12.04676, y: 28.8891}
+      Name: Novigrad
+      Description: '''the kingfisher'' inn'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: fb63a58dd9701e6429aa6b94173150ca
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 460
+      Coordinates: {x: -11.89036, y: 29.15924}
+      Name: Novigrad
+      Description: '''the kingfisher'' inn, top floor'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: cc0a146af634d5f41a31e514e1cb5b5b
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 461
+      Coordinates: {x: -11.77662, y: 29.11658}
+      Name: Novigrad
+      Description: bedroom at 'the kingfisher' inn
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 30c6e264bda8d3a40bab0e966b11eabc
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 462
+      Coordinates: {x: -11.87614, y: 29.23033}
+      Name: Novigrad
+      Description: priscilla's room at 'the kingfisher' inn
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: d080365625175b8448dc8e6d8307cda4
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 463
+      Coordinates: {x: -12.08941, y: 29.55735}
+      Name: Novigrad
+      Description: backdoor to 'the kingfisher' inn
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 2023083034f065e4da5b2dfa00e815d0
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 464
+      Coordinates: {x: -11.4496, y: 28.80379}
+      Name: Novigrad
+      Description: the bits district, alleyways
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 396748456539a074aa41a1f6805b85b3
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 465
+      Coordinates: {x: -11.00885, y: 27.76588}
+      Name: Novigrad
+      Description: the bits district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: cf6af239a62e4704cab7b659e4e751cc
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 466
+      Coordinates: {x: -10.05624, y: 27.05498}
+      Name: Novigrad
+      Description: the bits district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 2d8c01bcac635d84ca1fff61f474c712
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 467
+      Coordinates: {x: -10.22685, y: 26.54313}
+      Name: Novigrad
+      Description: market in the bits district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 5df7ce44470fdeb4c932f4f09c7bca1d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 468
+      Coordinates: {x: -9.430643, y: 26.42939}
+      Name: Novigrad
+      Description: back alley in the bits district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e4d537371f4697643ba16c2945bfa79f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 469
+      Coordinates: {x: -8.577562, y: 27.63792}
+      Name: Novigrad
+      Description: back alley in the bits district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 281e9de186e84d3438e30fa2e4a9cbc9
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 470
+      Coordinates: {x: -10.76714, y: 29.52892}
+      Name: Novigrad
+      Description: the bits district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: d341ba77df9a3334d879853bec34069d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 471
+      Coordinates: {x: -9.871402, y: 29.44361}
+      Name: Novigrad
+      Description: triss' hideout in the bits district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 1d0b857f5db3ee145a6bd398a711fb5f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 472
+      Coordinates: {x: -9.81453, y: 29.27299}
+      Name: Novigrad
+      Description: triss' hideout in the bits district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 5a7c34aac8ab76442b7059874647e359
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 473
+      Coordinates: {x: -8.81927, y: 28.50522}
+      Name: Novigrad
+      Description: well in the bits district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: fb3e177a52c23a84ca5af4e6a6e89f10
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 474
+      Coordinates: {x: -7.88088, y: 28.27773}
+      Name: Novigrad
+      Description: fighting contest in the bits district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 8d443cec9062fad47943a4da20ecead0
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 475
+      Coordinates: {x: -7.824008, y: 29.77062}
+      Name: Novigrad
+      Description: merchants in the bits district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 317a816335a135b4d9594d17d641bfc7
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 476
+      Coordinates: {x: -7.582303, y: 30.08342}
+      Name: Novigrad
+      Description: loan shark in the bits district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c164b530218d62b4fa73a43a00a348cb
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 477
+      Coordinates: {x: -6.828749, y: 29.78484}
+      Name: Novigrad
+      Description: southern gate
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 4ad851a4d099df845b7e4f086103e4fb
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 478
+      Coordinates: {x: -7.96619, y: 31.32039}
+      Name: Novigrad
+      Description: barbershop in the bits district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 81affb32edac2414f9981f7e02497887
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 479
+      Coordinates: {x: -8.051499, y: 32.14503}
+      Name: Novigrad
+      Description: alleyway in the bits district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: fe7fd57fc1533d942be26225c9a9d7ed
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 480
+      Coordinates: {x: -9.117851, y: 32.95546}
+      Name: Novigrad
+      Description: vilmerius hospital, the bits district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 8705ec7821ebdee429fd34fa6c0e08c0
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 481
+      Coordinates: {x: -9.302685, y: 32.01707}
+      Name: Novigrad
+      Description: the bits district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 8c4a249c9dce3cc45a6524c3c833f233
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 482
+      Coordinates: {x: -8.378514, y: 31.47679}
+      Name: Novigrad
+      Description: alleyway in the bits district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: bc1df5bae6e5b3348b58158fe1272a2a
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 483
+      Coordinates: {x: -9.103634, y: 31.41992}
+      Name: Novigrad
+      Description: '''the nowhere'' inn, the bits district'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 210153672add87c40b100869173b7f88
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 484
+      Coordinates: {x: -9.160505, y: 30.45309}
+      Name: Novigrad
+      Description: fish merchant in the bits district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 6779910b606da434ba1cb78570cb2e15
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 485
+      Coordinates: {x: -9.188942, y: 29.92703}
+      Name: Novigrad
+      Description: alchemy workshop in the bits district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 7504e106a6e411241a53ad3d454f18d3
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 486
+      Coordinates: {x: -9.970932, y: 31.47679}
+      Name: Novigrad
+      Description: sewers entrance in the bits district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c6c8814f69476eb4385f0bccbe59d342
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 487
+      Coordinates: {x: -10.07046, y: 30.21139}
+      Name: Novigrad
+      Description: alleyway in the bits district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c3677ca9dd9ad8e478c59a067af8b215
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 488
+      Coordinates: {x: -10.0278, y: 33.382}
+      Name: Novigrad
+      Description: gildorf district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ce2048cc98a15f74d821250e6a50e815
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 489
+      Coordinates: {x: -11.0515, y: 32.14504}
+      Name: Novigrad
+      Description: gildorf district square
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: aa0bc2eaedd702540889acf4fc74aceb
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 490
+      Coordinates: {x: -11.606, y: 31.66162}
+      Name: Novigrad
+      Description: Baroness la Valette's Villa, gildorf district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 576e832a409e8504193cd2b2eee379ed
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 491
+      Coordinates: {x: -10.82401, y: 30.86542}
+      Name: Novigrad
+      Description: jad karadin's backyard, gildorf district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 37a44d9b9858ada4eab4ad171ef1f2ca
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 492
+      Coordinates: {x: -11.37852, y: 30.75167}
+      Name: Novigrad
+      Description: fountain in the gildorf district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e8c865d28ae93b64db40c2692a43c60a
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 493
+      Coordinates: {x: -12.0752, y: 30.78011}
+      Name: Novigrad
+      Description: gildorf district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 303f86d661be97042bab7a600f95d494
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 494
+      Coordinates: {x: -13.08468, y: 31.23509}
+      Name: Novigrad
+      Description: road towards the temple isle, gildorf district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ee3ec851fe812d4438137ddbe19e5e20
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 495
+      Coordinates: {x: -12.20316, y: 31.59054}
+      Name: Novigrad
+      Description: barbershop, gildorf district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: cbd0bcb295e1fbe4f85746d067ab6406
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 496
+      Coordinates: {x: -12.13207, y: 32.10239}
+      Name: Novigrad
+      Description: merchant, gildorf district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 8612b64913055a7428acd38173ec8135
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 497
+      Coordinates: {x: -13.08468, y: 33.1403}
+      Name: Novigrad
+      Description: st. gregory's bridge signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 751408ceb7733144d81674fb6bc69286
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 498
+      Coordinates: {x: -12.18894, y: 33.49575}
+      Name: Novigrad
+      Description: Passiflora brothel, gildorf district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 184292e2ee9b54f439a49bd3dae473b1
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 499
+      Coordinates: {x: -11.77662, y: 34.54789}
+      Name: Novigrad
+      Description: fountain behind the passiflora brothel
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: b8e912dcba5f60b429a55741f99c1be8
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 500
+      Coordinates: {x: -12.9425, y: 34.54789}
+      Name: Novigrad
+      Description: Passiflora brothel, gildorf district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 6ffde00a374ebae43a099873d150aea2
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 501
+      Coordinates: {x: -12.24582, y: 34.20665}
+      Name: Novigrad
+      Description: Passiflora brothel, gildorf district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 6e6c7775343343e44a647639285f4ca1
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 502
+      Coordinates: {x: -12.5444, y: 34.24931}
+      Name: Novigrad
+      Description: Passiflora brothel, gildorf district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 026b0df027b53774d9485d5b2f400655
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 503
+      Coordinates: {x: -12.65814, y: 34.50523}
+      Name: Novigrad
+      Description: Passiflora brothel, gildorf district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 7c5832be110915b44abc84f789103e56
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 504
+      Coordinates: {x: -12.37378, y: 34.41993}
+      Name: Novigrad
+      Description: Passiflora brothel, top floor, gildorf district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c669a43a15187e84db9f005b9e5beee2
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 505
+      Coordinates: {x: -12.61549, y: 34.64741}
+      Name: Novigrad
+      Description: Passiflora brothel, top floor, gildorf district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: d414f8486f6dc3347a78dc72e40e37f2
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 506
+      Coordinates: {x: -11.5207, y: 33.02655}
+      Name: Novigrad
+      Description: entrance to Var Attre Villa, gildorf district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 21dc3d7257a94bd4a802568ba0e785d7
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 507
+      Coordinates: {x: -11.42117, y: 33.28248}
+      Name: Novigrad
+      Description: Var Attre Villa, gildorf district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e09dededc9b36d54c9b0d55f59f4150a
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 508
+      Coordinates: {x: -11.27899, y: 33.62371}
+      Name: Novigrad
+      Description: Var Attre Villa, gildorf district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 6bcbe18f221febc44bda89421e8af3f2
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 509
+      Coordinates: {x: -11.15103, y: 33.83698}
+      Name: Novigrad
+      Description: Var Attre Villa backdoor, gildorf district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 86e75ee4794985c4e93213c272bb915a
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 510
+      Coordinates: {x: -10.39747, y: 33.33935}
+      Name: Novigrad
+      Description: Var Attre Villa backyard, gildorf district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 515d42aefc191c1468847acf051ab1f2
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 511
+      Coordinates: {x: -11.25055, y: 33.49575}
+      Name: Novigrad
+      Description: Var Attre Villa basement, gildorf district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c61865eb1bef34a4b968a110c4b1665e
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 512
+      Coordinates: {x: -10.31217, y: 33.92229}
+      Name: Novigrad
+      Description: sewers entrance by Var Attre Villa
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 84c798354706c6743af8b45b4f00f4e8
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 513
+      Coordinates: {x: -12.5444, y: 31.37726}
+      Name: Novigrad
+      Description: dijkstra's office in the bathhouse
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 3e73d313a5ed8d64bab1d36f252fd8a2
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 514
+      Coordinates: {x: -11.57757, y: 31.30617}
+      Name: Novigrad
+      Description: inside of the bathhouse
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 09dbf69982fedc74fa898e6fd03285b3
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 515
+      Coordinates: {x: -13.92354, y: 33.7659}
+      Name: Novigrad
+      Description: walkway to the temple isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 3ecbc8965fa8e1e499dc0a00af9638ea
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 516
+      Coordinates: {x: -14.91881, y: 33.96495}
+      Name: Novigrad
+      Description: balcony on walkway to the temple isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 4dca6dffc11ece14d9d993644415d8c0
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 517
+      Coordinates: {x: -14.86193, y: 35.81329}
+      Name: Novigrad
+      Description: market, temple isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 3e276f6cf75f1c34f8e846cecac17e9a
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 518
+      Coordinates: {x: -15.58705, y: 35.72798}
+      Name: Novigrad
+      Description: whoreson junior's townhouse on the temple isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: b663d8235a14ae3469859f1b0463e268
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 519
+      Coordinates: {x: -15.97094, y: 35.10239}
+      Name: Novigrad
+      Description: temple isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 9c2dd3babd0ef1b4cbbda422aeb2674f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 520
+      Coordinates: {x: -16.46856, y: 34.53367}
+      Name: Novigrad
+      Description: temple isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 40031bf4edc308f42a7a5052a7c052d3
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 521
+      Coordinates: {x: -18.14629, y: 34.66163}
+      Name: Novigrad
+      Description: temple isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: d4e03c4b1bef39a49ba4472a8c4c24ff
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 522
+      Coordinates: {x: -19.98042, y: 37.02182}
+      Name: Novigrad
+      Description: houses, west of the temple isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: de544c8181cae334ca99a2f1cde59ced
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 523
+      Coordinates: {x: -19.38326, y: 38.52893}
+      Name: Novigrad
+      Description: entrance to the elven ruins, west of temple isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 4122f18a0d8ba8a47a38e5dcc1b9e3cf
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 524
+      Coordinates: {x: -16.08468, y: 36.58107}
+      Name: Novigrad
+      Description: mad kiyan in the elven ruin under temple isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 19a9ad9e528519d45b3b08c7d6a75f4c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 525
+      Coordinates: {x: -19.21264, y: 37.03605}
+      Name: Novigrad
+      Description: temple isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: adee5da449a014540af17eab8c6921c4
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 526
+      Coordinates: {x: -17.32165, y: 36.49576}
+      Name: Novigrad
+      Description: temple isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: f0d0f2c6d4a77c8479466189afc72e69
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 527
+      Coordinates: {x: -16.38326, y: 35.78486}
+      Name: Novigrad
+      Description: whoreson junior in his hideout, temple isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 81d96864e2ba91c44bdde580e905e7df
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 528
+      Coordinates: {x: -16.45435, y: 35.7422}
+      Name: Novigrad
+      Description: whoreson junior's hideout, second floor, temple isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e551daffe1c01c64c92ecf8e5178deda
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 529
+      Coordinates: {x: -16.3406, y: 35.91282}
+      Name: Novigrad
+      Description: whoreson junior's hideout, temple isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 48eeceb714a86e04eb6441eb10b77ffa
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 530
+      Coordinates: {x: -16.07046, y: 35.78485}
+      Name: Novigrad
+      Description: entrance to whorson junior's hideout, temple isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: d3e0074b514caeb4bbba18eea3b29552
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 531
+      Coordinates: {x: -18.10364, y: 38.67111}
+      Name: Novigrad
+      Description: temple isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 886c3c79678464043a88e3cc035ad380
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 532
+      Coordinates: {x: -18.06099, y: 36.92229}
+      Name: Novigrad
+      Description: electors' square signpost, temple isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: bef617a94b9410b4f943d5576fa2522b
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 533
+      Coordinates: {x: -16.6534, y: 37.43415}
+      Name: Novigrad
+      Description: temple isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 70b5b88375c1e9e42a4bc5a23580a7d8
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 534
+      Coordinates: {x: -16.68184, y: 38.51471}
+      Name: Novigrad
+      Description: elector square, temple isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e090720d0a3b8c442aa55687335558c7
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 535
+      Coordinates: {x: -16.59653, y: 39.31092}
+      Name: Novigrad
+      Description: entrance to elector square, temple isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ca47d6d9cefffa846847e24ec213435c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 536
+      Coordinates: {x: -15.388, y: 37.73272}
+      Name: Novigrad
+      Description: elector square, temple isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: fb00dae348bab464fb4729d4049f78dd
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 537
+      Coordinates: {x: -14.64866, y: 38.65689}
+      Name: Novigrad
+      Description: place of power by elector square, temple isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 9a865283cec914246a27b7aeceaeda6e
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 538
+      Coordinates: {x: -17.05151, y: 38.25879}
+      Name: Novigrad
+      Description: elector square, temple isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 9ac21452f36658545bbb14ccf34051da
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 539
+      Coordinates: {x: -9.622757, y: 29.82657}
+      Name: Novigrad
+      Description: the puffins troupe house, the bits district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: fb727940b791bd448a3f33c0ac272bcb
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 540
+      Coordinates: {x: -9.651194, y: 32.2152}
+      Name: Novigrad
+      Description: marabella's school for Tots, the bits district
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 9a8842c7c74a7f24ea14637f6c4d3c22
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
   - MapType: 3
     DefaultLocationName: Skellige Isles
     LocationsForViewing:

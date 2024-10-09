@@ -62,7 +62,6 @@ public class MenuItems : MonoBehaviour
             Destroy(allLocationsHolder);
     }
 
-
     [MenuItem("Custom/Initialize location default values")]
     [ExecuteInEditMode]
     private static void InitializeLocationIndexes()
@@ -80,7 +79,9 @@ public class MenuItems : MonoBehaviour
         {
             var eligibleLocations = area.LocationsForViewing
                 .Where(location => string.IsNullOrEmpty(location.Name.Trim()) || 
-                                   !area.DefaultLocationName.Contains(location.Name)).ToList();
+                                   !area.DefaultLocationName.Contains(location.Name) || 
+                                   !area.DefaultLocationName.Contains("Oxenfurt") ||
+                                   !area.DefaultLocationName.Contains("Novigrad")).ToList();
             
             foreach (var locationWithoutName in eligibleLocations)
                 locationWithoutName.Name = area.DefaultLocationName;

@@ -47,6 +47,7 @@ public class UIManager_Game : MonoBehaviour
     public GameObject ReviewLocationButton;
     public GameObject ConfirmGuessButton;
     public GameObject NextLocationButton;
+    public TextMeshProUGUI MapDownloadStatusText;
 
     [Header("In-game results")]
     public TextMeshProUGUI LocationNumberText;
@@ -73,16 +74,7 @@ public class UIManager_Game : MonoBehaviour
         ConfigureGuessLocationButton();
     }
 
-    private void Update()
-    {
-        if (!LocationManager.GetLocationDownloadStatus())
-        {
-            LocationDownloadStatusText.gameObject.SetActive(true);
-            LocationDownloadStatusText.text = LocationManager.GetLocationDownloadPercentage();
-        }
-        else
-            LocationDownloadStatusText.gameObject.SetActive(false);
-    }
+    private void Update() => HandleUpdatedUI();
 
     public void SwapToMainMenuScene()
     {
@@ -176,6 +168,7 @@ public class UIManager_Game : MonoBehaviour
         LocationDetailsCard.SetActive(false);
         NextLocationButton.SetActive(false);
         LocationDownloadStatusText.gameObject.SetActive(false);
+        MapDownloadStatusText.gameObject.SetActive(false);
     }
 
     private void ToggleViewingCanvas()
@@ -231,36 +224,22 @@ public class UIManager_Game : MonoBehaviour
                       locationSelection => locationSelection.MapType,
                       (mapSelection, locationSelection) => new { mapSelection, locationSelection })
                 .Where(x => x.mapSelection.MapType != MapType.AllMaps)
-                .Where(x => x.locationSelection.LocationsForViewing.Any()).ToList();
+                .Where(x => x.locationSelection.LocationsForViewing.Any())
+                .Where(x => !x.mapSelection.AddressableMapLoaded).ToList();
 
-            eligibleMaps
-                .Where(x => !x.mapSelection.AddressableMapLoaded).ToList()
-                .ForEach(async map => map.mapSelection.MapGameObject = await InitializeMap(map.mapSelection));
+            foreach (var map in eligibleMaps)
+                map.mapSelection.MapGameObject = await MapManager.GetInitializedMapAsync(map.mapSelection);
             
             InitializeMapSelections(eligibleMaps.Select(x => x.mapSelection).ToList());
         }
         else
         {
             var mapToInitialize = MapManager.MapSelections.FirstOrDefault(x => x.MapType == mapSelection.MapType);
-            mapToInitialize.MapGameObject = await InitializeMap(mapToInitialize);
+            mapToInitialize.MapGameObject = await MapManager.GetInitializedMapAsync(mapToInitialize);
         }
     }
 
     private async Task InitializeLocationAsync() => await LocationManager.InitializeLocationForViewing();
-
-    private async Task<GameObject> InitializeMap(MapSelection mapToInitialize)
-    {
-        var loadedMap = MapManager.GetLoadedMapGameObject(mapToInitialize.MapType);
-
-        if (loadedMap != null)
-            return loadedMap;
-
-        var handle = mapToInitialize.AddressableMapSprite.LoadAssetAsync();
-        var loadedMapSprite = await handle.Task;
-        var initializedMap = MapManager.RegisterLoadedMapGameObject(mapToInitialize.MapType, loadedMapSprite);
-
-        return mapToInitialize.MapGameObject = initializedMap;
-    }
 
     private void InitializeMapSelections(List<MapSelection> maps)
     {
@@ -310,5 +289,25 @@ public class UIManager_Game : MonoBehaviour
         LocationManager = FindObjectOfType<LocationManager>();
         MapManager = FindObjectOfType<MapManager>();
         MapMarkerManager = FindObjectOfType<MapMarkerManager>();
+    }
+
+    private void HandleUpdatedUI()
+    {
+        if (!LocationManager.GetLocationDownloadStatus())
+        {
+            LocationDownloadStatusText.gameObject.SetActive(true);
+            LocationDownloadStatusText.text = LocationManager.GetLocationDownloadPercentage();
+        }
+        else
+            LocationDownloadStatusText.gameObject.SetActive(false);
+        
+        
+        if (!MapManager.GetMapDownloadStatus())
+        {
+            MapDownloadStatusText.gameObject.SetActive(true);
+            MapDownloadStatusText.text = MapManager.GetMapDownloadPercentage();
+        }
+        else
+            MapDownloadStatusText.gameObject.SetActive(false);
     }
 }
