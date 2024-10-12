@@ -16,7 +16,307 @@ MonoBehaviour:
   m_Data:
     m_SerializedData: []
   m_GUID: a87c278bb880e464bbf7c3ca6368b5f4
-  m_SerializeEntries: []
+  m_SerializeEntries:
+  - m_GUID: 4108e1d09d2bff74db8e3701ca839ab7
+    m_Address: Assets/UI/Locations/Kaer Morhen/K15.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2a39e9a0a5918d448b022ca10fd964ec
+    m_Address: Assets/UI/Locations/Kaer Morhen/K22.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 95e2b3d97325c634baf01d81bc166db1
+    m_Address: Assets/UI/Locations/Kaer Morhen/K21.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7ea509e43e89ae84da11a3753a78d5d2
+    m_Address: Assets/UI/Locations/Kaer Morhen/K26.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d663fa2560e60a8479f206fc318780c3
+    m_Address: Assets/UI/Locations/Kaer Morhen/K25.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd893eed9f0b4464e9582dafc7859e6a
+    m_Address: Assets/UI/Locations/Kaer Morhen/K37.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 27fc879f8f5bd4d4f9c169c316a72f7d
+    m_Address: Assets/UI/Locations/Kaer Morhen/K38.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f975c5ae0247924c85f9dd63254dde7
+    m_Address: Assets/UI/Locations/Kaer Morhen/K43.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 74260be96bb9d3c43a967d48abc49afe
+    m_Address: Assets/UI/Locations/Kaer Morhen/K7.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3894905b4fcbad44290da1832f25d40f
+    m_Address: Assets/UI/Locations/Kaer Morhen/K46.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee7e7c9088ef9224aa682de0e2d180f0
+    m_Address: Assets/UI/Locations/Kaer Morhen/K48.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 56c850290c95b5f44828e875673c762f
+    m_Address: Assets/UI/Locations/Kaer Morhen/K40.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 639ebcb52db4d8440987deb55849860d
+    m_Address: Assets/UI/Locations/Kaer Morhen/K0.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0f8e7c0be168c5b429bf9a1a08b76a7d
+    m_Address: Assets/UI/Locations/Kaer Morhen/K44.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d620b05029397c4ebd2f9299709cd9b
+    m_Address: Assets/UI/Locations/Kaer Morhen/K49.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b195ca10f30b13e47b28fc3e2d3e3d42
+    m_Address: Assets/UI/Locations/Kaer Morhen/K10.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70f16ad233f7810448b0aa9df1cca905
+    m_Address: Assets/UI/Locations/Kaer Morhen/K31.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9c1876736ace5c4183b47327f5e79d9
+    m_Address: Assets/UI/Locations/Kaer Morhen/K42.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7abf5cf484acd6c4b9013b023808b3ca
+    m_Address: Assets/UI/Locations/Kaer Morhen/K14.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6a8eba582114f184c8b8399cc87c68ce
+    m_Address: Assets/UI/Locations/Kaer Morhen/K39.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c15bc2603ec1e23489744a5602154ecf
+    m_Address: Assets/UI/Locations/Kaer Morhen/K6.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4448e3d882649e46bb9f7a8aa8ee6ac
+    m_Address: Assets/UI/Locations/Kaer Morhen/K16.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd93703a9d70c7a46ad6da840f7f40f9
+    m_Address: Assets/UI/Locations/Kaer Morhen/K29.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f63f545a0f53f2844a947b0d8a0437f0
+    m_Address: Assets/UI/Locations/Kaer Morhen/K11.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8ae99f8d4f07c74ca379c9b63a5e494
+    m_Address: Assets/UI/Locations/Kaer Morhen/K13.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f099e67d08d56d40916444115d05a6d
+    m_Address: Assets/UI/Locations/Kaer Morhen/K9.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3f9941772e37694b830523faff2dbde
+    m_Address: Assets/UI/Locations/Kaer Morhen/K45.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 95cfc2068e1654b4e9cc015ec5a7d5e8
+    m_Address: Assets/UI/Locations/Kaer Morhen/K33.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e969532bafdd70d4c81b230f4c008c56
+    m_Address: Assets/UI/Locations/Kaer Morhen/K8.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4e93ec71330d3f54bb1a049b77dd02b7
+    m_Address: Assets/UI/Locations/Kaer Morhen/K23.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 07a2723bf935e8a44aa88fbc965fea40
+    m_Address: Assets/UI/Locations/Kaer Morhen/K30.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 011d1463b1050604888c1b956d2a62b1
+    m_Address: Assets/UI/Locations/Kaer Morhen/K28.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f556b0f082b2e4468ca1dbbbdb3f57d
+    m_Address: Assets/UI/Locations/Kaer Morhen/K17.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd0790cfe26624c46b06e00a8f015d2c
+    m_Address: Assets/UI/Locations/Kaer Morhen/K24.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7b53c909d1cbe794ca88a5531d93144c
+    m_Address: Assets/UI/Locations/Kaer Morhen/K3.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e6439b46d17fe6f46b43b206cd349621
+    m_Address: Assets/UI/Locations/Kaer Morhen/K34.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 884f37d31d04ad14ebcd4dffb89eb078
+    m_Address: Assets/UI/Locations/Kaer Morhen/K12.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1504f0c640cbc44387af1023f6863eb
+    m_Address: Assets/UI/Locations/Kaer Morhen/K27.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 076ecf20a34317845bb1a9959a110319
+    m_Address: Assets/UI/Locations/Kaer Morhen/K41.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 579ef9e35fe72234ab352987c7415ab4
+    m_Address: Assets/UI/Locations/Kaer Morhen/K47.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5ac5d531533f1684392fca591b82a746
+    m_Address: Assets/UI/Locations/Kaer Morhen/K19.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c1b2f2b0320bd524fb1ccaa558401379
+    m_Address: Assets/UI/Locations/Kaer Morhen/K32.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9c7a4468d849ef54f96640832f7c4d82
+    m_Address: Assets/UI/Locations/Kaer Morhen/K5.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea88f53cdf912364b9c693502b534fef
+    m_Address: Assets/UI/Locations/Kaer Morhen/K20.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dd3d427bc338af5489c6854a9ef2bfc0
+    m_Address: Assets/UI/Locations/Kaer Morhen/K2.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 743d0a8f70364da4891b5f0d96466910
+    m_Address: Assets/UI/Locations/Kaer Morhen/K4.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a34489b7d88b74469420a785a4c705d
+    m_Address: Assets/UI/Locations/Kaer Morhen/K36.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 63a3ffe8cb7e56546907148e81b89e32
+    m_Address: Assets/UI/Locations/Kaer Morhen/K35.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2b161bf8e618f0246965367fa55392ca
+    m_Address: Assets/UI/Locations/Kaer Morhen/K18.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f9ae122d5488fb446b83afef0c30610c
+    m_Address: Assets/UI/Locations/Kaer Morhen/K1.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - kaermorhen
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 154bc2ac59ecb0a42bfcbacc4f781828, type: 2}
   m_SchemaSet:

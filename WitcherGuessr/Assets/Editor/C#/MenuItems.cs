@@ -67,7 +67,7 @@ public class MenuItems : MonoBehaviour
     private static void InitializeLocationIndexes()
     {
         Debug.Log("Starting location value default value initialization");
-        
+
         var LocationManager = FindObjectOfType<LocationManager>();
         EditorUtility.SetDirty(LocationManager);
 
@@ -77,12 +77,8 @@ public class MenuItems : MonoBehaviour
 
         foreach (var area in LocationManager.LocationSelections)
         {
-            var eligibleLocations = area.LocationsForViewing
-                .Where(location => string.IsNullOrEmpty(location.Name.Trim()) || 
-                                   !area.DefaultLocationName.Contains(location.Name) || 
-                                   !area.DefaultLocationName.Contains("Oxenfurt") ||
-                                   !area.DefaultLocationName.Contains("Novigrad")).ToList();
-            
+            var eligibleLocations = area.LocationsForViewing.Where(location => string.IsNullOrEmpty(location.Name.Trim())).ToList();
+
             foreach (var locationWithoutName in eligibleLocations)
                 locationWithoutName.Name = area.DefaultLocationName;
         }
