@@ -10469,6 +10469,559 @@ MonoBehaviour:
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
+  - MapType: 4
+    DefaultLocationName: Kaer Morhen
+    LocationsForViewing:
+    - Index: 0
+      Coordinates: {x: -2.655, y: -10.187}
+      Name: Kaer Morhen
+      Description: kaer morhen signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 639ebcb52db4d8440987deb55849860d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 1
+      Coordinates: {x: 4.8339, y: 28.153}
+      Name: Kaer Morhen
+      Description: old troll's cave, north of kaer morhen
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: f9ae122d5488fb446b83afef0c30610c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 2
+      Coordinates: {x: 3.0943, y: 26.8166}
+      Name: Kaer Morhen
+      Description: troll tunnel, north of kaer morhen
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: dd3d427bc338af5489c6854a9ef2bfc0
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 3
+      Coordinates: {x: 3.582804, y: 24.70851}
+      Name: Kaer Morhen
+      Description: circle of elements, north of kaer morhen
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 7b53c909d1cbe794ca88a5531d93144c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 4
+      Coordinates: {x: 3.514245, y: 24.622}
+      Name: Kaer Morhen
+      Description: circle of elements, north of kaer morhen
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 743d0a8f70364da4891b5f0d96466910
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 5
+      Coordinates: {x: 1.4403, y: 24.46855}
+      Name: Kaer Morhen
+      Description: old speartip's cave, north of kaer morhen
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 9c7a4468d849ef54f96640832f7c4d82
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 6
+      Coordinates: {x: 1.757443, y: 23.63729}
+      Name: Kaer Morhen
+      Description: place of power by old speartip's cave
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c15bc2603ec1e23489744a5602154ecf
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 7
+      Coordinates: {x: -0.15361, y: 23.30307}
+      Name: Kaer Morhen
+      Description: ruins, north of kaer morhen
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 74260be96bb9d3c43a967d48abc49afe
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 8
+      Coordinates: {x: -2.16751, y: 19.0867}
+      Name: Kaer Morhen
+      Description: ruined watchtower, north of kaer morhen
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e969532bafdd70d4c81b230f4c008c56
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 9
+      Coordinates: {x: 1.500351, y: 19.03532}
+      Name: Kaer Morhen
+      Description: entrance to old speartip's cave, north of kaer morhen
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 2f099e67d08d56d40916444115d05a6d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 10
+      Coordinates: {x: -4.7958, y: 9.2246}
+      Name: Kaer Morhen
+      Description: ruins, north of kaer morhen
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: b195ca10f30b13e47b28fc3e2d3e3d42
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 11
+      Coordinates: {x: 4.582895, y: 4.165063}
+      Name: Kaer Morhen
+      Description: entrance to old troll's cave
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: f63f545a0f53f2844a947b0d8a0437f0
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 12
+      Coordinates: {x: 0.51054, y: 0.9154}
+      Name: Kaer Morhen
+      Description: lakeside hut, north of kaer morhen keep
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 884f37d31d04ad14ebcd4dffb89eb078
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 13
+      Coordinates: {x: -10.4999, y: -2.4713}
+      Name: Kaer Morhen
+      Description: trial of the grasses cave, west of kaer morhen
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: a8ae99f8d4f07c74ca379c9b63a5e494
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 14
+      Coordinates: {x: -10.2668, y: -8.778712}
+      Name: Kaer Morhen
+      Description: bastion signpost, west of kaer morhen keep
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 7abf5cf484acd6c4b9013b023808b3ca
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 15
+      Coordinates: {x: -11.281, y: -9.039}
+      Name: Kaer Morhen
+      Description: ruins of the bastion, west of kaer morhen keep
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 4108e1d09d2bff74db8e3701ca839ab7
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 16
+      Coordinates: {x: -3.315004, y: -11.72671}
+      Name: Kaer Morhen
+      Description: top of the old watchtower
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: f4448e3d882649e46bb9f7a8aa8ee6ac
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 17
+      Coordinates: {x: -3.1367, y: -11.713}
+      Name: Kaer Morhen
+      Description: top of the old watchtower
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 8f556b0f082b2e4468ca1dbbbdb3f57d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 18
+      Coordinates: {x: 12.45551, y: -9.787373}
+      Name: Kaer Morhen
+      Description: silver sword cave, east of kaer morhen keep
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 2b161bf8e618f0246965367fa55392ca
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 19
+      Coordinates: {x: 8.946189, y: -13.85373}
+      Name: Kaer Morhen
+      Description: island in the valley, east of kaer morhen keep
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 5ac5d531533f1684392fca591b82a746
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 20
+      Coordinates: {x: -4.1539, y: -16.34496}
+      Name: Kaer Morhen
+      Description: iron mine signpost, south of kaer morhen keep
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ea88f53cdf912364b9c693502b534fef
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 21
+      Coordinates: {x: -6.322137, y: -17.50188}
+      Name: Kaer Morhen
+      Description: entrance to the abandoned iron mine
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 95e2b3d97325c634baf01d81bc166db1
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 22
+      Coordinates: {x: 0.3280029, y: -16.70489}
+      Name: Kaer Morhen
+      Description: training spot, south of kaer morhen keep
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 2a39e9a0a5918d448b022ca10fd964ec
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 23
+      Coordinates: {x: 6.6404, y: -20.66241}
+      Name: Kaer Morhen
+      Description: greenhouse, south of kaer morhen keep
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 4e93ec71330d3f54bb1a049b77dd02b7
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 24
+      Coordinates: {x: 3.743912, y: -23.37045}
+      Name: Kaer Morhen
+      Description: forktail's cave entrance, south of kaer morhen
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: fd0790cfe26624c46b06e00a8f015d2c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 25
+      Coordinates: {x: -1.982, y: -22.02243}
+      Name: Kaer Morhen
+      Description: waterfall in the river, south of kaer morhen keep
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: d663fa2560e60a8479f206fc318780c3
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 26
+      Coordinates: {x: -2.417323, y: -17.24307}
+      Name: Kaer Morhen
+      Description: leo's grave, south of kaer morhen
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 7ea509e43e89ae84da11a3753a78d5d2
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 27
+      Coordinates: {x: 2.451162, y: -11.19367}
+      Name: Kaer Morhen
+      Description: vesemir's funeral by kaer morhen keep
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: a1504f0c640cbc44387af1023f6863eb
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 28
+      Coordinates: {x: 1.637, y: -9.856789}
+      Name: Kaer Morhen
+      Description: southern entrance to kaer morhen keep
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 011d1463b1050604888c1b956d2a62b1
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 29
+      Coordinates: {x: 0.5795, y: -7.717774}
+      Name: Kaer Morhen
+      Description: '''i know something that might lift your spirits'''
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: cd93703a9d70c7a46ad6da840f7f40f9
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 30
+      Coordinates: {x: -2.361619, y: -8.987814}
+      Name: Kaer Morhen
+      Description: front gate to the kaer morhen keep
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 07a2723bf935e8a44aa88fbc965fea40
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 31
+      Coordinates: {x: 1.793861, y: -8.553328}
+      Name: Kaer Morhen
+      Description: bedroom, kaer morhen keep
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 70f16ad233f7810448b0aa9df1cca905
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 32
+      Coordinates: {x: 1.504202, y: -8.542186}
+      Name: Kaer Morhen
+      Description: study room, kaer morhen keep
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c1b2f2b0320bd524fb1ccaa558401379
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 33
+      Coordinates: {x: 0.9471667, y: -9.266331}
+      Name: Kaer Morhen
+      Description: Cirilla Fiona Elen Riannon in training
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 95cfc2068e1654b4e9cc015ec5a7d5e8
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 34
+      Coordinates: {x: -1.6374, y: -9.3777}
+      Name: Kaer Morhen
+      Description: outer courtyard, kaer morhen keep
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e6439b46d17fe6f46b43b206cd349621
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 35
+      Coordinates: {x: -0.4231391, y: -8.8764}
+      Name: Kaer Morhen
+      Description: outer courtyard, kaer morhen keep
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 63a3ffe8cb7e56546907148e81b89e32
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 36
+      Coordinates: {x: -1.448084, y: -8.341654}
+      Name: Kaer Morhen
+      Description: inner courtyard, kaer morhen keep
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 8a34489b7d88b74469420a785a4c705d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 37
+      Coordinates: {x: -1.024737, y: -8.842986}
+      Name: Kaer Morhen
+      Description: the battle of kaer morhen
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: cd893eed9f0b4464e9582dafc7859e6a
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 38
+      Coordinates: {x: -1.648, y: -7.595}
+      Name: Kaer Morhen
+      Description: inner courtyard, kaer morhen keep
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 27fc879f8f5bd4d4f9c169c316a72f7d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 39
+      Coordinates: {x: -1.23641, y: -7.572}
+      Name: Kaer Morhen
+      Description: inner courtyard, kaer morhen keep
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 6a8eba582114f184c8b8399cc87c68ce
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 40
+      Coordinates: {x: -0.6793, y: -6.4922}
+      Name: Kaer Morhen
+      Description: inner courtyard, kaer morhen keep
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 56c850290c95b5f44828e875673c762f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 41
+      Coordinates: {x: -0.4454, y: -7.7511}
+      Name: Kaer Morhen
+      Description: inner courtyard, kaer morhen keep
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 076ecf20a34317845bb1a9959a110319
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 42
+      Coordinates: {x: 0.9694464, y: -7.6954}
+      Name: Kaer Morhen
+      Description: entrance to the kaer morhen keep
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: d9c1876736ace5c4183b47327f5e79d9
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 43
+      Coordinates: {x: 1.45963, y: -7.728917}
+      Name: Kaer Morhen
+      Description: keira 'gavella glan' metz, kaer morhen keep
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 8f975c5ae0247924c85f9dd63254dde7
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 44
+      Coordinates: {x: 2.473441, y: -7.227}
+      Name: Kaer Morhen
+      Description: the battle of kaer morhen
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 0f8e7c0be168c5b429bf9a1a08b76a7d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 45
+      Coordinates: {x: 2.763099, y: -8.051996}
+      Name: Kaer Morhen
+      Description: kaer morhen keep
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: a3f9941772e37694b830523faff2dbde
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 46
+      Coordinates: {x: 3.464963, y: -7.361}
+      Name: Kaer Morhen
+      Description: kaer morhen keep
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 3894905b4fcbad44290da1832f25d40f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 47
+      Coordinates: {x: 4.244812, y: -7.30557}
+      Name: Kaer Morhen
+      Description: top floor of tower in kaer morhen keep
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 579ef9e35fe72234ab352987c7415ab4
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 48
+      Coordinates: {x: 3.587511, y: -7.8626}
+      Name: Kaer Morhen
+      Description: kaer morhen keep
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ee7e7c9088ef9224aa682de0e2d180f0
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 49
+      Coordinates: {x: 4.1779, y: -8.141122}
+      Name: Kaer Morhen
+      Description: kaer morhen keep
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 3d620b05029397c4ebd2f9299709cd9b
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
   _fromIndex: -1
   _toIndex: -1
 --- !u!1 &556506242
