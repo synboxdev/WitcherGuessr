@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Fablesphere
+  m_EditorClassIdentifier: 
+  m_GroupName: Fablesphere
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 8d2092392eb9d1549a60f1b800361cf2
+  m_SerializeEntries:
+  - m_GUID: 105117c915953e343805d9effc213308
+    m_Address: Assets/UI/Locations/Fablesphere/F9.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - fablesphere
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eb591c56f4c2e1743b2a7419a4782c86
+    m_Address: Assets/UI/Locations/Fablesphere/F1.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - fablesphere
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 683a51b8d62f2074ba16b7b6c7868603
+    m_Address: Assets/UI/Locations/Fablesphere/F6.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - fablesphere
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1802d11c961fa3147b686eb84c48a85e
+    m_Address: Assets/UI/Locations/Fablesphere/F2.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - fablesphere
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f821dbaeab366014f9004ab78b80c574
+    m_Address: Assets/UI/Locations/Fablesphere/F12.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - fablesphere
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64ac57f125b06e74bbc2f647851b4193
+    m_Address: Assets/UI/Locations/Fablesphere/F10.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - fablesphere
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1e30aa01909bf24439e3afe96c3f05e6
+    m_Address: Assets/UI/Locations/Fablesphere/F4.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - fablesphere
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c8f93db3c9fbea74d921489e61bfa0c9
+    m_Address: Assets/UI/Locations/Fablesphere/F21.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - fablesphere
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd61b06ce16d29c43bd2633a5c49222c
+    m_Address: Assets/UI/Locations/Fablesphere/F16.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - fablesphere
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f4b3ba449093e3a46b6b56c2fd523ad1
+    m_Address: Assets/UI/Locations/Fablesphere/F13.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - fablesphere
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee7339e0855b87c46abe6db3cd1c1ffd
+    m_Address: Assets/UI/Locations/Fablesphere/F19.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - fablesphere
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a83a65ff303255d4f9b00a30db6f81f9
+    m_Address: Assets/UI/Locations/Fablesphere/F5.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - fablesphere
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c5f386d9bcc314f48a5d2033aa648db5
+    m_Address: Assets/UI/Locations/Fablesphere/F0.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - fablesphere
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d270fcb245ad9184782fcfc8062db031
+    m_Address: Assets/UI/Locations/Fablesphere/F18.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - fablesphere
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d7f1309e9669e943a42e4ed3d2ee708
+    m_Address: Assets/UI/Locations/Fablesphere/F7.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - fablesphere
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3931f1253e24bec4da841f4b5e0ab4e8
+    m_Address: Assets/UI/Locations/Fablesphere/F11.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - fablesphere
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87ca65acad95b904b91a09874e90cf0d
+    m_Address: Assets/UI/Locations/Fablesphere/F17.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - fablesphere
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8ab8f4f343b120443b0606ada19e63cb
+    m_Address: Assets/UI/Locations/Fablesphere/F8.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - fablesphere
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 02ed0f92b92cba54ca21de81a3f37ec1
+    m_Address: Assets/UI/Locations/Fablesphere/F3.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - fablesphere
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 82c4bf0c25504dc4cb3577ce219b7347
+    m_Address: Assets/UI/Locations/Fablesphere/F15.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - fablesphere
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5a349ee7af3decb4586acb40027f5aba
+    m_Address: Assets/UI/Locations/Fablesphere/F14.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - fablesphere
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e50b500c13e983546809510783d7b07e
+    m_Address: Assets/UI/Locations/Fablesphere/F20.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - fablesphere
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 154bc2ac59ecb0a42bfcbacc4f781828, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: bded4472668440e4d85d949920452f27, type: 2}
+    - {fileID: 11400000, guid: 07b95cfc7adeba049985b11a8779f3bc, type: 2}

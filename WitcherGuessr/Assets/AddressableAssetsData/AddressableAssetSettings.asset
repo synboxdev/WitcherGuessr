@@ -129,6 +129,7 @@ MonoBehaviour:
     - isleofmists
     - gauntersworld
     - kaermorhen
+    - fablesphere
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: 216782e95bbe27747b4c8a3071586b67, type: 2}
