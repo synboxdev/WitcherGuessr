@@ -11022,6 +11022,251 @@ MonoBehaviour:
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
+  - MapType: 8
+    DefaultLocationName: Fablesphere
+    LocationsForViewing:
+    - Index: 0
+      Coordinates: {x: 2.0844, y: -8.279924}
+      Name: Fablesphere
+      Description: welcome to beyond hill and dale
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c5f386d9bcc314f48a5d2033aa648db5
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 1
+      Coordinates: {x: 2.055506, y: -7.201507}
+      Name: Fablesphere
+      Description: Grigg Village
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: eb591c56f4c2e1743b2a7419a4782c86
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 2
+      Coordinates: {x: 0.933663, y: -6.984376}
+      Name: Fablesphere
+      Description: collapsed bridge
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 1802d11c961fa3147b686eb84c48a85e
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 3
+      Coordinates: {x: -0.07237, y: -7.194}
+      Name: Fablesphere
+      Description: entrance to wicked witch's village
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 02ed0f92b92cba54ca21de81a3f37ec1
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 4
+      Coordinates: {x: -0.41254, y: -7.114655}
+      Name: Fablesphere
+      Description: wicked witch's village
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 1e30aa01909bf24439e3afe96c3f05e6
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 5
+      Coordinates: {x: -0.5283515, y: -5.790157}
+      Name: Fablesphere
+      Description: beyond hill and dale
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: a83a65ff303255d4f9b00a30db6f81f9
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 6
+      Coordinates: {x: -1.6429, y: -5.5296}
+      Name: Fablesphere
+      Description: joss, The Boy Who Cried Wolf
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 683a51b8d62f2074ba16b7b6c7868603
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 7
+      Coordinates: {x: -3.691224, y: -4.458421}
+      Name: Fablesphere
+      Description: path to longlocks' tower
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 3d7f1309e9669e943a42e4ed3d2ee708
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 8
+      Coordinates: {x: -4.61765, y: -4.465658}
+      Name: Fablesphere
+      Description: longlocks' tower
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 8ab8f4f343b120443b0606ada19e63cb
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 9
+      Coordinates: {x: -4.016921, y: -5.46446}
+      Name: Fablesphere
+      Description: dead knight of toussaint
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 105117c915953e343805d9effc213308
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 10
+      Coordinates: {x: -4.17615, y: -6.246131}
+      Name: Fablesphere
+      Description: The Musicians of Blaviken
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 64ac57f125b06e74bbc2f647851b4193
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 11
+      Coordinates: {x: -3.322102, y: -6.781721}
+      Name: Fablesphere
+      Description: Three Bears' Den
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 3931f1253e24bec4da841f4b5e0ab4e8
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 12
+      Coordinates: {x: -4.682789, y: -7.1508}
+      Name: Fablesphere
+      Description: Little Red Riding Hood's Grandma's House
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: f821dbaeab366014f9004ab78b80c574
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 13
+      Coordinates: {x: -4.697264, y: -6.868573}
+      Name: Fablesphere
+      Description: Little Red Riding Hood's Grandma's House
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: f4b3ba449093e3a46b6b56c2fd523ad1
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 14
+      Coordinates: {x: -5.825005, y: -7.440351}
+      Name: Fablesphere
+      Description: Redbeard's Camp and Balbina the Goose
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 5a349ee7af3decb4586acb40027f5aba
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 15
+      Coordinates: {x: -6.353357, y: -5.609215}
+      Name: Fablesphere
+      Description: Balbina's Hut
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 82c4bf0c25504dc4cb3577ce219b7347
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 16
+      Coordinates: {x: -5.701964, y: -5.276279}
+      Name: Fablesphere
+      Description: Remains of dead Vizima Dragon
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: cd61b06ce16d29c43bd2633a5c49222c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 17
+      Coordinates: {x: -6.179652, y: -3.712938}
+      Name: Fablesphere
+      Description: Three Little Pigs' Home
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 87ca65acad95b904b91a09874e90cf0d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 18
+      Coordinates: {x: -5.130187, y: -2.85889}
+      Name: Fablesphere
+      Description: Thumbelina's Town
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: d270fcb245ad9184782fcfc8062db031
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 19
+      Coordinates: {x: -4.493269, y: -1.071178}
+      Name: Fablesphere
+      Description: pot of gold, at the end of the rainbow
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ee7339e0855b87c46abe6db3cd1c1ffd
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 20
+      Coordinates: {x: -2.944403, y: -2.656234}
+      Name: Fablesphere
+      Description: little flint girl in the Snowy Village
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e50b500c13e983546809510783d7b07e
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 21
+      Coordinates: {x: -4.305089, y: -4.234052}
+      Name: Fablesphere
+      Description: stairs to longlocks' tower
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c8f93db3c9fbea74d921489e61bfa0c9
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
   _fromIndex: -1
   _toIndex: -1
 --- !u!1 &556506242

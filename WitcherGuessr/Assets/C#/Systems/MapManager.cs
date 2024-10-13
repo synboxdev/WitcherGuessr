@@ -51,7 +51,7 @@ public class MapManager : MonoBehaviour
             case MapType.GauntersWorld:
                 return MapSelectionSelectedHOS;
             case MapType.Toussaint:
-            case MapType.Fables:
+            case MapType.Fablesphere:
                 return MapSelectionSelectedBAW;
             case MapType.Default:
             case MapType.WhiteOrchard:

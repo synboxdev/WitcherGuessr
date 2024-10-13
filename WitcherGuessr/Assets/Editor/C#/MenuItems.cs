@@ -145,7 +145,7 @@ public class MenuItems : MonoBehaviour
                 return "G";
             case MapType.Toussaint:
                 return "T";
-            case MapType.Fables:
+            case MapType.Fablesphere:
                 return "F";
         }
 
