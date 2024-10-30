@@ -2,13 +2,32 @@ using UnityEngine;
 
 public class PanoramicImageCameraController : MonoBehaviour
 {
+    public MeshRenderer meshRenderer;
+
+    [Header("Spherical viewing")]
     public float rotateSpeed = 4.0f;
     public float zoomSpeed = 2500.0f;
     public float zoomAmount = 0.0f;
 
-    public MeshRenderer meshRenderer;
+    [Header("Camera panning")]
+    public float panSpeed = 10f;
+    public float screenEdgeBuffer = 0.05f; // 5% of the screen
 
     void Update()
+    {
+        HandleInteractiveCamera();
+        HandleCameraPan();
+    }
+
+    public void DisplayImage(Texture sprite)
+    {
+        meshRenderer.material.mainTexture = sprite;
+        ResetZoom();
+    } 
+
+    private void ResetZoom() => zoomAmount = 0;
+
+    private void HandleInteractiveCamera()
     {
         if (Input.GetMouseButton(0))
         {
@@ -26,11 +45,14 @@ public class PanoramicImageCameraController : MonoBehaviour
         Camera.main.transform.localPosition = new Vector3(0, 0, zoomAmount);
     }
 
-    public void DisplayImage(Texture sprite)
+    private void HandleCameraPan()
     {
-        meshRenderer.material.mainTexture = sprite;
-        ResetZoom();
-    } 
+        Vector3 mousePos = Input.mousePosition;
+        float screenWidth = Screen.width;
 
-    private void ResetZoom() => zoomAmount = 0;
+        if (mousePos.x >= screenWidth * (1 - screenEdgeBuffer)) // Right edge
+            transform.localEulerAngles += new Vector3(0, panSpeed * Time.deltaTime, 0);
+        else if (mousePos.x <= screenWidth * screenEdgeBuffer) // Left edge
+            transform.localEulerAngles -= new Vector3(0, panSpeed * Time.deltaTime, 0);
+    }
 }

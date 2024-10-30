@@ -149,6 +149,36 @@ MonoBehaviour:
     m_SerializedLabels:
     - fablesphere
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a24f1db1c0407d740b83baed3235342e
+    m_Address: Assets/UI/Locations/Fablesphere/F22.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - fablesphere
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d15ef32a3d559c4ba5faae2d6eb697d
+    m_Address: Assets/UI/Locations/Fablesphere/F23.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - fablesphere
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dab76e98f583b1846a7efab07c8c856c
+    m_Address: Assets/UI/Locations/Fablesphere/F24.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - fablesphere
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 939256fe8a1cc7c45ab49831dbdc0413
+    m_Address: Assets/UI/Locations/Fablesphere/F25.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - fablesphere
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99ed742f8c647ae499b07565f27fcdb6
+    m_Address: Assets/UI/Locations/Fablesphere/F26.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - fablesphere
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 154bc2ac59ecb0a42bfcbacc4f781828, type: 2}
   m_SchemaSet:

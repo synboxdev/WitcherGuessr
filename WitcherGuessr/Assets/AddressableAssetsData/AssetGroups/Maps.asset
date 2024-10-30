@@ -47,7 +47,7 @@ MonoBehaviour:
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 573f4901c9ae6a24db2bc6938f1eb902
+  - m_GUID: e428342631c710a4eaf9e2c72bdbdded
     m_Address: Assets/UI/Maps/Prefabs/Toussaint.prefab
     m_ReadOnly: 0
     m_SerializedLabels: []

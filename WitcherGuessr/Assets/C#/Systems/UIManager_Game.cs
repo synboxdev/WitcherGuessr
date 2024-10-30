@@ -225,7 +225,7 @@ public class UIManager_Game : MonoBehaviour
                       (mapSelection, locationSelection) => new { mapSelection, locationSelection })
                 .Where(x => x.mapSelection.MapType != MapType.AllMaps)
                 .Where(x => x.locationSelection.LocationsForViewing.Any())
-                .Where(x => !x.mapSelection.AddressableMapLoaded).ToList();
+                .ToList();
 
             foreach (var map in eligibleMaps)
                 map.mapSelection.MapGameObject = await MapManager.GetInitializedMapAsync(map.mapSelection);

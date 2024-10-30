@@ -1317,7 +1317,7 @@ MonoBehaviour:
     MapType: 7
     MapName: toussaint
     MapGameObject: {fileID: 0}
-    MapPrefab: {fileID: 2514854231302726727, guid: 573f4901c9ae6a24db2bc6938f1eb902, type: 3}
+    MapPrefab: {fileID: 4661177834870197070, guid: e428342631c710a4eaf9e2c72bdbdded, type: 3}
     AddressableMapSprite:
       m_AssetGUID: cc6b29f971a8368499a91305f9d9ccbd
       m_SubObjectName: 
@@ -10188,6 +10188,17 @@ MonoBehaviour:
         m_SubObjectType: 
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
+    - Index: 201
+      Coordinates: {x: 18.569, y: -26.516}
+      Name: Skellige Isles
+      Description: Jutta an Dimun's home, harviken village
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 1fe5bac4f6ee2db4ab4bc9966065372c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
   - MapType: 5
     DefaultLocationName: Isle of Mists
     LocationsForViewing:
@@ -11263,6 +11274,3562 @@ MonoBehaviour:
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
         m_AssetGUID: c8f93db3c9fbea74d921489e61bfa0c9
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 22
+      Coordinates: {x: -1.823285, y: 3.095642}
+      Name: Fablesphere
+      Description: cloud giant up the bean stalk
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: a24f1db1c0407d740b83baed3235342e
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 23
+      Coordinates: {x: -2.078955, y: 4.421556}
+      Name: Fablesphere
+      Description: castle in the clouds
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 2d15ef32a3d559c4ba5faae2d6eb697d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 24
+      Coordinates: {x: -1.71626, y: 4.849655}
+      Name: Fablesphere
+      Description: magic donkey and magic gold
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: dab76e98f583b1846a7efab07c8c856c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 25
+      Coordinates: {x: -2.180033, y: 5.396669}
+      Name: Fablesphere
+      Description: well well well...
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 939256fe8a1cc7c45ab49831dbdc0413
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 26
+      Coordinates: {x: -2.098767, y: 3.608952}
+      Name: Fablesphere
+      Description: the bonfire
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 99ed742f8c647ae499b07565f27fcdb6
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+  - MapType: 7
+    DefaultLocationName: Toussaint
+    LocationsForViewing:
+    - Index: 0
+      Coordinates: {x: -12.79305, y: -16.73198}
+      Name: Toussaint
+      Description: entrance to the murky delve cave
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 1e8207c4bf773814aa09ef6035900d87
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 1
+      Coordinates: {x: -11.34314, y: -17.81458}
+      Name: Toussaint
+      Description: Seidhe Llygad Amphitheater signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 2c9a0f9645bbb58479be08840033b862
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 2
+      Coordinates: {x: -10.70518, y: -18.89718}
+      Name: Toussaint
+      Description: center of Seidhe Llygad Amphitheater
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 0739089cf7ac5c742b17ed795aca525a
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 3
+      Coordinates: {x: -10.28954, y: -18.29788}
+      Name: Toussaint
+      Description: secret cave under Seidhe Llygad Amphitheater
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 2a95ef8d199dc254ab69b40c6b3825a6
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 4
+      Coordinates: {x: -10.80184, y: -17.36027}
+      Name: Toussaint
+      Description: fisherman's hut by Seidhe Llygad Amphitheater
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 31e71318df6958c439dfa2891951ad44
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 5
+      Coordinates: {x: -11.24648, y: -21.53602}
+      Name: Toussaint
+      Description: knight errant in distress, south of Seidhe Llygad Amphitheater
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 9421cc23360f1774b9ca81ecf1e963c4
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 6
+      Coordinates: {x: -7.931018, y: -22.91827}
+      Name: Toussaint
+      Description: place of power, west of hortense vineyard
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 7384491b10acee14a8e080c111f5b7d5
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 7
+      Coordinates: {x: -5.843145, y: -22.10632}
+      Name: Toussaint
+      Description: guarded treasure, west of hortense vineyard
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: fc2f82487f6cecc4ab2ba1dc7b1f8ef3
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 8
+      Coordinates: {x: -2.933657, y: -23.95254}
+      Name: Toussaint
+      Description: hortense vineyard signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e3557a23d319b9a46b667f36e2125ad5
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 9
+      Coordinates: {x: -2.518015, y: -25.30579}
+      Name: Toussaint
+      Description: hortense vineyard estate
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 5acb7d114f92fab48ad3f7d31a0612e1
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 10
+      Coordinates: {x: -0.1111627, y: -26.49471}
+      Name: Toussaint
+      Description: slyzard in tilly field, by hortense vineyard
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 96168178638abe64d8155e83b8b0ec8f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 11
+      Coordinates: {x: 0.3528099, y: -30.52547}
+      Name: Toussaint
+      Description: abandoned coopers' workshop, caroberta woods
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 4620f07fb55bf094085d94dc7e5ca98e
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 12
+      Coordinates: {x: 5.139451, y: -28.64735}
+      Name: Toussaint
+      Description: tesham mutna ruins signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 38aa10cc3a6bcfc449c2868ec8aa1dc9
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 13
+      Coordinates: {x: 6.473369, y: -28.22204}
+      Name: Toussaint
+      Description: tesham mutna ruins
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 38b90b6bcdc5a6a459cae1d021152241
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 14
+      Coordinates: {x: 5.526094, y: -27.70008}
+      Name: Toussaint
+      Description: '''If you acknowledge any gods... start praying, now'''
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 23e164fef17cd764983d26d8e0c11bb5
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 15
+      Coordinates: {x: 6.502367, y: -28.32837}
+      Name: Toussaint
+      Description: tesham mutna dungeons
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 4827cda0eb1edc94aadc64f8f2bab860
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 16
+      Coordinates: {x: 5.642085, y: -29.063}
+      Name: Toussaint
+      Description: tesham mutna dungeons
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: b78cd874e7491884cbb53438c877add0
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 17
+      Coordinates: {x: 10.34946, y: -28.51203}
+      Name: Toussaint
+      Description: abandoned storehouse, caroberta woods
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 0d1b0d268f315b54787584354f818f99
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 18
+      Coordinates: {x: 9.953156, y: -28.74402}
+      Name: Toussaint
+      Description: abandoned storehouse basement, caroberta woods
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: f5e113b67704ab049b74cecf8f19019d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 19
+      Coordinates: {x: -0.6969298, y: -18.46318}
+      Name: Toussaint
+      Description: belgaard vineyard signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 7ef12b76aacc6c849a55288476eaa3b9
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 20
+      Coordinates: {x: 0.4243352, y: -17.53523}
+      Name: Toussaint
+      Description: belgaard vineyard estate
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: bd16c8b5d3a2ff24981b90f975054017
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 21
+      Coordinates: {x: -0.1942935, y: -14.63541}
+      Name: Toussaint
+      Description: peasant couple's house, east of beauclair
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 3303ae0f401904147be6c9a856c5049a
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 22
+      Coordinates: {x: 3.710801, y: -15.53436}
+      Name: Toussaint
+      Description: "M\xE8re-Lachaiselongue Cemetery signpost"
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: b4991bfcca4a8854c94de6ecdc6cde90
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 23
+      Coordinates: {x: 4.174772, y: -16.06116}
+      Name: Toussaint
+      Description: "M\xE8re-Lachaiselongue Cemetery, tomb entrance"
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: bd47b4d41cf3ec84a93efd7ea3da1296
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 24
+      Coordinates: {x: 3.913788, y: -16.38014}
+      Name: Toussaint
+      Description: "M\xE8re-Lachaiselongue Cemetery tombs"
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 488ff806f5aca474ab8787ec7eb40370
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 25
+      Coordinates: {x: 5.218709, y: -14.44692}
+      Name: Toussaint
+      Description: fishermen's hut, east of beauclair
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e088e553629bdf74cbf5f0424fc93b77
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 26
+      Coordinates: {x: 4.667743, y: -20.8072}
+      Name: Toussaint
+      Description: francollarts signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 51080d46c8a6be94d9b7182dccafb5b5
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 27
+      Coordinates: {x: 5.566688, y: -19.57961}
+      Name: Toussaint
+      Description: entrance to 'the scarlet cardinal inn', francollarts
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 98560c3009773a242b93624dbea85340
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 28
+      Coordinates: {x: 5.837338, y: -19.62794}
+      Name: Toussaint
+      Description: '''the scarlet cardinal inn'', francollarts'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 5b5a3f9914b283346b185839ae7535c5
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 29
+      Coordinates: {x: 5.818006, y: -20.66221}
+      Name: Toussaint
+      Description: armorer's workshop, francollarts
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 0da6bc16d22a46b4bb060612f00d1b0e
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 30
+      Coordinates: {x: 5.479692, y: -14.8239}
+      Name: Toussaint
+      Description: Professor Moreau's laboratory
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 9b47bc96252f6d444bbdeacb1d665c5b
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 31
+      Coordinates: {x: 5.450695, y: -15.34587}
+      Name: Toussaint
+      Description: Professor Moreau's laboratory
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: a111a9f6e83f36c4b9076cc0638b86c2
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 32
+      Coordinates: {x: 11.26967, y: -18.613}
+      Name: Toussaint
+      Description: '''extreme cosplay'' quest start'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 74c8b1c8d731ef24fa8b93e4eded018e
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 33
+      Coordinates: {x: 10.51572, y: -19.67627}
+      Name: Toussaint
+      Description: Doren Alma Estate
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e6b4fcef9f6fe734b81cc87547009613
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 34
+      Coordinates: {x: 12.99507, y: -16.15782}
+      Name: Toussaint
+      Description: gelenser farm signpost, caroberta woods
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 1f0428e9e681f84438b24f0131f07292
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 35
+      Coordinates: {x: 16.22354, y: -19.08664}
+      Name: Toussaint
+      Description: chapel of prayers, caroberta woods
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: bf613145b5e904249a77e2c60004d670
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 36
+      Coordinates: {x: 14.46431, y: -23.22372}
+      Name: Toussaint
+      Description: trastamara hunting cottage signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e513b3d420d85d449b68605afcbca181
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 37
+      Coordinates: {x: 15.70157, y: -22.21844}
+      Name: Toussaint
+      Description: trastamara estate ruins
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ed59964a93fe5a141af62434a9e0bc22
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 38
+      Coordinates: {x: 16.2912, y: -21.69648}
+      Name: Toussaint
+      Description: trastamara estate
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 613b79ad73b5e004c900aeea14246315
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 39
+      Coordinates: {x: 16.51352, y: -22.00579}
+      Name: Toussaint
+      Description: trastamara estate
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 907ca69f15404d84cbe985fa000d8646
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 40
+      Coordinates: {x: 16.33953, y: -21.40649}
+      Name: Toussaint
+      Description: trastamara estate, basement
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 8403eb7aa61bf744cb0274875e0ec37f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 41
+      Coordinates: {x: 20.18663, y: -17.42407}
+      Name: Toussaint
+      Description: elven sanctuary ruins, caroberta woods
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 8b002ddd593ae6347b47a845a8c1e993
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 42
+      Coordinates: {x: 17.50912, y: -16.43814}
+      Name: Toussaint
+      Description: termes palace ruins signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: eec1884436daa2244bb0772363cfa958
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 43
+      Coordinates: {x: 18.09876, y: -15.26854}
+      Name: Toussaint
+      Description: place of power, termes palace ruins
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: a2a78c175c845ca44a0634f01b8e6c6d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 44
+      Coordinates: {x: 19.65499, y: -13.47065}
+      Name: Toussaint
+      Description: blacksmith in distress, east of termes palace ruins
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: a85c8f44deae20343b8a8753db2a5834
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 45
+      Coordinates: {x: 18.04076, y: -12.63937}
+      Name: Toussaint
+      Description: bandit camp, north of termes palace ruins
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ce5ca9ec7d82dbe4bbc17467f1f6125f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 46
+      Coordinates: {x: 11.54516, y: -11.32478}
+      Name: Toussaint
+      Description: bridge to toussaint prison
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 7d63fa94037d8424893fed2a587d22b3
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 47
+      Coordinates: {x: 10.49156, y: -10.5515}
+      Name: Toussaint
+      Description: toussaint prison signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 6fde6c1fafd147344b495557ee47921e
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 48
+      Coordinates: {x: 9.466952, y: -9.207913}
+      Name: Toussaint
+      Description: toussaint prison inner courtyard, crane isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: cb1f29ce07a316f4b984db731df88383
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 49
+      Coordinates: {x: 8.693666, y: -8.792273}
+      Name: Toussaint
+      Description: toussaint prison warden's office, crane isle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: b74416362c38f2e4cbabe051040b6389
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 50
+      Coordinates: {x: -17.77205, y: -9.913532}
+      Name: Toussaint
+      Description: Vintner's Contract 'Griffin-in-the-Vines'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 740b084316b5461449b9a4ebee6b53e5
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 51
+      Coordinates: {x: -18.90298, y: -8.51195}
+      Name: Toussaint
+      Description: rioux-cannes outpost signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 875f219f96e5fc54e9da621ab0c2e5da
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 52
+      Coordinates: {x: -17.93251, y: -4.070388}
+      Name: Toussaint
+      Description: '''father knows best'' quest start, albertus grotto'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 30bc49d32998b4e4e89b5c20457c63be
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 53
+      Coordinates: {x: -22.15658, y: -3.384096}
+      Name: Toussaint
+      Description: coopers' slope, gorgon foothills
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: f972a7f2dc867eb499ec81a510115c4f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 54
+      Coordinates: {x: -19.46941, y: -1.547541}
+      Name: Toussaint
+      Description: Bastoy Prison Ruins, gorgon foothills
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 92fead5541c75484bb78096c00516efc
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 55
+      Coordinates: {x: -14.20817, y: -5.426537}
+      Name: Toussaint
+      Description: '''Feet as Cold as Ice'' quest start, gorgon foothills'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: d1edd4ff4650a4d4b9963ff3c20dab02
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 56
+      Coordinates: {x: -14.23717, y: -5.76485}
+      Name: Toussaint
+      Description: Grottore cave, gorgon foothills
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 94bde50ab518c9c48ac9dd83e4a4c095
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 57
+      Coordinates: {x: -11.24068, y: -2.082074}
+      Name: Toussaint
+      Description: peasant's home, north of beauclair palace
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 60fed44b313c78e4bbd383067efd23bb
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 58
+      Coordinates: {x: -14.40149, y: -0.1391928}
+      Name: Toussaint
+      Description: "Stones of Five Chivalric Virtues, Lac C\xE9lavy"
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 6ed111e4d0044d342bf5e2a552eef0c2
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 59
+      Coordinates: {x: -14.41116, y: -0.6224964}
+      Name: Toussaint
+      Description: "hermit at Lac C\xE9lavy"
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 37606a45a9c3de141ac73159b98f6000
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 60
+      Coordinates: {x: 1.771787, y: -4.026889}
+      Name: Toussaint
+      Description: Count de la Croix's Mill signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 1d864d394fad1cb4fad7f1b6eafd1213
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 61
+      Coordinates: {x: 2.177762, y: -3.13761}
+      Name: Toussaint
+      Description: Count de la Croix's Mill
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 57a102aff10602749aa2b84868e2964e
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 62
+      Coordinates: {x: -1.736999, y: -0.8660818}
+      Name: Toussaint
+      Description: corvo bianco vineyard signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 5e274ea3fe4f7f642bf9080ab329b130
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 63
+      Coordinates: {x: -2.113976, y: -1.156064}
+      Name: Toussaint
+      Description: stables, corvo bianco vineyard
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 0f99d692990844b45942b8763e3bd5e6
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 64
+      Coordinates: {x: -2.999383, y: -1.048772}
+      Name: Toussaint
+      Description: corvo bianco estate
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 4776fd64d7f53d74cadd86fc07cb8014
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 65
+      Coordinates: {x: -3.086379, y: -1.019774}
+      Name: Toussaint
+      Description: bedroom, corvo bianco estate
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 4a9e637989cc98643a886ea21cd302ad
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 66
+      Coordinates: {x: -2.864058, y: -0.8264524}
+      Name: Toussaint
+      Description: kitchen, corvo bianco estate
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 3429c1b05eba9c34e8d735129f30d0a4
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 67
+      Coordinates: {x: -2.980051, y: -0.9811095}
+      Name: Toussaint
+      Description: upper floor, corvo bianco estate
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: b537e67691844614ea7b80c4bd8ef717
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 68
+      Coordinates: {x: -2.738399, y: -0.5268035}
+      Name: Toussaint
+      Description: happily ever after at corvo bianco vineyard
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 94004c189dc07734a84c17b79cf133c2
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 69
+      Coordinates: {x: -3.579347, y: 3.320295}
+      Name: Toussaint
+      Description: sansretour valley signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 3bd880bd0b48e314a802cde2c5626982
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 70
+      Coordinates: {x: -1.791123, y: 3.880928}
+      Name: Toussaint
+      Description: fisherman's hut by sansretour valley
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 82a5c2e57059a92408482aab67391338
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 71
+      Coordinates: {x: -6.150523, y: 4.760541}
+      Name: Toussaint
+      Description: crossroads by sansretour valley
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 033e6174f1c8b7b4e98f238361824fb3
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 72
+      Coordinates: {x: -12.20439, y: 4.085849}
+      Name: Toussaint
+      Description: chuchote cave signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 7c16c77ef26ec7e43a8f02bed67db20f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 73
+      Coordinates: {x: -11.74042, y: 4.665813}
+      Name: Toussaint
+      Description: '''big game hunter'' quest start by chuchote cave'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e6763773c65e20f4cb5d8989e63fe5e9
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 74
+      Coordinates: {x: -16.53479, y: 4.240506}
+      Name: Toussaint
+      Description: abandoned vineyard by fort astre ruins
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 20d9844089409cd4daba56f24c836f3c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 75
+      Coordinates: {x: -19.07697, y: 3.805533}
+      Name: Toussaint
+      Description: fort astre ruins signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 8821d3f36526ba6479f386d5497bc88c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 76
+      Coordinates: {x: -20.2659, y: 4.656147}
+      Name: Toussaint
+      Description: fort astre ruins
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 4a3f518479b00e74980b66cefc47f41b
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 77
+      Coordinates: {x: -10.33884, y: 8.454916}
+      Name: Toussaint
+      Description: castel ravello vineyard signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 1f02816ea58bce44a91bf12e121cbfd2
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 78
+      Coordinates: {x: -10.83181, y: 8.048941}
+      Name: Toussaint
+      Description: castel ravello estate
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 224b471281e794949bf75354a76fbcea
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 79
+      Coordinates: {x: -11.66309, y: 8.474249}
+      Name: Toussaint
+      Description: herb store at castel ravello estate
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 8f08382fede99fa419b6a998077af633
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 80
+      Coordinates: {x: -14.21494, y: 7.80729}
+      Name: Toussaint
+      Description: '''a knight''s tales'' quest start'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 28452288a45fc1f4e81103b9cdd3ecc8
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 81
+      Coordinates: {x: -5.346313, y: 9.160542}
+      Name: Toussaint
+      Description: vermentino vineyard
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 4edc1a1161804ab4eaa9a9f78f81e976
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 82
+      Coordinates: {x: -5.839282, y: 9.440858}
+      Name: Toussaint
+      Description: vermentino vineyard estate
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e703f6344ff34f345be5f4096f44c35d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 83
+      Coordinates: {x: -19.7391, y: 10.70711}
+      Name: Toussaint
+      Description: person in distress, Blessure valley
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 9ba2b2173a4208e43bcc35be756cdcf2
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 84
+      Coordinates: {x: -15.54403, y: 12.52434}
+      Name: Toussaint
+      Description: fox hollow signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 635925abf19c5e043873c8df08e62d87
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 85
+      Coordinates: {x: -15.76635, y: 11.79938}
+      Name: Toussaint
+      Description: '''the ruddy brush auberge'' inn, fox hollow'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 762a2cdd507dc4f4d83fe2728d1a3625
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 86
+      Coordinates: {x: -15.62136, y: 12.00237}
+      Name: Toussaint
+      Description: '''the ruddy brush auberge'' inn, fox hollow'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 7ca459dab853937488a6bca66bf74b21
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 87
+      Coordinates: {x: -16.86828, y: 11.80905}
+      Name: Toussaint
+      Description: fox hollow, blessure valley
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 49dd6d9d65c249c47bdcb9234f385961
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 88
+      Coordinates: {x: -18.79183, y: 12.94965}
+      Name: Toussaint
+      Description: lynx crag, blessure valley
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 9c324cc53ba366b4a84cea70e747bda3
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 89
+      Coordinates: {x: -19.05281, y: 13.06564}
+      Name: Toussaint
+      Description: lynx crag witch's hut, blessure valley
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 461874be23b0e914e9206d621184c252
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 90
+      Coordinates: {x: -19.2558, y: 14.50588}
+      Name: Toussaint
+      Description: bandit camp, north of lynx crag
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: b062aa3d6f74b61488f5051584b4a662
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 91
+      Coordinates: {x: -17.49657, y: 15.60782}
+      Name: Toussaint
+      Description: loth halfbreed at Tulasens Caves hanse base
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: b9b26633e917d96449f4d0c3df1f8565
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 92
+      Coordinates: {x: -8.2935, y: 15.42996}
+      Name: Toussaint
+      Description: prophet lebioda statue signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: b1178f434c926e4478e074700d63c728
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 93
+      Coordinates: {x: -5.355013, y: 15.50729}
+      Name: Toussaint
+      Description: prophet lebioda monument
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 00c03f3e99eb2764db5bc9be239e9aac
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 94
+      Coordinates: {x: -12.91388, y: 22.16721}
+      Name: Toussaint
+      Description: end of the road, north-west of toussaint
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 2c773b39dd16b2541abbc4a3b2871184
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 95
+      Coordinates: {x: 1.354211, y: 30.12288}
+      Name: Toussaint
+      Description: place of power, north of Arthach Palace Ruins
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: bab46e948c7ab0e40b8d48e4df2d579c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 96
+      Coordinates: {x: -5.531901, y: 28.18048}
+      Name: Toussaint
+      Description: crossroads, west of Arthach Palace Ruins
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 0c1e4f5f25a6af64b8daaef074fd60bb
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 97
+      Coordinates: {x: -0.1865618, y: 28.15148}
+      Name: Toussaint
+      Description: antoine 'starling' straggen in Arthach Palace Ruins
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 39c672a340c9dc04ab0b82ae3c99ea4e
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 98
+      Coordinates: {x: -0.04157019, y: 28.69278}
+      Name: Toussaint
+      Description: Arthach Palace Ruins hanse base
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 1afdfcc4eb41947468bae60cc859b796
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 99
+      Coordinates: {x: 1.65966, y: 26.80789}
+      Name: Toussaint
+      Description: Arthach Palace Ruins signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 216bfe88ec5e08d4193382d66ad8a61f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 100
+      Coordinates: {x: -3.357034, y: 26.26659}
+      Name: Toussaint
+      Description: '''the silver salamander'' inn, occupied by bandits'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: b181e750eb73ae741ae9aeeba4659b5f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 101
+      Coordinates: {x: -3.3571, y: 26.267}
+      Name: Toussaint
+      Description: '''the silver salamander'' inn, Vedette Valley'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: fb2fc70c2de181846bded934d16ab23d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 102
+      Coordinates: {x: -3.656683, y: 25.47397}
+      Name: Toussaint
+      Description: '''the silver salamander'' inn, Vedette Valley'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 98f27557e9d674d4483f180d0ba41fe7
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 103
+      Coordinates: {x: -3.656683, y: 26.59524}
+      Name: Toussaint
+      Description: inside of 'the silver salamander' inn
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 0c58e4ddf0fb2d544bcddb294dabbf4f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 104
+      Coordinates: {x: -3.879003, y: 24.64269}
+      Name: Toussaint
+      Description: '''the silver salamander'' inn signpost'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 7e5db50d7a53ec54cb789c4775b19850
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 105
+      Coordinates: {x: 6.200781, y: 26.05781}
+      Name: Toussaint
+      Description: villa vedette, occupied by bandits, vedette valley
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: a7cde5a7680068d4d863f19e062219ac
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 106
+      Coordinates: {x: 6.529428, y: 23.31264}
+      Name: Toussaint
+      Description: herbalist in distress, north of trading post
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 871ebf94c48c61446a1884ed7a67728f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 107
+      Coordinates: {x: 5.330834, y: 20.57714}
+      Name: Toussaint
+      Description: trading post signpost, Sansretour Valley
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c817ee785c4332b4195e090e8fe58746
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 108
+      Coordinates: {x: 4.789534, y: 21.46642}
+      Name: Toussaint
+      Description: remains of the trading post, Sansretour Valley
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: fa4b019b441df3b469ad2e3283f82d70
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 109
+      Coordinates: {x: 2.440678, y: 19.89086}
+      Name: Toussaint
+      Description: bandit camp, west of trading post
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 8c9e726422a64d848a0456bb5f0a5970
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 110
+      Coordinates: {x: -3.842272, y: 13.95589}
+      Name: Toussaint
+      Description: plegmund's bridge signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: eb59e635f32fccc41982450444f03e98
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 111
+      Coordinates: {x: -4.103256, y: 13.99455}
+      Name: Toussaint
+      Description: Toussaint Office of Internal Revenue
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 6d4034c80260e024f85388d4921b5c9a
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 112
+      Coordinates: {x: 1.232419, y: 13.57891}
+      Name: Toussaint
+      Description: coronata vineyard signpost, sansretour valley
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: f7079fa8a29e1a84b9027fe24dcfd37b
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 113
+      Coordinates: {x: -0.246491, y: 14.84517}
+      Name: Toussaint
+      Description: coronata vineyard estate, sansretour valley
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ccdedfd0cb454984f8ac35ffebff64d0
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 114
+      Coordinates: {x: 5.446829, y: 14.98677}
+      Name: Toussaint
+      Description: bandit camp, south of trading post
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 01f2422ef2120d640b83f8e25ec1c6c8
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 115
+      Coordinates: {x: 4.378727, y: 12.63695}
+      Name: Toussaint
+      Description: abandoned forest herbarium, sansretour valley
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 6a34ec30fca8ae841b34e4f3b210d4e8
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 116
+      Coordinates: {x: 1.777585, y: 8.71639}
+      Name: Toussaint
+      Description: dulcinea windmill signpost, sansretour valley
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 4e897122d8ff1a748a41001876f274ad
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 117
+      Coordinates: {x: 0.3576387, y: 8.942575}
+      Name: Toussaint
+      Description: Rivecalme Storehouse entrance, by dulcinea windmill
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: bef635ebc9938a441a03376ae9c6537c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 118
+      Coordinates: {x: 1.790152, y: 7.522629}
+      Name: Toussaint
+      Description: golyat at the dulcinea windmill
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 9950eba9b7273164590fb872dfc1edbd
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 119
+      Coordinates: {x: 10.51475, y: 15.44349}
+      Name: Toussaint
+      Description: Pittapatte River Crossing, sansretour valley
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 797b912dc84893444b43370890a0ccf8
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 120
+      Coordinates: {x: 13.82055, y: 14.61221}
+      Name: Toussaint
+      Description: pinastri's hermitage, sansretour valley
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 7813fa6293f38e246a53e33667f40f3d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 121
+      Coordinates: {x: 13.70456, y: 14.64121}
+      Name: Toussaint
+      Description: pinastri's home, sansretour valley
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 6021069db9aee27438d6e80ce554d974
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 122
+      Coordinates: {x: 14.67117, y: 14.23524}
+      Name: Toussaint
+      Description: elven ruins by pinastri's hermitage, sansretour valley
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 171f3e69ac66bd14e96761547d4038b2
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 123
+      Coordinates: {x: 21.90139, y: 15.88813}
+      Name: Toussaint
+      Description: entrance to the Danamebi Temple Ruins
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 8779379391aa154449b0f3b2a19cc781
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 124
+      Coordinates: {x: 21.90139, y: 15.53049}
+      Name: Toussaint
+      Description: Danamebi Temple Ruins
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ae33192bde89b254cabb1f7c99385e82
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 125
+      Coordinates: {x: 21.95939, y: 15.17284}
+      Name: Toussaint
+      Description: stock room inside Danamebi Temple Ruins
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 6c9947a7c2cb1bb4eb25f3c87653ee1f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 126
+      Coordinates: {x: 11.98593, y: 13.1275}
+      Name: Toussaint
+      Description: dun tynne crossroads signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 08dcded1c4321f9459fcc1aaf6b550ad
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 127
+      Coordinates: {x: 9.2021, y: 12.37355}
+      Name: Toussaint
+      Description: Vintner's Contract - Dun Tynne Hillside
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ae4b250589c11284d8cd39485a8745ad
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 128
+      Coordinates: {x: 13.69683, y: 11.15562}
+      Name: Toussaint
+      Description: olive grove, dun tynne
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: d45511801d9e077418a639926a44cfbd
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 129
+      Coordinates: {x: 18.4912, y: 10.54666}
+      Name: Toussaint
+      Description: basane farm signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 89ab7da251627934bbb9205732fb1c8d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 130
+      Coordinates: {x: 18.9745, y: 10.26634}
+      Name: Toussaint
+      Description: basane farm, by Mare Aubrebis lake
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 4deee3c5b1e12824b8f9c94c7720d611
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 131
+      Coordinates: {x: 21.41036, y: 11.97724}
+      Name: Toussaint
+      Description: holy lake, northeast of Basane Farm
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 635a5a8486385304d9fe314f829c1725
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 132
+      Coordinates: {x: 8.827057, y: 6.598076}
+      Name: Toussaint
+      Description: dun tynne castle signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 4a5aecccdbd312049ad739457350bd0e
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 133
+      Coordinates: {x: 9.619675, y: 6.936388}
+      Name: Toussaint
+      Description: dun tynne castle, front gates
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 46f4ad923e758134d90cee031cdf35d4
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 134
+      Coordinates: {x: 11.20491, y: 6.801064}
+      Name: Toussaint
+      Description: dun tynne castle, backyard
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 0e44c20e15790c147b42a649f0a9b096
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 135
+      Coordinates: {x: 11.31124, y: 7.555017}
+      Name: Toussaint
+      Description: dun tynne castle, backyard
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 3f0efe7771a2b3743ac8832b38e0771d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 136
+      Coordinates: {x: 11.22425, y: 8.279973}
+      Name: Toussaint
+      Description: dun tynne castle, backyard
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 527c7f11c54000240a986430b8269e51
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 137
+      Coordinates: {x: 10.02565, y: 9.169252}
+      Name: Toussaint
+      Description: dun tynne castle, backyard
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: abc470be5e516d14a939af4d7db33f0e
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 138
+      Coordinates: {x: 9.242699, y: 8.125317}
+      Name: Toussaint
+      Description: dun tynne castle, backyard
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e74a5f79d282e5343b884d3e941712a1
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 139
+      Coordinates: {x: 9.812997, y: 7.613014}
+      Name: Toussaint
+      Description: dun tynne castle, entrance to the estate
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 163fef5d2fed0d3419d5f5441bb0b17a
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 140
+      Coordinates: {x: 10.06431, y: 8.250976}
+      Name: Toussaint
+      Description: dun tynne castle estate
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: db2f98c8757fb8f4eb6be4b3d9fc5bcb
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 141
+      Coordinates: {x: 10.11264, y: 8.753611}
+      Name: Toussaint
+      Description: syanna's room in dun tynne castle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 4e34c354c890f474e8312688edfca220
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 142
+      Coordinates: {x: 10.68294, y: 4.964508}
+      Name: Toussaint
+      Description: scribe's office with a view, south of dun tynne castle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: b9b278aefb37b48448bdae96fa0ecb1f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 143
+      Coordinates: {x: 14.18206, y: 5.148163}
+      Name: Toussaint
+      Description: dun tynne hillside signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 7b81dd74e0c5f664ab90a5c3af581157
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 144
+      Coordinates: {x: -2.12944, y: 10.64333}
+      Name: Toussaint
+      Description: fisherman's hut by 'the cockatrice inn'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: fbd87ba458fda4947b4e98d01cbf632f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 145
+      Coordinates: {x: 2.744196, y: 3.29711}
+      Name: Toussaint
+      Description: the cockatrice inn signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: cfd0967535654764a94e3765990f3369
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 146
+      Coordinates: {x: 1.816252, y: 2.001856}
+      Name: Toussaint
+      Description: notice board by 'the cockatrice inn'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 3a5522a585f023f499baf50256aeb73d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 147
+      Coordinates: {x: 1.961243, y: 2.001856}
+      Name: Toussaint
+      Description: '''the cockatrice inn'', sansretour marsh'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 815dc6e502f974b45bbf49bc2b55c7c7
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 148
+      Coordinates: {x: 2.550873, y: 2.446495}
+      Name: Toussaint
+      Description: warehouse by 'the cockatrice inn'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ee298f243539dcc41b090d25f4fe3294
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 149
+      Coordinates: {x: 5.9253, y: -5.21677}
+      Name: Toussaint
+      Description: guarded treasure, north of toussant prison
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 578ff015cabeb8642b06ed2c16544ea4
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 150
+      Coordinates: {x: 22.66018, y: 3.953434}
+      Name: Toussaint
+      Description: mont crane castle signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c267b82533cb3e6428dbe928cf0d2c65
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 151
+      Coordinates: {x: 22.99849, y: 5.17136}
+      Name: Toussaint
+      Description: mont crane castle, courtyard
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 7d5c32d09682a504daee740722708aa2
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 152
+      Coordinates: {x: 23.9071, y: 5.335683}
+      Name: Toussaint
+      Description: mont crane castle, courtyard
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c2103771c35d43542b2843fca184756d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 153
+      Coordinates: {x: 23.3078, y: 5.625666}
+      Name: Toussaint
+      Description: filibert fourfingers at mont crane castle
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 04df61a3891d49740b743832ae48567b
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 154
+      Coordinates: {x: 19.0064, y: 4.726721}
+      Name: Toussaint
+      Description: mont crane cementery
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 868322b479852ec4dae4256386d00c72
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 155
+      Coordinates: {x: 27.76387, y: -0.985929}
+      Name: Toussaint
+      Description: fort ussar ruins signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 5adb7345a111e7549b007c5ea0243bb7
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 156
+      Coordinates: {x: 27.49322, y: -2.194189}
+      Name: Toussaint
+      Description: place of power, underneath fort ussar ruins
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 228f40a1bd702194b972228605beb2c3
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 157
+      Coordinates: {x: 18.27951, y: -0.1217816}
+      Name: Toussaint
+      Description: ardaiso quarry signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: a8082ca7d7c117048be670ee7f25a641
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 158
+      Coordinates: {x: 18.92714, y: -1.94867}
+      Name: Toussaint
+      Description: foreman pafnuzio in ardaiso quarry
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 1a362f28ddbd2b442a5f1bbbcc8d1212
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 159
+      Coordinates: {x: 13.26281, y: -2.895946}
+      Name: Toussaint
+      Description: tufo vineyard estate, sansretour marsh
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 38ff01c8a6448384faa57f85cec2ac24
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 160
+      Coordinates: {x: 12.51853, y: -4.500514}
+      Name: Toussaint
+      Description: flovive, sansretour marsh
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 5b6d5fcf241fa3e48973b3b2955a3505
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 161
+      Coordinates: {x: 11.98689, y: -4.916155}
+      Name: Toussaint
+      Description: flovive signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: db6d2f04e8ca7fd4f9e76da2603b9229
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 162
+      Coordinates: {x: 11.17494, y: -5.380127}
+      Name: Toussaint
+      Description: market in flovive town
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 5bbc8229ea1b177488777bd60c9cf7be
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 163
+      Coordinates: {x: 11.89023, y: -5.438123}
+      Name: Toussaint
+      Description: '''the barrel and bung inn'', flovive town'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 0a48e97e0863c944795aaeeff835c255
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 164
+      Coordinates: {x: 11.06861, y: -6.520724}
+      Name: Toussaint
+      Description: docks, flovive town
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: d58aec7f16cc3eb4489626c001b91aa5
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 165
+      Coordinates: {x: 14.35508, y: -8.82125}
+      Name: Toussaint
+      Description: blacksmith at the freinte docks
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 0f942b5ff0753314b83508f7a5ff10bb
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 166
+      Coordinates: {x: 18.24084, y: -7.506665}
+      Name: Toussaint
+      Description: casteldaccia abandoned estate signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: d7d34f0c0def8664e994406322d7c61f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 167
+      Coordinates: {x: 19.51677, y: -6.65605}
+      Name: Toussaint
+      Description: ghostly knight at the casteldaccia estate
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 4f23e3051a659c94990bc34a1c7de6e2
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 168
+      Coordinates: {x: 25.50974, y: -7.593659}
+      Name: Toussaint
+      Description: delenfer pass
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: a1f65d8c1797a5a47895a466a064a145
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 169
+      Coordinates: {x: -35, y: -35}
+      Name: Toussaint
+      Description: portrait of CD PROJEKT RED team, mount gorgon
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 0601d0ff698ae6b4d9198f4f0b687e20
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 170
+      Coordinates: {x: -4.252104, y: -3.367658}
+      Name: Toussaint
+      Description: center of the arena, Tourney Grounds
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 608bdb47be633e4459aa3c4e700a2a1d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 171
+      Coordinates: {x: -3.807465, y: -3.06801}
+      Name: Toussaint
+      Description: royal lodge of the tourney grounds arena
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 1cab7cb81035b844a9d8079a04fdfc56
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 172
+      Coordinates: {x: -3.517482, y: -3.531981}
+      Name: Toussaint
+      Description: back entrance to the arena, tourney grounds
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 03eb1a8a0e6f08442b6612b3136ae43e
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 173
+      Coordinates: {x: -4.406761, y: -4.189275}
+      Name: Toussaint
+      Description: journeyman blacksmith, tourney grounds
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 95f16cc14a3c2d64d973382ca4e1d227
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 174
+      Coordinates: {x: -5.98233, y: -3.995954}
+      Name: Toussaint
+      Description: knights' tents, tourney grounds
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 0358f1d2050e1424e94f8175cb754dcc
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 175
+      Coordinates: {x: -5.740678, y: -4.730576}
+      Name: Toussaint
+      Description: entertainment venue, tourney grounds
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: a0339d198c0fa2447821222c4e9b2af0
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 176
+      Coordinates: {x: -5.305705, y: -4.788572}
+      Name: Toussaint
+      Description: barber's tent, tourney grounds
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 11858449c087bfe4d9cdd51dbf6a0551
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 177
+      Coordinates: {x: -4.957726, y: -4.933563}
+      Name: Toussaint
+      Description: tourney grounds signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 413d2b7cae99e45428006adcba7a064f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 178
+      Coordinates: {x: -5.44103, y: -3.87996}
+      Name: Toussaint
+      Description: palmerin's tent, tourney grounds
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 67bb72f130653b547957e6957d30d830
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 179
+      Coordinates: {x: -3.527146, y: -4.353598}
+      Name: Toussaint
+      Description: guillaume in medical tent, tourney grounds
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c38fc9fd91c3bb04797e9bce7962c04d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 180
+      Coordinates: {x: -4.619412, y: -5.793843}
+      Name: Toussaint
+      Description: inscription tent, tourney grounds
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 523f69be95e9d7146ae5adce7255653a
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 181
+      Coordinates: {x: -4.319764, y: -4.885231}
+      Name: Toussaint
+      Description: shooting range, tourney grounds
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: dcc70b08156b1304f95ac54df0641f59
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 182
+      Coordinates: {x: -7.074596, y: -4.662912}
+      Name: Toussaint
+      Description: vivienne's tent, tourney grounds
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 90b72aa4a027f484982e8f7e59a70f12
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 183
+      Coordinates: {x: -14.34349, y: -10.28857}
+      Name: Toussaint
+      Description: hidden clearing, west of palace gardens
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ab8a2cd222df41b4ba4b05f59ecd653b
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 184
+      Coordinates: {x: -0.4204719, y: -5.159748}
+      Name: Toussaint
+      Description: '''wolves asleep amidst the trees'''
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 8c62f524342589e4fb52c4c62483a6c5
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 185
+      Coordinates: {x: -0.8651114, y: -4.995425}
+      Name: Toussaint
+      Description: La Compassion Orphanage, sansretour valley
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 2598940855fe2a54fb03dfb64e415f22
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 186
+      Coordinates: {x: -0.9521055, y: -4.821435}
+      Name: Toussaint
+      Description: La Compassion Orphanage, sansretour valley
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 158444a7d7a9b6549934d972afc388b6
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 187
+      Coordinates: {x: -0.6911218, y: -5.353069}
+      Name: Toussaint
+      Description: La Compassion Orphanage, sansretour valley
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: df112e09457951a4d8ae904e116505eb
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 188
+      Coordinates: {x: -9.610004, y: -16.07081}
+      Name: Toussaint
+      Description: noblemen's platform by lovers' cove
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 114c36bf2fc4ba24787fb70d226eab40
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 189
+      Coordinates: {x: -10.90526, y: -14.64023}
+      Name: Toussaint
+      Description: lovers' cove, palace gardens
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: fda39eb28aacd5f40bba9fd361d0275c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 190
+      Coordinates: {x: -10.49928, y: -13.4803}
+      Name: Toussaint
+      Description: leopard and the best tamer, palace gardens
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: b282ea7aea7bef649a069dcbff3f16a4
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 191
+      Coordinates: {x: -11.68821, y: -12.69736}
+      Name: Toussaint
+      Description: palace gardens signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 9a5ffc2c33b59c74fa01160cc165e679
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 192
+      Coordinates: {x: -9.938653, y: -12.66836}
+      Name: Toussaint
+      Description: greenhouse, palace gardens
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: d9bc4d2023c18354690e4141d26275f6
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 193
+      Coordinates: {x: -11.21457, y: -11.75975}
+      Name: Toussaint
+      Description: '''unicorn'' in the palace gardens'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: f714081d7a0bab34cbd1bf07acb11f32
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 194
+      Coordinates: {x: -11.55289, y: -11.29577}
+      Name: Toussaint
+      Description: fountain, palace gardens
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e192a9156c81711469feb084bb9e7966
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 195
+      Coordinates: {x: -12.47117, y: -11.39243}
+      Name: Toussaint
+      Description: Orangery, palace gardens
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 18b0f02f902a6804c868658373f8b29f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 196
+      Coordinates: {x: -12.57749, y: -10.87047}
+      Name: Toussaint
+      Description: ruins in the palace gardens
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 2d2a18a5b54dff84983464160e1a67e5
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 197
+      Coordinates: {x: -8.914048, y: -12.4847}
+      Name: Toussaint
+      Description: aronnax's pier, palace gardens
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ecd16f2a5e7e4844c83c06a9787e839a
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 198
+      Coordinates: {x: -8.769056, y: -11.27644}
+      Name: Toussaint
+      Description: balcony, palace gardens
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 4b8f59cd459d0d145bbc10baade6c6b9
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 199
+      Coordinates: {x: -8.624065, y: -11.39243}
+      Name: Toussaint
+      Description: side path by the palace gardens
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 4928ee47519698b4b9aea17c03751c54
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 200
+      Coordinates: {x: -10.51862, y: -9.546211}
+      Name: Toussaint
+      Description: noblemen's square by beauclair palace
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: f10b9c4aeff58dc40aa7256ab27207d3
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 201
+      Coordinates: {x: -11.52888, y: -8.859848}
+      Name: Toussaint
+      Description: storage building, palace gardens
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 30a710a185a6fde4d96d8175c3c0fe19
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 202
+      Coordinates: {x: -10.16741, y: -8.743245}
+      Name: Toussaint
+      Description: '''where it all began'', beauclair palace signpost'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 8d6b854b84062f340a4ff80cdc907b53
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 203
+      Coordinates: {x: -8.952469, y: -9.497042}
+      Name: Toussaint
+      Description: courtyard of the beauclair palace
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c84205acb7df8be4ca899aa0f355e7e8
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 204
+      Coordinates: {x: -9.77721, y: -9.257601}
+      Name: Toussaint
+      Description: courtyard of the beauclair palace
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: fd8cb5053d484ea47a63df43d83b50eb
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 205
+      Coordinates: {x: -8.9436, y: -8.894005}
+      Name: Toussaint
+      Description: entrance to the noblemen's quarters, beauclair palace
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 8a802971aadfa4947b3d6be884fae417
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 206
+      Coordinates: {x: -8.766235, y: -9.000423}
+      Name: Toussaint
+      Description: noblemen's quarters, beauclair palace
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ae26b3addc20aa241a3ce66fa28129f4
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 207
+      Coordinates: {x: -8.580006, y: -8.48607}
+      Name: Toussaint
+      Description: balcony, beauclair palace
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c33639e731d719d48b1844d3ffd70362
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 208
+      Coordinates: {x: -8.358299, y: -10.4016}
+      Name: Toussaint
+      Description: orangery, beauclair palace
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 2eb0b297b313c034ca03956d10dce052
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 209
+      Coordinates: {x: -7.648842, y: -9.186657}
+      Name: Toussaint
+      Description: main road to the beauclair palace
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 44c12e6a1c044d8428e63b04882f656f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 210
+      Coordinates: {x: -9.466824, y: -9.754221}
+      Name: Toussaint
+      Description: place of prayer, underneath beauclair palace
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 9b30480ee91bccb438c46527aa6fdf69
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 211
+      Coordinates: {x: -7.985834, y: -7.572644}
+      Name: Toussaint
+      Description: balcony, beauclair palace grounds
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 0333019dca17fc846ab55c516e1d4e86
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 212
+      Coordinates: {x: -9.599846, y: -7.501698}
+      Name: Toussaint
+      Description: balcony, beauclair palace grounds
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 01908488196f88944a462a45ea4a906a
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 213
+      Coordinates: {x: -7.391664, y: -10.32179}
+      Name: Toussaint
+      Description: bridge to the beauclair palace
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ed5744d67f4ef8849a8843f95a05b3f4
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 214
+      Coordinates: {x: -7.258642, y: -10.4016}
+      Name: Toussaint
+      Description: under the bridge to the beauclair palace
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 04b806547d723e543aeee14b9908e333
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 215
+      Coordinates: {x: -5.804257, y: -7.359806}
+      Name: Toussaint
+      Description: lake, by the beauclair palace
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 5f50c80eaf01e1748870bdd76293a1b2
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 216
+      Coordinates: {x: -2.372263, y: -15.46534}
+      Name: Toussaint
+      Description: estate by the metinna gate signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 50f1fe3a9ea78d54f8b8dbfe9b7497fd
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 217
+      Coordinates: {x: -2.762463, y: -14.87117}
+      Name: Toussaint
+      Description: metinna gate signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c4ed865a7e3435849abbff86471fcc60
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 218
+      Coordinates: {x: -3.924198, y: -17.30106}
+      Name: Toussaint
+      Description: lebioda's gate signpost, orlemurs cementery
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: bbee5e5446c40db4baca6981d39161d6
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 219
+      Coordinates: {x: -4.270058, y: -16.26348}
+      Name: Toussaint
+      Description: lebioda's gate entrance, Lassommoir quarter
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: f40b2139b92d74b488e3582c0c71a531
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 220
+      Coordinates: {x: -4.367608, y: -15.06627}
+      Name: Toussaint
+      Description: main entrance to the Temple Cemetery, lassommoir quarter
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 3d01163e7b547e5458fd98cd95f24ab6
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 221
+      Coordinates: {x: -3.028511, y: -16.10385}
+      Name: Toussaint
+      Description: path behind the temple cementery, lassommoir quarter
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 9364d68c7d6847448afec88ba66b1afb
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 222
+      Coordinates: {x: -3.649284, y: -15.11948}
+      Name: Toussaint
+      Description: temple cementery, lassommoir quarter
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 9f7e850cadc4a5b4cafdb18e61290ba8
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 223
+      Coordinates: {x: -3.569471, y: -15.5895}
+      Name: Toussaint
+      Description: tombs underneath temple cementery, lassommoir quarter
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e6763c1d323151741ad4dd575f11053e
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 224
+      Coordinates: {x: -4.642523, y: -14.76475}
+      Name: Toussaint
+      Description: hauteville, beauclair
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 630ab4587c0f5634a9da09521302ee56
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 225
+      Coordinates: {x: -4.740074, y: -15.6161}
+      Name: Toussaint
+      Description: '''the clever clogs'' tavern'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: cddb26f62be771547aededaffb3a5ad7
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 226
+      Coordinates: {x: -4.793283, y: -15.58063}
+      Name: Toussaint
+      Description: top floor of 'the clever clogs' tavern
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 0e366478320ec5e4bba1b414ce62b218
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 227
+      Coordinates: {x: -5.644629, y: -15.20816}
+      Name: Toussaint
+      Description: nilfgaardian embassy signpost, epona square
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 16f257e67995f4d418c01d35050ae719
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 228
+      Coordinates: {x: -5.431792, y: -15.69591}
+      Name: Toussaint
+      Description: Fighting contestant - Mancomb, hauteville
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 12d2a0558fe74d44483c7ae5370e66ca
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 229
+      Coordinates: {x: -6.495976, y: -16.53839}
+      Name: Toussaint
+      Description: pier by Seidhe Llygad lake, hauteville
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 5a23f7f5259849848aeee97530beacd6
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 230
+      Coordinates: {x: -5.068197, y: -15.78459}
+      Name: Toussaint
+      Description: '''a cut above'' hairdressing salon, hauteville'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: bb0ba99939aa72042ac6cf4ab3b74eb4
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 231
+      Coordinates: {x: -5.023856, y: -15.77572}
+      Name: Toussaint
+      Description: '''a cut above'' hairdressing salon, top floor'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: fb29133a3532452418f811502a67db1e
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 232
+      Coordinates: {x: -3.214743, y: -14.26813}
+      Name: Toussaint
+      Description: metinna gate entrance
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 653ed2a2482aeb441961dc31654b4e6c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 233
+      Coordinates: {x: -3.977409, y: -13.87793}
+      Name: Toussaint
+      Description: entrance to lazare lafargue's workshop, hauteville
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 161670b36527b254293dc2c5cf0eb584
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 234
+      Coordinates: {x: -4.092697, y: -13.6917}
+      Name: Toussaint
+      Description: lazare lafargue's workshop, hauteville
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: fd76e9e8104cc794e9034c21b1690c38
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 235
+      Coordinates: {x: -4.376479, y: -13.65622}
+      Name: Toussaint
+      Description: merchant of various curious, hauteville
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 5efa9b100db8f3e4096c835291451d75
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 236
+      Coordinates: {x: -3.631549, y: -13.55867}
+      Name: Toussaint
+      Description: herb store, hauteville
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 47e22f668e7d57642a63b080a3229762
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 237
+      Coordinates: {x: -3.463053, y: -13.47886}
+      Name: Toussaint
+      Description: mountebank alley, hauteville
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: f8387741abc40544990b426fd3ac279d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 238
+      Coordinates: {x: -4.252324, y: -12.26392}
+      Name: Toussaint
+      Description: henris gras square
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c345abd38bfcd264585c1835945fb463
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 239
+      Coordinates: {x: -2.74473, y: -12.97337}
+      Name: Toussaint
+      Description: fighting contestant - still waters, henris gras square
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c503b946e84b990489c7ccbcc78bd30f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 240
+      Coordinates: {x: -3.392109, y: -12.21071}
+      Name: Toussaint
+      Description: rose terrance by the lolivier's square
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 301b44cc535498b44b862de21459b1d9
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 241
+      Coordinates: {x: -3.933069, y: -12.11316}
+      Name: Toussaint
+      Description: lolivier's square
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 0b780c6dc5701d84eb28ccf08d2f4e0d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 242
+      Coordinates: {x: -3.560604, y: -11.7939}
+      Name: Toussaint
+      Description: dulevant gate, by lolivier's square
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 68cefdcb406c4294b8e296ca2109c76f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 243
+      Coordinates: {x: -5.378586, y: -13.85133}
+      Name: Toussaint
+      Description: hauteville, beauclair
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c3656a916529b7243843ea2a85cfe8fd
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 244
+      Coordinates: {x: -5.006122, y: -13.6917}
+      Name: Toussaint
+      Description: armorer's shop, hauteville
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 1b91c6dde9d526848a2866b21d74074b
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 245
+      Coordinates: {x: -4.917439, y: -13.92227}
+      Name: Toussaint
+      Description: blacksmith's shop, hauteville
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: f725f391f9fc9c44b915aa0717a91a70
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 246
+      Coordinates: {x: -6.061437, y: -14.62286}
+      Name: Toussaint
+      Description: alleyways in hauteville, beauclair
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: d4cdbcbec16cb3c44933c3d2a20489b3
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 247
+      Coordinates: {x: -7.036939, y: -13.39904}
+      Name: Toussaint
+      Description: bakery, hauteville
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 5fc661f5e637ef54c97d70900dc5eb25
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 248
+      Coordinates: {x: -6.017096, y: -13.86906}
+      Name: Toussaint
+      Description: hauteville, beauclair
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: a2734e7f106fb944485a20da791259b7
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 249
+      Coordinates: {x: -7.666581, y: -13.97548}
+      Name: Toussaint
+      Description: hauteville, beauclair
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 8e72d242cf7507b448a2500162f809f2
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 250
+      Coordinates: {x: -6.992598, y: -14.80022}
+      Name: Toussaint
+      Description: hauteville, beauclair
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: eaa9f0de128e4394b9795cf0d44b89ef
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 251
+      Coordinates: {x: -4.669128, y: -13.39018}
+      Name: Toussaint
+      Description: hauteville, beauclair
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 677dcb653b8716b4ea566f9bf49e0e3e
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 252
+      Coordinates: {x: -4.367608, y: -12.50336}
+      Name: Toussaint
+      Description: '''the adder and jewels'' winery, lolivier''s square'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: fe07c301597b6324b8eeba86885962a1
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 253
+      Coordinates: {x: -4.252322, y: -12.63638}
+      Name: Toussaint
+      Description: art curator by lolivier's square
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 2a185d89ae0081f47ac482806fa3f613
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 254
+      Coordinates: {x: -3.134929, y: -14.07303}
+      Name: Toussaint
+      Description: lady orianna's estate, main entrance
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: cdc8719be7d48b542b7ddca3f5d924af
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 255
+      Coordinates: {x: -2.98417, y: -13.85132}
+      Name: Toussaint
+      Description: paint ball canvas, lady orianna's estate
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ba143452323dc4b4bbbd66ac84e5fd31
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 256
+      Coordinates: {x: -2.549628, y: -13.90453}
+      Name: Toussaint
+      Description: center of lady orianna's estate
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: f450e00e46f47f041b6adda1942b9926
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 257
+      Coordinates: {x: -1.982064, y: -13.97547}
+      Name: Toussaint
+      Description: living quarters, lady orianna's estate
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 5b6e5d0b871c6b94d95b63b60e9f156b
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 258
+      Coordinates: {x: -1.982064, y: -14.06416}
+      Name: Toussaint
+      Description: top floor of living quarters, lady orianna's estate
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: b87b1458b459ce7489197fd3e3eace7f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 259
+      Coordinates: {x: -2.035274, y: -14.06416}
+      Name: Toussaint
+      Description: guest room, lady orianna's estate
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 0db53004f477b2348b25f2ed90093adf
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 260
+      Coordinates: {x: -2.35453, y: -14.24152}
+      Name: Toussaint
+      Description: terrace, lady orianna's estate
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c8e26461038bdbc47be714bd5f3b2361
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 261
+      Coordinates: {x: -5.626895, y: -13.13299}
+      Name: Toussaint
+      Description: town square, hauteville
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 9f3eeec6e42719d40bb0bbdc23331a4f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 262
+      Coordinates: {x: -5.103672, y: -13.45225}
+      Name: Toussaint
+      Description: alcove by the town square, hauteville
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c93ed8864a8668941a4e31b95273d397
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 263
+      Coordinates: {x: -5.671236, y: -13.43451}
+      Name: Toussaint
+      Description: merchant by the town square, hauteville
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: cc8977305e845ce4782e3bd0d42addae
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 264
+      Coordinates: {x: -6.974861, y: -13.28375}
+      Name: Toussaint
+      Description: '''The Pheasantry'' inn, hauteville'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: da7fe0306d3ca064a8ffc07ed9cf0331
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 265
+      Coordinates: {x: -6.868443, y: -13.21281}
+      Name: Toussaint
+      Description: '''The Pheasantry'' inn basement, hauteville'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 44168fdba0a4ad04298b0e252a67739c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 266
+      Coordinates: {x: -7.37393, y: -13.22167}
+      Name: Toussaint
+      Description: terrace by 'The Pheasantry' inn, hauteville
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e26435b111cb6c24c86b36004400467a
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 267
+      Coordinates: {x: -7.036939, y: -12.64524}
+      Name: Toussaint
+      Description: hauteville, beauclair
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 5fbb90bd0cbeb494a83a4469b35da5a0
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 268
+      Coordinates: {x: -6.717684, y: -12.69845}
+      Name: Toussaint
+      Description: infirmary, hauteville
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c6943746787002641b3727bc38670a51
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 269
+      Coordinates: {x: -6.699948, y: -12.61864}
+      Name: Toussaint
+      Description: infirmary, top floor, hauteville
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 9e367c7ddd0ab094b90456ce980caaf3
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 270
+      Coordinates: {x: -6.061439, y: -12.52996}
+      Name: Toussaint
+      Description: Perfumery, hauteville
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 8fa79c695af88b249abeb4bdbcf99dc9
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 271
+      Coordinates: {x: -6.017097, y: -12.46788}
+      Name: Toussaint
+      Description: Perfumery, top floor, hauteville
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 6501de721720e0245b192d0bf8016232
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 272
+      Coordinates: {x: -5.272168, y: -11.67861}
+      Name: Toussaint
+      Description: the gran'place signpost, hauteville
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 650ee35e24f53b84bbdcaa30b0ac84f2
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 273
+      Coordinates: {x: -7.72866, y: -12.31712}
+      Name: Toussaint
+      Description: hauteville, beauclair
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: d08f1093640048b41bb0f2f92098b685
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 274
+      Coordinates: {x: -7.639978, y: -11.48351}
+      Name: Toussaint
+      Description: abandoned warehouse, hauteville
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: beaf8b3f6e4c3ae40a6c680d83b698d2
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 275
+      Coordinates: {x: -7.489219, y: -11.84711}
+      Name: Toussaint
+      Description: hauteville, beauclair
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 01df74fa25bd1db4ca13983908bf692e
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 276
+      Coordinates: {x: -7.28525, y: -11.2352}
+      Name: Toussaint
+      Description: town crier by the knights dormant square
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 63996e1933e10d44aafcfcd6e5b6ef75
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 277
+      Coordinates: {x: -6.957127, y: -11.04897}
+      Name: Toussaint
+      Description: knights dormant square, hauteville
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 9878007016f978c42937a72adc4e6fbc
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 278
+      Coordinates: {x: -6.93939, y: -11.64314}
+      Name: Toussaint
+      Description: The Ducal Camerlengo, hauteville
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 79753c8be01d8924e9453f9428d95869
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 279
+      Coordinates: {x: -4.677997, y: -12.81374}
+      Name: Toussaint
+      Description: statue of Reginald d'Aubry, hauteville
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 9bd31a5e8b33373429b22e519aafe65d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 280
+      Coordinates: {x: -6.114645, y: -11.80277}
+      Name: Toussaint
+      Description: '''Goodness, Gracious, Great Balls of Granite!'''
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: b8456c4a8f1167f4e9bcaf13a1a06fd9
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 281
+      Coordinates: {x: -5.715576, y: -11.68748}
+      Name: Toussaint
+      Description: Cianfanelli Bank, hauteville
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 38ab12f73e6067d42bd8a92ddabf191f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 282
+      Coordinates: {x: -5.786522, y: -11.51898}
+      Name: Toussaint
+      Description: Cianfanelli Bank, top floor, hauteville
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: bd442b0e104b2664fb3eee4277cbf95c
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 283
+      Coordinates: {x: -5.919544, y: -11.6254}
+      Name: Toussaint
+      Description: Cianfanelli Bank, vaults, hauteville
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 771382c0c2b9cf64b823c138f1b25fde
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 284
+      Coordinates: {x: -6.327481, y: -10.78292}
+      Name: Toussaint
+      Description: pierre the tailor's workshop, hauteville
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 07e3a2a9eef901a4dabd62a8f3eaa54f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 285
+      Coordinates: {x: -5.440663, y: -9.940445}
+      Name: Toussaint
+      Description: stables, hauteville
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 25d3bd336636a7d4caeda0aac29f032d
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 286
+      Coordinates: {x: -5.050462, y: -10.32178}
+      Name: Toussaint
+      Description: square by the coopers' gate, hauteville
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 6d6e4eaa352ead04d977bae468c4b521
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 287
+      Coordinates: {x: -3.720231, y: -10.92482}
+      Name: Toussaint
+      Description: rose terrace, hauteville
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 5e44d93f816c76548939a8af7aa71e36
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 288
+      Coordinates: {x: -4.677997, y: -9.4793}
+      Name: Toussaint
+      Description: coopers' gate signpost, san sebastian
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 718b36d4581e4384f97e33a0cd13e60f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 289
+      Coordinates: {x: -4.02175, y: -8.441722}
+      Name: Toussaint
+      Description: fighting contestant - colossus, san sebastian
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 5d21b1a14599c184992cb5bf94de0196
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 290
+      Coordinates: {x: -4.793283, y: -8.441721}
+      Name: Toussaint
+      Description: san sebastian, beauclair
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 13f9c2689664e4448aa47287409bf08f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 291
+      Coordinates: {x: -3.285689, y: -7.492823}
+      Name: Toussaint
+      Description: san sebastian, beauclair
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: ed137b1ad6093ba4f8db191e11f17a69
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 292
+      Coordinates: {x: 2.815675, y: -9.364013}
+      Name: Toussaint
+      Description: entrance to the wine market, san sebastian
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 44dedd4eaf958e740bafb46153143a13
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 293
+      Coordinates: {x: -2.283582, y: -9.399486}
+      Name: Toussaint
+      Description: wine market, san sebastian
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: f295203c72e0b5445803a39adbbf1dc4
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 294
+      Coordinates: {x: -2.141692, y: -10.99576}
+      Name: Toussaint
+      Description: harbor gate signpost, san sebastian
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 478670d91934ac146bf4d51bdf87da81
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 295
+      Coordinates: {x: -0.9622207, y: -11.4037}
+      Name: Toussaint
+      Description: southern gate, san sebastian
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 31126b4e7bb908846b6b4f08f0227e77
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 296
+      Coordinates: {x: -1.299212, y: -8.663425}
+      Name: Toussaint
+      Description: san sebastian signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 459a6f0012fb80e429575de15c1061cf
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 297
+      Coordinates: {x: -0.8646705, y: -7.891892}
+      Name: Toussaint
+      Description: san sebastian, beauclair
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 1bafc51fc36e58c49a15eed8b125356f
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 298
+      Coordinates: {x: -0.8646703, y: -9.8695}
+      Name: Toussaint
+      Description: ducal guard post, san sebastian
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e66554c0b459cec47b530e3c8740ad14
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 299
+      Coordinates: {x: -0.9799567, y: -10.71198}
+      Name: Toussaint
+      Description: san sebastian, beauclair
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: d65334eb0c978214daf03c1de53e7692
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 300
+      Coordinates: {x: -0.1729507, y: -10.08234}
+      Name: Toussaint
+      Description: bootblack by beauclair port
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 6a866b1e4e909b14d8ffe822e38788f0
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 301
+      Coordinates: {x: 0.6961324, y: -10.27744}
+      Name: Toussaint
+      Description: beauclair port signpost
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e722c2fef3f2bfb4d8eeb431e0adb924
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 302
+      Coordinates: {x: 1.529743, y: -9.8695}
+      Name: Toussaint
+      Description: ship at the beauclair port
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: bc1295436b37e7f40b63dc6517c2326b
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 303
+      Coordinates: {x: -0.04879582, y: -9.257598}
+      Name: Toussaint
+      Description: houses by the beauclair port
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: a4c08cb439d1a31478e759aed1caf902
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 304
+      Coordinates: {x: -0.5099421, y: -9.053629}
+      Name: Toussaint
+      Description: homeless shelter by the beauclair port
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: d2f812dbb65994a40ab6e6b8e7544fcc
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 305
+      Coordinates: {x: -0.465601, y: -9.310806}
+      Name: Toussaint
+      Description: homeless shelter by the beauclair port
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: d6a53ecc5090c694894b47eebece2a71
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 306
+      Coordinates: {x: -0.04879522, y: -8.831923}
+      Name: Toussaint
+      Description: butcher's shop by the beauclair port
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 20e0bb1249ad99546833e4f91f132ff1
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 307
+      Coordinates: {x: 0.6606611, y: -8.929474}
+      Name: Toussaint
+      Description: market square by the beauclair port
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: b320882c4dc026345a1f9c593c635c78
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 308
+      Coordinates: {x: 0.4300876, y: -8.681164}
+      Name: Toussaint
+      Description: '''the belles of beauclair'' brothel, beauclair port'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: a0b4ed452c9d3f8448e4818133b5a3e6
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 309
+      Coordinates: {x: 0.5453749, y: -8.627954}
+      Name: Toussaint
+      Description: '''the belles of beauclair'' brothel, top floor'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c7ed2005d9ecbb84d807793f9b5c5eff
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 310
+      Coordinates: {x: 1.55635, y: -8.05152}
+      Name: Toussaint
+      Description: warehouse by the beauclair port
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: c74dbb810d29b0e469d9784ce1836465
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 311
+      Coordinates: {x: 0.7050019, y: -11.89145}
+      Name: Toussaint
+      Description: dye merchant by the beauclair port
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 1ea4a7a450b47c24a9c767df60976123
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 312
+      Coordinates: {x: 2.035232, y: -11.47465}
+      Name: Toussaint
+      Description: outskirts by the beauclair port
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 818955b09ee7bbe42afec53fc384a162
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 313
+      Coordinates: {x: 1.69824, y: -11.09331}
+      Name: Toussaint
+      Description: warehouses by the beauclair port
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 064c18da80bd85345b698c64ad9e9830
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 314
+      Coordinates: {x: 0.2793279, y: -11.09332}
+      Name: Toussaint
+      Description: '''the rocking horse'' toy shop, beauclair port'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 7d40127f0c7451348bfdde4e47c75e98
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 315
+      Coordinates: {x: 0.2615908, y: -11.00463}
+      Name: Toussaint
+      Description: '''the rocking horse'' toy shop, top floor'
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: e640fc1a3358fe641905fbf4f2a6ee02
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 316
+      Coordinates: {x: -9.819777, y: -24.7663}
+      Name: Toussaint
+      Description: the unseen elder's lair, south-east of toussaint
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 7fc39d3e6ee129c419a99a7db2894481
+        m_SubObjectName: 
+        m_SubObjectType: 
+        m_EditorAssetChanged: 0
+      AddressablePanoramicImageTextureLoaded: 0
+    - Index: 317
+      Coordinates: {x: -11.98537, y: 7.653257}
+      Name: Toussaint
+      Description: wine basement of castel ravello vineyard
+      CachedPanoramicImageTexture: {fileID: 0}
+      AddressablePanoramicImageTexture:
+        m_AssetGUID: 1f0fd96374cf106419ba7e8669a4b1e7
         m_SubObjectName: 
         m_SubObjectType: 
         m_EditorAssetChanged: 0

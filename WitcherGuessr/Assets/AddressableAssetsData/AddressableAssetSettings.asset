@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: 0afafa0eeb47f064c852a1ff6e23d9d7
   m_currentHash:
     serializedVersion: 2
-    Hash: 00000000000000000000000000000000
+    Hash: 363a0ccfd548581930f518d952f10282
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 1
   m_BundleLocalCatalog: 0
@@ -130,6 +130,7 @@ MonoBehaviour:
     - gauntersworld
     - kaermorhen
     - fablesphere
+    - toussaint
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: 216782e95bbe27747b4c8a3071586b67, type: 2}

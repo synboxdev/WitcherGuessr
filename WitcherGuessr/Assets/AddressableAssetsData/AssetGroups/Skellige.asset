@@ -1223,6 +1223,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1fe5bac4f6ee2db4ab4bc9966065372c
+    m_Address: Assets/UI/Locations/Skellige/S201.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: 154bc2ac59ecb0a42bfcbacc4f781828, type: 2}
   m_SchemaSet:
