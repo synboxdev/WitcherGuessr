@@ -8,6 +8,7 @@ using UnityEditor;
 using UnityEngine;
 using UnityEngine.AddressableAssets;
 using UnityEngine.ResourceManagement.AsyncOperations;
+using Object = UnityEngine.Object;
 
 public class MenuItems : MonoBehaviour
 {
@@ -90,6 +91,45 @@ public class MenuItems : MonoBehaviour
         }
 
         Debug.Log("Location value default value initialization has finished");
+    }
+
+    private static bool isExpanded = true;
+
+    [MenuItem("Custom/Toggle Inspector Items %#e")]
+    public static void ToggleInspectorItems()
+    {
+        foreach (GameObject obj in Object.FindObjectsOfType<GameObject>())
+        {
+            var components = obj.GetComponents<MonoBehaviour>();
+            foreach (var component in components)
+            {
+                if (component != null)
+                {
+                    var editor = Editor.CreateEditor(component);
+                    if (editor != null)
+                    {
+                        SerializedObject serializedObject = new SerializedObject(component);
+                        SerializedProperty property = serializedObject.GetIterator();
+                        while (property.NextVisible(true))
+                        {
+                            if (property.isArray && property.propertyType != SerializedPropertyType.String)
+                            {
+                                property.isExpanded = isExpanded;
+                                for (int i = 0; i < property.arraySize; i++)
+                                {
+                                    SerializedProperty element = property.GetArrayElementAtIndex(i);
+                                    element.isExpanded = isExpanded;
+                                }
+                            }
+                        }
+                        serializedObject.ApplyModifiedProperties();
+                        Object.DestroyImmediate(editor);
+                    }
+                }
+            }
+        }
+        isExpanded = !isExpanded;
+        Debug.Log(isExpanded ? "Collapsed all Inspector items." : "Expanded all Inspector items.");
     }
 
     private static void OnTexturesLoaded(AsyncOperationHandle<IList<Texture>> handle, MapType map)
