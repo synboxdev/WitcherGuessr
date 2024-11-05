@@ -3,13 +3,13 @@ using System.IO;
 using System.Linq;
 using TMPro;
 using UnityEngine;
-using UnityEngine.EventSystems;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using UnityEngine.Video;
 
 public class UIManager_MainMenu : MonoBehaviour
 {
+    private SettingsManager SettingsManager;
     private MapManager MapManager;
     private LocationManager LocationManager;
 
@@ -18,6 +18,7 @@ public class UIManager_MainMenu : MonoBehaviour
 
     public GameObject PlaySelectionMenu;
     public GameObject AboutSection;
+    public GameObject SettingsMenu;
     private List<GameObject> Menus;
 
     public GameObject MapSelectionParentObject;
@@ -25,8 +26,30 @@ public class UIManager_MainMenu : MonoBehaviour
     public TextMeshProUGUI AvailableLocationsText;
     public int currentMapSelectionIndex;
 
+    [Header("Image view sensitivity setting")]
+    public Slider ImageViewSensitivitySlider;
+    public TextMeshProUGUI ImageViewSensitivitySliderValueText;
+
+    [Header("Map zoom sensitivity setting")]
+    public Slider MapZoomSensitivitySlider;
+    public TextMeshProUGUI MapZoomSensitivitySliderValueText;
+
+    [Header("Guess attempts variable setting")]
+    public Slider GuessAttemptsSlider;
+    public TextMeshProUGUI GuessAttemptsSliderValueText;
+
+    [Header("Location looping setting")]
+    public Toggle LocationLoopingToggle;
+
+    [Header("Enable hints setting")]
+    public Toggle EnableHintsToggle;
+
+    [Header("Location preloading settings")]
+    public Toggle LocationPreloadingToggle;
+
     void Awake()
     {
+        SettingsManager = FindObjectOfType<SettingsManager>();
         MapManager = FindObjectOfType<MapManager>();
         LocationManager = FindObjectOfType<LocationManager>();
         ConfigureMainMenuDefaultDisplay();
@@ -38,11 +61,19 @@ public class UIManager_MainMenu : MonoBehaviour
         VideoPlayer.url = Path.Combine(Application.streamingAssetsPath, BackgroundVideoName);
     }
 
+    void Update()
+    {
+        if (SettingsMenu.activeInHierarchy)
+            UpdateSettingsUI();
+    }
+
     public void ApplicationQuit() => Application.Quit();
 
     public void TogglePlaySelectionMenu() => SetActiveMenu(PlaySelectionMenu);
 
     public void ToggleAboutSection() => SetActiveMenu(AboutSection);
+
+    public void ToggleSettingsMenu() => SetActiveMenu(SettingsMenu);
 
     public void SpawnMapSelectionButtons()
     {
@@ -99,7 +130,8 @@ public class UIManager_MainMenu : MonoBehaviour
         Menus = new List<GameObject> 
         { 
             PlaySelectionMenu, 
-            AboutSection 
+            AboutSection,
+            SettingsMenu
         };
     }
 
@@ -119,4 +151,20 @@ public class UIManager_MainMenu : MonoBehaviour
     private int GetAvailableLocationsCount(MapType mapType) => mapType == MapType.AllMaps ?
                                  LocationManager.LocationSelections.Sum(x => x.LocationsForViewing.Count) :
                                  LocationManager.LocationSelections.FirstOrDefault(x => x.MapType == mapType).LocationsForViewing.Count;
+
+    private void UpdateSettingsUI()
+    {
+        ImageViewSensitivitySliderValueText.text = $"{SettingsManager.GetImageViewSensitivity()}";
+        ImageViewSensitivitySlider.value = SettingsManager.GetImageViewSensitivity();
+
+        MapZoomSensitivitySliderValueText.text = $"{SettingsManager.GetMapZoomSensitivity()}";
+        MapZoomSensitivitySlider.value = SettingsManager.GetMapZoomSensitivity();
+
+        GuessAttemptsSliderValueText.text = $"{SettingsManager.GetGuessAttempts()}";
+        GuessAttemptsSlider.value = SettingsManager.GetGuessAttempts();
+
+        LocationLoopingToggle.SetIsOnWithoutNotify(SettingsManager.GetLocationLoopingToggle());
+        EnableHintsToggle.SetIsOnWithoutNotify(SettingsManager.GetEnableHintsToggle());
+        LocationPreloadingToggle.SetIsOnWithoutNotify(SettingsManager.GetEnableLocationPreloading());
+    }
 }

@@ -16,13 +16,7 @@ public class GlobalManager : MonoBehaviour
             Destroy(gameObject);
     }
 
-    public static void SetMapSelection(MapSelection map)
-    {
-        mapSelection = map;
-    }
+    public static void SetMapSelection(MapSelection map) => mapSelection = map;
 
-    public static MapSelection GetMapSelection()
-    {
-        return mapSelection;
-    }
+    public static MapSelection GetMapSelection() => mapSelection;
 }

@@ -23,25 +23,21 @@ public class ResultEvaluationManager : MonoBehaviour
         UIManager.HandleUserGuessResultsToUI(UserGuessResults);
     }
 
-    public string GetSuccessfulGuessesText()
-    {
-        return $"{UserGuessResults.UserGuesses.Count(x => x.IsAccurate)}/{UserGuessResults.UserGuesses.Count}";
-    }
+    public string GetSuccessfulGuessesText() =>
+        $"{UserGuessResults.UserGuesses.Count(x => x.IsAccurate)}/{UserGuessResults.UserGuesses.Count}";
 
-    public string GetAccuracyPercentageText()
-    {
-        return $"{UserGuessResults.UserGuesses.Select(x => x.Accuracy).DefaultIfEmpty(0).Average():0}%";
-    }
+    public string GetAccuracyPercentageText() =>
+        $"{UserGuessResults.UserGuesses.Select(x => x.Accuracy).DefaultIfEmpty(0).Average():0}%";
 
-    public bool GameShouldEnd()
-    {
-        return UserGuessResults.AvailableAttempts <= 0;
-    }
+    public string GetHintsUsedText() => $"{UserGuessResults.HintsUsed}";
 
-    public bool IsCorrectMapSelected()
-    {
-        return LocationManager.GetCurrentLocation()?.Key == MapManager.MapSelections.FirstOrDefault(x => x.IsMarkedByUser).MapType;
-    }
+    public bool GameShouldEnd() => UserGuessResults.AvailableAttempts <= 0 || LocationManager.LocationLoopingTriggered();
+
+    public bool LocationIsPreventableWrongGuess =>
+        LocationManager.GetCurrentLocation().Value.Value.PreventWrongGuess;
+
+    public bool IsCorrectMapSelected() =>
+        LocationManager.GetCurrentLocation()?.Key == MapManager.MapSelections.FirstOrDefault(x => x.IsMarkedByUser).MapType;
 
     public void MovingToNextLocation()
     {
@@ -49,12 +45,17 @@ public class ResultEvaluationManager : MonoBehaviour
         UIManager.HandleUserGuessResultsToUI(UserGuessResults);
     }
 
-    public bool EvaluateUserGuess(KeyValuePair<bool, float> userMarkerResults)
+    public bool EvaluateUserGuess(KeyValuePair<bool, float> userMarkerResults, bool preventableWrongGuess = false)
     {
-        RegisterUserGuessResults(userMarkerResults);
+        // Even if location guess prevents wrong guess (out of bounds / under the grounds location), but the player still guesses correctly - then we will add and evaluate the guess, otherwise - skip it.
+        if (!preventableWrongGuess || (userMarkerResults.Key && userMarkerResults.Value <= 100))
+            RegisterUserGuessResults(userMarkerResults);
+        
         UIManager.HandleUserGuessResultsToUI(UserGuessResults);
         return UserGuessResults.AvailableAttempts >= 0;
     }
+
+    public void RegisterHintUsed() => UserGuessResults.HintsUsed++;
 
     private void RegisterUserGuessResults(KeyValuePair<bool, float> userMarkerResults)
     {

@@ -105,7 +105,7 @@ public class MapViewCameraController : MonoBehaviour
         camSize = (maxCamSize + minCamSize) / 2;
         cam.orthographicSize = Mathf.Clamp(camSize, minCamSize, Mathf.Min(maxCamSize, (MapRenderer.bounds.size.x / 2f) / cam.aspect));
         cam.transform.position = new Vector3(0, 0, cam.transform.position.z);
-        zoomStep = (maxCamSize + minCamSize) / 20;
+        zoomStep = (maxCamSize + minCamSize) / (25 - (Settings.GetMapZoomSensitivity * 1.5f));
     }
 
     private void ConfigureCameraForViewing()
