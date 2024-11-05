@@ -2,7 +2,6 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using UnityEditor;
 using UnityEngine;
 using UnityEngine.ResourceManagement.AsyncOperations;
 
@@ -10,7 +9,7 @@ public class LocationManager : MonoBehaviour
 {
     private KeyValuePair<MapType, Location>? CurrentLocation = null;
     private MapType MapTypeForLocations;
-    private List<KeyValuePair<MapType, Location>> Locations;
+    private List<KeyValuePair<MapType, Location>> LocationsQueue;
     private AsyncOperationHandle<Texture> handle;
     private string addressableDownloadStatusText;
     private bool addressableCompleted = false;
@@ -37,99 +36,114 @@ public class LocationManager : MonoBehaviour
 
     public async Task InitializeLocationForViewing()
     {
-        CurrentLocation = GetLocation();
-        var _CurrentLocation = CurrentLocation.Value.Value;
-        var loadedLocationPanoramicImage = GetLoadedLocationSprite(_CurrentLocation.Index);
+        CurrentLocation = GetEnqueuedLocation();
+        var locationToLoad = CurrentLocation.Value;
+        var loadedLocationPanoramicImage = GetLocationCachedImageTexture(locationToLoad);
 
         if (loadedLocationPanoramicImage is not null)
-            RegisterLoadedLocationPanoramicImage(loadedLocationPanoramicImage);
-        else
         {
-            addressableCompleted = false;
-            handle = _CurrentLocation.AddressablePanoramicImageTexture.LoadAssetAsync();
-            handle.Completed += OnAddressableLocationLoaded;
-            await handle.Task;
+            RegisterLoadedLocationPanoramicImage(loadedLocationPanoramicImage, locationToLoad);
+            DisplayLoadedLocationPanoramicImage(loadedLocationPanoramicImage);
         }
+        else
+            await LoadAddressableAssetAsync(locationToLoad);
     }
 
-    public KeyValuePair<MapType, Location>? GetCurrentLocation()
+    public async Task PreloadNextLocation()
     {
-        return CurrentLocation;
+        var nextLocation = LocationsQueue.FirstOrDefault();
+
+        if (GetLocationCachedImageTexture(nextLocation) is null)
+            await LoadAddressableAssetAsync(nextLocation, true);
     }
 
-    public void InitializeLocationList(MapType mapType)
+    public KeyValuePair<MapType, Location>? GetCurrentLocation() => CurrentLocation;
+
+    public bool LocationLoopingTriggered() => LocationsQueue.Count == 0 && !Settings.GetLocationLoopingToggle;
+
+    public void InitializeLocationsQueue(MapType mapType)
     {
         MapTypeForLocations = mapType;
-        Locations = new();
+        LocationsQueue = new();
 
         if (mapType == MapType.AllMaps)
             LocationSelections.ForEach(x => x.LocationsForViewing
-                              .ForEach(y => Locations.Add(new KeyValuePair<MapType, Location>(x.MapType, y))));
+                              .ForEach(y => LocationsQueue.Add(new KeyValuePair<MapType, Location>(x.MapType, y))));
         else
             LocationSelections.FirstOrDefault(x => x.MapType == mapType).LocationsForViewing
-                              .ForEach(x => Locations.Add(new KeyValuePair<MapType, Location>(mapType, x)));
+                              .ForEach(x => LocationsQueue.Add(new KeyValuePair<MapType, Location>(mapType, x)));
 
-        #if UNITY_EDITOR
+#if UNITY_EDITOR
         GetEditorOnlyLocations(mapType);
-        #endif
+#endif
 
-        Locations = Locations.OrderBy(x => Guid.NewGuid()).ToList();
+        LocationsQueue = LocationsQueue.OrderBy(x => Guid.NewGuid()).ToList();
     }
 
-    void RegisterLoadedLocationPanoramicImage(Texture locationTexture)
-    {
-        LocationSelections.FirstOrDefault(x => x.MapType == CurrentLocation.Value.Key).LocationsForViewing
-                          .FirstOrDefault(y => y.Index == CurrentLocation.Value.Value.Index)
+    void RegisterLoadedLocationPanoramicImage(Texture locationTexture, KeyValuePair<MapType, Location> location) =>
+        LocationSelections.FirstOrDefault(x => x.MapType == location.Key).LocationsForViewing
+                          .FirstOrDefault(y => y.Index == location.Value.Index)
                           .RegisterAddressableLocationTexture(locationTexture);
 
+    void DisplayLoadedLocationPanoramicImage(Texture locationTexture) =>
         FindObjectOfType<PanoramicImageCameraController>(true).DisplayImage(locationTexture);
-    }
 
-    void OnAddressableLocationLoaded(AsyncOperationHandle<Texture> handle)
+    void OnAddressableLocationLoaded(AsyncOperationHandle<Texture> handle, KeyValuePair<MapType, Location> location, bool preloading = false)
     {
         addressableCompleted = true;
 
         if (handle.Status == AsyncOperationStatus.Succeeded)
-            RegisterLoadedLocationPanoramicImage(handle.Result);
+            RegisterLoadedLocationPanoramicImage(handle.Result, location);
         else
             Debug.Log("Error has occurred when loading Addressable location from remote directory!");
+
+        if (!preloading)
+            DisplayLoadedLocationPanoramicImage(handle.Result);
     }
 
-    private Texture GetLoadedLocationSprite(int index)
+    async Task LoadAddressableAssetAsync(KeyValuePair<MapType, Location> location, bool preloading = false)
     {
-        var location = LocationSelections.FirstOrDefault(x => x.MapType == CurrentLocation.Value.Key).LocationsForViewing
-                                         .FirstOrDefault(y => y.Index == index);
+        addressableCompleted = false;
+        handle = location.Value.AddressablePanoramicImageTexture.LoadAssetAsync();
+        handle.Completed += (handle) => OnAddressableLocationLoaded(handle, location, preloading);
+        await handle.Task;
+    }
+
+    Texture GetLocationCachedImageTexture(KeyValuePair<MapType, Location> _location)
+    {
+        var location = LocationSelections.FirstOrDefault(x => x.MapType == _location.Key).LocationsForViewing
+                                         .FirstOrDefault(y => y.Index == _location.Value.Index);
 
         return location.AddressablePanoramicImageTextureLoaded ? location.CachedPanoramicImageTexture : null;
     }
 
-    private KeyValuePair<MapType, Location> GetLocation()
+    KeyValuePair<MapType, Location> GetEnqueuedLocation()
     {
-        if (Locations == null || !Locations.Any())
-            InitializeLocationList(MapTypeForLocations);
+        if (LocationsQueue == null || !LocationsQueue.Any())
+            InitializeLocationsQueue(MapTypeForLocations);
 
-        var locationToTakeAndRemove = Locations.FirstOrDefault();
-        Locations.Remove(locationToTakeAndRemove);
+        var locationToTakeAndRemove = LocationsQueue.FirstOrDefault();
+        LocationsQueue.Remove(locationToTakeAndRemove);
 
         return locationToTakeAndRemove;
     }
 
-    #if UNITY_EDITOR
+#if UNITY_EDITOR
     /// <summary>
     /// Entirely for testing, to quickly see specific locations
     /// </summary>
-    private void GetEditorOnlyLocations(MapType mapType)
+    void GetEditorOnlyLocations(MapType mapType)
     {
         if (_fromIndex >= 0 && _toIndex >= 0 &&
             LocationSelections.FirstOrDefault(x => x.MapType == mapType) is not null)
         {
-            Locations.Clear();
+            LocationsQueue.Clear();
 
             LocationSelections
                 .FirstOrDefault(x => x.MapType == mapType).LocationsForViewing
                 .Where(x => x.Index >= _fromIndex && x.Index <= _toIndex).ToList()
-                .ForEach(x => Locations.Add(new KeyValuePair<MapType, Location>(mapType, x)));
+                .ForEach(x => LocationsQueue.Add(new KeyValuePair<MapType, Location>(mapType, x)));
         }
     }
-    #endif
+#endif
 }

@@ -5,13 +5,15 @@ public class PanoramicImageCameraController : MonoBehaviour
     public MeshRenderer meshRenderer;
 
     [Header("Spherical viewing")]
-    public float rotateSpeed = 4.0f;
+    public float rotateSpeed;
     public float zoomSpeed = 2500.0f;
     public float zoomAmount = 0.0f;
 
     [Header("Camera panning")]
     public float panSpeed = 10f;
     public float screenEdgeBuffer = 0.05f; // 5% of the screen
+
+    private void Awake() => ConfigureSettings();
 
     void Update()
     {
@@ -54,5 +56,10 @@ public class PanoramicImageCameraController : MonoBehaviour
             transform.localEulerAngles += new Vector3(0, panSpeed * Time.deltaTime, 0);
         else if (mousePos.x <= screenWidth * screenEdgeBuffer) // Left edge
             transform.localEulerAngles -= new Vector3(0, panSpeed * Time.deltaTime, 0);
+    }
+
+    private void ConfigureSettings()
+    {
+        rotateSpeed = Settings.GetImageViewSensitivity;
     }
 }

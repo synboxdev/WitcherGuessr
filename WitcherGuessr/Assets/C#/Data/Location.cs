@@ -9,6 +9,7 @@ public class Location
     public Vector2 Coordinates;
     public string Name;
     public string Description;
+    public bool PreventWrongGuess = false;
 
     public Texture CachedPanoramicImageTexture = null;
     public AssetReferenceTexture AddressablePanoramicImageTexture;
