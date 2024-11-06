@@ -215,9 +215,9 @@ public class MapMarkerManager : MonoBehaviour
     private void InitializeInternalSystems()
     {
         LineRenderer = GetComponent<LineRenderer>();
-        MapViewCameraMovement = FindObjectOfType<MapViewCameraController>();
-        MapManager = FindObjectOfType<MapManager>();
-        LocationManager = FindObjectOfType<LocationManager>();
+        MapViewCameraMovement = FindFirstObjectByType<MapViewCameraController>();
+        MapManager = FindFirstObjectByType<MapManager>();
+        LocationManager = FindFirstObjectByType<LocationManager>();
         MapViewCamera.gameObject.SetActive(false);
     }
 }

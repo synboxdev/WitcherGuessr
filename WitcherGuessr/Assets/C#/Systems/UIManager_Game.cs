@@ -315,12 +315,12 @@ public class UIManager_Game : MonoBehaviour
 
     private void InitializeInternalSystems()
     {
-        ResultEvaluationManager = FindObjectOfType<ResultEvaluationManager>();
-        MapViewCameraController = FindObjectOfType<MapViewCameraController>();
-        PanoramicImageCameraController = FindObjectOfType<PanoramicImageCameraController>();
-        LocationManager = FindObjectOfType<LocationManager>();
-        MapManager = FindObjectOfType<MapManager>();
-        MapMarkerManager = FindObjectOfType<MapMarkerManager>();
+        ResultEvaluationManager = FindFirstObjectByType<ResultEvaluationManager>();
+        MapViewCameraController = FindFirstObjectByType<MapViewCameraController>();
+        PanoramicImageCameraController = FindFirstObjectByType<PanoramicImageCameraController>();
+        LocationManager = FindFirstObjectByType<LocationManager>();
+        MapManager = FindFirstObjectByType<MapManager>();
+        MapMarkerManager = FindFirstObjectByType<MapMarkerManager>();
     }
 
     private void HandleUpdatedUI()

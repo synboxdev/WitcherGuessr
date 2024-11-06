@@ -23,9 +23,9 @@ public class MenuItems : MonoBehaviour
     {
         if (allLocationsHolder == null)
         {
-            var LocationManager = FindObjectOfType<LocationManager>();
-            var MapMarkerManager = FindObjectOfType<MapMarkerManager>();
-            var MapManager = FindObjectOfType<MapManager>();
+            var LocationManager = FindFirstObjectByType<LocationManager>();
+            var MapMarkerManager = FindFirstObjectByType<MapMarkerManager>();
+            var MapManager = FindFirstObjectByType<MapManager>();
 
             MapSelection _currentMapSelection = null;
             foreach (var map in MapManager.MapSelections)
@@ -69,7 +69,7 @@ public class MenuItems : MonoBehaviour
     {
         Debug.Log("Starting location value default value initialization");
 
-        var LocationManager = FindObjectOfType<LocationManager>();
+        var LocationManager = FindFirstObjectByType<LocationManager>();
         EditorUtility.SetDirty(LocationManager);
 
         foreach (var area in LocationManager.LocationSelections)
@@ -98,7 +98,7 @@ public class MenuItems : MonoBehaviour
     [MenuItem("Custom/Toggle Inspector Items %#e")]
     public static void ToggleInspectorItems()
     {
-        foreach (GameObject obj in Object.FindObjectsOfType<GameObject>())
+        foreach (GameObject obj in FindObjectsByType<GameObject>(FindObjectsSortMode.None))
         {
             var components = obj.GetComponents<MonoBehaviour>();
             foreach (var component in components)
@@ -135,7 +135,7 @@ public class MenuItems : MonoBehaviour
     private static void OnTexturesLoaded(AsyncOperationHandle<IList<Texture>> handle, MapType map)
     {
         var mapName = Enum.GetName(typeof(MapType), map);
-        var LocationManager = FindObjectOfType<LocationManager>();
+        var LocationManager = FindFirstObjectByType<LocationManager>();
 
         var locationNamePrefix = GetLocationNamePrefixByMapType(map);
         var assignableLocations = LocationManager.LocationSelections.FirstOrDefault(x => x.MapType == map).LocationsForViewing;

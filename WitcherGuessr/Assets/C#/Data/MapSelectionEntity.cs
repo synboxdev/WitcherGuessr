@@ -11,7 +11,7 @@ public class MapSelectionEntity : MonoBehaviour, ISelectHandler
 
     void Awake()
     {
-        UIManager = FindObjectOfType<UIManager_MainMenu>();
+        UIManager = FindFirstObjectByType<UIManager_MainMenu>();
     }
 
     public void SetAvailableLocationsTextReference(TextMeshProUGUI availableLocationsText) => AvailableLocationsText = availableLocationsText;

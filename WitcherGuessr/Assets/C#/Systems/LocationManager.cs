@@ -86,7 +86,7 @@ public class LocationManager : MonoBehaviour
                           .RegisterAddressableLocationTexture(locationTexture);
 
     void DisplayLoadedLocationPanoramicImage(Texture locationTexture) =>
-        FindObjectOfType<PanoramicImageCameraController>(true).DisplayImage(locationTexture);
+        FindFirstObjectByType<PanoramicImageCameraController>(FindObjectsInactive.Include).DisplayImage(locationTexture);
 
     void OnAddressableLocationLoaded(AsyncOperationHandle<Texture> handle, KeyValuePair<MapType, Location> location, bool preloading = false)
     {
