@@ -15,14 +15,14 @@ public class MapViewCameraController : MonoBehaviour
     private float mapMinX, mapMaxX, mapMinY, mapMaxY;
     private Vector3 dragOrigin;
 
-    void Awake()
+    private void Awake()
     {
-        MapMarkerManager = FindObjectOfType<MapMarkerManager>();
+        MapMarkerManager = FindFirstObjectByType<MapMarkerManager>();
         cam = GetComponent<Camera>();
         InitializeMapViewCamera();
     }
 
-    void Update()
+    private void Update()
     {
         if (MapRenderer != null && MapRenderer.gameObject.activeInHierarchy)
         {
@@ -54,14 +54,14 @@ public class MapViewCameraController : MonoBehaviour
     public void ZoomIn()
     {
         camSize = cam.orthographicSize - zoomStep < minCamSize ? minCamSize : cam.orthographicSize - zoomStep;
-        cam.orthographicSize = Mathf.Clamp(camSize, minCamSize, Mathf.Min(maxCamSize, (MapRenderer.bounds.size.x / 2f) / cam.aspect));
+        cam.orthographicSize = Mathf.Clamp(camSize, minCamSize, Mathf.Min(maxCamSize, MapRenderer.bounds.size.x / 2f / cam.aspect));
         cam.transform.position = ClampCamera(cam.transform.position);
     }
 
     public void ZoomOut()
     {
         camSize = cam.orthographicSize + zoomStep > maxCamSize ? maxCamSize : cam.orthographicSize + zoomStep;
-        cam.orthographicSize = Mathf.Clamp(camSize, minCamSize, Mathf.Min(maxCamSize, (MapRenderer.bounds.size.x / 2f) / cam.aspect));
+        cam.orthographicSize = Mathf.Clamp(camSize, minCamSize, Mathf.Min(maxCamSize, MapRenderer.bounds.size.x / 2f / cam.aspect));
         cam.transform.position = ClampCamera(cam.transform.position);
     }
 
@@ -98,12 +98,12 @@ public class MapViewCameraController : MonoBehaviour
 
     private void ConfigureCameraSettings()
     {
-        var mapSizeDeltaAvg = (MapViewCamera.MapSelectionToView.MapGameObject.GetComponent<RectTransform>().sizeDelta.x +
+        float mapSizeDeltaAvg = (MapViewCamera.MapSelectionToView.MapGameObject.GetComponent<RectTransform>().sizeDelta.x +
                               MapViewCamera.MapSelectionToView.MapGameObject.GetComponent<RectTransform>().sizeDelta.y) / 2;
         maxCamSize = 0.2f * mapSizeDeltaAvg;
         minCamSize = maxCamSize * 0.2f;
         camSize = (maxCamSize + minCamSize) / 2;
-        cam.orthographicSize = Mathf.Clamp(camSize, minCamSize, Mathf.Min(maxCamSize, (MapRenderer.bounds.size.x / 2f) / cam.aspect));
+        cam.orthographicSize = Mathf.Clamp(camSize, minCamSize, Mathf.Min(maxCamSize, MapRenderer.bounds.size.x / 2f / cam.aspect));
         cam.transform.position = new Vector3(0, 0, cam.transform.position.z);
         zoomStep = (maxCamSize + minCamSize) / (25 - (Settings.GetMapZoomSensitivity * 1.5f));
     }
@@ -114,12 +114,12 @@ public class MapViewCameraController : MonoBehaviour
         mapGameObjectToView.SetActive(true);
         MapRenderer = mapGameObjectToView.GetComponent<SpriteRenderer>();
 
-        mapMinX = MapRenderer.transform.position.x - MapRenderer.bounds.size.x / 2f;
-        mapMaxX = MapRenderer.transform.position.x + MapRenderer.bounds.size.x / 2f;
-        mapMinY = MapRenderer.transform.position.y - MapRenderer.bounds.size.y / 2f;
-        mapMaxY = MapRenderer.transform.position.y + MapRenderer.bounds.size.y / 2f;
+        mapMinX = MapRenderer.transform.position.x - (MapRenderer.bounds.size.x / 2f);
+        mapMaxX = MapRenderer.transform.position.x + (MapRenderer.bounds.size.x / 2f);
+        mapMinY = MapRenderer.transform.position.y - (MapRenderer.bounds.size.y / 2f);
+        mapMaxY = MapRenderer.transform.position.y + (MapRenderer.bounds.size.y / 2f);
 
-        cam.orthographicSize = Mathf.Clamp(cam.orthographicSize, minCamSize, Mathf.Min(maxCamSize, (MapRenderer.bounds.size.x / 2f) / cam.aspect));
+        cam.orthographicSize = Mathf.Clamp(cam.orthographicSize, minCamSize, Mathf.Min(maxCamSize, MapRenderer.bounds.size.x / 2f / cam.aspect));
         ConfigureMapMarkerManager(MapViewCamera.MapSelectionToView);
     }
 
@@ -155,7 +155,7 @@ public class MapViewCameraController : MonoBehaviour
             if (dragOrigin != cam.ScreenToWorldPoint(Input.mousePosition))
                 IsBeingMoved = true;
 
-            Vector3 difference = dragOrigin - cam.ScreenToWorldPoint(Input.mousePosition);
+            var difference = dragOrigin - cam.ScreenToWorldPoint(Input.mousePosition);
             cam.transform.position = ClampCamera(cam.transform.position + difference);
         }
 

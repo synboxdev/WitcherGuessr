@@ -49,9 +49,9 @@ public class UIManager_MainMenu : MonoBehaviour
 
     void Awake()
     {
-        SettingsManager = FindObjectOfType<SettingsManager>();
-        MapManager = FindObjectOfType<MapManager>();
-        LocationManager = FindObjectOfType<LocationManager>();
+        SettingsManager = FindFirstObjectByType<SettingsManager>();
+        MapManager = FindFirstObjectByType<MapManager>();
+        LocationManager = FindFirstObjectByType<LocationManager>();
         ConfigureMainMenuDefaultDisplay();
         InitializeMenus();
     }

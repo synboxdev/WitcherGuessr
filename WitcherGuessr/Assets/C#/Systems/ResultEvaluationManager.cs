@@ -12,9 +12,9 @@ public class ResultEvaluationManager : MonoBehaviour
 
     void Awake()
     {
-        LocationManager = FindObjectOfType<LocationManager>();
-        MapManager = FindObjectOfType<MapManager>();
-        UIManager = FindObjectOfType<UIManager_Game>();
+        LocationManager = FindFirstObjectByType<LocationManager>();
+        MapManager = FindFirstObjectByType<MapManager>();
+        UIManager = FindFirstObjectByType<UIManager_Game>();
     }
 
     void Start()
