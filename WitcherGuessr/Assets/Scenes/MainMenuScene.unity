@@ -2308,9 +2308,9 @@ MonoBehaviour:
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
     - Index: 10
-      Coordinates: {x: -20.2, y: 28.4}
+      Coordinates: {x: -4.32, y: 18.985}
       Name: white orchard
-      Description: nilfgaardian camp, north of mill
+      Description: windmill
       PreventWrongGuess: 0
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
@@ -2386,9 +2386,9 @@ MonoBehaviour:
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
     - Index: 16
-      Coordinates: {x: 4.94, y: 1}
+      Coordinates: {x: 28.337, y: 11.56}
       Name: white orchard
-      Description: vildenvert's farm
+      Description: '''missing in action'' quest'
       PreventWrongGuess: 0
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
@@ -2789,9 +2789,9 @@ MonoBehaviour:
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
     - Index: 47
-      Coordinates: {x: -11.6, y: 22.44}
+      Coordinates: {x: -13.147, y: 25.897}
       Name: white orchard
-      Description: cementery, north of mill
+      Description: white orchard cementery tomb
       PreventWrongGuess: 0
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
@@ -8473,13 +8473,13 @@ MonoBehaviour:
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
     - Index: 424
-      Coordinates: {x: -13.48278, y: 27.33933}
-      Name: Novigrad
-      Description: store at the fish market
+      Coordinates: {x: -4.895, y: 47.55}
+      Name: Velen
+      Description: sarrasin grange cottage
       PreventWrongGuess: 0
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: 096e8f3dff5b2d344bb01b3f6a773451
+        m_AssetGUID: ead8b7ecfadbd0348a7fe0a1627cf6ed
         m_SubObjectName: 
         m_SubObjectGUID: 
         m_SubObjectType: 
@@ -10627,7 +10627,7 @@ MonoBehaviour:
       PreventWrongGuess: 0
       CachedPanoramicImageTexture: {fileID: 0}
       AddressablePanoramicImageTexture:
-        m_AssetGUID: 75ac343ac9468b9419329c41b0f7996f
+        m_AssetGUID: 3cbae7489e693224194c8bac30f456b9
         m_SubObjectName: 
         m_SubObjectGUID: 
         m_SubObjectType: 
@@ -17760,7 +17760,7 @@ MonoBehaviour:
         m_EditorAssetChanged: 0
       AddressablePanoramicImageTextureLoaded: 0
     - Index: 292
-      Coordinates: {x: 2.815675, y: -9.364013}
+      Coordinates: {x: -2.815675, y: -9.364013}
       Name: Toussaint
       Description: entrance to the wine market, san sebastian
       PreventWrongGuess: 0

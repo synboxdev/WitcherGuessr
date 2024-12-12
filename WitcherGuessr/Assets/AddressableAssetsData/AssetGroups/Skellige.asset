@@ -13,606 +13,10 @@ MonoBehaviour:
   m_Name: Skellige
   m_EditorClassIdentifier: 
   m_GroupName: Skellige
-  m_Data:
-    m_SerializedData: []
   m_GUID: 0650e1f771e08da41b7870b8eeb92ced
   m_SerializeEntries:
-  - m_GUID: c02d4cabc91cd7b449db2e2e924cfef2
-    m_Address: Assets/UI/Locations/Skellige/S0.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 7a0b1e2205a198c4b884657a44fa18ed
-    m_Address: Assets/UI/Locations/Skellige/S1.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 2efdc380084b9cf439ec9371d813b9f1
-    m_Address: Assets/UI/Locations/Skellige/S2.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 40e28aaca6bd9dd45abf70b59b92b3ff
-    m_Address: Assets/UI/Locations/Skellige/S3.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 1eb418590efe978479704e2bccdc9853
-    m_Address: Assets/UI/Locations/Skellige/S4.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 540d97a5fdff5344d8cb7f27c35985a3
-    m_Address: Assets/UI/Locations/Skellige/S5.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 089f77195d64755428cf74221e48b285
-    m_Address: Assets/UI/Locations/Skellige/S6.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 6f9930db18c593340aea35cccbf1b53b
-    m_Address: Assets/UI/Locations/Skellige/S7.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: af0c5054f1a5b2e4f8e1e98fa31e382d
-    m_Address: Assets/UI/Locations/Skellige/S8.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 3b7b83f007c860c4996b9382ab54d2fa
-    m_Address: Assets/UI/Locations/Skellige/S9.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 1398a7954a2c83444b1694beae360a2c
-    m_Address: Assets/UI/Locations/Skellige/S10.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 89f24f1295f35d24daaa79fb28e33f86
-    m_Address: Assets/UI/Locations/Skellige/S11.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 31937755f0ca2f8479f8a6a022ba568b
-    m_Address: Assets/UI/Locations/Skellige/S12.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 085105b827791de43baec1d5d54004c7
-    m_Address: Assets/UI/Locations/Skellige/S13.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: bf316dd172679414ba0e00aacab778ca
-    m_Address: Assets/UI/Locations/Skellige/S14.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 6e421bab8627c154d987b94a2f2cf423
-    m_Address: Assets/UI/Locations/Skellige/S15.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 7cf644dc7f77d39458cacf32fd32dfb0
-    m_Address: Assets/UI/Locations/Skellige/S16.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: d478920142c69bc4294cfd1f7cf2f16a
-    m_Address: Assets/UI/Locations/Skellige/S17.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 0a359176e9e481b4c84a7b082bb37371
-    m_Address: Assets/UI/Locations/Skellige/S18.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: a846d8ba70a7c0643980023f8fd068f6
-    m_Address: Assets/UI/Locations/Skellige/S19.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: b04b679ece2917744a44644050b3e065
-    m_Address: Assets/UI/Locations/Skellige/S20.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: e414937cf1dda50458d094535bddbc9c
-    m_Address: Assets/UI/Locations/Skellige/S21.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 05e2f6ad5e8b9e44caa1ffeddb986a04
-    m_Address: Assets/UI/Locations/Skellige/S22.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: fc3bb9144fcdbc14dbfd91acd760773d
-    m_Address: Assets/UI/Locations/Skellige/S23.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: c44eb9542e7e71d44814f0c54350958c
-    m_Address: Assets/UI/Locations/Skellige/S24.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 55342f1d7d08d1e4ea75642676066a88
-    m_Address: Assets/UI/Locations/Skellige/S25.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: b17191422dc4985478b8db466436bb37
-    m_Address: Assets/UI/Locations/Skellige/S26.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 08d36bc71bfed3e449ee89a555f6ccf6
-    m_Address: Assets/UI/Locations/Skellige/S27.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 15143c6a96dc42e45bd2feb6dbb71240
-    m_Address: Assets/UI/Locations/Skellige/S28.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 3dc85f4d8006bee46b792d7e11b442f3
-    m_Address: Assets/UI/Locations/Skellige/S29.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 0b3a413f33368634bbc5db3a714158ae
-    m_Address: Assets/UI/Locations/Skellige/S30.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 843b02cf2ae0c2f4d92c7b690d234986
-    m_Address: Assets/UI/Locations/Skellige/S31.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: d2b7b833297794f4c9a3dc9d0c817823
-    m_Address: Assets/UI/Locations/Skellige/S32.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 13e41448b651a664b825499c9628fba0
-    m_Address: Assets/UI/Locations/Skellige/S33.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 457ca4299c859b447982218397eeb7df
-    m_Address: Assets/UI/Locations/Skellige/S34.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 23d805cea3b31ed4987a0925664d554b
-    m_Address: Assets/UI/Locations/Skellige/S35.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 6488795654a74e4439bf6d69f13c3ae5
-    m_Address: Assets/UI/Locations/Skellige/S36.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 67c21d1ee5b376f41aa9a513d98fb009
-    m_Address: Assets/UI/Locations/Skellige/S37.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 81e2eb54cbfecb143b9b580f083ddd97
-    m_Address: Assets/UI/Locations/Skellige/S38.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 22a754bdf76100049ab1faf7a21e7126
-    m_Address: Assets/UI/Locations/Skellige/S39.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 6ff20082f34bad04cae803d3037e51a4
-    m_Address: Assets/UI/Locations/Skellige/S40.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 097caf39410e10b498239ff8f906a198
-    m_Address: Assets/UI/Locations/Skellige/S41.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 3841186faa64c0f4c9e5a98f01b8909b
-    m_Address: Assets/UI/Locations/Skellige/S42.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 5dc19ae1792262c4a83aceeea9553ee5
-    m_Address: Assets/UI/Locations/Skellige/S43.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: b63ad5a2d0658c64f81baf2afb9e4251
-    m_Address: Assets/UI/Locations/Skellige/S44.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 5f9107036223a2f4c875d93dbf761073
-    m_Address: Assets/UI/Locations/Skellige/S45.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 1659df31dd38455448b13f3cdadc0b5e
-    m_Address: Assets/UI/Locations/Skellige/S46.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 1fdfaa47069775041bd5ffa1ea6ebcdc
-    m_Address: Assets/UI/Locations/Skellige/S47.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 75ac343ac9468b9419329c41b0f7996f
-    m_Address: Assets/UI/Locations/Skellige/S48.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: acb3405969a5e7748942589dabfdc71a
-    m_Address: Assets/UI/Locations/Skellige/S49.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 355fd37faafb75d4baa21ebd84269044
-    m_Address: Assets/UI/Locations/Skellige/S50.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: e45259b8041fa274fac876a04be286cd
-    m_Address: Assets/UI/Locations/Skellige/S51.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 1bf60fc9251ee6043b158945feba992a
-    m_Address: Assets/UI/Locations/Skellige/S52.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: fe6ff2b30baf5234f943e3a969d1647c
-    m_Address: Assets/UI/Locations/Skellige/S53.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 9521569aaff9cd748b453ceda29bbd22
-    m_Address: Assets/UI/Locations/Skellige/S54.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 2a7482917f324f4439be77ee59767148
-    m_Address: Assets/UI/Locations/Skellige/S55.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 7850835bfbe6e724a98fdbabfaee5405
-    m_Address: Assets/UI/Locations/Skellige/S56.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 0f767edd5d857df48b8f0c8f94c67e17
-    m_Address: Assets/UI/Locations/Skellige/S57.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 1a23d79cbb27fb443aca4159fc02f51e
-    m_Address: Assets/UI/Locations/Skellige/S58.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 7f7e7fe8d36f19a4aa2a56d1a0891575
-    m_Address: Assets/UI/Locations/Skellige/S59.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: b926bec00da74c148b512f5dba49134d
-    m_Address: Assets/UI/Locations/Skellige/S60.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 1738f3856fbfcf64fb134ee1ce30ec09
-    m_Address: Assets/UI/Locations/Skellige/S61.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 69c0a19c30d600c4a8ae0b82de499b77
-    m_Address: Assets/UI/Locations/Skellige/S62.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: ddd3c1af50ce30a45bc13737a22f6112
-    m_Address: Assets/UI/Locations/Skellige/S63.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: b03d45d82a70aaa49934d9c6f2aeb55b
-    m_Address: Assets/UI/Locations/Skellige/S64.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 28284fea282ae51478152b99d639a975
-    m_Address: Assets/UI/Locations/Skellige/S65.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: fb9d2fbe743b5e54394bd1201a229133
-    m_Address: Assets/UI/Locations/Skellige/S66.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 31ff9e7a2a4e8f64a80c735bb094a715
-    m_Address: Assets/UI/Locations/Skellige/S67.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 082956ac8a08c014b993e615f0ab3ebd
-    m_Address: Assets/UI/Locations/Skellige/S68.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 1334acbe0581ec341b07a1636bd88728
-    m_Address: Assets/UI/Locations/Skellige/S69.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 12c56721dd774734caa21f531ed2080b
-    m_Address: Assets/UI/Locations/Skellige/S70.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: ecff5b458b5c6654aaf1e6e1cceef41f
-    m_Address: Assets/UI/Locations/Skellige/S71.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 0dca713a08d3e2248bf78cb77b1c10d8
-    m_Address: Assets/UI/Locations/Skellige/S72.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 4bbe27349040b5a42b7e5ce44b0ba643
-    m_Address: Assets/UI/Locations/Skellige/S73.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: d5028889f9ce6be448895ee622e02850
-    m_Address: Assets/UI/Locations/Skellige/S74.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: e25d4f8e65751bb4b82d4008b88a5556
-    m_Address: Assets/UI/Locations/Skellige/S75.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 53dd78241651e1041b8bae33f46de10b
-    m_Address: Assets/UI/Locations/Skellige/S76.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: ee584d6e8b6a80346ae1d294cff35cc8
-    m_Address: Assets/UI/Locations/Skellige/S77.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 55adb0349a840cc42aee29fe18ca6e2c
-    m_Address: Assets/UI/Locations/Skellige/S78.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 761ddf922eaf83f40b105fcf1b20eefc
-    m_Address: Assets/UI/Locations/Skellige/S79.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 328ca1581ef9c9d4992e0483fc5071b6
-    m_Address: Assets/UI/Locations/Skellige/S80.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 0f936e97a7a490a4b96d88b623047523
-    m_Address: Assets/UI/Locations/Skellige/S81.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 3ff1f2ed9de767e419d62e9118b4f819
-    m_Address: Assets/UI/Locations/Skellige/S82.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 7d0a7ca180ac7534fa30ba4fdf52bd4e
-    m_Address: Assets/UI/Locations/Skellige/S83.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 3ab57590c1ec200459e7109eadb8efc8
-    m_Address: Assets/UI/Locations/Skellige/S84.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 784b1e5256538cb478b355c71c74cc01
-    m_Address: Assets/UI/Locations/Skellige/S85.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 359cf4e9f83aeff4885269256d8e0230
-    m_Address: Assets/UI/Locations/Skellige/S86.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 57c5b396dd1193546807970e586aaf05
-    m_Address: Assets/UI/Locations/Skellige/S87.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 3742f55ba13a80442be27c4e1453a128
-    m_Address: Assets/UI/Locations/Skellige/S88.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: a1da5ccebef51b84db39dba87fc3766a
-    m_Address: Assets/UI/Locations/Skellige/S89.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 51157eceab15f124fbc6b81fe8fc5501
-    m_Address: Assets/UI/Locations/Skellige/S90.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 3fac2d94332d7cf49ac61f1caac5dd9c
-    m_Address: Assets/UI/Locations/Skellige/S91.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: c188572212ff0984f9c506ad79cae18b
-    m_Address: Assets/UI/Locations/Skellige/S92.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 2f9bee1951ab1974fa826ad148ae19e0
-    m_Address: Assets/UI/Locations/Skellige/S93.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 2ad9a056ec46f714d9170c861c4ab1ef
-    m_Address: Assets/UI/Locations/Skellige/S94.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 742d702c18548fc438c78aa8829c5350
-    m_Address: Assets/UI/Locations/Skellige/S95.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: e31d6b19518ba0641838bf804d76c183
-    m_Address: Assets/UI/Locations/Skellige/S96.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 21bc0fbfcb8a217449747a16540dd970
-    m_Address: Assets/UI/Locations/Skellige/S97.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 0a0c531f21c0fad49b8c660d9949c346
-    m_Address: Assets/UI/Locations/Skellige/S98.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 6f1687c953eed0942920723071851ad1
-    m_Address: Assets/UI/Locations/Skellige/S99.jpg
+  - m_GUID: 0203af3e31cd9774c921de911f2694e8
+    m_Address: Assets/UI/Locations/Skellige/S180.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
@@ -623,50 +27,68 @@ MonoBehaviour:
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 8a8067e906be8764dbd0a0fc7023efab
-    m_Address: Assets/UI/Locations/Skellige/S101.jpg
+  - m_GUID: 05e2f6ad5e8b9e44caa1ffeddb986a04
+    m_Address: Assets/UI/Locations/Skellige/S22.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: eec3041f8a7958a4b9dc0f4f6b3d823f
-    m_Address: Assets/UI/Locations/Skellige/S102.jpg
+  - m_GUID: 082956ac8a08c014b993e615f0ab3ebd
+    m_Address: Assets/UI/Locations/Skellige/S68.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: f09f052a326ff5b40835d6098f5e4e8e
-    m_Address: Assets/UI/Locations/Skellige/S103.jpg
+  - m_GUID: 085105b827791de43baec1d5d54004c7
+    m_Address: Assets/UI/Locations/Skellige/S13.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 6d12ab78d75053f428ed2d225b96be06
-    m_Address: Assets/UI/Locations/Skellige/S104.jpg
+  - m_GUID: 089f77195d64755428cf74221e48b285
+    m_Address: Assets/UI/Locations/Skellige/S6.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 609b8a1eceb3b8e4aa171681cfef2362
-    m_Address: Assets/UI/Locations/Skellige/S105.jpg
+  - m_GUID: 08d36bc71bfed3e449ee89a555f6ccf6
+    m_Address: Assets/UI/Locations/Skellige/S27.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 6fb4614404cca7c4ab77534badd17352
-    m_Address: Assets/UI/Locations/Skellige/S106.jpg
+  - m_GUID: 097caf39410e10b498239ff8f906a198
+    m_Address: Assets/UI/Locations/Skellige/S41.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 3d7d851517d9fdb449164c9888acc79e
-    m_Address: Assets/UI/Locations/Skellige/S107.jpg
+  - m_GUID: 0a0c531f21c0fad49b8c660d9949c346
+    m_Address: Assets/UI/Locations/Skellige/S98.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 99c1a19555730e7448e98ce992b9111f
-    m_Address: Assets/UI/Locations/Skellige/S108.jpg
+  - m_GUID: 0a359176e9e481b4c84a7b082bb37371
+    m_Address: Assets/UI/Locations/Skellige/S18.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0b3a413f33368634bbc5db3a714158ae
+    m_Address: Assets/UI/Locations/Skellige/S30.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0dca713a08d3e2248bf78cb77b1c10d8
+    m_Address: Assets/UI/Locations/Skellige/S72.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0e32b30e87591b6428f5b7b4457395b6
+    m_Address: Assets/UI/Locations/Skellige/S153.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
@@ -677,188 +99,44 @@ MonoBehaviour:
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: ce511a610f13fb1449c1e24ee245a7a0
-    m_Address: Assets/UI/Locations/Skellige/S110.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: d2a126d5cdc90514e8127b79eb9a739b
-    m_Address: Assets/UI/Locations/Skellige/S111.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 36ef62f4824bee5418cad9fdb234b6b9
-    m_Address: Assets/UI/Locations/Skellige/S112.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 0ebb44b9d0d3a4e46875139f7f9791a1
     m_Address: Assets/UI/Locations/Skellige/S113.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: ce0759232be6a5342a41a09f7e0148a6
-    m_Address: Assets/UI/Locations/Skellige/S114.jpg
+  - m_GUID: 0f767edd5d857df48b8f0c8f94c67e17
+    m_Address: Assets/UI/Locations/Skellige/S57.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 347473758c54a074fbae0769aa84dada
-    m_Address: Assets/UI/Locations/Skellige/S115.jpg
+  - m_GUID: 0f936e97a7a490a4b96d88b623047523
+    m_Address: Assets/UI/Locations/Skellige/S81.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: a846523a210af33459422f51ff10b662
-    m_Address: Assets/UI/Locations/Skellige/S116.jpg
+  - m_GUID: 0fa5ff41e8d7e3d48840a85d2ee31ea1
+    m_Address: Assets/UI/Locations/Skellige/S175.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: a6b5af79ca74d92448b29cf3628b449c
-    m_Address: Assets/UI/Locations/Skellige/S117.jpg
+  - m_GUID: 11f8cdd01c013ab4dae39f77735c1295
+    m_Address: Assets/UI/Locations/Skellige/S182.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: dfbe846b3eb2c3f4fbd8ec31122892f7
-    m_Address: Assets/UI/Locations/Skellige/S118.jpg
+  - m_GUID: 12c56721dd774734caa21f531ed2080b
+    m_Address: Assets/UI/Locations/Skellige/S70.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 1f52e5e049643c145b6fea2d726aaba9
-    m_Address: Assets/UI/Locations/Skellige/S119.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: f0836ed3d43a92e46b9ae495ab28d9f3
-    m_Address: Assets/UI/Locations/Skellige/S120.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: fbb23f0d3aa429a43bb32511fa04511d
-    m_Address: Assets/UI/Locations/Skellige/S121.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 73daf9010bbfa594097431b508efa046
-    m_Address: Assets/UI/Locations/Skellige/S122.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 77579b8b3cb3e2b41a7eaa38e022d94c
-    m_Address: Assets/UI/Locations/Skellige/S123.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 43340bb3376196142866b8d9e244bb08
-    m_Address: Assets/UI/Locations/Skellige/S124.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 6316e2ba175ef6e4a8948440b4ec73e7
-    m_Address: Assets/UI/Locations/Skellige/S125.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: e59c292cabb448f49a589379e92d69db
-    m_Address: Assets/UI/Locations/Skellige/S126.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 4dfb6d7bc3fb3cb4aa5eb047dcf46c6e
-    m_Address: Assets/UI/Locations/Skellige/S127.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: a383ad4e2e12dc04781cb58730ff0ed0
-    m_Address: Assets/UI/Locations/Skellige/S128.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 9b160cf398b63a744a2d6a276f6429c5
-    m_Address: Assets/UI/Locations/Skellige/S129.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 6017b27dae90e5648ab3cb9016c28762
-    m_Address: Assets/UI/Locations/Skellige/S130.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: ded84427441981740ba41026df62ee0f
-    m_Address: Assets/UI/Locations/Skellige/S131.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 88986956750ee7b48bbe1321a2425280
-    m_Address: Assets/UI/Locations/Skellige/S132.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 22943dcbc39ba524baea66c13e8cc8f6
-    m_Address: Assets/UI/Locations/Skellige/S133.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 3aa6e783d8f99ea438d97ce6b8bf24a3
-    m_Address: Assets/UI/Locations/Skellige/S134.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 609e896d764269e4d81c71123915ed19
-    m_Address: Assets/UI/Locations/Skellige/S135.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: ac448196ec2d08d4e88ae88e6e685306
-    m_Address: Assets/UI/Locations/Skellige/S136.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 3a49242bda4aef148b132382bf06d135
-    m_Address: Assets/UI/Locations/Skellige/S137.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: aabcd54178ee93048b933f7a464bd860
-    m_Address: Assets/UI/Locations/Skellige/S138.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: b7b9f53ce40c018409105570af3c8b43
-    m_Address: Assets/UI/Locations/Skellige/S139.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: ce07d283c07e32e4ea1952b8ef403403
-    m_Address: Assets/UI/Locations/Skellige/S140.jpg
+  - m_GUID: 1334acbe0581ec341b07a1636bd88728
+    m_Address: Assets/UI/Locations/Skellige/S69.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
@@ -869,38 +147,122 @@ MonoBehaviour:
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: e054f1538574a15488a8be103494a9a6
-    m_Address: Assets/UI/Locations/Skellige/S142.jpg
+  - m_GUID: 1398a7954a2c83444b1694beae360a2c
+    m_Address: Assets/UI/Locations/Skellige/S10.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 3b88eeec86906f041ba208070f14ed3d
-    m_Address: Assets/UI/Locations/Skellige/S143.jpg
+  - m_GUID: 13e41448b651a664b825499c9628fba0
+    m_Address: Assets/UI/Locations/Skellige/S33.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: fcac82a69d589e247892e0c753b135e4
-    m_Address: Assets/UI/Locations/Skellige/S144.jpg
+  - m_GUID: 1423e0107526415459410fd077fb0aae
+    m_Address: Assets/UI/Locations/Skellige/S168.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: e229bb8aa57a1574fbb10d3dc8f8e570
-    m_Address: Assets/UI/Locations/Skellige/S145.jpg
+  - m_GUID: 15143c6a96dc42e45bd2feb6dbb71240
+    m_Address: Assets/UI/Locations/Skellige/S28.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 275a24aa288bd6b4b8a546114097d0a7
-    m_Address: Assets/UI/Locations/Skellige/S146.jpg
+  - m_GUID: 1738f3856fbfcf64fb134ee1ce30ec09
+    m_Address: Assets/UI/Locations/Skellige/S61.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 35d6e796de7b88c4f88849cef9c5557f
-    m_Address: Assets/UI/Locations/Skellige/S147.jpg
+  - m_GUID: 18c3d16510c2c1345a9b761ac59f76e2
+    m_Address: Assets/UI/Locations/Skellige/S161.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 18fb0041148626c47a45603b670d58c6
+    m_Address: Assets/UI/Locations/Skellige/S154.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1a23d79cbb27fb443aca4159fc02f51e
+    m_Address: Assets/UI/Locations/Skellige/S58.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1bf60fc9251ee6043b158945feba992a
+    m_Address: Assets/UI/Locations/Skellige/S52.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1cdfb5bb8b50ee1439bf291963b3dc80
+    m_Address: Assets/UI/Locations/Skellige/S159.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1eb418590efe978479704e2bccdc9853
+    m_Address: Assets/UI/Locations/Skellige/S4.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f52e5e049643c145b6fea2d726aaba9
+    m_Address: Assets/UI/Locations/Skellige/S119.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1f6ed60a5b957da428969dac30c157f4
+    m_Address: Assets/UI/Locations/Skellige/S195.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1fdfaa47069775041bd5ffa1ea6ebcdc
+    m_Address: Assets/UI/Locations/Skellige/S47.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1fe5bac4f6ee2db4ab4bc9966065372c
+    m_Address: Assets/UI/Locations/Skellige/S201.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 21bc0fbfcb8a217449747a16540dd970
+    m_Address: Assets/UI/Locations/Skellige/S97.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22943dcbc39ba524baea66c13e8cc8f6
+    m_Address: Assets/UI/Locations/Skellige/S133.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 22a754bdf76100049ab1faf7a21e7126
+    m_Address: Assets/UI/Locations/Skellige/S39.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23aae1ec72d5efa4a91ccd967cc03b01
+    m_Address: Assets/UI/Locations/Skellige/S186.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 23d805cea3b31ed4987a0925664d554b
+    m_Address: Assets/UI/Locations/Skellige/S35.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
@@ -917,32 +279,62 @@ MonoBehaviour:
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 8f0285c182ac39a4a85da973166af5cf
-    m_Address: Assets/UI/Locations/Skellige/S150.jpg
+  - m_GUID: 275a24aa288bd6b4b8a546114097d0a7
+    m_Address: Assets/UI/Locations/Skellige/S146.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: efdb8f0c82e78074baa9ab3f4905cc51
-    m_Address: Assets/UI/Locations/Skellige/S151.jpg
+  - m_GUID: 28284fea282ae51478152b99d639a975
+    m_Address: Assets/UI/Locations/Skellige/S65.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: bb8a078e5b4606f448614475ca0ee88e
-    m_Address: Assets/UI/Locations/Skellige/S152.jpg
+  - m_GUID: 2a7482917f324f4439be77ee59767148
+    m_Address: Assets/UI/Locations/Skellige/S55.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 0e32b30e87591b6428f5b7b4457395b6
-    m_Address: Assets/UI/Locations/Skellige/S153.jpg
+  - m_GUID: 2ad9a056ec46f714d9170c861c4ab1ef
+    m_Address: Assets/UI/Locations/Skellige/S94.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 18fb0041148626c47a45603b670d58c6
-    m_Address: Assets/UI/Locations/Skellige/S154.jpg
+  - m_GUID: 2ae1b67018fb14441a904f0732af43ad
+    m_Address: Assets/UI/Locations/Skellige/S199.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2efdc380084b9cf439ec9371d813b9f1
+    m_Address: Assets/UI/Locations/Skellige/S2.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f2ffe69015ddd24ca99d81150a09742
+    m_Address: Assets/UI/Locations/Skellige/S196.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f9bee1951ab1974fa826ad148ae19e0
+    m_Address: Assets/UI/Locations/Skellige/S93.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3189e8f8d44200e4c8ca29a5fcc439a8
+    m_Address: Assets/UI/Locations/Skellige/S181.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 31937755f0ca2f8479f8a6a022ba568b
+    m_Address: Assets/UI/Locations/Skellige/S12.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
@@ -953,50 +345,152 @@ MonoBehaviour:
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: cbfca4e213b8a0d46b2dfc2b1acf1397
-    m_Address: Assets/UI/Locations/Skellige/S156.jpg
+  - m_GUID: 31ff9e7a2a4e8f64a80c735bb094a715
+    m_Address: Assets/UI/Locations/Skellige/S67.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: bdf3f0c8cd1659a4687096a95539b581
-    m_Address: Assets/UI/Locations/Skellige/S157.jpg
+  - m_GUID: 328ca1581ef9c9d4992e0483fc5071b6
+    m_Address: Assets/UI/Locations/Skellige/S80.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: cd74baa7b04c30647af5862f03f267ed
-    m_Address: Assets/UI/Locations/Skellige/S158.jpg
+  - m_GUID: 347473758c54a074fbae0769aa84dada
+    m_Address: Assets/UI/Locations/Skellige/S115.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 1cdfb5bb8b50ee1439bf291963b3dc80
-    m_Address: Assets/UI/Locations/Skellige/S159.jpg
+  - m_GUID: 355fd37faafb75d4baa21ebd84269044
+    m_Address: Assets/UI/Locations/Skellige/S50.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: aeaa6273df942ab4fbe8b05bf2dc6efb
-    m_Address: Assets/UI/Locations/Skellige/S160.jpg
+  - m_GUID: 359cf4e9f83aeff4885269256d8e0230
+    m_Address: Assets/UI/Locations/Skellige/S86.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 18c3d16510c2c1345a9b761ac59f76e2
-    m_Address: Assets/UI/Locations/Skellige/S161.jpg
+  - m_GUID: 35d6e796de7b88c4f88849cef9c5557f
+    m_Address: Assets/UI/Locations/Skellige/S147.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 7c2442b82cfd92b409911ac557718c26
-    m_Address: Assets/UI/Locations/Skellige/S162.jpg
+  - m_GUID: 36ef62f4824bee5418cad9fdb234b6b9
+    m_Address: Assets/UI/Locations/Skellige/S112.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 4c4c0bdc3501f9242a2c9a1002a70136
-    m_Address: Assets/UI/Locations/Skellige/S163.jpg
+  - m_GUID: 3742f55ba13a80442be27c4e1453a128
+    m_Address: Assets/UI/Locations/Skellige/S88.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 382d97f82ebfc9348b16b0abf10d52ac
+    m_Address: Assets/UI/Locations/Skellige/S170.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3841186faa64c0f4c9e5a98f01b8909b
+    m_Address: Assets/UI/Locations/Skellige/S42.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 398b7f7a0173db14d9570b26f807f2d0
+    m_Address: Assets/UI/Locations/Skellige/S193.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3a49242bda4aef148b132382bf06d135
+    m_Address: Assets/UI/Locations/Skellige/S137.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3aa6e783d8f99ea438d97ce6b8bf24a3
+    m_Address: Assets/UI/Locations/Skellige/S134.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ab57590c1ec200459e7109eadb8efc8
+    m_Address: Assets/UI/Locations/Skellige/S84.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b7b83f007c860c4996b9382ab54d2fa
+    m_Address: Assets/UI/Locations/Skellige/S9.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3b88eeec86906f041ba208070f14ed3d
+    m_Address: Assets/UI/Locations/Skellige/S143.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3cbae7489e693224194c8bac30f456b9
+    m_Address: Assets/UI/Locations/Skellige/S48.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3d7d851517d9fdb449164c9888acc79e
+    m_Address: Assets/UI/Locations/Skellige/S107.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3dc85f4d8006bee46b792d7e11b442f3
+    m_Address: Assets/UI/Locations/Skellige/S29.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3fac2d94332d7cf49ac61f1caac5dd9c
+    m_Address: Assets/UI/Locations/Skellige/S91.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3ff1f2ed9de767e419d62e9118b4f819
+    m_Address: Assets/UI/Locations/Skellige/S82.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40e28aaca6bd9dd45abf70b59b92b3ff
+    m_Address: Assets/UI/Locations/Skellige/S3.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 42690113a7692694785964a35bf8cc87
+    m_Address: Assets/UI/Locations/Skellige/S187.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 43340bb3376196142866b8d9e244bb08
+    m_Address: Assets/UI/Locations/Skellige/S124.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 457ca4299c859b447982218397eeb7df
+    m_Address: Assets/UI/Locations/Skellige/S34.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
@@ -1013,158 +507,62 @@ MonoBehaviour:
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 7d7d37607c8678b4790b127eade3d3ba
-    m_Address: Assets/UI/Locations/Skellige/S166.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: d57ea93af0bddd740a9e9db24b4afff1
-    m_Address: Assets/UI/Locations/Skellige/S167.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 1423e0107526415459410fd077fb0aae
-    m_Address: Assets/UI/Locations/Skellige/S168.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: d07dff0d89f86ff438f38bbf0ff50124
-    m_Address: Assets/UI/Locations/Skellige/S169.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 382d97f82ebfc9348b16b0abf10d52ac
-    m_Address: Assets/UI/Locations/Skellige/S170.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 98fe6ea5b94182c4aa32ca596fc511e7
-    m_Address: Assets/UI/Locations/Skellige/S171.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 7771b9f5312cc7f4e987118eaf2ff3c6
-    m_Address: Assets/UI/Locations/Skellige/S172.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: d8a1ae7f4bb72d04580d4f637036387f
-    m_Address: Assets/UI/Locations/Skellige/S173.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 88cc35b93aa33654e8ca87b285a12d78
-    m_Address: Assets/UI/Locations/Skellige/S174.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 0fa5ff41e8d7e3d48840a85d2ee31ea1
-    m_Address: Assets/UI/Locations/Skellige/S175.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 7d994284c01ee474fa44dd7b39fef24b
-    m_Address: Assets/UI/Locations/Skellige/S176.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: d007c5acdcb06674489ac1c733ab00dd
-    m_Address: Assets/UI/Locations/Skellige/S177.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 49abbde61e7547d42ab2ea3e89138acd
     m_Address: Assets/UI/Locations/Skellige/S178.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: adeb64907c8169c4cb4a1a701d744cfe
-    m_Address: Assets/UI/Locations/Skellige/S179.jpg
+  - m_GUID: 4bbe27349040b5a42b7e5ce44b0ba643
+    m_Address: Assets/UI/Locations/Skellige/S73.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 0203af3e31cd9774c921de911f2694e8
-    m_Address: Assets/UI/Locations/Skellige/S180.jpg
+  - m_GUID: 4c4c0bdc3501f9242a2c9a1002a70136
+    m_Address: Assets/UI/Locations/Skellige/S163.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 3189e8f8d44200e4c8ca29a5fcc439a8
-    m_Address: Assets/UI/Locations/Skellige/S181.jpg
+  - m_GUID: 4dfb6d7bc3fb3cb4aa5eb047dcf46c6e
+    m_Address: Assets/UI/Locations/Skellige/S127.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 11f8cdd01c013ab4dae39f77735c1295
-    m_Address: Assets/UI/Locations/Skellige/S182.jpg
+  - m_GUID: 51157eceab15f124fbc6b81fe8fc5501
+    m_Address: Assets/UI/Locations/Skellige/S90.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: c99e8b25db184d74d83287a8c67b784c
-    m_Address: Assets/UI/Locations/Skellige/S183.jpg
+  - m_GUID: 53dd78241651e1041b8bae33f46de10b
+    m_Address: Assets/UI/Locations/Skellige/S76.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: d510b6ad619e21f40aa31ea91c762fc6
-    m_Address: Assets/UI/Locations/Skellige/S184.jpg
+  - m_GUID: 540d97a5fdff5344d8cb7f27c35985a3
+    m_Address: Assets/UI/Locations/Skellige/S5.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: c6146c107fbb19245974888af497774d
-    m_Address: Assets/UI/Locations/Skellige/S185.jpg
+  - m_GUID: 55342f1d7d08d1e4ea75642676066a88
+    m_Address: Assets/UI/Locations/Skellige/S25.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 23aae1ec72d5efa4a91ccd967cc03b01
-    m_Address: Assets/UI/Locations/Skellige/S186.jpg
+  - m_GUID: 55adb0349a840cc42aee29fe18ca6e2c
+    m_Address: Assets/UI/Locations/Skellige/S78.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 42690113a7692694785964a35bf8cc87
-    m_Address: Assets/UI/Locations/Skellige/S187.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 589dbbfd65bdb5c42bba1e598f83aba1
-    m_Address: Assets/UI/Locations/Skellige/S188.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: eef6087b1baacc84ba3bda7f4bc1f152
-    m_Address: Assets/UI/Locations/Skellige/S189.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: fd3c47a2d4c2d0c40a0787462c683831
-    m_Address: Assets/UI/Locations/Skellige/S190.jpg
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - skelligeisles
-    FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: ab54540bf35aa8c4a9bd9b77ebf511cc
-    m_Address: Assets/UI/Locations/Skellige/S191.jpg
+  - m_GUID: 57c5b396dd1193546807970e586aaf05
+    m_Address: Assets/UI/Locations/Skellige/S87.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
@@ -1175,32 +573,98 @@ MonoBehaviour:
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 398b7f7a0173db14d9570b26f807f2d0
-    m_Address: Assets/UI/Locations/Skellige/S193.jpg
+  - m_GUID: 589dbbfd65bdb5c42bba1e598f83aba1
+    m_Address: Assets/UI/Locations/Skellige/S188.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: b5f235ee35d6fdf42bb1ab20fa4d1092
-    m_Address: Assets/UI/Locations/Skellige/S194.jpg
+  - m_GUID: 5dc19ae1792262c4a83aceeea9553ee5
+    m_Address: Assets/UI/Locations/Skellige/S43.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 1f6ed60a5b957da428969dac30c157f4
-    m_Address: Assets/UI/Locations/Skellige/S195.jpg
+  - m_GUID: 5f9107036223a2f4c875d93dbf761073
+    m_Address: Assets/UI/Locations/Skellige/S45.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 2f2ffe69015ddd24ca99d81150a09742
-    m_Address: Assets/UI/Locations/Skellige/S196.jpg
+  - m_GUID: 6017b27dae90e5648ab3cb9016c28762
+    m_Address: Assets/UI/Locations/Skellige/S130.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: da280597401c468478e1a4195bee6252
-    m_Address: Assets/UI/Locations/Skellige/S197.jpg
+  - m_GUID: 609b8a1eceb3b8e4aa171681cfef2362
+    m_Address: Assets/UI/Locations/Skellige/S105.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 609e896d764269e4d81c71123915ed19
+    m_Address: Assets/UI/Locations/Skellige/S135.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6316e2ba175ef6e4a8948440b4ec73e7
+    m_Address: Assets/UI/Locations/Skellige/S125.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6488795654a74e4439bf6d69f13c3ae5
+    m_Address: Assets/UI/Locations/Skellige/S36.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 67c21d1ee5b376f41aa9a513d98fb009
+    m_Address: Assets/UI/Locations/Skellige/S37.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69c0a19c30d600c4a8ae0b82de499b77
+    m_Address: Assets/UI/Locations/Skellige/S62.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6d12ab78d75053f428ed2d225b96be06
+    m_Address: Assets/UI/Locations/Skellige/S104.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6e421bab8627c154d987b94a2f2cf423
+    m_Address: Assets/UI/Locations/Skellige/S15.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f1687c953eed0942920723071851ad1
+    m_Address: Assets/UI/Locations/Skellige/S99.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6f9930db18c593340aea35cccbf1b53b
+    m_Address: Assets/UI/Locations/Skellige/S7.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6fb4614404cca7c4ab77534badd17352
+    m_Address: Assets/UI/Locations/Skellige/S106.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6ff20082f34bad04cae803d3037e51a4
+    m_Address: Assets/UI/Locations/Skellige/S40.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
@@ -1211,8 +675,344 @@ MonoBehaviour:
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 2ae1b67018fb14441a904f0732af43ad
-    m_Address: Assets/UI/Locations/Skellige/S199.jpg
+  - m_GUID: 73daf9010bbfa594097431b508efa046
+    m_Address: Assets/UI/Locations/Skellige/S122.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 742d702c18548fc438c78aa8829c5350
+    m_Address: Assets/UI/Locations/Skellige/S95.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 761ddf922eaf83f40b105fcf1b20eefc
+    m_Address: Assets/UI/Locations/Skellige/S79.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 77579b8b3cb3e2b41a7eaa38e022d94c
+    m_Address: Assets/UI/Locations/Skellige/S123.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7771b9f5312cc7f4e987118eaf2ff3c6
+    m_Address: Assets/UI/Locations/Skellige/S172.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 784b1e5256538cb478b355c71c74cc01
+    m_Address: Assets/UI/Locations/Skellige/S85.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7850835bfbe6e724a98fdbabfaee5405
+    m_Address: Assets/UI/Locations/Skellige/S56.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7a0b1e2205a198c4b884657a44fa18ed
+    m_Address: Assets/UI/Locations/Skellige/S1.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c2442b82cfd92b409911ac557718c26
+    m_Address: Assets/UI/Locations/Skellige/S162.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7cf644dc7f77d39458cacf32fd32dfb0
+    m_Address: Assets/UI/Locations/Skellige/S16.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d0a7ca180ac7534fa30ba4fdf52bd4e
+    m_Address: Assets/UI/Locations/Skellige/S83.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d7d37607c8678b4790b127eade3d3ba
+    m_Address: Assets/UI/Locations/Skellige/S166.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7d994284c01ee474fa44dd7b39fef24b
+    m_Address: Assets/UI/Locations/Skellige/S176.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7f7e7fe8d36f19a4aa2a56d1a0891575
+    m_Address: Assets/UI/Locations/Skellige/S59.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 81e2eb54cbfecb143b9b580f083ddd97
+    m_Address: Assets/UI/Locations/Skellige/S38.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 843b02cf2ae0c2f4d92c7b690d234986
+    m_Address: Assets/UI/Locations/Skellige/S31.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88986956750ee7b48bbe1321a2425280
+    m_Address: Assets/UI/Locations/Skellige/S132.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88cc35b93aa33654e8ca87b285a12d78
+    m_Address: Assets/UI/Locations/Skellige/S174.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89f24f1295f35d24daaa79fb28e33f86
+    m_Address: Assets/UI/Locations/Skellige/S11.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8a8067e906be8764dbd0a0fc7023efab
+    m_Address: Assets/UI/Locations/Skellige/S101.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f0285c182ac39a4a85da973166af5cf
+    m_Address: Assets/UI/Locations/Skellige/S150.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9521569aaff9cd748b453ceda29bbd22
+    m_Address: Assets/UI/Locations/Skellige/S54.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 98fe6ea5b94182c4aa32ca596fc511e7
+    m_Address: Assets/UI/Locations/Skellige/S171.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 99c1a19555730e7448e98ce992b9111f
+    m_Address: Assets/UI/Locations/Skellige/S108.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9b160cf398b63a744a2d6a276f6429c5
+    m_Address: Assets/UI/Locations/Skellige/S129.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1da5ccebef51b84db39dba87fc3766a
+    m_Address: Assets/UI/Locations/Skellige/S89.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a383ad4e2e12dc04781cb58730ff0ed0
+    m_Address: Assets/UI/Locations/Skellige/S128.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6b5af79ca74d92448b29cf3628b449c
+    m_Address: Assets/UI/Locations/Skellige/S117.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a846523a210af33459422f51ff10b662
+    m_Address: Assets/UI/Locations/Skellige/S116.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a846d8ba70a7c0643980023f8fd068f6
+    m_Address: Assets/UI/Locations/Skellige/S19.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aabcd54178ee93048b933f7a464bd860
+    m_Address: Assets/UI/Locations/Skellige/S138.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ab54540bf35aa8c4a9bd9b77ebf511cc
+    m_Address: Assets/UI/Locations/Skellige/S191.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ac448196ec2d08d4e88ae88e6e685306
+    m_Address: Assets/UI/Locations/Skellige/S136.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: acb3405969a5e7748942589dabfdc71a
+    m_Address: Assets/UI/Locations/Skellige/S49.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: adeb64907c8169c4cb4a1a701d744cfe
+    m_Address: Assets/UI/Locations/Skellige/S179.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aeaa6273df942ab4fbe8b05bf2dc6efb
+    m_Address: Assets/UI/Locations/Skellige/S160.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: af0c5054f1a5b2e4f8e1e98fa31e382d
+    m_Address: Assets/UI/Locations/Skellige/S8.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b03d45d82a70aaa49934d9c6f2aeb55b
+    m_Address: Assets/UI/Locations/Skellige/S64.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b04b679ece2917744a44644050b3e065
+    m_Address: Assets/UI/Locations/Skellige/S20.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b17191422dc4985478b8db466436bb37
+    m_Address: Assets/UI/Locations/Skellige/S26.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b5f235ee35d6fdf42bb1ab20fa4d1092
+    m_Address: Assets/UI/Locations/Skellige/S194.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b63ad5a2d0658c64f81baf2afb9e4251
+    m_Address: Assets/UI/Locations/Skellige/S44.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b7b9f53ce40c018409105570af3c8b43
+    m_Address: Assets/UI/Locations/Skellige/S139.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b926bec00da74c148b512f5dba49134d
+    m_Address: Assets/UI/Locations/Skellige/S60.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bb8a078e5b4606f448614475ca0ee88e
+    m_Address: Assets/UI/Locations/Skellige/S152.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bdf3f0c8cd1659a4687096a95539b581
+    m_Address: Assets/UI/Locations/Skellige/S157.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf316dd172679414ba0e00aacab778ca
+    m_Address: Assets/UI/Locations/Skellige/S14.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c02d4cabc91cd7b449db2e2e924cfef2
+    m_Address: Assets/UI/Locations/Skellige/S0.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c188572212ff0984f9c506ad79cae18b
+    m_Address: Assets/UI/Locations/Skellige/S92.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c44eb9542e7e71d44814f0c54350958c
+    m_Address: Assets/UI/Locations/Skellige/S24.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c6146c107fbb19245974888af497774d
+    m_Address: Assets/UI/Locations/Skellige/S185.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c99e8b25db184d74d83287a8c67b784c
+    m_Address: Assets/UI/Locations/Skellige/S183.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cbfca4e213b8a0d46b2dfc2b1acf1397
+    m_Address: Assets/UI/Locations/Skellige/S156.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cd74baa7b04c30647af5862f03f267ed
+    m_Address: Assets/UI/Locations/Skellige/S158.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce0759232be6a5342a41a09f7e0148a6
+    m_Address: Assets/UI/Locations/Skellige/S114.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce07d283c07e32e4ea1952b8ef403403
+    m_Address: Assets/UI/Locations/Skellige/S140.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ce511a610f13fb1449c1e24ee245a7a0
+    m_Address: Assets/UI/Locations/Skellige/S110.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
@@ -1223,8 +1023,200 @@ MonoBehaviour:
     m_SerializedLabels:
     - skelligeisles
     FlaggedDuringContentUpdateRestriction: 0
-  - m_GUID: 1fe5bac4f6ee2db4ab4bc9966065372c
-    m_Address: Assets/UI/Locations/Skellige/S201.jpg
+  - m_GUID: d007c5acdcb06674489ac1c733ab00dd
+    m_Address: Assets/UI/Locations/Skellige/S177.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d07dff0d89f86ff438f38bbf0ff50124
+    m_Address: Assets/UI/Locations/Skellige/S169.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2a126d5cdc90514e8127b79eb9a739b
+    m_Address: Assets/UI/Locations/Skellige/S111.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d2b7b833297794f4c9a3dc9d0c817823
+    m_Address: Assets/UI/Locations/Skellige/S32.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d478920142c69bc4294cfd1f7cf2f16a
+    m_Address: Assets/UI/Locations/Skellige/S17.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d5028889f9ce6be448895ee622e02850
+    m_Address: Assets/UI/Locations/Skellige/S74.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d510b6ad619e21f40aa31ea91c762fc6
+    m_Address: Assets/UI/Locations/Skellige/S184.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d57ea93af0bddd740a9e9db24b4afff1
+    m_Address: Assets/UI/Locations/Skellige/S167.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d8a1ae7f4bb72d04580d4f637036387f
+    m_Address: Assets/UI/Locations/Skellige/S173.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: da280597401c468478e1a4195bee6252
+    m_Address: Assets/UI/Locations/Skellige/S197.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ddd3c1af50ce30a45bc13737a22f6112
+    m_Address: Assets/UI/Locations/Skellige/S63.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ded84427441981740ba41026df62ee0f
+    m_Address: Assets/UI/Locations/Skellige/S131.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dfbe846b3eb2c3f4fbd8ec31122892f7
+    m_Address: Assets/UI/Locations/Skellige/S118.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e054f1538574a15488a8be103494a9a6
+    m_Address: Assets/UI/Locations/Skellige/S142.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e229bb8aa57a1574fbb10d3dc8f8e570
+    m_Address: Assets/UI/Locations/Skellige/S145.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e25d4f8e65751bb4b82d4008b88a5556
+    m_Address: Assets/UI/Locations/Skellige/S75.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e31d6b19518ba0641838bf804d76c183
+    m_Address: Assets/UI/Locations/Skellige/S96.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e414937cf1dda50458d094535bddbc9c
+    m_Address: Assets/UI/Locations/Skellige/S21.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e45259b8041fa274fac876a04be286cd
+    m_Address: Assets/UI/Locations/Skellige/S51.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e59c292cabb448f49a589379e92d69db
+    m_Address: Assets/UI/Locations/Skellige/S126.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ecff5b458b5c6654aaf1e6e1cceef41f
+    m_Address: Assets/UI/Locations/Skellige/S71.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ee584d6e8b6a80346ae1d294cff35cc8
+    m_Address: Assets/UI/Locations/Skellige/S77.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eec3041f8a7958a4b9dc0f4f6b3d823f
+    m_Address: Assets/UI/Locations/Skellige/S102.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eef6087b1baacc84ba3bda7f4bc1f152
+    m_Address: Assets/UI/Locations/Skellige/S189.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: efdb8f0c82e78074baa9ab3f4905cc51
+    m_Address: Assets/UI/Locations/Skellige/S151.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f0836ed3d43a92e46b9ae495ab28d9f3
+    m_Address: Assets/UI/Locations/Skellige/S120.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f09f052a326ff5b40835d6098f5e4e8e
+    m_Address: Assets/UI/Locations/Skellige/S103.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb9d2fbe743b5e54394bd1201a229133
+    m_Address: Assets/UI/Locations/Skellige/S66.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fbb23f0d3aa429a43bb32511fa04511d
+    m_Address: Assets/UI/Locations/Skellige/S121.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc3bb9144fcdbc14dbfd91acd760773d
+    m_Address: Assets/UI/Locations/Skellige/S23.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fcac82a69d589e247892e0c753b135e4
+    m_Address: Assets/UI/Locations/Skellige/S144.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fd3c47a2d4c2d0c40a0787462c683831
+    m_Address: Assets/UI/Locations/Skellige/S190.jpg
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - skelligeisles
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fe6ff2b30baf5234f943e3a969d1647c
+    m_Address: Assets/UI/Locations/Skellige/S53.jpg
     m_ReadOnly: 0
     m_SerializedLabels:
     - skelligeisles
